@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+	<item>
+		<shape android:shape="oval">
+			<solid android:color="@color/zui_color_black_100" />
+		</shape>
+	</item>
+	<item>
+		<shape android:shape="oval">
+			<solid android:color="@color/zui_color_white_100" />
+		</shape>
+	</item>
+	<item android:id="@id/inner_circle" android:left="@dimen/zui_attachment_indicator_counter_border_thickness" android:top="@dimen/zui_attachment_indicator_counter_border_thickness" android:right="@dimen/zui_attachment_indicator_counter_border_thickness" android:bottom="@dimen/zui_attachment_indicator_counter_border_thickness">
+		<shape android:shape="rectangle">
+			<corners android:radius="7.0dip" />
+			<solid android:color="@color/zui_color_primary" />
+		</shape>
+	</item>
+</layer-list>
