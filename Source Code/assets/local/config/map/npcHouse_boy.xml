@@ -1,0 +1,83 @@
+<house npcName="TestBoyNPC">
+    <item id="1" typeId="wall22" direction="3"/>
+    <item id="2" typeId="wall22" direction="5" x="13"/>
+    <item id="3" typeId="floor23"/>
+    <item id="4" typeId="door10" direction="5" x="13" y="5.7" z="0" targetRoomId="outside"/>
+    <item id="5" typeId="guitar" x="0" y="0.2" direction="3"/>
+    <item id="6" typeId="wheel" x="9.67" y="0" z="3" direction="3"/>
+    <item id="7" typeId="sofaVip2" x="5" y="8" z="0" direction="5"/>
+    <item id="9" typeId="wheel" x="1.75" y="0" z="3" direction="3"/>
+    <item id="10" typeId="wheel" x="12.5" y="2.52" z="3" direction="5"/>
+    <item id="11" typeId="applianceTv4" x="12.7" y="8.3" z="2" direction="5" currentChannel="tvbch4" state="1"/>
+    <item id="12" typeId="chair9" x="1" y="5" direction="5"/>
+    <item id="13" typeId="chair9" x="1" y="1" direction="5"/>
+    <item id="14" typeId="chair9" x="3" y="5" direction="5"/>
+    <item id="15" typeId="chair9" x="3" y="1" direction="5"/>
+    <item id="16" typeId="manTable2" x="2" y="9" direction="5"/>
+    <item id="17" typeId="acoustic3" x="12.3" y="8" direction="5"/>
+    <item id="18" typeId="acoustic3" x="12.3" y="12.5" direction="5"/>
+    <item id="19" typeId="shelfDVDGray1" x="12" y="9" direction="5"/>
+    <item id="20" typeId="manTable1" x="1" y="3" direction="3"/>
+    <item id="21" typeId="bchlrDcr4" x="2.5" y="9.3" z="1" direction="5"/>
+    <item id="22" typeId="bchlrDcr1" x="3.6" y="3.7" z="2" direction="5"/>
+    <item id="23" typeId="scullCandle" x="2.06" y="9.93" z="1" direction="3"/>
+    <item id="24" typeId="bchlrDcr4" x="2.04" y="9.17" z="1" direction="5"/>
+    <item id="25" typeId="bchlrDcr1" x="3.6" y="3.3" z="2" direction="5"/>
+    <item id="26" typeId="bchlrDcr1" x="1.15" y="3.78" z="2" direction="5"/>
+    <item id="27" typeId="bchlrDcr1" x="1.05" y="3.11" z="2" direction="5"/>
+    <item id="28" typeId="ghostBlack" x="5.53" y="0" z="0" direction="3"/>
+    <item id="29" typeId="nyDcr4" x="1.5" y="3" z="2" direction="3"/>
+    <item id="30" typeId="pictureEinstein" x="5.21" y="0" z="1.0" direction="3"/>
+    <item id="31" typeId="miscAppliance1" x="12.2" y="9.55" z="0.8" direction="5"/>
+    <spawns>
+        <spawn x="6" y="3"/>
+        <spawn x="6" y="4"/>
+        <spawn x="6" y="5"/>
+        <spawn x="7" y="1"/>
+        <spawn x="7" y="2"/>
+        <spawn x="7" y="3"/>
+        <spawn x="7" y="4"/>
+        <spawn x="7" y="5"/>
+        <spawn x="8" y="1"/>
+        <spawn x="8" y="2"/>
+        <spawn x="8" y="3"/>
+        <spawn x="8" y="4"/>
+        <spawn x="8" y="5"/>
+        <spawn x="9" y="1"/>
+        <spawn x="9" y="2"/>
+        <spawn x="9" y="3"/>
+        <spawn x="9" y="4"/>
+        <spawn x="9" y="5"/>
+        <spawn x="10" y="1"/>
+        <spawn x="10" y="2"/>
+        <spawn x="10" y="3"/>
+        <spawn x="10" y="4"/>
+        <spawn x="10" y="5"/>
+        <spawn x="10" y="6"/>
+        <spawn x="10" y="7"/>
+        <spawn x="10" y="8"/>
+        <spawn x="10" y="9"/>
+        <spawn x="10" y="10"/>
+        <spawn x="10" y="11"/>
+        <spawn x="10" y="12"/>
+        <spawn x="11" y="1"/>
+        <spawn x="11" y="2"/>
+        <spawn x="11" y="3"/>
+        <spawn x="11" y="4"/>
+        <spawn x="11" y="5"/>
+        <spawn x="11" y="6"/>
+        <spawn x="11" y="7"/>
+        <spawn x="11" y="8"/>
+        <spawn x="11" y="9"/>
+        <spawn x="11" y="10"/>
+        <spawn x="11" y="11"/>
+        <spawn x="11" y="12"/>
+        <spawn x="12" y="1"/>
+        <spawn x="12" y="2"/>
+        <spawn x="12" y="3"/>
+        <spawn x="12" y="4"/>
+        <spawn x="12" y="5"/>
+        <spawn x="12" y="6"/>
+        <spawn x="12" y="7"/>            
+    </spawns>
+</house>

@@ -1,0 +1,1492 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<config id="furniture">  
+
+    <category id="0" label="#interiorCategory" typeClass="furniture" library="house" logCategory1="roomLayout">
+
+        <category id="1" label="#wallCategory" logCategory2="wall">
+
+            <item id="wall1" label="#wall1Title" name="WallBase" icon="WallBaseIcon" gold="0" rating="1" buyCount="0" />
+            <item id="wall2" label="#wall2Title" name="WallBlot" icon="WallBlotIcon" gold="6" rating="10" />
+            <item id="wall3" label="#wall3Title" name="WallBlue" icon="WallBlueIcon" silver="150" rating="1" />
+            <item id="wall4" label="#wall4Title" name="WallDarkBlue" icon="WallDarkBlueIcon" silver="150" rating="1" />
+            <item id="wall7" label="#wall7Title" name="WallGray" icon="WallGrayIcon" silver="150" rating="1"/>
+            <item id="wall10" label="#wall10Title" name="WallLineBlue" icon="WallLineBlueIcon" silver="500" rating="5"/>
+            <item id="wall11" label="#wall11Title" name="WallLineGray" icon="WallLineGrayIcon" silver="500" rating="5"/>
+            <item id="wall12" label="#wall12Title" name="WallLine" icon="WallLineIcon" silver="500" rating="5"/>
+            <item id="wall15" label="#wall15Title" name="WallPoppy" icon="WallPoppyIcon" gold="5" rating="8"/>
+            <item id="wall17" label="#wall17Title" name="WallViolett" icon="WallViolettIcon" gold="8" rating="13"/>
+            <item id="wall20" label="#wall20Title" name="WallVioletFrog" icon="WallVioletFrogIcon" gold="13" rating="26"/>
+            <item id="wall22" label="#wall22Title" name="WallBrickRed" icon="WallBrickRedIcon" gold="14" rating="28" />
+            <item id="wall23" label="#wall23Title" name="WallArtDeco" icon="WallArtDecoIcon" gold="12" rating="24" />
+            <item id="craftedBLb_wall" label="#baseLB_wall_label" name="baseLB_wall" icon="baseLB_wall_icon" canGift="1" canTrade="1" rating="1378"/>
+
+        </category>
+
+        <category id="2" label="#doorCategory" logCategory2="door">
+
+            <item id="craftedBLb_door" label="#baseLB_door_label" name="baseLB_door" icon="baseLB_door_icon" rating="600" canGift="1" canTrade="1" tags="ground">
+                <dimension width="0" length="2.1" height="5" />
+                <placement floor="1" wall="0" door="1" />
+                <direction names="SW,SE" />
+            </item>
+            <item id="door1" label="#door1Title" name="DoorBase" icon="DoorBaseIcon" gold="0" buyCount="0" rating="1" tags="ground">
+                    <dimension width="0.0" length="2" height="4.0" />
+                    <placement floor="1" wall="0" door="1" />
+                    <direction names="SW,SE" />
+            </item>
+            <item id="door4" label="#door4Title" name="DoorWood" icon="DoorWoodIcon" gold="0" silver="850" rating="8" tags="ground">
+                <dimension width="0.0" length="2.1" height="4.0" />
+                <placement floor="1" wall="0" />
+                <direction names="SW,SE" />
+            </item>
+            <item id="door5" label="#door5Title" name="DoorWindow" icon="DoorWindowIcon" gold="7" rating="11" tags="ground">
+                <dimension width="0.0" length="2" height="4.0" />
+                <placement floor="1" wall="0" />
+                <direction names="SW,SE" />
+            </item>
+            <item id="door6" label="#door6Title" name="DoorLight" icon="DoorLightIcon" silver="385" rating="3" tags="ground">
+                <dimension width="0.0" length="1.5" height="4.0" />
+                <placement floor="1" wall="0" />
+                <direction names="SW,SE" />
+            </item>
+            <item id="door7" label="#door7Title" name="DoorBordo" icon="DoorBordoIcon" silver="850" rating="8" tags="ground">
+                <dimension width="0.0" length="2" height="4.0" />
+                <placement floor="1" wall="0" />
+                <direction names="SW,SE" />
+            </item>
+            <item id="door10" label="#door10Title" name="DoorBachelor" icon="DoorBachelorIcon" silver="1500" rating="15" tags="ground" level="8">
+                <dimension width="0.0" length="2" height="4" />
+                <placement floor="1" wall="0" />
+                <direction names="SW,SE" />
+            </item>
+            <item id="doorVip2" label="#doorVip2Title" name="DoorCastle" icon="DoorCastleIcon" gold="35" rating="90" tags="ground" vipOnly="1">
+                <dimension width="0.0" length="3" height="6.0" />
+                <placement floor="1" wall="0" />
+                <direction names="SW,SE" />
+            </item>
+
+        </category>
+
+        <category id="3" label="#windowCategory" logCategory2="window">
+
+            <item id="craftedBLb_window" label="#baseLB_window_label" name="baseLB_window" icon="baseLB_window_icon" canGift="1" canTrade="1" rating="2111">
+                <dimension width="0" length="3" height="5" defaultZ="1" />
+                <placement floor="1" wall="0" />
+                <direction names="SW,SE" />
+            </item>
+            <item id="window2" label="#window2Title" name="WindowSemicircle" icon="WindowSemicircleIcon" silver="500" rating="5" tags="ground">
+                <dimension width="0.0" length="2" height="3.1" defaultZ="1" />
+                <placement floor="1" wall="0" />
+                <direction names="SW,SE" />
+            </item>
+            <item id="window3" label="#window3Title" name="WindowDark" icon="WindowDarkIcon" silver="450" rating="4" tags="ground">
+                <dimension width="0.0" length="1.5" height="3.4" defaultZ="1" />
+                <placement floor="1" wall="0" />
+                <direction names="SW,SE" />
+            </item>
+            <item id="window6" label="#window6Title" name="WindowJalousie" icon="WindowJalousieIcon" silver="350" rating="3" tags="ground">
+                <dimension width="0.0" length="2.3" height="3.5" defaultZ="1" />
+                <placement floor="1" wall="0" />
+                <direction names="SW,SE" />
+            </item>
+            <item id="window7" label="#window7Title" name="WindowRed" icon="WindowRedIcon" silver="2600" rating="26" tags="ground">
+                <dimension width="0.0" length="3.5" height="5" defaultZ="1" />
+                <placement floor="1" wall="0" />
+                <direction names="SW,SE" />
+            </item>
+            <item id="window8" label="#window8Title" name="WindowRose" icon="WindowRoseIcon" silver="1100" rating="11" tags="ground">
+                <dimension width="0.0" length="2" height="3.5" defaultZ="1" />
+                <placement floor="1" wall="0" />
+                <direction names="SW,SE" />
+            </item>
+            <item id="window9" label="#window9Title" name="WindowRoseCurtain" icon="WindowRoseCurtainIcon" gold="12" rating="24" tags="ground">
+                <dimension width="0.0" length="2" height="4" defaultZ="1" />
+                <placement floor="1" wall="0" />
+                <direction names="SW,SE" />
+            </item>
+            <item id="window11" label="#window11Title" name="WindowVintage" icon="WindowVintageIcon" gold="7" rating="11" tags="ground">
+                <dimension width="0.0" length="2" height="4.5" defaultZ="1" />
+                <placement floor="1" wall="0" />
+                <direction names="SW,SE" />
+            </item>
+            <item id="window12" label="#window12Title" name="WindowWhite" icon="WindowWhiteIcon" silver="950" rating="9" tags="ground">
+                <dimension width="0.0" length="3" height="5" defaultZ="1" />
+                <placement floor="1" wall="0" />
+                <direction names="SW,SE" />
+            </item>    
+        </category>
+
+        <category id="4" label="#floorCategory" logCategory2="floor">
+        
+            <item id="floor1" label="#floor1Title" name="FloorBase" icon="FloorBaseIcon" gold="0" rating="1" buyCount="0" />
+            <item id="floor2" label="#floor2Title" name="FloorCarpet" icon="FloorCarpetIcon" silver="300" rating="3" />
+            <item id="floor4" label="#floor4Title" name="FloorCarpetGrass" icon="FloorCarpetGrassIcon" silver="500" rating="5" />
+            <item id="floor8" label="#floor8Title" name="FloorParketBambuk" icon="FloorParketBambukIcon" silver="2200" rating="22"/>
+            <item id="floor14" label="#floor14Title" name="FloorRose" icon="FloorRoseIcon" silver="350" rating="3" />
+            <item id="floor15" label="#floor15Title" name="FloorTile" icon="FloorTileIcon" silver="1100" rating="11" />
+            <item id="floor20" label="#floor20Title" name="FloorMarbleVioletFrog" icon="FloorMarbleVioletFrogIcon" gold="16" rating="32" />
+            <item id="floor22" label="#floor22Title" name="FloorParketDarkWood" icon="FloorParketDarkWoodIcon" gold="10" rating="20" />
+            <item id="floor23" label="#floor23Title" name="FloorParketLine" icon="FloorParketLineIcon" silver="725" rating="7" />    
+            <item id="craftedBLb_floor" label="#baseLB_floor_label" name="baseLB_floor" icon="baseLB_floor_icon" canGift="1" canTrade="1" rating="1044"/>
+
+            <category id="intFloor" label="#intFloorCategory"><!-- анимированные полы, с проблемными гафами -->
+
+            </category>
+
+        </category>
+    </category>
+
+    <category id="livingroom" label="#livingRoomCategory" typeClass="furniture" library="furniture" logCategory1="livingRoom">
+        
+        <category id="7" label="#sofaCategory" logCategory2="sofa">
+
+            <item id="sofa1" label="#sofa1Title" name="SofaBase" icon="SofaBaseIcon" gold="0" silver="950" rating="5" tags="sit,cell" normalSitPlace="1">
+                <dimension width="2" length="4" height="1.5" sitZ="1.0" />
+                <placement floor="1" />
+                <direction names="SW,SE" />
+            </item>
+            <item id="sofa6" label="#sofa6Title" name="SofaPillowRed" icon="SofaPillowRedIcon" silver="2800" rating="28" tags="sit,cell" normalSitPlace="1">
+                <dimension width="2" length="4" height="1.5" sitZ="1.0" />
+                <placement floor="1" />
+                <direction names="SW,SE" />
+            </item>
+            <item id="sofa10" label="#sofa10Title" name="SofaRosePillow" icon="SofaRosePillowIcon" gold="17" rating="34" tags="sit,cell" normalSitPlace="1">
+                <dimension width="2" length="4" height="1.7" sitZ="1.0" />
+                <placement floor="1" />
+                <direction names="SW,SE" />
+            </item>
+            <item id="sofa11" label="#sofa11Title" name="SofaForget" icon="SofaForgetIcon" gold="27" rating="59" tags="sit,cell" normalSitPlace="1">
+                <dimension width="2" length="4" height="3" sitZ="1.0" />
+                <placement floor="1" />
+                <direction names="SW,SE" />
+            </item>
+            <item id="sofa13" label="#sofa13Title" name="SofaOrange" level="8" icon="SofaOrangeIcon" gold="0" silver="4000" rating="40" tags="sit,cell" normalSitPlace="1">
+                <dimension width="2" length="4" height="1.7" sitZ="1.0" />
+                <placement floor="1" />
+                <direction names="SW,SE" />
+            </item>
+            <item id="sofa18" label="#sofa18Title" name="SofaCamomile" level="6" icon="SofaCamomileIcon" gold="0" silver="3250" rating="32" tags="sit,cell" normalSitPlace="1">
+                <dimension width="2" length="3" height="2" sitZ="1.0" />
+                <placement floor="1" />
+                <direction names="SW,SE" />
+            </item>
+            <item id="sofa19" label="#sofa19Title" name="SofaBachelorMiddle" level="8" icon="SofaBachelorMiddleIcon" silver="1265" rating="12" tags="sit,cell" normalSitPlace="1">
+                <dimension width="2" length="3" height="2" sitZ="1.0" />
+                <placement floor="1" />
+                <direction names="SW,SE" />
+            </item>
+            <item id="sofa20" label="#sofa20Title" name="SofaBachelor" level="8" icon="SofaBachelorIcon" gold="12" rating="24" tags="sit,cell" normalSitPlace="1">
+                <dimension width="2" length="4" height="2" sitZ="1.0" />
+                <placement floor="1" />
+                <direction names="SW,SE" />
+            </item>
+            <item id="sofaVip2" label="#sofaVip2Title" name="SofaMenAuto" icon="SofaMenAutoIcon" gold="149" rating="380" tags="sit,cell" normalSitPlace="1" vipOnly="1">
+                <dimension width="2" length="5" height="2" sitZ="1.0" />
+                <placement floor="1" />
+                <direction names="SW,SE" />
+            </item>        
+        </category>
+
+        <category id="8" label="#chairCategory" logCategory2="chair">
+
+            <item id="chair2" label="#chair2Title" name="ChairLong" icon="ChairLongIcon" gold="0" silver="320" rating="3" tags="sit,cell" normalSitPlace="1">
+                <dimension width="1.0" length="1.0" height="2.0" sitZ="1.0" />
+                <placement floor="1" />
+                <direction names="SW,SE" />
+            </item>
+            <item id="chair9" label="#chair9Title" name="ChairMen" icon="ChairMenIcon" silver="1550" rating="15" tags="sit,cell" level="7" normalSitPlace="1">
+                <dimension width="1" length="1" height="1.5" sitZ="1" />
+                <placement floor="1" />
+                <direction names="SW,SE" />
+            </item>    
+
+        </category>
+
+        <category id="armchair" label="#armchairCategory" logCategory2="armchair">
+
+            <item id="armchair14" label="#armchair14Title" name="ArmchairCamomile" level="6" icon="ArmchairCamomileIcon" gold="0" silver="1480" rating="14" tags="sit,cell" normalSitPlace="1">
+                <dimension width="2" length="2" height="2" sitZ="1.0" />
+                <placement floor="1" />
+                <direction names="SW,SE" />
+            </item>
+            <item id="armchair3" label="#armchair3Title" name="ArmchairHightech" icon="ArmchairHightechIcon" gold="0" silver="760" rating="7" tags="sit,cell" normalSitPlace="1">
+                <dimension width="2" length="2" height="2.6" sitZ="1.0" />
+                <placement floor="1" />
+                <direction names="SW,SE" />
+            </item>
+            <item id="armchair4" label="#armchair4Title" name="ArmchairPillowRed" icon="ArmchairPillowRedIcon" gold="0" silver="350" rating="3" tags="sit,cell" normalSitPlace="1">
+                <dimension width="2" length="2" height="2.0" sitZ="1.0" />
+                <placement floor="1" />
+                <direction names="SW,SE" />
+            </item>
+            <item id="armchair5" label="#armchair5Title" name="ArmchairRose" icon="ArmchairRoseIcon" gold="12" rating="24" tags="sit,cell" normalSitPlace="1">
+                <dimension width="2" length="3" height="2.0" sitZ="1.0" />
+                <placement floor="1" />
+                <direction names="SW,SE" />
+            </item>
+            <item id="armchair7" label="#armchair7Title" name="ArmchairForget" icon="ArmchairForgetIcon" gold="15" rating="30" tags="sit,cell" normalSitPlace="1">
+                <dimension width="2" length="2" height="2.5" sitZ="1.0" />
+                <placement floor="1" />
+                <direction names="SW,SE" />
+            </item>
+            <item id="armchair9" label="#armchair9Title" name="ArmchairOrange" level="8" icon="ArmchairOrangeIcon" gold="0" silver="1860" rating="18" tags="sit,cell" normalSitPlace="1">
+                <dimension width="2" length="2" height="1.7" sitZ="1.0" />
+                <placement floor="1" />
+                <direction names="SW,SE" />
+            </item>    
+
+        </category>
+
+        <category id="10" label="#wardrobeCategory" logCategory2="wardrobe">
+         
+        <item id="wardrobeForget1" label="#wardrobeForgetTitle" name="WardrobeForget" icon="WardrobeForgetIcon" gold="21" rating="46" tags="cell">
+                <dimension width="1" length="2" height="5" />
+                <placement floor="1" />
+                <direction names="SW,SE,NE,NW" />
+            </item>
+        <item id="wardrobeNarrow1" label="#wardrobeNarrowTitle" name="WardrobeNarrow" icon="WardrobeNarrowIcon" gold="0" silver="2750" rating="27" tags="cell">
+                <dimension width="1" length="1.4" height="4" />
+                <placement floor="1" />
+                <direction names="SW,SE,NE,NW" />
+            </item>
+        <item id="wardrobeWindow" label="#wardrobeWindowTitle" name="WardrobeWindow" icon="WardrobeWindowIcon" gold="0" silver="3400" rating="34" tags="cell">
+                <dimension width="1" length="2" height="4.5" />
+                <placement floor="1" />
+                <direction names="SW,SE,NE,NW" />
+            </item>
+                
+        <item id="caseRoseLong" label="#caseRoseLongTitle" name="WardrobeRoseLong" icon="WardrobeRoseLongIcon" silver="3400" rating="34" tags="cell">
+                <dimension width="1" length="2" height="5" />
+                <placement floor="1" />
+                <direction names="SW,SE,NE,NW" />
+            </item>
+        <item id="furnitureMisc2" label="#furnitureMisc2Title" name="WardrobeBase" icon="WardrobeBaseIcon" gold="0" silver="900" rating="9" tags="cell">
+                <dimension width="1" length="2" height="5" />
+                <placement floor="1" />
+                <direction names="SW,SE,NE,NW" />
+            </item>    
+        </category>
+        
+        <!-- TABLE -->
+        
+        <category id="6" label="#tableCategory" logCategory2="table">
+
+            <item id="craftedBLb_writ_table" label="#baseLB_writ_table_label" name="baseLB_writ_table" icon="baseLB_writ_table_icon" canGift="1" canTrade="1" rating="1022" tags="table,cell">
+                <dimension width="1" length="2" height="2" />
+                <placement floor="1" />
+                <direction names="SW,SE" />
+            </item>
+            <item id="vlnsTable1" label="#violensTable1Title" name="TableViolens" icon="TableViolensIcon" silver="2200" rating="22" tags="cell,table">
+                <dimension width="2" length="2" height="2" />
+                <placement floor="1" />
+                <direction names="SW" />
+            </item>    
+            <item id="table14" label="#table14Title" name="BaseTable" icon="BaseTableIcon" silver="1325" rating="13" tags="cell,table">
+                <dimension width="1" length="3" height="2" />
+                <placement floor="1" />
+                <direction names="SW,SE,NE,NW" />
+            </item>    
+            <item id="table1" label="#table1Title" name="TableBase" icon="TableBaseIcon" gold="0" silver="1050" rating="10" tags="table,cell">
+                <dimension width="2" length="2" height="1" />
+                <placement floor="1" />
+                <direction names="SW" />
+            </item>
+            <item id="table4" label="#table4Title" name="TableRound" icon="TableRoundIcon" gold="0" silver="860" rating="8" tags="table,cell">
+                <dimension width="2" length="2" height="1.6" />
+                <placement floor="1" />
+                <direction names="SW" />
+            </item>
+            <item id="table5" label="#table5Title" name="TableTree" icon="TableTreeIcon" gold="0" silver="825" rating="8" tags="table,cell">
+                <dimension width="2" length="2" height="1.4" />
+                <placement floor="1" />
+                <direction names="SW,SE,NE,NW" />
+            </item>   
+            <item id="shelfDVDGray1" label="#shelfDVDGray1Title" name="ShelfDVDGray" icon="ShelfDVDGrayIcon" gold="0" silver="690" rating="6" tags="table,cell">
+                <dimension width="0.8" length="2" height="0.8" />
+                <placement floor="1" />
+                <direction names="SW,SE" />
+            </item>    
+            <item id="manTable1" label="#manTable1Title" name="TableMen" icon="TableMenIcon" silver="1970" rating="19" tags="cell,table" level="7">
+                <dimension width="1" length="3" height="2" />
+                <placement floor="1" />
+                <direction names="SW,SE" />
+            </item>
+            <item id="manTable2" label="#manTable2Title" name="TableMenSmall" icon="TableMenSmallIcon" silver="1300" rating="13" tags="cell,table" level="7">
+                <dimension width="1" length="2" height="1" />
+                <placement floor="1" />
+                <direction names="SW,SE" />
+            </item>        
+            
+        </category>
+        
+        <!-- BOOKCASE -->
+        
+        <category id="furnitureWall" label="#furnitureWallCategory" logCategory2="furnitureWall">
+
+        </category>
+        
+    </category>
+    
+    <category id="bedroom" label="#bedroomCategory" typeClass="furniture" library="furniture" logCategory1="bedroom">
+        <!-- BED -->
+        <category id="9" label="#bedCategory" logCategory2="bed">
+            <item id="bed1" label="#bed1Title" name="BedRose" icon="BedRoseIcon" gold="0" silver="1200" rating="12" tags="cell,sit" normalSitPlace="1">
+                <dimension width="4" length="2" height="1" />
+                <placement floor="1" />
+                <direction names="SW,SE,NE,NW" />
+            </item>
+            <item id="bed2" label="#bed2Title" name="BedForget" icon="BedForgetIcon" gold="24" rating="52" tags="cell,sit" normalSitPlace="1">
+                <dimension width="4" length="3" height="2.6" sitZ="0.7" />
+                <placement floor="1" />
+                <direction names="SW,SE,NE,NW" />
+            </item>
+            <item id="bed3" label="#bed3Title" name="BedBlue" icon="BedBlueIcon" gold="0" silver="500" rating="5" tags="cell,sit" normalSitPlace="1">
+                <dimension width="4" length="2" height="1.8" sitZ="0.7" />
+                <placement floor="1" />
+                <direction names="SW,SE,NE,NW" />
+            </item>
+            <item id="bed6" label="#bed6Title" name="BedElliteGreen" icon="BedElliteGreenIcon" gold="0" silver="1580" rating="15" tags="cell,sit" normalSitPlace="1">
+                <dimension width="4" length="3" height="1.8" sitZ="0.7" />
+                <placement floor="1" />
+                <direction names="SW,SE,NE,NW" />
+            </item>        
+
+        </category>
+        <!-- DRESSERS -->
+        <category id="comodo" label="#comodoCategory" logCategory2="comodo">
+        
+        <item id="caseVlnt1" label="#caseViolent1Title" name="CaseViolent" icon="CaseViolentIcon" silver="870" rating="8" tags="cell,table">
+                <dimension width="1" length="1.5" height="1" />
+                <placement floor="1" />
+                <direction names="SW,SE,NE,NW" />
+            </item>
+        <item id="caseForgetLow" label="#caseForgetLowTitle" name="CaseForgetLow" icon="CaseForgetLowIcon" gold="12" rating="24" tags="cell,table">
+                <dimension width="1" length="2" height="2.2" />
+                <placement floor="1" />
+                <direction names="SW,SE,NE,NW" />
+            </item>
+        <item id="caseForgetMirror" label="#caseForgetMirrorTitle" name="CaseForgetMirror" icon="CaseForgetMirrorIcon" gold="15" rating="30" tags="cell,table">
+                <dimension width="1" length="2" height="2.2" />
+                <placement floor="1" />
+                <direction names="SW,SE,NE,NW" />
+            </item>
+        <item id="caseRoseLow" label="#caseRoseLowTitle" name="CaseRoseLow" icon="CaseRoseLowIcon" silver="1500" rating="15" tags="cell,table">
+                <dimension width="1" length="2" height="1.9" />
+                <placement floor="1" />
+                <direction names="SW,SE,NE,NW" />
+            </item>
+        <item id="caseRoseMirror" label="#caseRoseMirrorTitle" name="CaseRoseMirror" icon="CaseRoseMirrorIcon" silver="2200" rating="22" tags="cell,table">
+                <dimension width="1" length="2" height="1.9" />
+                <placement floor="1" />
+                <direction names="SW,SE,NE,NW" />
+            </item>            
+        </category>
+        <!-- TABLE -->
+        <category id="bedroomTables" label="#tableCategory" logCategory2="table">
+
+            <item id="table10" label="#table10Title" name="TableForget" icon="TableForgetIcon" gold="20" rating="44" tags="table,cell">
+                <dimension width="2" length="3" height="1" />
+                <placement floor="1" />
+                <direction names="SW,SE" />
+            </item>
+            <item id="table8" label="#table8Title" name="BedsideTableForget" icon="BedsideTableForgetIcon" gold="10" rating="20" tags="table,cell">
+                <dimension width="1" length="1" height="2" />
+                <placement floor="1" />
+                <direction names="SW" />
+            </item>
+            <item id="table9" label="#table9Title" name="BedsideTableStone" icon="BedsideTableStoneIcon" gold="11" rating="22" tags="table,cell">
+                <dimension width="1" length="1" height="2" />
+                <placement floor="1" />
+                <direction names="SW" />
+            </item>
+            <item id="table2" label="#table2Title" name="TableRoseBig" icon="TableRoseBigIcon" silver="3400" rating="34" tags="table,cell">
+                <dimension width="2" length="2" height="2" />
+                <placement floor="1" />
+                <direction names="SW" />
+            </item>    
+        </category>
+    
+    </category>
+
+    <category id="11" label="#decorCategory" typeClass="furniture" library="decor" logCategory1="roomDecor">
+      <!-- WATERFALLS -->
+        <category id="waterfall" label="#waterfallCategory" logCategory2="waterfall">
+
+            <item id="wtrfll1" label="#waterfall1Title" name="WaterfallSpace" icon="WaterfallSpaceIcon" gold="124" rating="320" tags="cell" vipOnly="1">
+                <dimension width="6" length="6" height="1" />
+                <placement floor="1" />
+                <direction names="SW" />
+            </item>
+            <item id="wtrfll3" label="#waterfall3Title" name="WaterfallHome" icon="WaterfallHomeIcon" gold="147" rating="370" tags="cell" vipOnly="1">
+                <dimension width="2.9" length="2.9" height="6" />
+                <placement floor="1" />
+                <direction names="SW,SE" />
+            </item>
+            
+        </category>
+        <!-- VASE -->
+        <category id="12" label="#vaseCategory" logCategory2="vase">
+
+            <item id="craftedBLb_plant_wall_3" label="#baseLB_plant_wall_label" name="baseLB_plant_wall_3" icon="baseLB_plant_wall_3_icon" tags="" canGift="1" canTrade="1" rating="236">
+                <dimension width="1" length="1" height="2" defaultZ="4"/>
+                <placement floor="1" wall="0" />
+                <direction names="SE,SW" />
+            </item>
+            <item id="craftedBLb_pottedtree" label="#baseLB_pottedtree_label" name="baseLB_pottedtree" icon="baseLB_pottedtree_icon" tags="cell" canGift="1" canTrade="1" rating="800">
+                <dimension width="2" length="2" height="5" />
+                <placement floor="1"/>
+                <direction names="SE,SW" />       
+            </item>
+            <item id="vaseBase" label="#vaseBaseTitle" name="VaseBase" icon="VaseBaseIcon" silver="125" rating="1">
+                <dimension width="0.4" length="0.4" height="1.5" />
+                <placement table="1" />
+                <direction names="SW" />
+            </item>
+            <item id="vaseDecorativeFlower" label="#vaseDecorativeFlowerTitle" name="VaseDecorativeFlower" icon="VaseDecorativeFlowerIcon" silver="235" rating="2">
+                <dimension width="0.5" length="0.5" height="1.7" />
+                <placement table="1" />
+                <direction names="SW" />
+            </item>
+            <item id="vaseFlower" label="#vaseFlowerTitle" name="VaseFlower" icon="VaseFlowerIcon" silver="290" rating="2">
+                <dimension width="0.5" length="0.5" height="2.3" />
+                <placement floor="1" />
+                <direction names="SW" />
+            </item>
+            <item id="vaseGold" label="#vaseGoldTitle" name="VaseGold" icon="VaseGoldIcon" gold="8" rating="13">
+                <dimension width="0.5" length="0.5" height="4" />
+                <placement floor="1" />
+                <direction names="SW" />
+            </item>
+            <item id="vaseRose" label="#vaseRoseTitle" name="VaseRose" icon="VaseRoseIcon" gold="12" rating="24">
+                <dimension width="0.7" length="0.7" height="1.3" />
+                <placement table="1" />
+                <direction names="SW" />
+            </item>
+            <item id="vaseForget" label="#vaseForgetTitle" name="VaseForget" icon="VaseForgetIcon" gold="7" rating="11">
+                <dimension width="0.6" length="0.6" height="2" />
+                <placement floor="1" />
+                <direction names="SW" />
+            </item>
+            <item id="vaseSmallForget" label="#vaseSmallForgetTitle" name="VaseSmallForget" icon="VaseSmallForgetIcon" silver="275" rating="2">
+                <dimension width="0.5" length="0.5" height="1" />
+                <placement table="1" />
+                <direction names="SW" />
+            </item>    
+            <item id="flwSchool1" label="#flowerSchool1Title" name="FlowerSchool1" icon="FlowerSchool1Icon" silver="1200" rating="12">
+                <dimension width="0.6" length="0.6" height="3" />
+                <placement floor="1" />
+                <direction names="SW,SE" />
+            </item>
+            <item id="flwSchool2" label="#flowerSchool2Title" name="FlowerSchool2" icon="FlowerSchool2Icon" silver="1000" rating="10">
+                <dimension width="0.4" length="1" height="3" defaultZ="1.5" />
+                <placement wall="0" floor="1" />
+                <direction names="SW,SE" />
+            </item>        
+
+        </category>
+        <!-- PAINTINGS -->
+        <category id="13" label="#pictureCategory" parentId="11" logCategory2="picture">
+
+            <item id="craftedBLb_poster_B" label="#baseLB_poster_label" name="baseLB_poster_B" icon="baseLB_poster_B_icon" canGift="1" canTrade="1" rating="258">
+                <dimension width="0" length="2" height="2.6" defaultZ="3" />
+                <placement floor="1" wall="0" />
+                <direction names="SW,SE" />
+            </item>
+            <item id="pictureBachelor" label="#pictureBachelorTitle" name="PictureBachelor" icon="PictureBachelorIcon" silver="2150" rating="21" tags="ground" level="8">
+                <dimension width="0.2" length="4" height="3" defaultZ="2" />
+                <placement floor="1" wall="0" />
+                <direction names="SW,SE" />
+            </item>
+            <item id="pictureBase" label="#pictureBaseTitle" name="PictureBase" icon="PictureBaseIcon" silver="120" rating="1" tags="ground">
+                <dimension width="0.1" length="2" height="3" defaultZ="1" />
+                <placement floor="1" wall="0" />
+                <direction names="SW,SE" />
+            </item>
+            <item id="pictureBeach" label="#pictureBeachTitle" name="PictureBeach" icon="PictureBeachIcon" gold="4" rating="6" tags="ground">
+                <dimension width="0.1" length="2.5" height="4.2" defaultZ="1" />
+                <placement floor="1" wall="0" />
+                <direction names="SW,SE" />
+            </item>
+            <item id="pictureEinstein" label="#pictureEinsteinTitle" name="PictureEinstein" icon="PictureEinsteinIcon" gold="75" rating="195" tags="ground" vipOnly="1">
+                <dimension width="0.2" length="3.4" height="4.3" defaultZ="1.4" />
+                <placement floor="1" wall="0" />
+                <direction names="SW,SE" />
+            </item>
+            <item id="pictureIris" label="#pictureIrisTitle" name="PictureIris" icon="PictureIrisIcon" silver="320" rating="3" tags="ground">
+                <dimension width="0.1" length="1.5" height="3" defaultZ="2" />
+                <placement floor="1" wall="0" />
+                <direction names="SW,SE" />
+            </item>
+            <item id="pictureVeniceRose" label="#pictureVeniceRoseTitle" name="PictureVeniceRose" icon="PictureVeniceRoseIcon" gold="12" rating="24" tags="ground">
+                <dimension width="0.1" length="3" height="3" defaultZ="2" />
+                <placement floor="1" wall="0" />
+                <direction names="SW,SE" />
+            </item>                                
+
+        </category>
+        <!-- CARPETS -->
+        <category id="14" label="#carpetCategory" logCategory2="carpet">
+
+            <item id="craftedBLb_carpet_r" label="#baseLB_carpet_label" name="baseLB_carpet_r" icon="baseLB_carpet_r_icon" rating="200" canGift="1" canTrade="1" tags="walk">
+                <dimension width="2" length="3" height="0" />
+                <placement floor="1" />
+                <direction names="SW,SE" />
+            </item>
+
+        <item id="carpet5" label="#carpet5Title" name="CarpetFurWhite" icon="CarpetFurWhiteIcon" gold="21" rating="46" tags="walk">
+                <dimension width="3.5" length="4.8" height="0" />
+                <placement floor="1" />
+                <direction names="SW,SE" />
+            </item>
+
+        </category>        
+        <!-- LAMPS -->
+        <category id="15" label="#lampsCategory" parentId="11" logCategory2="lamp">
+
+            <category id="lampFloor" label="#lampsCategory" parentId="15" logCategory2="lamp">
+
+                <item id="craftedBLb_lamp_floor" label="#baseLB_lamp_floor_label" name="baseLB_lamp_floor" icon="baseLB_lamp_floor_icon" tags="cell" canGift="1" canTrade="1" rating="311">
+                    <dimension width="1" length="1" height="3"/>
+                    <placement floor="1"/>
+                    <direction names="SW,SE" />
+                </item>
+                <item id="ghostBlack" label="#ghostBlackTitle" name="GhostBlack" icon="GhostBlackIcon" silver="3500" rating="4" canBuy="0">
+                    <dimension width="1" length="1" height="2.3" />
+                    <placement floor="1" />
+                    <direction names="SW,SE" />
+                </item>
+                <item id="lamp3" label="#lamp3Title" name="LampOvalWhite" icon="LampOvalWhiteIcon" silver="370" rating="3">
+                    <dimension width="1" length="1" height="3.7" />
+                    <placement floor="1" />
+                    <direction names="SW" />
+                </item>
+                <item id="lamp4" label="#lamp4Title" name="LampOvalYellow" icon="LampOvalYellowIcon" silver="375" rating="3">
+                    <dimension width="1" length="1" height="3.7" />
+                    <placement floor="1" />
+                    <direction names="SW" />
+                </item>
+                <item id="lamp6" label="#lamp6Title" name="LampTapestry" icon="LampTapestryIcon" silver="800" rating="8">
+                    <dimension width="1" length="1" height="3.5" />
+                    <placement floor="1" />
+                    <direction names="SW" />
+                </item>
+
+            </category>
+
+            <category id="lampWall" label="#lampsCategory" parentId="15" logCategory2="lamp">
+
+                <item id="lamp9" label="#lamp9Title" name="LampForgetWall" icon="LampForgetWallIcon" gold="5" rating="8" tags="ground">
+                    <dimension width="0.5" length="1" height="2" defaultZ="2" />
+                    <placement floor="1" wall="0" />
+                    <direction names="SW,SE" />
+                </item>
+                <item id="lamp10" label="#lamp10Title" name="LampRoundWall" icon="LampRoundWallIcon" silver="230" rating="2" tags="ground">
+                    <dimension width="0.6" length="0.5" height="1.2" defaultZ="2" />
+                    <placement floor="1" wall="0" />
+                    <direction names="SW,SE" />
+                </item>
+
+            </category>
+
+            <category id="lampTable" label="#lampsCategory" parentId="15" logCategory2="lamp">
+
+                <item id="scullCandle" label="#scullCandleTitle" name="ScullCandle" icon="ScullCandleIcon" gold="10" rating="12" canBuy="0">
+                    <dimension width="1" length="0.5" height="1.6" />
+                    <placement table="1" />
+                    <direction names="SW,SE" />
+                </item>
+                <item id="lamp7" label="#lamp7Title" name="LampForget" icon="LampForgetIcon" gold="6" rating="10">
+                    <dimension width="0.5" length="0.5" height="1.5" />
+                    <placement table="1" />
+                    <direction names="SW" />
+                </item>            
+
+            </category>
+
+        </category>
+        
+        <!-- FIREPLACES -->
+
+        <category id="fireplace" label="#fireplaceCategory" logCategory2="fireplace">
+
+            <item id="fireplace3" label="#fireplace3Title" name="FireplaceGold" icon="FireplaceGoldIcon" gold="135" rating="338">
+                <dimension width="1" length="3" height="2.7" />
+                <placement floor="1" wall="0" />
+                <direction names="SW,SE" />
+            </item>    
+        </category>
+
+        <!-- OTHER -->
+
+        <category id="17" label="#otherCategory" parentId="11" logCategory2="other">
+
+            <item id="craftedBLb_shelf_wall" label="#baseLB_shelf_wall_label" name="baseLB_shelf_wall" icon="baseLB_shelf_wall_icon" canGift="1" canTrade="1" rating="444" tags="">
+                <dimension width="0.5" length="2" height="3" defaultZ="3" />
+                <placement floor="1" wall="0" />
+                <direction names="SW,SE" />
+            </item>
+            <item id="wheel" label="#vipWheelTitle" name="Wheel" icon="WheelIcon" gold="29" rating="65" vipOnly="1">
+                <dimension width="0.5" length="1.5" height="1.5" defaultZ="3" />
+                <placement wall="0" floor="1" />
+                <direction names="SW,SE" />
+            </item>   
+            <item id="trayVenice" label="#trayVeniceTitle" name="TrayVenice" icon="TrayVeniceIcon" gold="9" rating="15">
+                <dimension width="1" length="1.5" height="1" />
+                <placement table="1" />
+                <direction names="SW,SE" />
+            </item>   
+            <item id="screenForget" label="#screenForgetTitle" name="ScreenForget" icon="ScreenForgetIcon" gold="19" rating="38" tags="cell">
+                <dimension width="2" length="1" height="3.6" />
+                <placement floor="1" />
+                <direction names="SW,SE" />
+            </item>   
+            <item id="pokerFireplace" label="#pokerFireplaceTitle" name="Poker" icon="PokerIcon" gold="5" tags="cell" rating="8">
+                <dimension width="1" length="1" height="2" />
+                <placement floor="1" />
+                <direction names="SW,SE" />
+            </item>   
+            <item id="guitar" label="#guitarTitle" name="Guitar" icon="GuitarIcon" gold="45" rating="115" tags="cell" vipOnly="1">
+                <dimension width="1" length="1" height="4" />
+                <placement floor="1" />
+                <direction names="SW,SE,NE,NW" />
+            </item>
+            <item id="decorBachelor2" label="#decorBachelor2Title" name="DecorBachelor2" icon="DecorBachelor2Icon" silver="635" rating="6" level="8">
+                <dimension width="0.5" length="0.5" height="2" />
+                <placement table="1" />
+                <direction names="SW,SE" />
+            </item>    
+            <item id="bookForget" label="#bookForgetTitle" name="BookForget" icon="BookForgetIcon" silver="150" rating="1">
+                <dimension width="1" length="2" height="0.2" />
+                <placement table="1" />
+                <direction names="SW,SE" />
+            </item>
+            <item id="candlestickBookVenice" label="#candlestickBookVeniceTitle" name="CandlestickBookVenice" icon="CandlestickBookVeniceIcon" silver="250" rating="2">
+                <dimension width="1.8" length="1.2" height="1" />
+                <placement table="1" />
+                <direction names="SW" />
+            </item>
+            <item id="fireWood" label="#fireWoodTitle" name="FireWood" icon="FireWoodIcon" gold="7" rating="12">
+                <dimension width="1" length="1" height="0.7" />
+                <placement floor="1" />
+                <direction names="SW,SE" />
+            </item>
+            <item id="fireWoodLight" label="#fireWoodTitle" name="FireWoodLight" icon="FireWoodLightIcon" gold="9" rating="15">
+                <dimension width="1" length="1" height="0.7" />
+                <placement floor="1" />
+                <direction names="SW,SE" />
+            </item>
+            <item id="wdnBk" label="#weddingBookTitle" name="WeddingBook" icon="WeddingBookIcon" tags="cell" silver="4500" rating="45" wedding="1">
+                <dimension width="1" length="1" height="2" />
+                <placement floor="1" />
+                <direction names="SW,SE" />
+            </item>
+            <item id="cndHrt" label="#candyHeartTitle" name="CandyHeart" icon="CandyHeartIcon" silver="1500" rating="15" wedding="1" canGift="1">
+                <dimension width="1" length="1" height="0.5" />
+                <placement table="1" />
+                <direction names="SW,SE" />
+            </item>
+            <item id="cndWdnPnk" label="#weddingCandyPinkTitle" name="WeddingCandyPink" icon="WeddingCandyPinkIcon" gold="4" rating="7" wedding="1" canGift="1">
+                <dimension width="2" length="2" height="0.5" />
+                <placement table="1" />
+                <direction names="SW,SE" />
+            </item>
+            <item id="loveBalloon" label="#loveBalloonTitle" name="LoveBalloon" icon="LoveBalloonIcon" tags="cell" gold="6" rating="20" canGift="1" canTrade="1">
+                <dimension width="1" length="1" height="4" />
+                <placement floor="1" />
+                <direction names="SW,SE" />
+            </item>
+            <item id="miniFountain" label="#miniFountainTitle" name="MiniFountain" icon="MiniFountainIcon" tags="cell" gold="24" rating="55" canGift="1" canTrade="1">
+                <dimension width="1" length="1" height="3.2" />
+                <placement floor="1" />
+                <direction names="SW" />
+            </item>
+            <item id="pirateShip" label="#pirateShipTitle" name="PirateShip" icon="PirateShipIcon" tags="cell" gold="14" rating="30" canGift="1" canTrade="1">
+                <dimension width="1" length="2" height="3.2" />
+                <placement floor="1" />
+                <direction names="SW,SE" />
+            </item>
+            <item id="roseBasket" label="#roseBasketTitle" name="RoseBasket" icon="RoseBasketIcon" tags="cell" gold="20" rating="45" canGift="1" canTrade="1">
+                <dimension width="1" length="1" height="2" />
+                <placement floor="1" />
+                <direction names="SW,SE" />
+            </item>
+
+
+            <category id="arch">
+
+                <item id="wdnArch" label="#weddingArchTitle" name="ArchWedding" icon="ArchWeddingIcon" silver="9000" rating="90" wedding="1">
+                    <dimension width="1" length="5.5" height="5" />
+                    <placement floor="1" />
+                    <direction names="SW,SE" />
+                </item>
+
+            </category>
+
+            <category id="clock" label="#clockCategory">
+
+            </category>
+
+            <category id="roofView" label="#roofViewCategory">
+
+            </category>
+
+        </category>
+
+        <category id="nyFir" label="Новый Год" parentId="11" logCategory2="eventTitle" disabled="true">
+        
+        </category>
+
+        <category id="craftSocial" label="#crafSocial" logCategory2="craft">
+
+            <item id="moneyBox" label="#moneyBox" name="MoneyBox" icon="MoneyBoxIcon" gold="0" canTrade="1" rating="20" buyCount="0" canGift="1">
+                <dimension width="0.5" length="0.5" height="0.5" />
+                <placement table="1" />
+                <direction names="SW,SE" />
+            </item>
+            <item id="teddyBear" label="#teddyBear" name="TeddyBear" icon="TeddyBearIcon" gold="0" canTrade="1" rating="30" buyCount="0" canGift="1">
+                <dimension width="0.7" length="0.7" height="1.5" />
+                <placement table="1" />
+                <direction names="SW,SE" />
+            </item>
+            <item id="tableVaseOrange" label="#gerberaTitle" name="GerberaOrange" icon="GerberaOrangeIcon" gold="0" canTrade="1" rating="20" buyCount="0" canGift="1">
+                <dimension width="0.5" length="0.5" height="1.5" />
+                <placement table="1" />
+                <direction names="SW" />
+            </item>
+            <item id="tableVaseYellow" label="#gerberaTitle" name="GerberaYellow" icon="GerberaYellowIcon" gold="0" canTrade="1" rating="20" buyCount="0" canGift="1">
+                <dimension width="0.5" length="0.5" height="1.5" />
+                <placement table="1" />
+                <direction names="SW" />
+            </item>
+            <item id="tableVasePink" label="#gerberaTitle" name="GerberaPink" icon="GerberaPinkIcon" gold="0" canTrade="1" rating="20" buyCount="0" canGift="1">
+                <dimension width="0.5" length="0.5" height="1.5" />
+                <placement table="1" />
+                <direction names="SW" />
+            </item>
+            <item id="floorVaseRed" label="#vaseFloor" name="VaseRed" icon="VaseRedIcon" gold="0" canTrade="1" rating="25" buyCount="0" canGift="1">
+                <dimension width="0.5" length="0.5" height="2" />
+                <placement table="1" />
+                <direction names="SW" />
+            </item>
+            <item id="floorVaseBlue" label="#vaseFloor" name="VaseBlue" icon="VaseBlueIcon" gold="0" canTrade="1" rating="25" buyCount="0" canGift="1">
+                <dimension width="0.5" length="0.5" height="2" />
+                <placement table="1" />
+                <direction names="SW" />
+            </item>
+            <item id="photoFrame1Blue" label="#photoFrame" name="PhotoFrameBlue" icon="PhotoFrameBlueIcon" gold="0" canTrade="1" rating="20" buyCount="0" canGift="1">
+                <dimension width="0.5" length="0.5" height="1" />
+                <placement table="1" />
+                <direction names="SW,SE" />
+            </item>
+            <item id="photoFrame2Red" label="#photoFrame" name="PhotoFrameRed" icon="PhotoFrameRedIcon" gold="0" canTrade="1" rating="20" buyCount="0" canGift="1">
+                <dimension width="0.5" length="0.5" height="1" />
+                <placement table="1" />
+                <direction names="SW,SE" />
+            </item>
+            <item id="saber" label="#saberTitle" name="Saber" icon="SaberIcon" canTrade="1" rating="50" tags="ground" buyCount="0" canGift="1">
+                <dimension width="0.2" length="2" height="1.6" defaultZ="2" />
+                <placement wall="0" floor="1" />
+                <direction names="SW,SE" />
+            </item>
+            <item id="lilyFlowers" label="#lilyFlowersTitle" name="LilyFlowers" icon="LilyFlowersIcon" gold="0" canTrade="1" rating="40" buyCount="0" canGift="1">
+                <dimension width="0.5" length="0.5" height="2.5" />
+                <placement table="1" />
+                <direction names="SW,SE" />
+            </item>
+            <item id="candel" label="#candelTitle" name="Candel" icon="CandelIcon" gold="0" canTrade="1" rating="22" buyCount="0" canGift="1">
+                <dimension width="0.6" length="0.6" height="0.7" />
+                <placement table="1" />
+                <direction names="SW" />
+            </item>
+
+        </category>
+
+        <category id="achievements" label="#achievementsCategory" typeClass="furniture" library="house" logCategory2="achievement">
+
+            <category id="achievementsDecor" label="#decorCategory">
+
+                <item id="friendBronze" label="#goodFriendTitle1" description="#goodFriendDescription1" name="FriendBronze" icon="FriendBronzeIcon" gold="0" buyCount="0" canBuy="0">
+                    <dimension width="0.5" length="0.5" height="2" />
+                    <placement table="1" />
+                    <direction names="SW,SE" />
+                </item>
+                <item id="friendSilver" label="#goodFriendTitle2" description="#goodFriendDescription2" name="FriendSilver" icon="FriendSilverIcon" gold="0" buyCount="0" canBuy="0">
+                    <dimension width="0.5" length="0.5" height="2" />
+                    <placement table="1" />
+                    <direction names="SW,SE" />
+                </item>
+                <item id="friendGold" label="#goodFriendTitle3" description="#goodFriendDescription3" name="FriendGold" icon="FriendGoldIcon" gold="0" buyCount="0" canBuy="0">
+                    <dimension width="1" length="1" height="3" />
+                    <placement floor="1" />
+                    <direction names="SW,SE" />
+                </item>
+                <item id="magnateBronze" label="#magnateTitle1" description="#magnateDescription1" name="MagnateBronze" icon="MagnateBronzeIcon" gold="0" buyCount="0" canBuy="0">
+                    <dimension width="0.5" length="0.5" height="2" />
+                    <placement table="1" />
+                    <direction names="SW,SE" />
+                </item>
+                <item id="magnateSilver" label="#magnateTitle2" description="#magnateDescription2" name="MagnateSilver" icon="MagnateSilverIcon" gold="0" buyCount="0" canBuy="0">
+                    <dimension width="0.5" length="0.5" height="2" />
+                    <placement table="1" />
+                    <direction names="SW,SE" />
+                </item>
+                <item id="magnateGold" label="#magnateTitle3" description="#magnateDescription3" name="MagnateGold" icon="MagnateGoldIcon" gold="0" buyCount="0" canBuy="0">
+                    <dimension width="1" length="1" height="3" />
+                    <placement floor="1" />
+                    <direction names="SW,SE" />
+                </item>
+                <item id="pillowBronze" label="#pilowChampTitle1" description="#pilowChampDescription1" name="PillowBronze" icon="PillowBronzeIcon" gold="0" buyCount="0" canBuy="0">
+                    <dimension width="0.5" length="0.5" height="2" />
+                    <placement table="1" />
+                    <direction names="SW,SE" />
+                </item>
+                <item id="pillowSilver" label="#pilowChampTitle2" description="#pilowChampDescription2" name="PillowSilver" icon="PillowSilverIcon" gold="0" buyCount="0" canBuy="0">
+                    <dimension width="0.5" length="0.5" height="2" />
+                    <placement table="1" />
+                    <direction names="SW,SE" />
+                </item>
+                <item id="pillowGold" label="#pilowChampTitle3" description="#pilowChampDescription3" name="PillowGold" icon="PillowGoldIcon" gold="0" buyCount="0" canBuy="0">
+                    <dimension width="1" length="1" height="3" />
+                    <placement floor="1" />
+                    <direction names="SW,SE" />
+                </item>
+                <item id="presentBronze" label="#generousTitle1" description="#generousDescription1" name="PresentBronze" icon="PresentBronzeIcon" gold="0" buyCount="0" canBuy="0">
+                    <dimension width="0.5" length="0.5" height="2" />
+                    <placement table="1" />
+                    <direction names="SW,SE" />
+                </item>
+                <item id="presentSilver" label="#generousTitle2" description="#generousDescription2" name="PresentSilver" icon="PresentSilverIcon" gold="0" buyCount="0" canBuy="0">
+                    <dimension width="0.5" length="0.5" height="2" />
+                    <placement table="1" />
+                    <direction names="SW,SE" />
+                </item>
+                <item id="presentGold" label="#generousTitle3" description="#generousDescription3" name="PresentGold" icon="PresentGoldIcon" gold="0" buyCount="0" canBuy="0">
+                    <dimension width="1" length="1" height="3" />
+                    <placement floor="1" />
+                    <direction names="SW,SE" />
+                </item>
+                <item id="shopaholicBronze" label="#shopaholicTitle1" description="#shopaholicDescription1" name="ShopingBronze" icon="ShopingBronzeIcon" gold="0" buyCount="0" canBuy="0">
+                    <dimension width="0.5" length="0.5" height="2" />
+                    <placement table="1" />
+                    <direction names="SW,SE" />
+                </item>
+                <item id="shopaholicSilver" label="#shopaholicTitle2" description="#shopaholicDescription2" name="ShopingSilver" icon="ShopingSilverIcon" gold="0" buyCount="0" canBuy="0">
+                    <dimension width="0.5" length="0.5" height="2" />
+                    <placement table="1" />
+                    <direction names="SW,SE" />
+                </item>
+                <item id="shopaholicGold" label="#shopaholicTitle3" description="#shopaholicDescription3" name="ShopingGold" icon="ShopingGoldIcon" gold="0" buyCount="0" canBuy="0">
+                    <dimension width="1" length="1" height="3" />
+                    <placement floor="1" />
+                    <direction names="SW,SE" />
+                </item>
+                <item id="workBronze" label="#workaholicTitle1" description="#workaholicDescription1" name="WorkBronze" icon="WorkBronzeIcon" gold="0" buyCount="0" canBuy="0">
+                    <dimension width="0.5" length="0.5" height="2" />
+                    <placement table="1" />
+                    <direction names="SW,SE" />
+                </item>
+                <item id="workSilver" label="#workaholicTitle2" description="#workaholicDescription2" name="WorkSilver" icon="WorkSilverIcon" gold="0" buyCount="0" canBuy="0">
+                    <dimension width="0.5" length="0.5" height="2.2" />
+                    <placement table="1" />
+                    <direction names="SW,SE" />
+                </item>
+                <item id="workGold" label="#workaholicTitle3" description="#workaholicDescription3" name="WorkGold" icon="WorkGoldIcon" gold="0" buyCount="0" canBuy="0">
+                    <dimension width="1" length="1" height="3" />
+                    <placement floor="1" />
+                    <direction names="SW,SE" />
+                </item>
+                <item id="vipBronze" label="#vipTitle1" description="#vipDescription1" name="VipBronze" icon="VipBronzeIcon" gold="0" buyCount="0" canBuy="0">
+                    <dimension width="0.7" length="0.7" height="1.4" />
+                    <placement table="1" />
+                    <direction names="SW" />
+                </item>
+                <item id="vipSilver" label="#vipTitle2" description="#vipDescription2" name="VipSilver" icon="VipSilverIcon" gold="0" buyCount="0" canBuy="0">
+                    <dimension width="0.8" length="0.8" height="2" />
+                    <placement table="1" />
+                    <direction names="SW" />
+                </item>
+                <item id="vipGold" label="#vipTitle3" description="#vipDescription3" name="VipGold" icon="VipGoldIcon" gold="0" buyCount="0" canBuy="0">
+                    <dimension width="1" length="1" height="3" />
+                    <placement floor="1" />
+                    <direction names="SW" />
+                </item>
+                <item id="crafterBronze" label="#crafterTitle1" description="#crafterDescription1" name="CrafterBronze" icon="CrafterBronzeIcon" gold="0" buyCount="0" canBuy="0">
+                    <dimension width="0.4" length="0.4" height="2" />
+                    <placement table="1" />
+                    <direction names="SW,SE" />
+                </item>
+                <item id="crafterSilver" label="#crafterTitle2" description="#crafterDescription2" name="CrafterSilver" icon="CrafterSilverIcon" gold="0" buyCount="0" canBuy="0">
+                    <dimension width="0.4" length="0.4" height="2.2" />
+                    <placement table="1" />
+                    <direction names="SW,SE" />
+                </item>
+                <item id="crafterGold" label="#crafterTitle3" description="#crafterDescription3" name="CrafterGold" icon="CrafterGoldIcon" gold="0" buyCount="0" canBuy="0">
+                    <dimension width="0.7" length="0.7" height="3.3" />
+                    <placement floor="1" />
+                    <direction names="SW,SE" />
+                </item>
+                <item id="schlBronze" label="#schoolMasterTitle1" description="#schoolMasterDescription1" name="SchoolMasterBronze" icon="SchoolMasterBronzeIcon" gold="0" buyCount="0" canBuy="0">
+                    <dimension width="0.4" length="0.4" height="2" />
+                    <placement table="1" />
+                    <direction names="SW,SE" />
+                </item>
+                <item id="schlSilver" label="#schoolMasterTitle2" description="#schoolMasterDescription2" name="SchoolMasterSilver" icon="SchoolMasterSilverIcon" gold="0" buyCount="0" canBuy="0">
+                    <dimension width="0.4" length="0.4" height="2.2" />
+                    <placement table="1" />
+                    <direction names="SW,SE" />
+                </item>
+                <item id="schlGold" label="#schoolMasterTitle3" description="#schoolMasterDescription3" name="SchoolMasterGold" icon="SchoolMasterGoldIcon" gold="0" buyCount="0" canBuy="0">
+                    <dimension width="0.7" length="0.7" height="3.3" />
+                    <placement floor="1" />
+                    <direction names="SW,SE" />
+                </item>
+                <item id="beachRaceBronze" label="#beachRaceChampTitle1" description="#beachRaceChampDescription1" name="BeachRaceBronze" icon="BeachRaceBronzeIcon" gold="0" buyCount="0" canBuy="0">
+                    <dimension width="0.5" length="0.5" height="2" />
+                    <placement table="1" />
+                    <direction names="SW,SE" />
+                </item>
+                <item id="beachRaceSilver" label="#beachRaceChampTitle2" description="#beachRaceChampDescription2" name="BeachRaceSilver" icon="BeachRaceSilverIcon" gold="0" buyCount="0" canBuy="0">
+                    <dimension width="0.5" length="0.5" height="2" />
+                    <placement table="1" />
+                    <direction names="SW,SE" />
+                </item>
+                <item id="beachRaceGold" label="#beachRaceChampTitle3" description="#beachRaceChampDescription3" name="BeachRaceGold" icon="BeachRaceGoldIcon" gold="0" buyCount="0" canBuy="0">
+                    <dimension width="1" length="1" height="3" />
+                    <placement floor="1" />
+                    <direction names="SW,SE" />
+                </item>
+
+            </category>
+
+        </category>
+    </category>
+
+    <category id="16" label="#techCategory" typeClass="furniture" library="decor" logCategory1="roomDecor" logCategory2="tech">
+        
+        <!-- AMUSIMENT -->
+    
+       <category id="amusiment" label="#amusimentCategory" typeClass="furniture" library="decor" logCategory2="amusшment">
+
+            <category id="amusementStuff" label="">
+
+            </category>           
+            <category id="carAmusiment" label="#carAmusiment">
+
+            </category>
+            
+            <category id="horseAmusiment" label="#horseAmusementCategory">
+
+            </category>
+            
+            <category id="aquariumAmusiment" label="#aquariumAmusiment">
+
+            </category>
+            <category id="summerDayFlower" label="#summerDayFlowerCategoryLabel">
+
+            </category>
+        </category>
+        
+        <!-- TELEVISION -->
+        
+        <category id="tvAppliance" label="#tvApplianceCategory">
+            <item id="applianceTv1" label="#activeDecor2Title" name="TvOld" icon="TvOldIcon" silver="2300" rating="20">
+                <dimension width="1" length="1.5" height="1" />
+                <placement table="1" />
+                <direction names="SW,SE,NE,NW" />
+                <params>
+                    <param name="channels" value="tvlch1,tvlch2" />
+                    <param name="immunityTime" value="299" />
+                </params>
+            </item>
+            <item id="applianceTv3" label="#applianceTv3Title" name="TVMedium" icon="TVMediumIcon" tags="ground" silver="12000" rating="120">
+                <dimension width="0.3" length="3.8" height="2.9" defaultZ="2" />
+                <placement floor="1" wall="0" />
+                <direction names="SW,SE" />
+                <params>
+                    <param name="channels" value="tvmch1,tvmch2,tvmch3" />
+                    <param name="immunityTime" value="1799" />
+                </params>
+            </item>
+            <item id="applianceTv4" label="#applianceTv4Title" name="TVLarge" icon="TVLargeIcon" gold="65" rating="163" tags="ground">
+                <dimension width="0.3" length="4.7" height="3.5" defaultZ="2" />
+                <placement floor="1" wall="0" />
+                <direction names="SW,SE" />
+                <params>
+                    <param name="channels" value="tvbch2,tvbch3,tvbch4" />
+                    <param name="immunityTime" value="3599" />
+                </params>
+            </item>
+
+        </category>
+        
+        <!-- COMPUTERS -->
+        
+        <category id="computerAppliance" label="#computerApplianceCategory">
+            <item id="applianceNotebook1" label="#activeDecor8Title" name="NotebookLight" icon="NotebookLightIcon" gold="14">
+                <dimension width="0.7" length="0.7" height="0.7" />
+                <placement table="1" />
+                <direction names="SW,SE,NE,NW" />
+                <params>
+                    <param name="immunityTime" value="10799" />
+                </params>
+            </item>
+            <item id="applianceNotebook2" label="#activeDecor9Title" name="NotebookGreen" icon="NotebookGreenIcon" gold="9">
+                <dimension width="0.7" length="0.7" height="0.7" />
+                <placement table="1" />
+                <direction names="SW,SE,NE,NW" />
+                <params>
+                    <param name="immunityTime" value="7199" />
+                </params>
+            </item>
+            <item id="applianceNotebook3" label="#activeDecor10Title" name="NotebookBlack" icon="NotebookBlackIcon" silver="3900">
+                <dimension width="0.7" length="0.7" height="0.7" />
+                <placement table="1" />
+                <direction names="SW,SE,NE,NW" />
+                <params>
+                    <param name="immunityTime" value="3599" />
+                </params>
+            </item>
+
+
+        </category>
+        
+        <!-- MAILBOX -->
+        
+        <category id="mailBox" label="#mailBoxCategory">
+
+        <item id="mailBox1" label="#mailBox1Title" name="MailWallOrange" icon="MailWallOrangeIcon" silver="325" rating="3">
+                <dimension width="0.5" length="0.8" height="1.5" defaultZ="1" />
+                <placement floor="1" wall="0" />
+                <direction names="SW,SE" />
+            </item>
+            <item id="mailBox2" label="#mailBox2Title" name="MailFloorViolett" icon="MailFloorViolettIcon" silver="780" rating="7">
+                <dimension width="0.8" length="0.8" height="2" />
+                <placement floor="1" />
+                <direction names="SW,SE" />
+            </item>
+            <item id="mailBox3" label="#mailBox3Title" name="MailFloorPigeon" icon="MailFloorPigeonIcon" gold="5" rating="9">
+                <dimension width="0.8" length="0.8" height="2" />
+                <placement floor="1" />
+                <direction names="SW,SE" />
+            </item>
+
+        </category>
+        
+        <!-- STEREO -->
+
+        <category id="musicCenterAppliance" label="#musicCenterApplianceCategory">
+
+            <item id="applianceMusicCenter1" label="#activeDecor1Title" name="MusicCenter" icon="MusicCenterIcon" silver="3950" rating="39">
+                <dimension width="0.8" length="1.6" height="1" />
+                <placement table="1" />
+                <direction names="SW,SE,NE,NW" />
+                <params>
+                    <param name="channels" value="mch3" />
+                    <param name="immunityTime" value="899" />
+                </params>
+            </item>
+            <item id="applianceMusicCenter3" label="#activeDecor6Title" name="MusicCenterGlass" icon="MusicCenterGlassIcon" silver="120000" rating="1200"  >
+                <dimension width="1" length="1.7" height="3" />
+                <placement floor="1" />
+                <direction names="SW,SE,NW,NE" />
+                <params>
+                    <param name="channels" value="mch3" />
+                    <param name="immunityTime" value="3599" />
+                </params>
+            </item>
+
+            <category id="miscAppliance" label="#miscApplianceCategory">
+
+            
+            <item id="miscAppliance1" label="#miscAppliance1Title" name="DVDGray" icon="DVDGrayIcon" silver="2500" rating="20" canBuy="0">
+                    <dimension width="0.5" length="1" height="0.3" />
+                    <placement table="1" />
+                    <direction names="SW,SE" />
+                </item>
+
+            </category>
+
+            <category id="snowballCategory" label="#snowballCategoryTitle">
+
+            </category>
+
+            <category id="acoustics" label="#acousticsCategory">
+
+            <item id="acoustic3" label="#acoustic3Title" name="AcousticLongBlack" icon="AcousticLongBlackIcon" gold="6" rating="10">
+                    <dimension width="0.5" length="0.5" height="3.7" />
+                    <placement floor="1" />
+                    <direction names="SW,SE,NE,NW" />
+                </item>    
+
+            </category>
+
+            <category id="eventCategory" label="Особенное" typeClass="furniture" library="decor" logCategory1="roomDecor" disabled="true">
+                <category id="Portal">
+
+                </category>
+            </category>
+            
+        </category>
+     
+    </category>
+
+    <category id="18" label="#bathroomCategory" typeClass="furniture" library="bathroom" logCategory1="bathroom">
+
+        <!-- TOILETS -->
+        
+        <category id="22" label="#toiletCategory" logCategory2="toilet">
+
+            <item id="toilet2" label="#toilet2Title" name="Toilet" icon="ToiletIcon" silver="930" rating="9" tags="sit,cell" normalSitPlace="1">
+                <dimension width="1" length="1" height="3" sitZ="1.0" />
+                <placement floor="1" />
+                <direction names="SW,SE" />
+            </item>
+            <item id="toilet5" label="#toilet5Title" name="ToiletWhiteRound" icon="ToiletWhiteRoundIcon" silver="450" rating="4" tags="sit,cell" normalSitPlace="1">
+                <dimension width="1.3" length="1" height="2.5" sitZ="1.0" />
+                <placement floor="1" />
+                <direction names="SW,SE" />
+            </item>
+
+        </category>
+        
+        <!-- BATH/SHOWERS -->
+        
+        <category id="19" label="#bathCategory" logCategory2="bath">
+        <item id="bath1" label="#bath1Title" name="BathBase" icon="BathBaseIcon" silver="400" rating="4" tags="cell">
+                <dimension width="4.0" length="2.0" height="1.0" />
+                <placement floor="1" />
+                <direction names="SW,SE,NE,NW" />
+            </item>
+        <item id="bath2" label="#bath2Title" name="BathBlue" icon="BathBlueIcon" silver="1100" rating="11" tags="cell">
+                <dimension width="4.0" length="2.0" height="4.0" />
+                <placement floor="1" />
+                <direction names="SW,SE,NE,NW" />
+            </item>
+        <item id="bath6" label="#bath6Title" name="BathKiss" icon="BathKissIcon" gold="8" rating="13" tags="cell">
+                <dimension width="3" length="1" height="2" />
+                <placement floor="1" />
+                <direction names="SW,SE,NE,NW" />
+            </item>
+        <item id="bath8" label="#bath8Title" name="BathWhite" icon="BathWhiteIcon" gold="11" rating="22" tags="cell">
+                <dimension width="3" length="3" height="6" />
+                <placement floor="1" />
+                <direction names="SW,SE,NE,NW" />
+            </item>    
+
+        </category>
+        
+        <!-- HOT TUBS -->
+
+        <category id="jacuzzi" label="#jacuzziCategory" logCategory2="jacuzzi">
+
+        <item id="jacuzzi3" label="#jacuzzi3Title" name="JacuzziBase" icon="JacuzziBaseIcon" gold="30" rating="75" tags="cell,sit" normalSitPlace="1">
+                <dimension width="5" length="4" height="1" />
+                <placement floor="1" />
+                <direction names="SW,SE" />
+                <params>
+                    <param name="immunityTime" value="899" />
+                </params>
+            </item>        
+        </category>
+        
+        <!-- SINKS -->
+        
+        <category id="21" label="#bowlCategory" logCategory2="bowl">
+            <item id="bowl4" label="#bowl4Title" name="BowlWhite" icon="BowlWhiteIcon" silver="380" rating="3" defaultState="off" menu="grkitchen_sink" tags="cell,table">
+                <dimension width="1" length="2" height="2" />
+                <placement wall="0" floor="1" />
+                <direction names="SW,SE" />
+            </item>
+        </category>
+
+        <!-- DECOR -->
+
+        <category id="23" label="#bathroomDecorCategory" logCategory2="decor">
+
+        <item id="bathroomCase1" label="#bathroomCase1Title" name="CaseBase" icon="CaseBaseIcon" silver="410" rating="4" tags="table,cell">
+                    <dimension width="1" length="2" height="1.2" />
+                    <placement floor="1" />
+                    <direction names="SW,SE,NE,NW" />
+                </item>
+        <item id="bathroomCase2" label="#bathroomCase2Title" name="CaseBlue" icon="CaseBlueIcon" silver="450" rating="4" tags="table,cell">
+                    <dimension width="1" length="2" height="1.2" />
+                    <placement floor="1" />
+                    <direction names="SW,SE,NE,NW" />
+                </item>
+
+            <category id="bathroomShelves" label="#bathroomDecorCategory" logCategory2="decor">
+
+            </category>
+
+            <category id="bathroomMirrors" label="#bathroomDecorCategory" logCategory2="decor">
+
+            <item id="mirror1" label="#mirror1Title" name="Mirror" icon="MirrorIcon" silver="320" rating="3" tags="table,ground">
+                    <dimension width="0.5" length="2.0" height="1.2" defaultZ="1.2" />
+                    <placement wall="0" floor="1" />
+                    <direction names="SW,SE" />
+                </item>
+
+            </category>
+
+            <category id="bathroomOtherDecor" label="#bathroomDecorCategory" logCategory2="decor">
+
+            <item id="bathroomDecor1" label="#bathroomDecor1Title" name="BrushBase" icon="BrushBaseIcon" silver="65" rating="1">
+                    <dimension width="0.3" length="1.0" height="0.5" />
+                    <placement table="1" />
+                    <direction names="SW,SE" />
+                </item>
+            <item id="bathroomDecor4" label="#bathroomDecor4Title" name="Shampoo" icon="ShampooIcon" silver="80" rating="1">
+                    <dimension width="0.6" length="0.6" height="0.5" />
+                    <placement table="1" />
+                    <direction names="SW,SE" />
+                </item>
+            <item id="bathroomDecor5" label="#bathroomDecor5Title" name="Towel" icon="TowelIcon" silver="300" rating="3">
+                    <dimension width="0.5" length="0.9" height="1.3" defaultZ="1" />
+                    <placement wall="0" floor="1" />
+                    <direction names="SW,SE" />
+                </item>
+                <item id="bathroomDecor6" label="#bathroomDecor6Title" name="Trash" icon="TrashIcon" silver="250" rating="2">
+                    <dimension width="0.5" length="0.5" height="1.3" />
+                    <placement floor="1" />
+                    <direction names="SW,SE,NE,NW" />
+                </item>
+                <item id="bathroomDecor7" label="#bathroomDecor7Title" name="BrushForget" icon="BrushForgetIcon" gold="2" rating="3">
+                    <dimension width="0.4" length="0.3" height="0.7" />
+                    <placement table="1" />
+                    <direction names="SW" />
+                </item>
+                <item id="bathroomDecor8" label="#bathroomDecor8Title" name="CreamForget" icon="CreamForgetIcon" gold="2" rating="3">
+                    <dimension width="0.5" length="0.5" height="0.6" />
+                    <placement table="1" />
+                    <direction names="SW,SE" />
+                </item>   
+
+            </category>
+
+        </category>
+        
+
+ </category>
+
+    <category id="24" label="#kitchenCategory" typeClass="furniture" library="kitchen" logCategory1="kitchen">
+
+        <!-- CABINETS -->
+        
+        <category id="kitchenUnits" label="#kitchenUnitsCategoryLabel" logCategory2="unit">
+
+            <category id="kitchenStoves" label="#kitchenUnitsCategoryLabel" logCategory2="unit">
+
+            </category>
+
+            <category id="kitchenSinks" label="#kitchenUnitsCategoryLabel" logCategory2="unit">
+
+            </category>
+
+            <category id="kitchenModules" label="#kitchenUnitsCategoryLabel" logCategory2="unit">
+                <item id="kitchenUnitBase1" label="#kitchenUnitBase1Title" name="UnitBoard" icon="UnitBoardIcon" silver="280" rating="2" tags="table,cell">
+                    <dimension width="2" length="1" height="2" />
+                    <placement floor="1" />
+                    <direction names="SW,SE,NE,NW" />
+                </item>
+                <item id="kitchenUnitBase2" label="#kitchenUnitBase2Title" name="UnitBox" icon="UnitBoxIcon" silver="340" rating="3" tags="table,cell">
+                    <dimension width="2" length="2" height="2" />
+                    <placement floor="1" />
+                    <direction names="SW,SE,NE,NW" />
+                </item>
+                <item id="kitchenUnitBase3" label="#kitchenUnitBase3Title" name="UnitDrawer" icon="UnitDrawerIcon" silver="310" rating="3" tags="table,cell">
+                    <dimension width="2" length="1" height="2" />
+                    <placement floor="1" />
+                    <direction names="SW,SE,NE,NW" />
+                </item>
+                <item id="kitchenUnitBase7" label="#kitchenUnitBase7Title" name="UnitTopBoard" icon="UnitTopBoardIcon" silver="280" rating="2" tags="cell">
+                    <dimension width="2" length="1" height="2" defaultZ="4" />
+                    <placement floor="1" wall="0" />
+                    <direction names="SW,SE" />
+                </item>
+                <item id="kitchenUnitBase8" label="#kitchenUnitBase8Title" name="UnitTopBox" icon="UnitTopBoxIcon" silver="340" rating="3" tags="cell">
+                    <dimension width="2" length="2" height="2" defaultZ="4" />
+                    <placement floor="1" wall="0" />
+                    <direction names="SW,SE" />
+                </item>
+                <item id="kitchenUnitBase9" label="#kitchenUnitBase9Title" name="UnitTopCorner" icon="UnitTopCornerIcon" silver="415" rating="4" tags="cell">
+                    <dimension width="2" length="2" height="2" defaultZ="4" />
+                    <placement floor="1" wall="0" />
+                    <direction names="SW,SE,NW" />
+                </item>
+                <item id="kitchenUnitBase10" label="#kitchenUnitBase10Title" name="UnitTopGlass" icon="UnitTopGlassIcon" silver="320" rating="3" tags="cell">
+                    <dimension width="2" length="2" height="2" defaultZ="4" />
+                    <placement floor="1" wall="0" />
+                    <direction names="SW,SE" />
+                </item>
+                <item id="kitchenUnitBase11" label="#kitchenUnitBase11Title" name="UnitTopGlassBox" icon="UnitTopGlassBoxIcon" silver="375" rating="3" tags="cell">
+                    <dimension width="2" length="1" height="2" defaultZ="4" />
+                    <placement floor="1" wall="0" />
+                    <direction names="SW,SE" />
+                </item>
+            <item id="kitchenUnitBase4" label="#kitchenUnitBase4Title" name="UnitSink" icon="UnitSinkIcon" silver="435" rating="4" tags="table,cell" defaultState="off"  menu="grkitchen_sink">
+                    <dimension width="2" length="2" height="2" />
+                    <placement floor="1" />
+                    <direction names="SW,SE,NE,NW" />
+                </item>
+                <item id="kitchenUnitBase5" label="#kitchenUnitBase5Title" name="UnitSinkCorner" icon="UnitSinkCornerIcon" silver="415" rating="4" tags="table,cell">
+                    <dimension width="2" length="2" height="2" />
+                    <placement floor="1" />
+                    <direction names="SW,SE,NE,NW" />
+                </item>
+            <item id="kitchenUnitBase6" label="#kitchenUnitBase6Title" name="UnitStove" icon="UnitStoveIcon" silver="475" rating="4" tags="table,cell" defaultState="off" menu="grkitchen_cooker">
+                    <dimension width="2" length="2" height="2" />
+                    <placement floor="1" />
+                    <direction names="SW,SE,NE,NW" />
+                </item>            
+            </category>
+
+        </category>
+        
+        <!-- REFRIGERATORS -->
+        
+        <category id="26" label="#refrigeratorsCategory" logCategory2="refrigerator">
+
+        <item id="refrigerator1" label="#refrigerator1Title" name="Refrigerator" icon="RefrigeratorIcon" gold="50" rating="125" tags="cell">
+                <dimension width="2" length="2" height="4" />
+                <placement floor="1" />
+                <direction names="SW,SE,NE,NW" />
+                <params>
+                    <param name="productionTime" value="7199" />
+                </params>
+            </item>
+            <item id="refrigerator2" label="#refrigerator2Title" name="RefrigeratorBig" icon="RefrigeratorBigIcon" gold="100" rating="250" vipOnly="1" tags="cell">
+                <dimension width="2" length="2.5" height="5.2" />
+                <placement floor="1" />
+                <direction names="SW,SE,NE,NW" />
+                <params>
+                    <param name="productionTime" value="3599" />
+                </params>
+            </item>
+            <item id="refrigerator3" label="#refrigerator3Title" name="RefrigeratorLong" icon="RefrigeratorLongIcon" silver="9500" level="8" rating="95" tags="cell">
+                <dimension width="2" length="2" height="5.2" />
+                <placement floor="1" />
+                <direction names="SW,SE,NE,NW" />
+                <params>
+                    <param name="productionTime" value="10799" />
+                </params>
+            </item>
+
+        </category>
+        
+        <!-- TABLES -->
+        
+        <category id="kitchenTables" label="#kitchenTablesCategoryLabel" logCategory2="table">
+
+            <item id="craftedBLb_dinner_table" label="#baseLB_dinner_table_label" name="baseLB_dinner_table" icon="baseLB_dinner_table_icon" rating="1022" canGift="1" canTrade="1" tags="table,cell">
+                <dimension width="2" length="3" height="2" />
+                <placement floor="1" />
+                <direction names="SW,SE" />
+            </item>
+            <item id="kitchenTable1" label="#kitchenTable1Title" name="TableDarkWood" icon="TableDarkWoodIcon" silver="575" rating="5" tags="table,cell">
+                <dimension width="3" length="3" height="2" />
+                <placement floor="1" />
+                <direction names="SW,SE" />
+            </item>
+
+        </category>
+        
+        <!-- CHAIRS -->
+        
+        <category id="kitchenChair" label="#kitchenChairCategory" logCategory2="chair">
+
+            <item id="craftedBLb_dinner_chair" label="#baseLB_dinner_chair_label" name="baseLB_dinner_chair" icon="baseLB_dinner_chair_icon" rating="489" tags="sit,cell" canGift="1" canTrade="1" normalSitPlace="1">
+                <dimension width="1" length="1" height="1"/>
+                <placement floor="1" />
+                <direction names="SE,SW" />
+            </item>
+            <item id="kitchenChair1" label="#kitchenChair1Title" name="ChairBlack" icon="ChairBlackIcon" silver="425" rating="4" tags="sit,cell" normalSitPlace="1">
+                <dimension width="1" length="1" height="3" sitZ="1.0" />
+                <placement floor="1" />
+                <direction names="SW,SE" />
+            </item>
+        </category>
+        
+        <!-- DECOR -->
+        
+        <category id="27" label="#kitchenDecorCategory" logCategory2="decor">
+
+            <item id="craftedBLb_cup_w" label="#baseLB_cup_label" name="baseLB_cup_w" icon="baseLB_cup_w_icon" canGift="1" canTrade="1" rating="311">
+                <dimension width="0.6" length="0.5" height="0.5" />
+                <placement table="1"/>
+                <direction names="SE,SW" />          
+            </item>
+            <item id="nyDcr1" label="#wineglassGoldNYTitle" name="WineglassGold" icon="WineglassGoldIcon" gold="9" rating="15" canBuy="0">
+                <dimension width="0.2" length="0.2" height="1.2" />
+                <placement table="1" />
+                <direction names="SW" />
+            </item>
+            <item id="nyDcr4" label="#shishkebabNYTitle" name="Shishkebab" icon="ShishkebabIcon" gold="15" rating="30" canBuy="0">
+                <dimension width="1" length="2" height="0.4" />
+                <placement table="1" />
+                <direction names="SW,SE" />
+            </item>
+            <item id="nyDcr7" label="#cakeStrawberryNYTitle" name="CakeStrawberry" icon="CakeStrawberryIcon" silver="1450" rating="14" canBuy="0">
+                <dimension width="1" length="1" height="0.5" />
+                <placement table="1" />
+                <direction names="SW" />
+            </item>
+            <item id="nyDcr10" label="#beconEggNYTitle" name="BeconEgg" icon="BeconEggIcon" silver="600" rating="6">
+                <dimension width="0.7" length="1" height="0.1" />
+                <placement table="1" />
+                <direction names="SW,SE,NE,NW" />
+            </item>    
+            <item id="kitchenDecor3" label="#kitchenDecor3Title" name="DishBlack" icon="DishBlackIcon" silver="170" rating="1" canBuy="0">
+                <dimension width="0.4" length="0.4" height="0.8" />
+                <placement table="1" />
+                <direction names="SW" />
+            </item>
+            <item id="kitchenDecor4" label="#kitchenDecor4Title" name="DishRed" icon="DishRedIcon" silver="170" rating="1">
+                <dimension width="0.4" length="0.4" height="0.8" />
+                <placement table="1" />
+                <direction names="SW" />
+            </item>
+            <item id="kitchenDecor6" label="#kitchenDecor6Title" name="FlatwareRed" icon="FlatwareRedIcon" gold="2" rating="3">
+                <dimension width="1" length="1" height="0.1" />
+                <placement table="1" />
+                <direction names="SW,SE,NE,NW" />
+            </item>
+        <item id="Cocktail_coco" label="#Cocktail_coco_label" name="Cocktail_coco" icon="Cocktail_coco_icon" silver="7200" rating="72">
+                <dimension width="0.5" length="0.5" height="0.7" />
+                <placement table="1" />
+                <direction names="SW,SE" />
+                <altParents> <skyHighMansion/> </altParents>
+            </item>
+            <item id="Cocktail_mojito" label="#Cocktail_mojito_label" name="Cocktail_mojito" icon="Cocktail_mojito_icon" gold="24" rating="67">
+                <dimension width="0.3" length="0.3" height="1" />
+                <placement table="1" />
+                <direction names="SW,SE" />
+                <altParents> <skyHighMansion/> </altParents>
+            </item>
+            <item id="Cocktail_sunrise" label="#Cocktail_sunrise_label" name="Cocktail_sunrise" icon="Cocktail_sunrise_icon" gold="40" rating="111">
+                <dimension width="0.3" length="0.3" height="1" />
+                <placement table="1" />
+                <direction names="SW,SE" />
+                <altParents> <skyHighMansion/> </altParents>
+            </item>    
+            <item id="bchlrDcr1" label="#wineglassRedBachelorTitle" name="WineglassRed" icon="WineglassRedIcon" gold="4" rating="7">
+                <dimension width="0.2" length="0.2" height="0.7" />
+                <placement table="1" />
+                <direction names="SW" />
+            </item>
+            <item id="bchlrDcr2" label="#orangeJuiceBachelorTitle" name="OrangeJuice" icon="OrangeJuiceIcon" silver="600" rating="6">
+                <dimension width="0.2" length="0.2" height="1" />
+                <placement table="1" />
+                <direction names="SW,SE" />
+            </item>
+            <item id="bchlrDcr4" label="#candleMiniBachelorTitle" name="CandleMini" icon="CandleMiniIcon" silver="260" rating="2" canBuy="0">
+                <dimension width="0.3" length="0.3" height="0.2" />
+                <placement table="1" />
+                <direction names="SW" />
+            </item>
+
+        </category>
+
+    </category>
+
+</config>

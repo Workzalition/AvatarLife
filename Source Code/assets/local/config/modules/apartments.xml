@@ -1,0 +1,7 @@
+<Apartments>
+	<LockPrices>
+		<Price gold="0" silver="0" time="1200"/>
+		<Price gold="0" silver="100" time="3600"/>
+		<Price gold="1" silver="0" time="43200"/>
+	</LockPrices>
+</Apartments>

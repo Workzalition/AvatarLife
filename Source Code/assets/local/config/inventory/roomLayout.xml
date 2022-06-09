@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<config id="furniture">
+	    <category id="28" label="#roomCategory" typeClass="furniture" library="house" logCategory1="roomLayout" logCategory2="room">
+        
+        <item id="room1" label="#room1Title" name="RoomBase" icon="RoomBaseIcon" gold="5" silver="1000" buyCount="0" saleSilver="100">
+            
+            <countLimit count="2" playerLevel="3" />
+            <countLimit count="3" playerLevel="5" />
+            <countLimit count="4" playerLevel="7" />
+            <countLimit count="5" playerLevel="9" />
+            
+        </item>
+    </category>
+</config>

@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <menuItems>
+        <item id="back" tag="BACK" icon="action_back_icon" lable="backButtonTitle" unblockable="true"/>
+
+        <item id="passport" tag="PASSPORT" icon="action_passport_icon" lable="passportButtonTitle" unblockable="true"/>
+        <item id="visit" tag="VISIT" icon="action_toguest_icon" lable="visitHouseButtonTitle" />
+        <item id="talk" tag="TALK" icon="action_say_icon" lable="messageButtonTitle" />
+
+        <item id="gifts" tag="MENU" icon="icon_action_gift" label="giftsButtonTitle" />
+        <item id="make_gift" tag="MAKE_GIFT" icon="action_gift_icon" label="giftButtonTitle"/>
+
+        <item id="actions" tag="MENU" icon="action_activity_icon" label="actionButtonTitle" unblockable="true"/>
+        <item id="kick" tag="KICK" icon="action_kick_icon" label="kickButtonTitle" unblockable="true"/>
+        <item id="slap" tag="SLAP" icon="action_slap_icon" label="slapButtonTitle" unblockable="true"/>
+        <item id="fight" tag="FIGHT" icon="action_fight_icon" label="fightButtonTitle"/>
+        <item id="kiss" tag="KISS" icon="action_kiss_icon" label="kissButtonTitle" privilege="kiss"> 
+            <condition type="censure" /> 
+        </item>
+        <item id="kiss_nocens" tag="KISS" icon="action_kiss_icon" label="kissButtonTitle" privilege="kiss_nocens"> 
+            <condition type="not">
+                <condition type="censure" />
+            </condition>
+        </item>
+        <item id="kiss_long" tag="KISS_LONG" icon="action_kiss_icon" label="longKissButtonTitle" privilege="longKiss" >
+            <condition type="censure" />
+        </item>
+        <item id="kiss_long_nocens" tag="KISS_LONG" icon="action_kiss_icon" label="longKissButtonTitle" privilege="longKiss_nocens"> 
+            <condition type="not">
+                <condition type="censure" />
+            </condition>
+        </item>
+        <item id="hug" tag="HUG" icon="action_hug_icon" label="hugButtonTitle"/>
+        <item id="throw_cake" tag="THROW_CAKE" icon="action_throw_cake_icon" label="smearCakeButtonTitle" unblockable="true">
+            <condition type="locationChanged" location="cafe"/>
+        </item>
+        
+        <item id="pairDance" tag="EVENT_ACTION" icon="action_pdnc_menu_icon" label="#danceButtonTitle">
+            <condition type="locationChanged" location="club"/>
+        </item> 
+         
+        <item id="relations" tag="MENU" icon="action_relation_icon" label="relations" />
+        <item id="be_buddies" tag="BE_BUDDIES" icon="action_to_buddy_icon" label="associateButtonTitle" privilege="addToAssociates" />
+        <item id="remove_from_buddies" tag="REMOVE_FROM_BUDDIES" icon="action_remove_buddy_icon" label="removeBuddyButtonTitle" privilege="removeFromAssociates"/>
+        <item id="be_enemies" tag="BE_ENEMIES" icon="action_to_enemy_icon" label="enemyButtonTitle" privilege="addToEnemys"/>
+        <item id="remove_from_enemies" tag="REMOVE_FROM_ENEMIES" icon="action_to_buddy_icon" label="noEnemyButtonTitle" privilege="removeFromEnemys" />
+        <item id="be_friends" tag="BE_FRIENDS" icon="action_to_buddy_icon" label="addFriendButtonTitle" privilege="addToFriends" />
+        <item id="remove_from_friends" tag="REMOVE_FROM_FRIENDS" icon="action_remove_buddy_icon" label="removeFriendButtonTitle" privilege="removeFromFriends" />
+        <item id="be_loved" tag="BE_LOVED" icon="action_add_beloved_icon" label="addBelovedButtonTitle" privilege="addToBeloved"> 
+            <condition type="censure" />
+        </item>
+        <item id="remove_from_loved" tag="REMOVE_FROM_LOVED" icon="action_remove_from_beloved_icon" label="removeFromBelovedButtonTitle" privilege="removeFromBeloved" />
+        <item id="be_engaged" tag="BE_ENGAGED" icon="action_add_beloved_icon" label="addEngagedButtonTitle" privilege="addToEngaged"> 
+            <condition type="censure" />
+        </item>
+        <item id="remove_from_engaged" tag="REMOVE_FROM_ENGAGED" icon="action_remove_from_beloved_icon" label="removeFromEngagedButtonTitle" privilege="removeFromEngaged" />
+        <item id="be_married" tag="BE_MARRIED" icon="action_add_beloved_icon" label="addMarriedButtonTitle" privilege="addToMarried"> 
+            <condition type="censure" />
+        </item>
+        <item id="remove_from_married" tag="REMOVE_FROM_MARRIED" icon="action_remove_from_beloved_icon" label="removeFromMarriedButtonTitle" privilege="removeFromMarried" />
+        <item id="be_loved_nocens" tag="BE_LOVED" icon="action_add_beloved_icon" label="addBelovedButtonTitle" privilege="addToBeloved_nocens"> 
+            <condition type="not">
+                <condition type="censure" />
+            </condition>
+        </item>
+        <item id="be_engaged_nocens" tag="BE_ENGAGED" icon="action_add_beloved_icon" label="addEngagedButtonTitle" privilege="addToEngaged_nocens"> 
+            <condition type="not">
+                <condition type="censure" />
+            </condition>
+        </item>
+        <item id="be_married_nocens" tag="BE_MARRIED" icon="action_add_beloved_icon" label="addMarriedButtonTitle" privilege="addToMarried_nocens"> 
+            <condition type="not">
+                <condition type="censure" />
+            </condition>
+        </item>
+
+        <item id="treat" tag="TREAT" icon="icon_action_order" label="sendCafeDishButtonTitle" unblockable="true">
+            <condition type="any">
+                <condition type="locationChanged" location="club"/>
+                <condition type="locationChanged" location="cafe"/>
+                <condition type="locationChanged" location="publicBeach"/>
+            </condition>
+        </item>
+        <item id="kick_out" tag="KICK_OUT" icon="icon_exit" label="driveOutButtonTitle" unblockable="true">
+            <condition type="myHouse" />
+        </item>
+
+        <item id="rage" tag="RAGE" icon="action_rage_icon" label="angryButtonTitle" />
+        <item id="wash_up" tag="WASH_UP" icon="action_wash_up_icon" label="washButtonTitle">
+            <condition type="avatarDirty" />
+        </item>
+        <item id="dance" tag="DANCE" icon="icon_action_music" label="danceButtonTitle" />
+        <item id="cry" tag="CRY" icon="action_cry_icon" label="cryingButtonTitle" />
+
+        <item id="furSit" action="furSit" icon="furSit_icon" label="furSitButtonTitle" />
+        
+        <item id="ClearMe" action="ClearMe" icon="action_wash_hands_icon" label="ClearMeButtonTitle" />
+        <item id="ClearMeOn" action="ClearMeOn" toState="on" icon="icon_on" label="#turnOnButtonTitle" />
+        <item id="ClearMeOff" action="ClearMeOff" toState="off" icon="icon_exit" label="#turnOffButtonTitle" />
+
+        <item id="CookMe" action="CookMe" icon="action_cooking_icon" label="CookMeButtonTitle" />
+        <item id="CookMeOn" action="CookMeOn" toState="on" icon="icon_on" label="#turnOnButtonTitle" />
+        <item id="CookMeOff" action="CookMeOff" toState="off" icon="icon_exit" label="#turnOffButtonTitle" />
+
+    </menuItems>
+
+    <menuSets>
+        <set id="avatar" >
+            <item id="visit" />
+            <item id="talk" />
+            <item id="make_gift" />
+            <item id="actions">
+                <item id="back" />
+                <item id="kick" />
+                <item id="slap" />
+                <item id="fight" />
+                <item id="kiss" />
+                <item id="kiss_nocens" />
+                <item id="kiss_long" />
+                <item id="kiss_long_nocens" />
+                <item id="hug" />
+                <item id="throw_cake" />
+            </item>
+            <item id="relations">
+                <item id="back" />
+                <item id="be_enemies" />
+                <item id="remove_from_enemies" />
+                <item id="be_buddies" />
+                <item id="remove_from_buddies" />
+                <item id="be_friends" />
+                <item id="remove_from_friends" />
+                <item id="be_loved" />
+                <item id="remove_from_loved" />
+                <item id="be_engaged" />
+                <item id="remove_from_engaged" />
+                <item id="be_married" />
+                <item id="remove_from_married" />
+                <item id="be_loved_nocens" />
+                <item id="be_engaged_nocens" />
+                <item id="be_married_nocens" />
+            </item>
+            <item id="treat" />
+            <item id="kick_out" />
+            <item id="passport" />
+            <item id="pairDance" />
+        </set>
+        <set id="myAvatar">
+            <item id="dance" />
+            <item id="cry" />
+            <item id="rage" />
+            <item id="wash_up" />
+            <item id="passport" />
+        </set>
+        <set id="grkitchen_sink_off"> 
+            <item id="ClearMeOn"  />
+        </set>
+        <set id="grkitchen_sink_on"> 
+            <item id="ClearMeOff"  />
+            <item id="ClearMe"  />
+        </set>
+        <set id="grkitchen_cooker_off"> 
+            <item id="CookMeOn"  />
+        </set>
+        <set id="grkitchen_cooker_on"> 
+            <item id="CookMeOff"  />
+            <item id="CookMe"  />
+        </set>
+
+    </menuSets>
+</config>

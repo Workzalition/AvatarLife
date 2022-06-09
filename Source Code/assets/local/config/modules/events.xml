@@ -1,0 +1,23 @@
+<root>
+<EventsRestriction minLvl="5"/>
+<EventCosts>
+	<EventCost cost="2" star="true" type="party" time="30"/> <!-- 1 -->
+	<EventCost cost="4" star="true" type="party" time="60"/> <!-- 2 -->
+	<EventCost cost="8" star="true" type="party" time="120"/> <!-- 3 -->
+	<EventCost cost="2" star="true" type="sale" time="30"/> <!-- 4 -->
+	<EventCost cost="4" star="true" type="sale" time="60"/> <!-- 5 -->
+	<EventCost cost="8" star="true" type="sale" time="120"/> <!-- 6 -->
+	<EventCost cost="2" star="true" type="wedding" time="30"/> <!-- 7 -->
+	<EventCost cost="4" star="true" type="wedding" time="60"/> <!-- 8 -->
+	<EventCost cost="8" star="true" type="wedding" time="120"/> <!-- 9 -->
+	<EventCost cost="500" star="false" type="party" time="30"/> <!-- 10 -->
+	<EventCost cost="1000" star="false" type="party" time="60"/> <!-- 11 -->
+	<EventCost cost="2000" star="false" type="party" time="120"/> <!-- 12 -->
+	<EventCost cost="500" star="false" type="sale" time="30"/> <!-- 13 -->
+	<EventCost cost="1000" star="false" type="sale" time="60"/> <!-- 14 -->
+	<EventCost cost="2000" star="false" type="sale" time="120"/> <!-- 15 -->
+	<EventCost cost="500" star="false" type="wedding" time="30"/> <!-- 16 -->
+	<EventCost cost="1000" star="false" type="wedding" time="60"/> <!-- 17 -->
+	<EventCost cost="2000" star="false" type="wedding" time="120"/> <!-- 18 -->
+</EventCosts>
+</root>

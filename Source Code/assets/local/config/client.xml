@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<socket timeout="0" />
+	<internet normalLimit="1000" />
+    <associates limit="100" />
+</config>

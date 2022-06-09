@@ -1,0 +1,2210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config>
+
+    <!-- TUTORIAL -->
+    <quest id="q1" initial="true" type="0" queue="0">
+        <title>#quest1Title</title>
+        <award>
+            <exp>10</exp>
+            <energy>10</energy>
+            <comment>#quest1Comment</comment>
+        </award>
+        <rules>
+            <playerLevel min="1" max="1"/>
+        </rules>
+        <tasks>
+            <task type="roomDecor" title="#quest1Task1Title" maxProgress="1">
+                <item typeId="wtrfll1"/>
+                <item typeId="wtrfll3"/>
+                <hint target="editLayoutButton" direction="left"/>
+            </task>
+        </tasks>
+    </quest>
+    <quest id="q2" type="0" queue="0">
+        <title>#quest2Title</title>
+        <award>
+            <exp>10</exp>
+            <silver>2000</silver>
+            <gold>3</gold>
+            <comment>#quest2Comment</comment>
+        </award>
+        <rules>
+            <neededQuest id="q1"/>
+        </rules>
+        <tasks>
+            <task type="wearClothes" title="#quest2Task1Title" maxProgress="1"/>
+        </tasks>
+    </quest>
+    <quest id="q3" type="0" queue="0">
+        <title>#quest3Title</title>
+        <award>
+            <exp>10</exp>
+            <energy>20</energy>
+            <comment>#quest3Comment</comment>
+        </award>
+        <rules>
+            <neededQuest id="q2"/>
+        </rules>
+        <tasks>
+            <task type="buyRandomItem" title="#quest158Task2Title" maxProgress="1">
+                <item typeId="cfCof"/>
+            </task>
+        </tasks>
+    </quest>
+    <quest id="q4" type="0" queue="0">
+        <title>#quest4Title</title>
+        <award>
+            <exp>10</exp>
+            <item typeId="craftedEnergyDrink" count="1"/>
+            <comment>#quest4Comment</comment>
+        </award>
+        <rules>
+            <neededQuest id="q3"/>
+        </rules>
+        <tasks>
+            <task type="dance" title="#danceInClub" maxProgress="1" locationId="club"/>
+        </tasks>
+    </quest>
+    <quest id="q5" type="0" queue="0">
+        <title>#quest5Title</title>
+        <award>
+            <exp>10</exp>
+            <item typeId="lamp6" count="1"/>
+            <item typeId="caseVlnt1" count="1"/>
+            <item typeId="vaseBase" count="1"/>
+            <comment>#quest5Comment</comment>
+        </award>
+        <rules>
+            <neededQuest id="q4"/>
+        </rules>
+        <tasks>
+            <task type="finishTutorial" title="#quest125Task1Title" maxProgress="1"/>
+        </tasks>
+    </quest>
+    
+    <!-- COLLECT'n'DECORATE -->
+    
+    <!-- 2 level -->
+    <quest id="q31" type="0" queue="0">
+        <title>#quest31Title</title>
+        <comment>#quest31Comment</comment>
+        <description>#quest31Description</description>
+        <helpButton action="openDialog" target="clothes" title="#hbClothesShopTitle"/>
+        <award>
+            <exp>20</exp>
+            <silver>900</silver>
+        </award>
+        <rules>
+            <playerLevel min="2" max="2"/>
+        </rules>
+        <tasks>
+            <task type="clothesRating" title="#changeClothesRating" maxProgress="35"/>
+        </tasks>
+    </quest>
+    <quest id="q6" type="0" queue="0">
+        <title>#quest6Title</title>
+        <comment>#quest6Comment</comment>
+        <description>#quest6Description</description>
+        <helpButton action="loadLocation" target="cafe" title="#hbCafeLocationTitle"/>
+        <award>
+            <exp>20</exp>
+            <silver>750</silver>
+        </award>
+        <rules>
+            <playerLevel min="2" max="2"/>
+        </rules>
+        <tasks>
+            <task type="buyRandomItem" title="#quest6Task1Title" maxProgress="1">
+                <item typeId="cfCak"/>
+                <item typeId="cfCof"/>
+                <item typeId="cfPiz"/>
+            </task>
+        </tasks>
+    </quest>
+    
+    <!-- 3 level -->
+    <quest id="q11" type="0" queue="0">
+        <title>#quest11Title</title>
+        <description>#quest11Description</description>
+        <comment>#buyRoomComment</comment>
+        <award>
+            <exp>25</exp>
+            <silver>1250</silver>
+            <item typeId="bed4"/>
+        </award>
+        <rules>
+            <playerLevel min="3" max="3"/>
+        </rules>
+        <tasks>
+            <task type="buyRoom" title="#buyRoom" maxProgress="1"/>
+        </tasks>
+    </quest>
+    <quest id="q16" type="0" queue="0">
+        <title>#quest16Title</title>
+        <description>#quest16Description</description>
+        <helpButton action="openDialog" target="furniture" tag="0" title="#hbFurnitureShopTitle"/>
+        <award>
+            <exp>25</exp>
+            <silver>2500</silver>
+        </award>
+        <rules>
+            <playerLevel min="3" max="3"/>
+        </rules>
+        <tasks>
+            <task type="changeRoomLayout" title="#quest16Task1Title" maxProgress="1" categoryId="1"/>
+            <task type="changeRoomLayout" title="#quest16Task2Title" maxProgress="1" categoryId="4"/>
+        </tasks>
+    </quest>
+    <quest id="q32" type="0" queue="0">
+        <title>#quest32Title</title>
+        <description>#quest32Description</description>
+        <helpButton action="openDialog" target="furniture" tag="9" title="#hbFurnitureShopTitle"/>
+        <award>
+            <exp>25</exp>
+            <silver>2750</silver>
+        </award>
+        <rules>
+            <playerLevel min="3" max="3"/>
+        </rules>
+        <tasks>
+            <task type="buyFurnitureByCategory" title="#quest32Task1Title" maxProgress="1" categoryId="9"/>
+            <task type="roomDecorByCategory" title="#quest32Task2Title" maxProgress="1" categoryId="9"/>
+        </tasks>
+    </quest>
+    
+    <!-- 4 level -->
+    <quest id="q17" type="0" queue="0">
+        <title>#quest17Title</title>
+        <description>#quest17Description</description>
+        <helpButton action="openDialog" target="furniture" tag="2" title="#hbFurnitureShopTitle"/>
+        <award>
+            <exp>45</exp>
+            <silver>3500</silver>
+        </award>
+        <rules>
+            <playerLevel min="4" max="4"/>
+        </rules>
+        <tasks>
+            <task type="buyFurniture" title="#quest17Task1Title" maxProgress="1">
+                <item typeId="door2"/>
+                <item typeId="door3"/>
+                <item typeId="door4"/>
+                <item typeId="door5"/>
+                <item typeId="door6"/>
+                <item typeId="door7"/>
+                <item typeId="door8"/>
+                <item typeId="door9"/>
+                <item typeId="door10"/>
+                <item typeId="door11"/>
+                <item typeId="dram1"/>
+                <item typeId="dram2"/>
+                <item typeId="doorWdn1"/>
+                <item typeId="doorVip1"/>
+                <item typeId="doorVip2"/>
+            </task>
+            <task type="decorateDoor" title="#quest17Task2Title" maxProgress="1"/>
+        </tasks>
+    </quest>
+    <quest id="q44" type="0" queue="0">
+        <title>#quest44Title</title>
+        <description>#quest44Description</description>
+        <helpButton action="openDialog" target="furniture" tag="15" title="#hbFurnitureShopTitle"/>
+        <award>
+            <exp>45</exp>
+            <silver>2750</silver>
+        </award>
+        <rules>
+            <playerLevel min="4" max="4"/>
+        </rules>
+        <tasks>
+            <task type="roomDecor" title="#quest44Task1Title" maxProgress="1">
+                <item typeId="lamp2"/>
+                <item typeId="lamp3"/>
+                <item typeId="lamp4"/>
+                <item typeId="lamp5"/>
+                <item typeId="lamp6"/>
+                <item typeId="lamp7"/>
+                <item typeId="lampArtDeco"/>
+                <item typeId="lampDeco"/>
+                <item typeId="scullCandle"/>
+                <item typeId="pumpkinSilver"/>
+                <item typeId="pumpkinHlwn"/>
+                <item typeId="pumpkinBlack"/>
+                <item typeId="ghostBlack"/>
+                <item typeId="candleCobweb"/>
+            </task>
+            <task type="roomDecor" title="#quest44Task2Title" maxProgress="1">
+                <item typeId="lamp1"/>
+                <item typeId="lamp8"/>
+                <item typeId="lamp9"/>
+                <item typeId="lamp10"/>
+                <item typeId="lamp11"/>
+                <item typeId="candleWallHlwn"/>
+            </task>
+            <task type="roomDecorByCategory" title="#quest44Task3Title" maxProgress="1" categoryId="12"/>
+        </tasks>
+    </quest>
+    <quest id="q34" type="0" queue="0">
+        <title>#quest34Title</title>
+        <description>#quest34Description</description>
+        <helpButton action="openDialog" target="furniture" title="#hbFurnitureShopTitle"/>
+        <award>
+            <exp>50</exp>
+            <silver>4500</silver>
+            <gold>1</gold>
+        </award>
+        <rules>
+            <playerLevel min="4" max="4"/>
+        </rules>
+        <tasks>
+            <task type="houseRating" title="#changeHouseRating" maxProgress="10"/>
+        </tasks>
+    </quest>
+    
+    <!-- 5 level -->
+    <quest id="q38" type="0" queue="0">
+        <title>#quest38Title</title>
+        <description>#quest38Description</description>
+        <helpButton action="openDialog" target="clothes" title="#hbClothesShopTitle"/>
+        <award>
+            <exp>50</exp>
+            <silver>4500</silver>
+            <gold>1</gold>
+        </award>
+        <rules>
+            <playerLevel min="5" max="5"/>
+            <gender value="boy"/>
+        </rules>
+        <tasks>
+            <task type="buyItemByCategory" title="#quest38Task1Title" maxProgress="1" categoryId="boyShoes"/>
+            <task type="buyItemByCategory" title="#quest38Task2Title" maxProgress="1" categoryId="boyBottomClothes"/>
+            <task type="buyItemByCategory" title="#quest38Task3Title" maxProgress="1" categoryId="boyShirts"/>
+            <task type="buyItemByCategory" title="#quest38Task4Title" maxProgress="1" categoryId="boyJackets"/>
+        </tasks>
+    </quest>
+    <quest id="q39" type="0" queue="0">
+        <title>#quest38Title</title>
+        <description>#quest38Description</description>
+        <helpButton action="openDialog" target="clothes" title="#hbClothesShopTitle"/>
+        <award>
+            <exp>50</exp>
+            <silver>4500</silver>
+            <gold>1</gold>
+        </award>
+        <rules>
+            <playerLevel min="5" max="5"/>
+            <gender value="girl"/>
+        </rules>
+        <tasks>
+            <task type="buyItemByCategory" title="#quest38Task1Title" maxProgress="1" categoryId="girlShoes"/>
+            <task type="buyItemByCategory" title="#quest39Task2Title" maxProgress="1" categoryId="girlBottomClothes"/>
+            <task type="buyItemByCategory" title="#quest39Task3Title" maxProgress="1" categoryId="girlShirts"/>
+            <task type="buyItemByCategory" title="#quest38Task4Title" maxProgress="1" categoryId="girlJackets"/>
+        </tasks>
+    </quest>
+    <quest id="q36" type="0" queue="0">
+        <title>#quest36Title</title>
+        <description>#quest36Description</description>
+        <helpButton action="openDialog" target="clothes" title="#hbClothesShopTitle"/>
+        <award>
+            <exp>50</exp>
+            <silver>4500</silver>
+        </award>
+        <rules>
+            <playerLevel min="5" max="5"/>
+        </rules>
+        <tasks>
+            <task type="clothesRating" title="#changeClothesRating" maxProgress="45"/>
+        </tasks>
+    </quest>
+    
+
+    
+    <!-- EXPLORE'n'EARN -->
+    
+    <!-- 2 level -->
+    <quest id="q15" type="0" queue="1">
+        <title>#quest15Title</title>
+        <description>#quest15Description</description>
+
+        <award>
+            <exp>20</exp>
+            <silver>450</silver>
+        </award>
+        <rules>
+            <playerLevel min="2" max="2"/>
+        </rules>
+        <tasks>
+            <task type="serviceItem" title="#gdBugTitle" maxProgress="3">
+                <item typeId="gdBug"/>
+            </task>
+            <task type="serviceItem" title="#gdBtfTitle" maxProgress="1">
+                <item typeId="gdBtf"/>
+            </task>
+            <task type="serviceItem" title="#gdFlwTitle" maxProgress="5">
+                <item typeId="gdFlw"/>
+            </task>
+        </tasks>
+    </quest>
+    <quest id="q12" type="0" queue="1">
+        <title>#quest12Title</title>
+        <description>#quest12Description</description>
+        
+        <award>
+            <exp>20</exp>
+            <silver>350</silver>
+        </award>
+        <rules>
+            <playerLevel min="2" max="2"/>
+        </rules>
+        <tasks>
+            <task type="pickGarbage" title="#pickGarbage" maxProgress="5" gold="1"/>
+        </tasks>
+    </quest>
+    <quest id="q35" type="0" queue="1">
+        <title>#quest35Title</title>
+        <description>#quest35Description</description>
+        <helpButton action="loadWork" target="fortune" title="#hbFortuneWorkTitle"/>
+        <award>
+            <exp>20</exp>
+            <silver>350</silver>
+            <item typeId="gameChips" count="3"/>
+        </award>
+        <rules>
+            <playerLevel min="2" max="2"/>
+        </rules>
+        <tasks>
+            <task type="fortuneWin" title="#fortuneWin" maxProgress="1"/>
+        </tasks>
+    </quest>
+    
+    <!-- 3 level -->
+    <quest id="q33" type="0" queue="1">
+        <title>#quest33Title</title>
+        <description>#quest33Description</description>
+        <award>
+            <exp>25</exp>
+            <silver>650</silver>
+            <energy>250</energy>
+        </award>
+        <rules>
+            <playerLevel min="3" max="3"/>
+        </rules>
+        <tasks>
+            <task type="collectResources" title="#spendEnergy" maxProgress="150" resource="energy" gold="2"/>
+        </tasks>
+    </quest>
+    <quest id="q99" type="0" queue="1">
+        <title>#quest99Title</title>
+        <description>#quest99Description</description>
+        <comment>#gdwsComment</comment>
+
+        <award>
+            <exp>25</exp>
+            <silver>750</silver>
+            <energy>100</energy>
+        </award>
+        <rules>
+            <playerLevel min="3" max="3"/>
+        </rules>
+        <tasks>
+            <task type="doneWorkSession" title="#doneGardenWorkSession" maxProgress="1" workId="garden" gold="1"/>
+        </tasks>
+    </quest>
+    <quest id="q41" type="0" queue="1">
+        <title>#quest41Title</title>
+        <description>#quest41Description</description>
+        <helpButton action="loadWork" target="fortune" title="#hbFortuneWorkTitle"/>
+        <award>
+            <exp>25</exp>
+            <silver>500</silver>
+            <item typeId="gameChips" count="5"/>
+        </award>
+        <rules>
+            <playerLevel min="3" max="3"/>
+        </rules>
+        <tasks>
+            <task type="fortuneWin" title="#fortuneWin" maxProgress="3" gold="1"/>
+        </tasks>
+    </quest>
+    <quest id="q37" type="0" queue="1">
+        <title>#quest37Title</title>
+        <description>#quest37Description</description>
+        
+        <award>
+            <exp>25</exp>
+            <silver>850</silver>
+        </award>
+        <rules>
+            <playerLevel min="3" max="3"/>
+        </rules>
+        <tasks>
+            <task type="pickGarbage" title="#pickGarbage" maxProgress="10" gold="1"/>
+        </tasks>
+    </quest>
+    
+    <!-- 4 level -->
+    <quest id="q48" type="0" queue="1">
+        <title>#quest48Title</title>
+        <description>#quest48Description</description>
+        <award>
+            <exp>35</exp>
+            <silver>4500</silver>
+            <item typeId="pictureBeach"/>
+        </award>
+        <rules>
+            <playerLevel min="4" max="4"/>
+        </rules>
+        <tasks>
+            <task type="collectResources" title="#spendSilver" maxProgress="3000" resource="silver" gold="3"/>
+        </tasks>
+    </quest>
+    <quest id="q22" type="0" queue="1">
+        <title>#quest22Title</title>
+        <description>#quest22Description</description>
+
+        <award>
+            <exp>35</exp>
+            <silver>950</silver>
+        </award>
+        <rules>
+            <playerLevel min="4" max="4"/>
+        </rules>
+        <tasks>
+            <task type="serviceItem" title="#gdBugTitle" maxProgress="4">
+                <item typeId="gdBug"/>
+            </task>
+            <task type="serviceItem" title="#gdBtfTitle" maxProgress="2">
+                <item typeId="gdBtf"/>
+            </task>
+            <task type="serviceItem" title="#gdFlwTitle" maxProgress="7">
+                <item typeId="gdFlw"/>
+            </task>
+        </tasks>
+    </quest>
+    <quest id="q54" type="0" queue="1">
+        <title>#quest54Title</title>
+        <description>#quest54Description</description>
+        <helpButton action="loadWork" target="fortune" title="#hbFortuneWorkTitle"/>
+        <award>
+            <exp>35</exp>
+            <silver>550</silver>
+            <item typeId="gameChips" count="5"/>
+        </award>
+        <rules>
+            <playerLevel min="4" max="4"/>
+        </rules>
+        <tasks>
+            <task type="fortuneWin" title="#fortuneWin" maxProgress="3" gold="1"/>
+        </tasks>
+    </quest>
+    <quest id="q93" type="0" queue="1">
+        <title>#quest93Title</title>
+        <description>#quest93Description</description>
+        <comment>#gwsComment</comment>
+        
+        <award>
+            <exp>35</exp>
+            <silver>1500</silver>
+            <energy>250</energy>
+        </award>
+        <rules>
+            <playerLevel min="4" max="4"/>
+        </rules>
+        <tasks>
+            <task type="doneWorkSession" title="#doneGarbageWorkSession" maxProgress="3" workId="garbage" gold="3"/>
+        </tasks>
+    </quest>
+    
+    <!-- 5 level -->
+    <quest id="q43" type="0" queue="1">
+        <title>#quest43Title</title>
+        <description>#quest43Description</description>
+        <award>
+            <exp>50</exp>
+            <silver>750</silver>
+            <energy>325</energy>
+        </award>
+        <rules>
+            <playerLevel min="5" max="5"/>
+        </rules>
+        <tasks>
+            <task type="collectResources" title="#spendEnergy" maxProgress="250" resource="energy" gold="1"/>
+        </tasks>
+    </quest>
+    <quest id="q108" type="0" queue="1">
+        <title>#quest108Title</title>
+        <description>#quest108Description</description>
+        <comment>#cgdwsComment</comment>
+
+        <award>
+            <exp>50</exp>
+            <silver>1200</silver>
+            <energy>150</energy>
+        </award>
+        <rules>
+            <playerLevel min="5" max="5"/>
+        </rules>
+        <tasks>
+            <task type="createWorkSession" title="#createGardenWorkSession" maxProgress="3" workId="garden" period="1440" gold="6"/>
+        </tasks>
+    </quest>
+    <quest id="q67" type="0" queue="1">
+        <title>#quest67Title</title>
+        <description>#quest67Description</description>
+        <helpButton action="loadWork" target="fortune" title="#hbFortuneWorkTitle"/>
+        <award>
+            <exp>50</exp>
+            <silver>800</silver>
+            <item typeId="gameChips" count="5"/>
+        </award>
+        <rules>
+            <playerLevel min="5" max="5"/>
+        </rules>
+        <tasks>
+            <task type="fortuneWin" title="#fortuneWin" maxProgress="5" gold="2"/>
+        </tasks>
+    </quest>
+    <quest id="q52" type="0" queue="1">
+        <title>#quest52Title</title>
+        <description>#quest52Description</description>
+        
+        <award>
+            <exp>50</exp>
+            <silver>750</silver>
+        </award>
+        <rules>
+            <playerLevel min="5" max="5"/>
+        </rules>
+        <tasks>
+            <task type="pickGarbage" title="#pickGarbage" maxProgress="15" gold="2"/>
+        </tasks>
+    </quest>
+    
+    
+    <!-- SOCIAL -->
+    
+    <!-- 2 level -->
+    <quest id="q121" type="0" queue="2">
+        <title>#quest121Title</title>
+        <description>#quest121Description</description>
+        <helpButton action="openDialog" target="publicLocations" title="#hbPublicLocationsTitle"/>
+        <award>
+            <exp>20</exp>
+            <energy>125</energy>
+            <silver>850</silver>
+        </award>
+        <rules>
+            <playerLevel min="2" max="2"/>
+        </rules>
+        <tasks>
+            <task type="dance" title="#danceInCafe" maxProgress="3" locationId="cafe"/>
+            <task type="dance" title="#danceInSchool" maxProgress="3" locationId="schoolAvataria"/>
+            <task type="dance" title="#danceInPark" maxProgress="3" locationId="park"/>
+            <task type="dance" title="#danceInStreet" maxProgress="3" locationId="street"/>
+        </tasks>
+    </quest>
+    <quest id="q9" type="0" queue="2">
+        <title>#quest9Title</title>
+        <description>#quest9Description</description>
+        <comment>#quest9Comment</comment>
+        <award>
+            <exp>20</exp>
+            <silver>500</silver>
+        </award>
+        <rules>
+            <playerLevel min="2" max="2"/>
+        </rules>
+        <tasks>
+            <task type="addBuddy" title="#addBuddy" maxProgress="1" gold="1"/>
+        </tasks>
+    </quest>
+    <quest id="q10" type="0" queue="2">
+        <title>#quest10Title</title>
+        <description>#quest10Description</description>
+        <award>
+            <exp>20</exp>
+            <silver>650</silver>
+        </award>
+        <rules>
+            <playerLevel min="2" max="2"/>
+        </rules>
+        <tasks>
+            <task type="pickTrash" title="#friendsHelp" maxProgress="5" gold="1"/>
+        </tasks>
+    </quest>
+    
+    <!-- 3 level -->
+    <quest id="q19" type="0" queue="2">
+        <title>#quest19Title</title>
+        <description>#quest19Description</description>
+        <award>
+            <exp>25</exp>
+            <energy>100</energy>
+            <silver>750</silver>
+        </award>
+        <rules>
+            <playerLevel min="3" max="3"/>
+        </rules>
+        <tasks>
+            <task type="kiss" title="#kissAction" maxProgress="3" gold="1"/>
+        </tasks>
+    </quest>
+    <quest id="q135" type="0" queue="2">
+        <title>#quest135Title</title>
+        <description>#quest135Description</description>
+        <helpButton action="loadLocation" target="cafe" title="#hbCafeLocationTitle"/>
+        <award>
+            <exp>25</exp>
+            <silver>1450</silver>
+            <energy>250</energy>
+        </award>
+        <rules>
+            <playerLevel min="3" max="3"/>
+        </rules>
+        <tasks>
+            <task type="throwCake" title="#throwCake" maxProgress="3" gold="2"/>
+            <task type="wipeCake" title="#wipeCake" maxProgress="3" gold="2"/>
+            <task type="collectResources" title="#spendEnergy" maxProgress="150" resource="energy"/>
+        </tasks>
+    </quest>
+    <quest id="q23" type="0" queue="2">
+        <title>#quest23Title</title>
+        <description>#quest23Description</description>
+        <award>
+            <exp>25</exp>
+            <silver>1000</silver>
+            <energy>150</energy>
+        </award>
+        <rules>
+            <playerLevel min="3" max="3"/>
+        </rules>
+        <tasks>
+            <task type="pickTrash" title="#friendsHelp" maxProgress="10" gold="2"/>
+        </tasks>
+    </quest>
+    
+    <!-- 4 level -->
+    <quest id="q18" type="0" queue="2">
+        <title>#quest18Title</title>
+        <description>#quest18Description</description>
+        <helpButton action="loadLocation" target="club" title="#hbClubLocationTitle"/>
+        <award>
+            <exp>35</exp>
+            <silver>500</silver>
+            <energy>150</energy>
+        </award>
+        <rules>
+            <playerLevel min="4" max="4"/>
+        </rules>
+        <tasks>
+            <task type="dance" title="#danceInClub" maxProgress="3" locationId="club"/>
+        </tasks>
+    </quest>
+    <quest id="q14" type="0" queue="2">
+        <title>#quest14Title</title>
+        <description>#quest14Description</description>
+        <helpButton action="loadLocation" target="club" title="#hbClubLocationTitle"/>
+        <award>
+            <exp>35</exp>
+            <silver>1250</silver>
+            <gold>1</gold>
+        </award>
+        <rules>
+            <playerLevel min="4" max="4"/>
+        </rules>
+        <tasks>
+            <task type="giftRandomItem" title="#giftCoctail" maxProgress="1" gold="1">
+                <item typeId="clMoc"/>
+                <item typeId="clBlr"/>
+                <item typeId="clB52"/>
+            </task>
+        </tasks>
+    </quest>
+    <quest id="q46" type="0" queue="2">
+        <title>#quest46Title</title>
+        <description>#quest46Description</description>
+        <award>
+            <exp>35</exp>
+            <silver>1500</silver>
+        </award>
+        <rules>
+            <playerLevel min="4" max="4"/>
+        </rules>
+        <tasks>
+            <task type="pickTrash" title="#friendsHelp" maxProgress="15" gold="3"/>
+        </tasks>
+    </quest>
+    
+    <!-- 5 level -->
+
+    <quest id="q27" type="0" queue="2">
+        <title>#quest27Title</title>
+        <description>#quest27Description</description>
+        <helpButton action="loadLocation" target="club" title="#hbClubLocationTitle"/>
+        <award>
+            <exp>50</exp>
+            <silver>750</silver>
+            <energy>100</energy>
+        </award>
+        <rules>
+            <playerLevel min="5" max="5"/>
+        </rules>
+        <tasks>
+            <task type="dance" title="#danceInClub" maxProgress="5" locationId="club" gold="2"/>
+        </tasks>
+    </quest>
+    <quest id="q28" type="0" queue="2">
+        <title>#quest28Title</title>
+        <description>#quest28Description</description>
+        <award>
+            <exp>50</exp>
+            <silver>950</silver>
+            <energy>125</energy>
+        </award>
+        <rules>
+            <playerLevel min="5" max="5"/>
+        </rules>
+        <tasks>
+            <task type="kiss" title="#kissAction" maxProgress="5" gold="2"/>
+        </tasks>
+    </quest>
+    
+
+<!-- END OF MAIN QUEUE QUESTS -->
+<!-- ============================================================================================== -->
+<!-- BONUS QUESTS QUEUE -->
+
+
+    <quest id="q78" type="1">
+        <title>#quest78Title</title>
+        <description>#quest78Description</description>
+        <helpButton action="openDialog" target="furniture" tag="jacuzzi" title="#hbFurnitureShopTitle"/>
+        <award>
+            <gold>10</gold>
+        </award>
+        <rules>
+            <!-- добавил экспы взамен отключенного q20 -->
+            <exp>50</exp> 
+            <playerLevel min="5"/>
+        </rules>
+        <tasks>
+            <task type="buyFurniture" title="#quest78Task1Title" maxProgress="1">
+                <item typeId="jacuzzi1"/>
+                <item typeId="jacuzzi2"/>
+                <item typeId="jacuzzi3"/>
+                <item typeId="jacuzzi4"/>
+                <item typeId="jacuzzi5"/>
+            </task>
+            <task type="roomDecor" title="#quest78Task2Title" maxProgress="1">
+                <item typeId="jacuzzi1"/>
+                <item typeId="jacuzzi2"/>
+                <item typeId="jacuzzi3"/>
+                <item typeId="jacuzzi4"/>
+                <item typeId="jacuzzi5"/>
+            </task>
+        </tasks>
+    </quest>
+    
+    <quest id="q79boy" type="1">
+        <title>#quest79Title</title>
+        <description>#quest79boyDescription</description>
+        <helpButton action="openDialog" target="clothes" tag="boySwimsuit" title="#hbClothesShopTitle"/>
+        <award>
+            <silver>1500</silver>
+        </award>
+        <rules>
+            <playerLevel min="5"/>
+            <gender value="boy"/>
+        </rules>
+        <tasks>
+            <task type="buyClothes" title="#quest79boyTask1Title" maxProgress="1">
+                <item typeId="boySwimsuit1"/>
+                <item typeId="boySwimsuit2"/>
+                <item typeId="boySwimsuit3"/>
+                <item typeId="boySwimsuit4"/>
+                <item typeId="boySwimsuit5"/>
+                <item typeId="boySwimsuit6"/>
+            </task>
+        </tasks>
+    </quest>
+    
+    <quest id="q79girl" type="1">
+        <title>#quest79Title</title>
+        <description>#quest79girlDescription</description>
+        <helpButton action="openDialog" target="clothes" tag="girlSwimsuit" title="#hbClothesShopTitle"/>
+        <award>
+            <silver>1500</silver>
+        </award>
+        <rules>
+            <playerLevel min="5"/>
+            <gender value="girl"/>
+        </rules>
+        <tasks>
+            <task type="buyClothes" title="#quest79girlTask1Title" maxProgress="1">
+                <item typeId="girlSwimsuit1"/>
+                <item typeId="girlSwimsuit2"/>
+                <item typeId="girlSwimsuit3"/>
+                <item typeId="girlSwimsuit4"/>
+                <item typeId="girlSwimsuit5"/>
+                <item typeId="girlSwimsuit6"/>
+            </task>
+        </tasks>
+    </quest>
+    
+    <quest id="q87" type="1">
+        <title>#quest87Title</title>
+        <description>#quest87Description</description>
+        <comment>#quest87Comment</comment>
+        <helpButton action="openDialog" target="publicLocations" title="#hbPublicLocationsTitle"/>
+        <award>
+            <energy>75</energy>
+            <silver>300</silver>
+        </award>
+        <rules>
+            <playerLevel min="2"/>
+        </rules>
+        <tasks>
+            <task type="angry" title="#quest87Task1Title" maxProgress="1" locationId="yard"/>
+            <task type="cry" title="#quest87Task2Title" maxProgress="1" locationId="park"/>
+        </tasks>
+    </quest>
+    
+    <quest id="q88" type="1">
+        <title>#quest88Title</title>
+        <description>#quest88Description</description>
+        <award>
+            <energy>75</energy>
+            <silver>350</silver>
+        </award>
+        <rules>
+            <playerLevel min="4"/>
+        </rules>
+        <tasks>
+            <task type="hug" title="#hugAction" maxProgress="1"/>
+            <task type="kickAss" title="#kickAction" maxProgress="1"/>
+            <task type="slap" title="#slapAction" maxProgress="1"/>
+        </tasks>
+    </quest>
+    
+    <quest id="q89boy" type="1">
+        <title>#quest89Title</title>
+        <description>#quest89Description</description>
+        <award>
+            <energy>50</energy>
+        </award>
+        <rules>
+            <gender value="boy"/>
+            <neededQuest id="q79boy"/>
+        </rules>
+        <tasks>
+            <task type="sitInBath" title="#quest89Task1Title" maxProgress="1"/>
+        </tasks>
+    </quest>
+    
+    <quest id="q89girl" type="1">
+        <title>#quest89Title</title>
+        <description>#quest89Description</description>
+        <award>
+            <energy>50</energy>
+        </award>
+        <rules>
+            <gender value="girl"/>
+            <neededQuest id="q79girl"/>
+        </rules>
+        <tasks>
+            <task type="sitInBath" title="#quest89Task1Title" maxProgress="1"/>
+        </tasks>
+    </quest>
+    
+    <quest id="q90" type="1">
+        <title>#quest90Title</title>
+        <description>#quest90Description</description>
+        <comment>#quest90Comment</comment>
+        <helpButton action="openDialog" target="roomList" title="#hbMngApartment"/>
+        <award>
+            <energy>50</energy>
+            <silver>350</silver>
+        </award>
+        <rules>
+            <neededQuest id="q11"/>
+        </rules>
+        <tasks>
+            <task type="renameRoom" title="#quest90Task1Title" maxProgress="1"/>
+        </tasks>
+    </quest>
+    
+    <quest id="q91" type="1">
+        <title>#quest91Title</title>
+        <description>#quest91Description</description>
+        <comment>#quest91Comment</comment>
+        <helpButton action="openDialog" target="roomList" title="#hbMngApartment"/>
+        <award>
+            <silver>300</silver>
+			<exp>25</exp>
+        </award>
+        <rules>
+            <playerLevel min="3"/>
+        </rules>
+        <tasks>
+            <task type="switchHouseLock" title="#quest91Task1Title" maxProgress="1" lock="true"/>
+        </tasks>
+    </quest>
+    
+    <quest id="q92" type="1">
+        <title>#quest92Title</title>
+        <description>#quest92Description</description>
+        <comment>#quest92Comment</comment>
+        <helpButton action="openDialog" target="roomList" title="#hbMngApartment"/>
+        <award>
+            <silver>300</silver>
+        </award>
+        <rules>
+            <neededQuest id="q91"/>
+        </rules>
+        <tasks>
+            <task type="switchHouseLock" title="#quest92Task1Title" maxProgress="1" lock="false"/>
+        </tasks>
+    </quest>
+
+    <!-- Cake throwing -->
+      
+    <quest id="q122" type="1">
+        <title>#quest122Title</title>
+        <description>#quest122Description</description>
+        <helpButton action="loadLocation" target="cafe" title="#hbCafeLocationTitle"/>
+        <award>
+			<exp>25</exp>
+            <silver>575</silver>
+            <energy>100</energy>
+        </award>
+        <rules>
+            <playerLevel min="3"/>
+        </rules>
+        <tasks>
+            <task type="throwCake" title="#throwCake" maxProgress="1" gold="2"/>
+            <task type="wipeCake" title="#wipeCake" maxProgress="1" gold="2"/>
+        </tasks>
+    </quest>
+    
+    <!-- Create event -->
+      
+    <quest id="q125" type="1">
+        <title>#quest125Title</title>
+        <description>#quest125Description</description>
+        <comment>#createEventComment</comment>
+        <helpButton action="openDialog" target="event" title="#hbEventsTitle"/>
+        <award>
+            <gold>1</gold>
+        </award>
+        <rules>
+            <playerLevel min="5"/>
+        </rules>
+        <tasks>
+            <task type="createEvent" title="#createEvent" maxProgress="1"/>
+        </tasks>
+    </quest>
+    
+    <!-- Achieve level -->
+       
+    <quest id="q126" type="1">
+        <title>#quest126Title</title>
+        <comment>#rewardComment</comment>
+        <description>#quest126Description</description>
+        <helpButton action="openDialog" target="achievements" title="#hbAchievements"/>
+        <award>
+			<exp>20</exp>
+			<silver>350</silver>
+            <gold>1</gold>
+            <item typeId="generosity" count="1"/>
+        </award>
+        <rules>
+            <playerLevel min="2"/>
+        </rules>
+        <tasks>
+            <task type="achieveLevel" title="#quest126Task1Title" maxProgress="1" level="1" gold="5"/>
+        </tasks>
+    </quest>
+   
+    <quest id="q148" type="1">
+        <title>#quest148Title</title>
+        <comment>#rewardComment</comment>
+        <description>#quest148Description</description>
+        <helpButton action="openDialog" target="achievements" title="#hbAchievements"/>
+        <award>
+            <gold>3</gold>
+        </award>
+        <rules>
+            <neededQuest id="q126"/>
+        </rules>
+        <tasks>
+            <task type="achieveLevel" title="#quest148Task1Title" maxProgress="1" level="2" gold="12"/>
+        </tasks>
+    </quest>
+    
+    <quest id="q149" type="1">
+        <title>#quest149Title</title>
+        <comment>#rewardComment</comment>
+        <description>#quest149Description</description>
+        <helpButton action="openDialog" target="achievements" title="#hbAchievements"/>
+        <award>
+            <gold>5</gold>
+            <energy>275</energy>
+        </award>
+        <rules>
+            <neededQuest id="q148"/>
+        </rules>
+        <tasks>
+            <task type="achieveLevel" title="#quest149Task1Title" maxProgress="1" level="3" gold="25"/>
+        </tasks>
+    </quest>
+    
+    <!-- Change appearance -->
+      
+    <quest id="q127" type="1">
+        <title>#quest127Title</title>
+        <description>#quest127Description</description>
+        <comment>#quest127Comment</comment>
+        <helpButton action="openDialog" target="appearance" title="#hbAvatarApearance"/>
+        <award>
+			<exp>25</exp>
+            <silver>850</silver>
+        </award>
+        <rules>
+            <playerLevel min="3"/>
+        </rules>
+        <tasks>
+            <task type="changeAppearance" title="#quest127Task1Title" maxProgress="1" category="hair"/>
+        </tasks>
+    </quest>
+    
+    <quest id="q128" type="1">
+        <title>#quest128Title</title>
+        <description>#quest128Description</description>
+        <helpButton action="loadLocation" target="salon" title="#hbBeautySalonTitle"/>
+        <award>
+            <silver>1750</silver>
+        </award>
+        <rules>
+            <playerLevel min="6"/>
+        </rules>
+        <tasks>
+            <task type="changeAppearance" title="#quest128Task1Title" maxProgress="1" category="hair" salonOnly="true"/>
+            <task type="changeAppearance" title="#quest128Task2Title" maxProgress="1" category="eyes" salonOnly="true"/>
+            <task type="changeAppearance" title="#quest128Task3Title" maxProgress="1" category="mouth" salonOnly="true"/>
+        </tasks>
+    </quest>
+    
+    <!-- Craft & gift -->
+      
+    <quest id="q129" type="1">
+        <title>#quest129Title</title>
+        <description>#quest129Description</description>
+        <helpButton action="openDialog" target="craft" title="#hbCraft"/>
+        <award>
+            <gold>1</gold>
+            <energy>75</energy>
+        </award>
+        <rules>
+            <playerLevel min="5"/>
+        </rules>
+        <tasks>
+            <task type="craftItem" title="#craftAnyItem" maxProgress="1"/>
+        </tasks>
+    </quest>
+    
+    <quest id="q130" type="1">
+        <title>#quest130Title</title>
+        <description>#quest130Description</description>
+        <helpButton action="openDialog" target="craft" tag="moneyBox" title="#hbCraft"/>
+        <award>
+            <item typeId="generosity" count="3"/>
+            <gold>1</gold>
+        </award>
+        <rules>
+            <playerLevel min="6"/>
+        </rules>
+        <tasks>
+            <task type="craftItem" title="#craftMoneybox" maxProgress="1" typeId="moneyBox"/>
+            <task type="presentItem" title="#quest130Task2Title" maxProgress="1" typeId="moneyBox" gold="3"/>
+        </tasks>
+    </quest>
+    
+    <!-- Get mailbox -->
+       
+    <quest id="q132" type="1">
+        <title>#quest132Title</title>
+        <description>#quest132Description</description>
+        <helpButton action="openDialog" target="furniture" tag="mailBox" title="#hbFurnitureShopTitle"/>
+        <award>
+			<exp>20</exp>
+            <item typeId="happiness" count="3"/>
+            <energy>50</energy>
+        </award>
+        <rules>
+            <playerLevel min="2"/>
+        </rules>
+        <tasks>
+            <task type="buyFurnitureByCategory" title="#quest132Task1Title" maxProgress="1" categoryId="mailBox"/>
+            <task type="roomDecorByCategory" title="#quest132Task2Title" maxProgress="1" categoryId="mailBox"/>
+        </tasks>
+    </quest>
+    
+    <!-- Pillow fighting -->
+      
+    <quest id="q146" type="1">
+        <title>#quest146Title</title>
+        <description>#quest146Description</description>
+        <award>
+            <energy>75</energy>
+            <silver>500</silver>
+        </award>
+        <rules>
+            <playerLevel min="3"/>
+        </rules>
+        <tasks>
+            <task type="pillowFight" title="#winPillowBattle" maxProgress="3" gold="4"/>
+            <task type="collectLootItem" title="#collectFeather" maxProgress="1" typeId="feather" gold="3"/>
+        </tasks>
+    </quest>
+    
+    <!-- Break & repair -->
+      
+    <quest id="q147" type="1">
+        <title>#quest147Title</title>
+        <description>#quest147Description</description>
+        <award>
+            <energy>125</energy>
+            <silver>1250</silver>
+        </award>
+        <rules>
+            <playerLevel min="5"/>
+        </rules>
+        <tasks>
+            <task type="brokeFurniture" title="#brokeFurniture" maxProgress="1" gold="2"/>
+            <task type="repairFurniture" title="#repairFurniture" maxProgress="1" gold="2"/>
+        </tasks>
+    </quest>
+    
+    <!-- Plant bomb -->
+      
+    <quest id="q162" type="1">
+        <title>#quest162Title</title>
+        <description>#quest162Description</description>
+        <comment>#plantBombComment</comment>
+        <helpButton action="openDialog" target="jokes" title="#hbJokeAndPresentShopTitle"/>
+        <award>
+            <exp>50</exp>
+            <energy>50</energy>
+            <silver>750</silver>
+        </award>
+        <rules>
+            <playerLevel min="4"/>
+        </rules>
+        <tasks>
+            <task type="plaintBomb" title="#plantBomb" maxProgress="1"/>
+        </tasks>
+    </quest>
+    
+<!-- END OF BONUS QUESTS QUEUE -->
+<!-- ============================================================================================== -->
+<!-- LOCATION QUESTS -->
+
+    <!-- FORTUNE's WHEEL -->
+      
+    <quest id="fs1" type="3" locationId="fortune">
+        <title>#fsTitle</title>
+        <description>#fsDescription</description>
+        <award>
+            <item typeId="gameChips" count="3"/>
+            <silver>250</silver>
+        </award>
+        <rules>
+            <playerLevel min="2"/>
+        </rules>
+        <tasks>
+            <task type="fortuneCollect" title="#winSilver" maxProgress="1000" resource="silver"/>
+        </tasks>
+    </quest>
+    <quest id="fs2" type="3" locationId="fortune">
+        <title>#fsTitle</title>
+        <description>#fsDescription</description>
+        <award>
+            <item typeId="gameChips" count="5"/>
+            <silver>500</silver>
+        </award>
+        <rules>
+            <neededQuest id="fs1"/>
+        </rules>
+        <tasks>
+            <task type="fortuneCollect" title="#winSilver" maxProgress="2500" resource="silver"/>
+        </tasks>
+    </quest>
+    <quest id="fs3" type="3" locationId="fortune">
+        <title>#fsTitle</title>
+        <description>#fsDescription</description>
+        <award>
+            <item typeId="gameChips" count="7"/>
+            <silver>750</silver>
+        </award>
+        <rules>
+            <neededQuest id="fs2"/>
+        </rules>
+        <tasks>
+            <task type="fortuneCollect" title="#winSilver" maxProgress="5000" resource="silver"/>
+        </tasks>
+    </quest>
+    <quest id="fs4" type="3" locationId="fortune">
+        <title>#fsTitle</title>
+        <description>#fsDescription</description>
+        <award>
+            <item typeId="gameChips" count="10"/>
+            <silver>1000</silver>
+        </award>
+        <rules>
+            <neededQuest id="fs3"/>
+        </rules>
+        <tasks>
+            <task type="fortuneCollect" title="#winSilver" maxProgress="10000" resource="silver"/>
+        </tasks>
+    </quest>
+    <quest id="fs5" type="3" locationId="fortune">
+        <title>#fsTitle</title>
+        <description>#fsDescription</description>
+        <award>
+            <item typeId="gameChips" count="12"/>
+            <silver>2500</silver>
+        </award>
+        <rules>
+            <neededQuest id="fs4"/>
+        </rules>
+        <tasks>
+            <task type="fortuneCollect" title="#winSilver" maxProgress="25000" resource="silver"/>
+        </tasks>
+    </quest>
+    <quest id="fs6" type="3" locationId="fortune">
+        <title>#fsTitle</title>
+        <description>#fsDescription</description>
+        <award>
+            <item typeId="gameChips" count="15"/>
+            <gold>10</gold>
+        </award>
+        <rules>
+            <neededQuest id="fs5"/>
+        </rules>
+        <tasks>
+            <task type="fortuneCollect" title="#winSilver" maxProgress="50000" resource="silver"/>
+        </tasks>
+    </quest>
+    <quest id="fs7" type="3" locationId="fortune">
+        <title>#fsTitle</title>
+        <description>#fsDescription</description>
+        <award>
+            <item typeId="gameChips" count="25"/>
+            <gold>25</gold>
+        </award>
+        <rules>
+            <neededQuest id="fs6"/>
+        </rules>
+        <tasks>
+            <task type="fortuneCollect" title="#winSilver" maxProgress="100000" resource="silver"/>
+        </tasks>
+    </quest>
+
+    <quest id="fg1" type="3" locationId="fortune">
+        <title>#fgTitle</title>
+        <description>#fgDescription</description>
+        <award>
+            <item typeId="gameChips" count="5"/>
+            <gold>1</gold>
+        </award>
+        <rules>
+            <playerLevel min="7"/>
+        </rules>
+        <tasks>
+            <task type="fortuneCollect" title="#winGold" maxProgress="5" resource="gold"/>
+        </tasks>
+    </quest>
+    <quest id="fg2" type="3" locationId="fortune">
+        <title>#fgTitle</title>
+        <description>#fgDescription</description>
+        <award>
+            <item typeId="gameChips" count="10"/>
+            <gold>3</gold>
+        </award>
+        <rules>
+            <neededQuest id="fg1"/>
+        </rules>
+        <tasks>
+            <task type="fortuneCollect" title="#winGold" maxProgress="10" resource="gold"/>
+        </tasks>
+    </quest>
+    <quest id="fg3" type="3" locationId="fortune">
+        <title>#fgTitle</title>
+        <description>#fgDescription</description>
+        <award>
+            <item typeId="gameChips" count="15"/>
+            <gold>5</gold>
+        </award>
+        <rules>
+            <neededQuest id="fg2"/>
+        </rules>
+        <tasks>
+            <task type="fortuneCollect" title="#winGold" maxProgress="25" resource="gold"/>
+        </tasks>
+    </quest>
+    <quest id="fg4" type="3" locationId="fortune">
+        <title>#fgTitle</title>
+        <description>#fgDescription</description>
+        <award>
+            <item typeId="gameChips" count="25"/>
+            <gold>10</gold>
+        </award>
+        <rules>
+            <neededQuest id="fg3"/>
+        </rules>
+        <tasks>
+            <task type="fortuneCollect" title="#winGold" maxProgress="50" resource="gold"/>
+        </tasks>
+    </quest>
+    <quest id="fg5" type="3" locationId="fortune">
+        <title>#fgTitle</title>
+        <description>#fgDescription</description>
+        <award>
+            <item typeId="gameChips" count="50"/>
+            <gold>25</gold>
+        </award>
+        <rules>
+            <neededQuest id="fg4"/>
+        </rules>
+        <tasks>
+            <task type="fortuneCollect" title="#winGold" maxProgress="100" resource="gold"/>
+        </tasks>
+    </quest>
+
+    <quest id="fc1" type="3" locationId="fortune">
+        <title>#fcTitle</title>
+        <description>#fcDescription</description>
+        <award>
+            <silver>500</silver>
+        </award>
+        <rules>
+            <playerLevel min="7"/>
+        </rules>
+        <tasks>
+            <task type="fortuneCollect" title="#winChips" maxProgress="5" resource="gameChips"/>
+        </tasks>
+    </quest>
+    <quest id="fc2" type="3" locationId="fortune">
+        <title>#fcTitle</title>
+        <description>#fcDescription</description>
+        <award>
+            <silver>750</silver>
+            <energy>25</energy>
+        </award>
+        <rules>
+            <neededQuest id="fc1"/>
+        </rules>
+        <tasks>
+            <task type="fortuneCollect" title="#winChips" maxProgress="10" resource="gameChips"/>
+        </tasks>
+    </quest>
+    <quest id="fc3" type="3" locationId="fortune">
+        <title>#fcTitle</title>
+        <description>#fcDescription</description>
+        <award>
+            <silver>1500</silver>
+            <energy>50</energy>
+        </award>
+        <rules>
+            <neededQuest id="fc2"/>
+        </rules>
+        <tasks>
+            <task type="fortuneCollect" title="#winChips" maxProgress="25" resource="gameChips"/>
+        </tasks>
+    </quest>
+    <quest id="fc4" type="3" locationId="fortune">
+        <title>#fcTitle</title>
+        <description>#fcDescription</description>
+        <award>
+            <silver>2500</silver>
+            <energy>75</energy>
+        </award>
+        <rules>
+            <neededQuest id="fc3"/>
+        </rules>
+        <tasks>
+            <task type="fortuneCollect" title="#winChips" maxProgress="50" resource="gameChips"/>
+        </tasks>
+    </quest>
+    <quest id="fc5" type="3" locationId="fortune">
+        <title>#fcTitle</title>
+        <description>#fcDescription</description>
+        <award>
+            <silver>3500</silver>
+            <energy>100</energy>
+        </award>
+        <rules>
+            <neededQuest id="fc4"/>
+        </rules>
+        <tasks>
+            <task type="fortuneCollect" title="#winChips" maxProgress="100" resource="gameChips"/>
+        </tasks>
+    </quest>
+    <quest id="fc6" type="3" locationId="fortune">
+        <title>#fcTitle</title>
+        <description>#fcDescription</description>
+        <award>
+            <silver>5000</silver>
+            <energy>150</energy>
+            <gold>3</gold>
+        </award>
+        <rules>
+            <neededQuest id="fc5"/>
+        </rules>
+        <tasks>
+            <task type="fortuneCollect" title="#winChips" maxProgress="250" resource="gameChips"/>
+        </tasks>
+    </quest>
+    <quest id="fc7" type="3" locationId="fortune">
+        <title>#fcTitle</title>
+        <description>#fcDescription</description>
+        <award>
+            <silver>7500</silver>
+            <energy>250</energy>
+            <gold>5</gold>
+        </award>
+        <rules>
+            <neededQuest id="fc6"/>
+        </rules>
+        <tasks>
+            <task type="fortuneCollect" title="#winChips" maxProgress="500" resource="gameChips"/>
+        </tasks>
+    </quest>
+    
+    <quest id="frtnQuest1" type="3" locationId="fortune">
+        <title>#frtnQuest1Title</title>
+        <description>#frtnQuest1Desc</description>
+        <award>
+            <item typeId="gameChips" count="5"/>
+            <silver>2500</silver>
+        </award>
+        <rules>
+            <playerLevel min="15"/>
+        </rules>
+        <tasks>
+            <task type="fortuneWin" title="#fortuneWin" maxProgress="35" gold="11"/>
+            <task type="fortuneCollect" title="#winSilver" maxProgress="7000" resource="silver" gold="8"/>
+        </tasks>
+    </quest>
+    <quest id="frtnQuest2" type="3" locationId="fortune">
+        <title>#frtnQuest2Title</title>
+        <description>#frtnQuest2Desc</description>
+        <award>
+            <gold>3</gold>
+        </award>
+        <rules>
+            <neededQuest id="frtnQuest1"/>
+        </rules>
+        <tasks>
+            <task type="fortuneCollect" title="#winSilver" maxProgress="5000" resource="silver" gold="6"/>
+            <task type="fortuneCollect" title="#winChips" maxProgress="10" resource="gameChips" gold="10"/>
+        </tasks>
+    </quest>
+    <quest id="frtnQuest3" type="3" locationId="fortune">
+        <title>#frtnQuest3Title</title>
+        <description>#frtnQuest3Desc</description>
+        <award>
+            <item typeId="gameChips" count="15"/>
+        </award>
+        <rules>
+            <neededQuest id="frtnQuest2"/>
+        </rules>
+        <tasks>
+            <task type="fortuneWin" title="#fortuneWin" maxProgress="50" gold="15"/>
+        </tasks>
+    </quest>
+    <quest id="frtnQuest4" type="3" locationId="fortune">
+        <title>#frtnQuest4Title</title>
+        <description>#frtnQuest4Desc</description>
+        <award>
+            <gold>5</gold>
+        </award>
+        <rules>
+            <neededQuest id="frtnQuest3"/>
+        </rules>
+        <tasks>
+            <task type="fortuneWin" title="#fortuneWin" maxProgress="30" gold="8"/>
+            <task type="fortuneCollect" title="#winChips" maxProgress="7" resource="gameChips" gold="7"/>
+        </tasks>
+    </quest>
+    <quest id="frtnQuest5" type="3" locationId="fortune">
+        <title>#frtnQuest5Title</title>
+        <description>#frtnQuest5Desc</description>
+        <award>
+            <silver>5000</silver>
+            <gold>3</gold>
+        </award>
+        <rules>
+            <neededQuest id="frtnQuest4"/>
+        </rules>
+        <tasks>
+            <task type="fortuneWin" title="#fortuneWin" maxProgress="100" gold="25"/>
+        </tasks>
+    </quest>
+    <quest id="frtnQuest6" type="3" locationId="fortune">
+        <title>#frtnQuest6Title</title>
+        <description>#frtnQuest6Desc</description>
+        <award>
+            <gold>10</gold>
+            <item typeId="gameChips" count="25"/>
+        </award>
+        <rules>
+            <neededQuest id="frtnQuest5"/>
+        </rules>
+        <tasks>
+            <task type="fortuneWin" title="#fortuneWin" maxProgress="60" gold="18"/>
+            <task type="fortuneCollect" title="#winChips" maxProgress="25" resource="gameChips" gold="20"/>
+            <task type="fortuneCollect" title="#winSilver" maxProgress="35000" resource="silver" gold="15"/>
+        </tasks>
+    </quest>
+    
+    
+    <!-- GARDEN -->
+    <!-- grdnType1 -->
+    <quest id="grdnType1_q1" type="3" locationId="garden">
+        <title>#grdnType1Quest1Title</title>
+        <description>#grdnType1Quest1Desc</description>
+        <award>
+            <silver>750</silver>
+            <energy>15</energy>
+        </award>
+        <rules>
+            <playerLevel min="3"/>
+        </rules>
+        <tasks>
+            <task type="serviceItem" title="#gdFlwTitle" maxProgress="12" gold="1">
+                <item typeId="gdFlw"/>
+            </task>
+            <task type="collectLootItem" title="#collectWater" maxProgress="3" typeId="water" gold="1"/>
+        </tasks>
+    </quest>
+    <quest id="grdnType1_q2" type="3" locationId="garden">
+        <title>#grdnType1Quest2Title</title>
+        <description>#grdnType1Quest2Desc</description>
+        <award>
+            <silver>450</silver>
+        </award>
+        <rules>
+            <neededQuest id="grdnType1_q1"/>
+        </rules>
+        <tasks>
+            <task type="serviceItem" title="#gdBugTitle" maxProgress="7" gold="1">
+                <item typeId="gdBug"/>
+            </task>
+        </tasks>
+    </quest>
+    <quest id="grdnType1_q3" type="3" locationId="garden">
+        <title>#grdnType1Quest3Title</title>
+        <description>#grdnType1Quest3Desc</description>
+        <award>
+            <silver>650</silver>
+            <energy>50</energy>
+        </award>
+        <rules>
+            <neededQuest id="grdnType1_q2"/>
+        </rules>
+        <tasks>
+            <task type="serviceItem" title="#gdBtfTitle" maxProgress="3" gold="1">
+                <item typeId="gdBtf"/>
+            </task>
+        </tasks>
+    </quest>
+    <quest id="grdnType1_q4" type="3" locationId="garden">
+        <title>#grdnType1Quest4Title</title>
+        <description>#grdnType1Quest4Desc</description>
+        <award>
+            <silver>500</silver>
+            <energy>25</energy>
+        </award>
+        <rules>
+            <neededQuest id="grdnType1_q3"/>
+        </rules>
+        <tasks>
+            <task type="serviceItem" title="#gdInsTitle" maxProgress="5" gold="1">
+                <item typeId="gdIns"/>
+            </task>
+        </tasks>
+    </quest>
+    <quest id="grdnType1_q5" type="3" locationId="garden">
+        <title>#grdnType1Quest5Title</title>
+        <description>#grdnType1Quest5Desc</description>
+        <award>
+            <silver>700</silver>
+            <energy>45</energy>
+        </award>
+        <rules>
+            <neededQuest id="grdnType1_q4"/>
+        </rules>
+        <tasks>
+            <task type="serviceItem" title="#gdBtfTitle" maxProgress="5" gold="2">
+                <item typeId="gdBtf"/>
+            </task>
+            <task type="serviceItem" title="#gdBugTitle" maxProgress="10" gold="2">
+                <item typeId="gdBug"/>
+            </task>
+        </tasks>
+    </quest>
+    <quest id="grdnType1_q6" type="3" locationId="garden">
+        <title>#grdnType1Quest6Title</title>
+        <description>#grdnType1Quest6Desc</description>
+        <award>
+            <silver>600</silver>
+            <energy>25</energy>
+        </award>
+        <rules>
+            <neededQuest id="grdnType1_q5"/>
+        </rules>
+        <tasks>
+            <task type="serviceItem" title="#gdFlwTitle" maxProgress="18" gold="2">
+                <item typeId="gdFlw"/>
+            </task>
+            <task type="serviceItem" title="#gdInsTitle" maxProgress="8" gold="2">
+                <item typeId="gdIns"/>
+            </task>
+        </tasks>
+    </quest>
+    <quest id="grdnType1_q7" type="3" locationId="garden">
+        <title>#grdnType1Quest7Title</title>
+        <description>#grdnType1Quest7Desc</description>
+        <award>
+            <silver>900</silver>
+            <energy>75</energy>
+        </award>
+        <rules>
+            <neededQuest id="grdnType1_q6"/>
+        </rules>
+        <tasks>
+            <task type="serviceItem" title="#gdFlwTitle" maxProgress="20" gold="2">
+                <item typeId="gdFlw"/>
+            </task>
+            <task type="serviceItem" title="#gdInsTitle" maxProgress="10" gold="2">
+                <item typeId="gdIns"/>
+            </task>
+            <task type="serviceItem" title="#gdBugTitle" maxProgress="12" gold="2">
+                <item typeId="gdBug"/>
+            </task>
+        </tasks>
+    </quest>
+    <quest id="grdnType1_q8" type="3" locationId="garden">
+        <title>#grdnType1Quest8Title</title>
+        <description>#grdnType1Quest8Desc</description>
+        <award>
+            <silver>1000</silver>
+            <energy>75</energy>
+        </award>
+        <rules>
+            <neededQuest id="grdnType1_q7"/>
+        </rules>
+        <tasks>
+            <task type="serviceItem" title="#gdBtfTitle" maxProgress="7" gold="2">
+                <item typeId="gdBtf"/>
+            </task>
+            <task type="serviceItem" title="#gdBugTitle" maxProgress="12" gold="2">
+                <item typeId="gdBug"/>
+            </task>
+            <task type="serviceItem" title="#gdInsTitle" maxProgress="12" gold="2">
+                <item typeId="gdIns"/>
+            </task>
+        </tasks>
+    </quest>
+    <quest id="grdnType1_q9" type="3" locationId="garden">
+        <title>#grdnType1Quest9Title</title>
+        <description>#grdnType1Quest9Desc</description>
+        <award>
+            <silver>850</silver>
+            <energy>50</energy>
+        </award>
+        <rules>
+            <neededQuest id="grdnType1_q8"/>
+        </rules>
+        <tasks>
+            <task type="serviceItem" title="#gdFlwTitle" maxProgress="25" gold="2">
+                <item typeId="gdFlw"/>
+            </task>
+            <task type="collectLootItem" title="#collectWater" maxProgress="7" typeId="water" gold="2"/>
+        </tasks>
+    </quest>
+    <quest id="grdnType1_q10" type="3" locationId="garden">
+        <title>#grdnType1Quest10Title</title>
+        <description>#grdnType1Quest10Desc</description>
+        <award>
+            <silver>1250</silver>
+            <energy>100</energy>
+        </award>
+        <rules>
+            <neededQuest id="grdnType1_q9"/>
+        </rules>
+        <tasks>
+            <task type="serviceItem" title="#gdBtfTitle" maxProgress="10" gold="2">
+                <item typeId="gdBtf"/>
+            </task>
+            <task type="serviceItem" title="#gdBugTitle" maxProgress="18" gold="2">
+                <item typeId="gdBug"/>
+            </task>
+            <task type="serviceItem" title="#gdInsTitle" maxProgress="15" gold="2">
+                <item typeId="gdIns"/>
+            </task>
+        </tasks>
+    </quest>
+    <quest id="grdnType1_q11" type="3" locationId="garden">
+        <title>#grdnType1Quest11Title</title>
+        <description>#grdnType1Quest11Desc</description>
+        <award>
+            <silver>800</silver>
+            <energy>50</energy>
+        </award>
+        <rules>
+            <neededQuest id="grdnType1_q10"/>
+        </rules>
+        <tasks>
+            <task type="serviceItem" title="#gdInsTitle" maxProgress="25" gold="3">
+                <item typeId="gdIns"/>
+            </task>
+            <task type="serviceItem" title="#gdFlwTitle" maxProgress="35" gold="4">
+                <item typeId="gdFlw"/>
+            </task>
+        </tasks>
+    </quest>
+    <quest id="grdnType1_q12" type="3" locationId="garden">
+        <title>#grdnType1Quest12Title</title>
+        <description>#grdnType1Quest12Desc</description>
+        <award>
+            <item typeId="tableVaseOrange" count="1"/>
+        </award>
+        <rules>
+            <neededQuest id="grdnType1_q11"/>
+        </rules>
+        <tasks>
+            <task type="collectLootItem" title="#collectFlowerBuds" typeId="flowerBud" maxProgress="8" gold="2"/>
+        </tasks>
+    </quest>
+    <quest id="grdnType1_q13" type="3" locationId="garden">
+        <title>#grdnType1Quest13Title</title>
+        <description>#grdnType1Quest13Desc</description>
+        <award>
+            <gold>3</gold>
+        </award>
+        <rules>
+            <neededQuest id="grdnType1_q12"/>
+        </rules>
+        <tasks>
+            <task type="createWorkSession" title="#createGardenWorkSession" maxProgress="7" workId="garden" period="14400" gold="7"/>
+        </tasks>
+    </quest>
+    
+    <!-- grdnType2 -->
+    <quest id="grdnType2_q1" type="3" locationId="garden">
+        <title>#grdnType2Quest1Title</title>
+        <description>#grdnType2Quest1Desc</description>
+        <comment>#cgdwsComment</comment>
+        <award>
+            <silver>450</silver>
+            <energy>30</energy>
+        </award>
+        <rules>
+            <playerLevel min="3"/>
+        </rules>
+        <tasks>
+            <task type="createWorkSession" title="#createGardenWorkSession" maxProgress="2" workId="garden" period="14400" gold="2"/>
+            <task type="doneWorkSession" title="#doneGardenWorkSession" maxProgress="2" workId="garden" gold="2"/>
+        </tasks>
+    </quest>
+    <quest id="grdnType2_q2" type="3" locationId="garden">
+        <title>#grdnType2Quest2Title</title>
+        <description>#grdnType2Quest2Desc</description>
+        <award>
+            <silver>300</silver>
+            <energy>15</energy>
+        </award>
+        <rules>
+            <neededQuest id="grdnType2_q1"/>
+        </rules>
+        <tasks>
+            <task type="collectLootItem" title="#collectClay" maxProgress="3" typeId="clay" gold="1"/>
+        </tasks>
+    </quest>
+    <quest id="grdnType2_q3" type="3" locationId="garden">
+        <title>#grdnType2Quest3Title</title>
+        <description>#grdnType2Quest3Desc</description>
+        <comment>#cgdwsComment</comment>
+        <award>
+            <silver>300</silver>
+            <energy>15</energy>
+        </award>
+        <rules>
+            <neededQuest id="grdnType2_q2"/>
+        </rules>
+        <tasks>
+            <task type="createWorkSession" title="#createGardenWorkSession" maxProgress="3" workId="garden" period="14400" gold="3"/>
+        </tasks>
+    </quest>
+    <quest id="grdnType2_q4" type="3" locationId="garden">
+        <title>#grdnType2Quest4Title</title>
+        <description>#grdnType2Quest4Desc</description>
+        <award>
+            <silver>400</silver>
+            <energy>20</energy>
+        </award>
+        <rules>
+            <neededQuest id="grdnType2_q3"/>
+        </rules>
+        <tasks>
+            <task type="collectLootItem" title="#collectFlowerBuds" typeId="flowerBud" maxProgress="4" gold="1"/>
+        </tasks>
+    </quest>
+    <quest id="grdnType2_q5" type="3" locationId="garden">
+        <title>#grdnType2Quest5Title</title>
+        <description>#grdnType2Quest5Desc</description>
+        <comment>#gdwsComment</comment>
+        <award>
+            <silver>650</silver>
+            <energy>50</energy>
+        </award>
+        <rules>
+            <neededQuest id="grdnType2_q4"/>
+        </rules>
+        <tasks>
+            <task type="doneWorkSession" title="#doneGardenWorkSession" maxProgress="3" workId="garden" gold="3"/>
+        </tasks>
+    </quest>
+    <quest id="grdnType2_q6" type="3" locationId="garden">
+        <title>#grdnType2Quest6Title</title>
+        <description>#grdnType2Quest6Desc</description>
+        <award>
+            <silver>600</silver>
+            <energy>25</energy>
+        </award>
+        <rules>
+            <neededQuest id="grdnType2_q5"/>
+        </rules>
+        <tasks>
+            <task type="collectLootItem" title="#collectWood" typeId="peaceOfWood" maxProgress="5" gold="2"/>
+        </tasks>
+    </quest>
+    <quest id="grdnType2_q7" type="3" locationId="garden">
+        <title>#grdnType2Quest7Title</title>
+        <description>#grdnType2Quest7Desc</description>
+        <comment>#gdwsComment</comment>
+        <award>
+            <silver>900</silver>
+            <energy>75</energy>
+        </award>
+        <rules>
+            <neededQuest id="grdnType2_q6"/>
+        </rules>
+        <tasks>
+            <task type="doneWorkSession" title="#doneGardenWorkSession" maxProgress="5" workId="garden" gold="5"/>
+        </tasks>
+    </quest>
+    <quest id="grdnType2_q8" type="3" locationId="garden">
+        <title>#grdnType2Quest8Title</title>
+        <description>#grdnType2Quest8Desc</description>
+        <award>
+            <silver>700</silver>
+            <energy>50</energy>
+        </award>
+        <rules>
+            <neededQuest id="grdnType2_q7"/>
+        </rules>
+        <tasks>
+            <task type="collectLootItem" title="#collectClay" maxProgress="5" typeId="clay" gold="1"/>
+            <task type="collectLootItem" title="#collectFlowerBuds" typeId="flowerBud" maxProgress="7" gold="1"/>
+        </tasks>
+    </quest>
+    <quest id="grdnType2_q9" type="3" locationId="garden">
+        <title>#grdnType2Quest9Title</title>
+        <description>#grdnType2Quest9Desc</description>
+        <comment>#cgdwsComment</comment>
+        <award>
+            <silver>700</silver>
+            <energy>50</energy>
+        </award>
+        <rules>
+            <neededQuest id="grdnType2_q8"/>
+        </rules>
+        <tasks>
+            <task type="createWorkSession" title="#createGardenWorkSession" maxProgress="5" workId="garden" period="14400" gold="2"/>
+            <task type="doneWorkSession" title="#doneGardenWorkSession" maxProgress="5" workId="garden" gold="5"/>
+        </tasks>
+    </quest>
+    <quest id="grdnType2_q10" type="3" locationId="garden">
+        <title>#grdnType2Quest10Title</title>
+        <description>#grdnType2Quest10Desc</description>
+        <award>
+            <silver>650</silver>
+            <energy>35</energy>
+        </award>
+        <rules>
+            <neededQuest id="grdnType2_q9"/>
+        </rules>
+        <tasks>
+            <task type="collectLootItem" title="#collectWood" typeId="peaceOfWood" maxProgress="7" gold="2"/>
+            <task type="collectLootItem" title="#collectWater" maxProgress="7" typeId="water" gold="2"/>
+        </tasks>
+    </quest>
+    <quest id="grdnType2_q11" type="3" locationId="garden">
+        <title>#grdnType2Quest11Title</title>
+        <description>#grdnType2Quest11Desc</description>
+        <award>
+            <silver>950</silver>
+            <energy>75</energy>
+        </award>
+        <rules>
+            <neededQuest id="grdnType2_q10"/>
+        </rules>
+        <tasks>
+            <task type="serviceItem" title="#gdBugTitle" maxProgress="30" gold="4">
+                <item typeId="gdBug"/>
+            </task>
+        </tasks>
+    </quest>
+    <quest id="grdnType2_q12" type="3" locationId="garden">
+        <title>#grdnType2Quest12Title</title>
+        <description>#grdnType2Quest12Desc</description>
+        <award>
+            <item typeId="tableVaseYellow" count="1"/>
+        </award>
+        <rules>
+            <neededQuest id="grdnType2_q11"/>
+        </rules>
+        <tasks>
+            <task type="doneWorkSession" title="#doneGardenWorkSession" maxProgress="7" workId="garden" gold="7"/>
+        </tasks>
+    </quest>
+    <quest id="grdnType2_q13" type="3" locationId="garden">
+        <title>#grdnType2Quest13Title</title>
+        <description>#grdnType2Quest13Desc</description>
+        <award>
+            <gold>5</gold>
+        </award>
+        <rules>
+            <neededQuest id="grdnType2_q12"/>
+        </rules>
+        <tasks>
+            <task type="collectLootItem" title="#collectWood" typeId="peaceOfWood" maxProgress="12" gold="3"/>
+            <task type="collectLootItem" title="#collectClay" maxProgress="15" typeId="clay" gold="4"/>
+        </tasks>
+    </quest>
+    
+    <!-- GARBAGE -->
+    
+    <quest id="grbgType1_q1" type="3" locationId="garbage">
+        <title>#grbgType1Quest1Title</title>
+        <description>#grbgType1Quest1Desc</description>
+        <award>
+            <silver>350</silver>
+            <energy>15</energy>
+        </award>
+        <rules>
+            <playerLevel min="3"/>
+        </rules>
+        <tasks>
+            <task type="pickGarbage" title="#pickGarbage" maxProgress="12" gold="1"/>
+        </tasks>
+    </quest>
+    <quest id="grbgType1_q2" type="3" locationId="garbage">
+        <title>#grbgType1Quest2Title</title>
+        <description>#grbgType1Quest2Desc</description>
+        <award>
+            <silver>450</silver>
+        </award>
+        <rules>
+            <neededQuest id="grbgType1_q1"/>
+        </rules>
+        <tasks>
+            <task type="collectLootItem" title="#collectIron" typeId="peaceOfIron" maxProgress="3" gold="1"/>
+        </tasks>
+    </quest>
+    <quest id="grbgType1_q3" type="3" locationId="garbage">
+        <title>#grbgType1Quest3Title</title>
+        <description>#grbgType1Quest3Desc</description>
+        <comment>#gwsComment</comment>
+        <award>
+            <silver>450</silver>
+        </award>
+        <rules>
+            <neededQuest id="grbgType1_q2"/>
+        </rules>
+        <tasks>
+            <task type="doneWorkSession" title="#doneGarbageWorkSession" maxProgress="2" workId="garbage" gold="2"/>
+        </tasks>
+    </quest>
+    <quest id="grbgType1_q4" type="3" locationId="garbage">
+        <title>#grbgType1Quest4Title</title>
+        <description>#grbgType1Quest4Desc</description>
+        <award>
+            <silver>650</silver>
+            <energy>40</energy>
+        </award>
+        <rules>
+            <neededQuest id="grbgType1_q3"/>
+        </rules>
+        <tasks>
+            <task type="collectLootItem" title="#collectPhial" maxProgress="2" typeId="phial" gold="2"/>
+            <task type="collectLootItem" title="#collectBigPhial" maxProgress="1" typeId="bigPhial" gold="2"/>
+        </tasks>
+    </quest>
+    <quest id="grbgType1_q5" type="3" locationId="garbage">
+        <title>#grbgType1Quest5Title</title>
+        <description>#grbgType1Quest5Desc</description>
+        <comment>#cgwsComment</comment>
+        <award>
+            <silver>500</silver>
+            <energy>25</energy>
+        </award>
+        <rules>
+            <neededQuest id="grbgType1_q4"/>
+        </rules>
+        <tasks>
+            <task type="createWorkSession" title="#createGarbageWorkSession" maxProgress="5" workId="garbage" period="14400" gold="2"/>
+        </tasks>
+    </quest>
+    <quest id="grbgType1_q6" type="3" locationId="garbage">
+        <title>#grbgType1Quest6Title</title>
+        <description>#grbgType1Quest6Desc</description>
+        <award>
+            <silver>500</silver>
+            <energy>25</energy>
+        </award>
+        <rules>
+            <neededQuest id="grbgType1_q5"/>
+        </rules>
+        <tasks>
+            <task type="collectLootItem" title="#collectBow" maxProgress="2" typeId="bow" gold="2"/>
+            <task type="collectLootItem" title="#collectWrappingPaper" typeId="wrappingPaper" maxProgress="1" gold="2"/>
+        </tasks>
+    </quest>
+    <quest id="grbgType1_q7" type="3" locationId="garbage">
+        <title>#grbgType1Quest7Title</title>
+        <description>#grbgType1Quest7Desc</description>
+        <comment>#gwsComment</comment>
+        <award>
+            <silver>650</silver>
+            <energy>50</energy>
+        </award>
+        <rules>
+            <neededQuest id="grbgType1_q6"/>
+        </rules>
+        <tasks>
+            <task type="doneWorkSession" title="#doneGarbageWorkSession" maxProgress="5" workId="garbage" gold="5"/>
+        </tasks>
+    </quest>
+    <quest id="grbgType1_q8" type="3" locationId="garbage">
+        <title>#grbgType1Quest8Title</title>
+        <description>#grbgType1Quest8Desc</description>
+        <comment>#cgwsComment</comment>
+        <award>
+            <silver>850</silver>
+            <energy>60</energy>
+        </award>
+        <rules>
+            <neededQuest id="grbgType1_q7"/>
+        </rules>
+        <tasks>
+            <task type="createWorkSession" title="#createGarbageWorkSession" maxProgress="7" workId="garbage" period="14400" gold="3"/>
+            <task type="collectLootItem" title="#collectIron" typeId="peaceOfIron" maxProgress="5" gold="2"/>
+        </tasks>
+    </quest>
+    <quest id="grbgType1_q9" type="3" locationId="garbage">
+        <title>#grbgType1Quest9Title</title>
+        <description>#grbgType1Quest9Desc</description>
+        <comment>#gwsComment</comment>
+        <award>
+            <silver>1250</silver>
+            <energy>100</energy>
+        </award>
+        <rules>
+            <neededQuest id="grbgType1_q8"/>
+        </rules>
+        <tasks>
+            <task type="doneWorkSession" title="#doneGarbageWorkSession" maxProgress="5" workId="garbage" gold="5"/>
+            <task type="collectLootItem" title="#collectPhial" maxProgress="5" typeId="phial" gold="3"/>
+            <task type="collectLootItem" title="#collectBigPhial" maxProgress="2" typeId="bigPhial" gold="2"/>
+        </tasks>
+    </quest>
+    <quest id="grbgType1_q10" type="3" locationId="garbage">
+        <title>#grbgType1Quest10Title</title>
+        <description>#grbgType1Quest10Desc</description>
+        <award>
+            <silver>1500</silver>
+        </award>
+        <rules>
+            <neededQuest id="grbgType1_q9"/>
+        </rules>
+        <tasks>
+            <task type="collectLootItem" title="#collectWrappingPaper" typeId="wrappingPaper" maxProgress="3" gold="3"/>
+            <task type="collectLootItem" title="#collectPhial" maxProgress="5" typeId="phial" gold="3"/>
+        </tasks>
+    </quest>
+    <quest id="grbgType1_q11" type="3" locationId="garbage">
+        <title>#grbgType1Quest11Title</title>
+        <description>#grbgType1Quest11Desc</description>
+        <award>
+            <silver>2500</silver>
+        </award>
+        <rules>
+            <neededQuest id="grbgType1_q10"/>
+        </rules>
+        <tasks>
+            <task type="doneWorkSession" title="#doneGarbageWorkSession" maxProgress="8" workId="garbage" gold="8"/>
+        </tasks>
+    </quest>
+    <quest id="grbgType1_q12" type="3" locationId="garbage">
+        <title>#grbgType1Quest12Title</title>
+        <description>#grbgType1Quest12Desc</description>
+        <award>
+            <item typeId="tableVasePink" count="1"/>
+            <gold>3</gold>
+        </award>
+        <rules>
+            <neededQuest id="grbgType1_q11"/>
+        </rules>
+        <tasks>
+            <task type="collectLootItem" title="#collectPhial" maxProgress="10" typeId="phial" gold="4"/>
+            <task type="collectLootItem" title="#collectIron" typeId="peaceOfIron" maxProgress="15" gold="6"/>
+            <task type="collectLootItem" title="#collectWrappingPaper" typeId="wrappingPaper" maxProgress="2" gold="3"/>
+        </tasks>
+    </quest>
+    <quest id="grbgType1_q13" type="3" locationId="garbage">
+        <title>#grbgType1Quest13Title</title>
+        <description>#grbgType1Quest13Desc</description>
+        <comment>#cgwsComment</comment>
+        <award>
+            <silver>1000</silver>
+            <energy>150</energy>
+        </award>
+        <rules>
+            <neededQuest id="grbgType1_q12"/>
+        </rules>
+        <tasks>
+            <task type="createWorkSession" title="#createGarbageWorkSession" maxProgress="12" workId="garbage" period="14400" gold="5"/>
+        </tasks>
+    </quest>
+    <quest id="grbgType1_q14" type="3" locationId="garbage">
+        <title>#grbgType1Quest14Title</title>
+        <description>#grbgType1Quest14Desc</description>
+        <award>
+            <silver>800</silver>
+            <item typeId="craftedEnergyDrink" count="1"/>
+        </award>
+        <rules>
+            <neededQuest id="grbgType1_q13"/>
+        </rules>
+        <tasks>
+            <task type="collectLootItem" title="#collectBigPhial" maxProgress="5" typeId="bigPhial" gold="4"/>
+        </tasks>
+    </quest>
+
+</config>

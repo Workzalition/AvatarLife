@@ -1,0 +1,817 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<config>
+
+<!-- ///////////////////////////////////   BOYS   //////////////////////////////////// -->
+
+	<category id="boyAShirts"> <!-- готово -->
+		<part id="iLHand" z="35" /> <part id="iLForearm" z="35" /> <part id="iLShoulder" z="35" />
+		<part id="iBodyFront" z="35" /> <part id="iBody" z="35" /> <part id="iBodyBack" z="35" />
+		<part id="iRForearm" z="35" /> <part id="iRHand" z="35" /> <part id="iRShoulder" z="35" />
+	</category>
+
+	<category id="boyAShirtsTight">
+		<part id="iBodyFront" z="24" /> <part id="iBody" z="24" /> <part id="iBodyBack" z="24" />
+	</category>
+
+	<category id="boyTShirts"> <!-- готово -->
+		<part id="iLHand" z="35" /> <part id="iLForearm" z="35" /> <part id="iLShoulder" z="35" />
+		<part id="iBodyFront" z="35" /> <part id="iBody" z="35" /> <part id="iBodyBack" z="35" />
+		<part id="iRForearm" z="35" /> <part id="iRHand" z="35" /> <part id="iRShoulder" z="35" />
+	</category>
+
+	<category id="boyTShirtsTight">
+		<part id="iBodyFront" z="24" /> <part id="iBody" z="24" /> <part id="iBodyBack" z="24" />
+	</category>
+
+	<category id="boyBlouses"> <!-- готово -->
+		<part id="iLHand" z="35" /> <part id="iLForearm" z="35" /> <part id="iLShoulder" z="35" />
+		<part id="iBodyFront" z="35" /> <part id="iBody" z="35" /> <part id="iBodyBack" z="35" />
+		<part id="iRForearm" z="35" /> <part id="iRHand" z="35" /> <part id="iRShoulder" z="35" />
+	</category>
+
+	<category id="boyBlousesTight">
+		<part id="iBodyFront" z="24" /> <part id="iBody" z="24" /> <part id="iBodyBack" z="24" />
+	</category>
+
+	<category id="boyBlousesLooseHooded">
+		<part id="iHairFront" hiddenTags="4" z="50" /> <part id="iHairBack" hiddenTags="4" z="50" />
+	</category>
+
+	<category id="boyShirts"> <!-- готово -->
+		<part id="iLHand" z="35" /> <part id="iLForearm" z="35" /> <part id="iLShoulder" z="35" />
+		<part id="iBodyFront" z="35" /> <part id="iBody" z="35" /> <part id="iBodyBack" z="35" />
+		<part id="iRForearm" z="35" /> <part id="iRHand" z="35" /> <part id="iRShoulder" z="35" />
+	</category>
+
+	<category id="boyShirtsTight">
+		<part id="iBodyFront" z="24" /> <part id="iBody" z="24" /> <part id="iBodyBack" z="24" />
+	</category>
+
+	<category id="boyShirtsLooseHooded">
+		<part id="iHairFront" hiddenTags="4" z="50" /> <part id="iHairBack" hiddenTags="4" z="50" />
+	</category>
+
+	<category id="boyJackets">
+		<part id="iLHand" z="50" /> <part id="iLForearm" z="50" /> <part id="iLShoulder" z="50" />
+		<part id="iBodyFront" z="50" /> <part id="iBody" z="50" /> <part id="iBodyBack" z="50" />
+		<part id="iRHand" z="50" /> <part id="iRForearm" z="50" /> <part id="iRShoulder" z="50" />
+	</category>
+
+	<category id="boyCoats">
+		<part id="iLHand" z="50" /> <part id="iLForearm" z="50" /> <part id="iLShoulder" z="50" />
+		<part id="iBodyFront" z="50" /> <part id="iBody" z="50" /> <part id="iBodyBack" z="50" />
+		<part id="iRHand" z="50" /> <part id="iRForearm" z="50" /> <part id="iRShoulder" z="50" />
+	</category>
+
+	<category id="boySweaters">
+		<part id="iLHand" z="50" /> <part id="iLForearm" z="50" /> <part id="iLShoulder" z="50" />
+		<part id="iBodyFront" z="50" /> <part id="iBody" z="50" /> <part id="iBodyBack" z="50" />
+		<part id="iRHand" z="50" /> <part id="iRForearm" z="50" /> <part id="iRShoulder" z="50" />
+	</category>
+
+	<category id="boyVests">
+		<part id="iLHand" z="48" /> <part id="iLForearm" z="48" /> <part id="iLShoulder" z="48" />
+		<part id="iBodyFront" z="48" /> <part id="iBody" z="48" /> <part id="iBodyBack" z="48" />
+		<part id="iRHand" z="48" /> <part id="iRForearm" z="48" /> <part id="iRShoulder" z="48" />
+	</category>
+
+	<category id="boyCoatsMonoHooded">
+		<part id="iHairFront" hiddenTags="4" z="50" /> <part id="iHairBack" hiddenTags="4" z="50" />
+	</category>
+
+	<category id="boyBottomClothes">
+		<part id="iLHip" z="25" /> <part id="iLShank" z="25" /> <part id="iLFoot" z="25" />
+		<part id="iBody" z="25" /> <part id="iBodyBack" z="25" /> <part id="iBodyFront" z="25" />
+		<part id="iRHip" z="25" /> <part id="iRShank" z="25" /> <part id="iRFoot" z="25" />
+	</category>
+
+	<category id="boyPantsLoose">
+		<part id="iLHip" z="28" /> <part id="iLShank" z="28" />
+		<part id="iRHip" z="28" /> <part id="iRShank" z="28" />
+	</category>
+
+	<category id="boyLegItems">
+		<part id="iLHip" z="26" /> <part id="iLShank" z="26" />
+		<part id="iRHip" z="26" /> <part id="iRShank" z="26" />
+	</category>
+
+	<category id="boySocks">
+		<part id="iLHip" z="23" /> <part id="iLShank" z="23" /> <part id="iLFoot" z="23" />
+		<part id="iRHip" z="23" /> <part id="iRShank" z="23" /> <part id="iRFoot" z="23" />
+	</category>
+
+	<category id="boyPantyhose">
+		<part id="iLHip" z="22" /> <part id="iLShank" z="22" /> <part id="iLFoot" z="22" />
+		<part id="iBody" z="22" /> <part id="iBodyBack" z="22" />
+		<part id="iRHip" z="22" /> <part id="iRShank" z="22" /> <part id="iRFoot" z="22" />
+	</category>
+
+	<category id="boyShoes">
+		<part id="iLHip" z="24" /> <part id="iLShank" z="24" /> <part id="iLFoot" z="27" />
+		<part id="iRHip" z="24" /> <part id="iRShank" z="24" /> <part id="iRFoot" z="27" />
+	</category>
+
+	<category id="boyShoesSnickersHigh">
+		<part id="iLHip" z="27" /> <part id="iLShank" z="27" />
+		<part id="iRHip" z="27" /> <part id="iRShank" z="27" />
+	</category>
+	<category id="boyShoesShoesHigh">
+		<part id="iLHip" z="27" /> <part id="iLShank" z="27" />
+		<part id="iRHip" z="27" /> <part id="iRShank" z="27" />
+	</category>
+
+	<category id="boyShoesSnickersSocks">
+		<part id="iLShank" z="23" />
+		<part id="iRShank" z="23" />
+	</category>
+	<category id="boyShoesShoesSocks">
+		<part id="iLShank" z="23" />
+		<part id="iRShank" z="23" />
+	</category>
+
+	<category id="boyShoesHigh">
+		<part id="iLHip" z="27" /> <part id="iLShank" z="27" />
+		<part id="iRHip" z="27" /> <part id="iRShank" z="27" />
+	</category>
+
+	<category id="boySuits">
+		<part id="iLHand" z="24" /> <part id="iLForearm" z="24" /> <part id="iLShoulder" z="24" />
+		<part id="iRHand" z="24" /> <part id="iRForearm" z="24" /> <part id="iRShoulder" z="24" />
+		<part id="iBody" z="24" /> <part id="iBodyBack" z="24" /> <part id="iBodyFront" z="24" />
+		<part id="iRHip" z="24" /> <part id="iLShank" z="24" /> <part id="iLFoot" z="24" />
+		<part id="iLHip" z="24" /> <part id="iRShank" z="24" /> <part id="iRFoot" z="24" />
+	</category>
+	<category id="boySuitsExtraGeneralLoose">
+		<part id="iLHip" z="28" /> <part id="iRHip" z="28" />
+		<part id="iLShank" z="28" /> <part id="iRShank" z="28" />
+	</category>
+	<category id="boySuitsExtraBackLoose">
+		<part id="iLHip" z="28" /> <part id="iRHip" z="28" />
+		<part id="iLShank" z="28" /> <part id="iRShank" z="28" />
+	</category>
+
+	<category id="boySwimsuit">
+		<part id="iLHand" z="20" /> <part id="iLForearm" z="20" /> <part id="iLShoulder" z="20" />
+		<part id="iRHand" z="20" /> <part id="iRForearm" z="20" /> <part id="iRShoulder" z="20" />
+		<part id="iBody" z="20" /> <part id="iBodyBack" z="20" /> <part id="iBodyFront" z="20" />
+		<part id="iLHip" z="20" /> <part id="iLShank" z="20" /> <part id="iLFoot" z="20" />
+		<part id="iLHip" z="20" /> <part id="iRShank" z="20" /> <part id="iRFoot" z="20" />
+	</category>
+	<category id="boyUnder">
+		<part id="iLHand" z="10" /> <part id="iLForearm" z="10" /> <part id="iLShoulder" z="10" />
+		<part id="iRHand" z="10" /> <part id="iRForearm" z="10" /> <part id="iRShoulder" z="10" />
+		<part id="iBody" z="10" /> <part id="iBodyBack" z="10" /> <part id="iBodyFront" z="10" />
+		<part id="iLHip" z="10" /> <part id="iLShank" z="10" /> <part id="iLFoot" z="10" />
+		<part id="iLHip" z="10" /> <part id="iRShank" z="10" /> <part id="iRFoot" z="10" />
+	</category>
+	<category id="boyTattoos">
+		<part id="iLHand" z="5" /> <part id="iLForearm" z="5" /> <part id="iLShoulder" z="5" />
+		<part id="iRHand" z="5" /> <part id="iRForearm" z="5" /> <part id="iRShoulder" z="5" />
+		<part id="iHead" z="5" />
+		<part id="iBody" z="5" /> <part id="iBodyBack" z="5" /> <part id="iBodyFront" z="5" />
+		<part id="iLHip" z="5" /> <part id="iLShank" z="5" /> <part id="iLFoot" z="5" />
+		<part id="iLHip" z="5" /> <part id="iRShank" z="5" /> <part id="iRFoot" z="5" />
+	</category>
+	<category id="boySkin">
+		<part id="iLHand" z="1" /> <part id="iLForearm" z="1" /> <part id="iLShoulder" z="1" />
+		<part id="iRHand" z="1" /> <part id="iRForearm" z="1" /> <part id="iRShoulder" z="1" />
+		<part id="iHead" z="1" />
+		<part id="iBody" z="1" /> <part id="iBodyBack" z="1" /> <part id="iBodyFront" z="1" />
+		<part id="iLHip" z="1" /> <part id="iLShank" z="1" /> <part id="iLFoot" z="1" />
+		<part id="iLHip" z="1" /> <part id="iRShank" z="1" /> <part id="iRFoot" z="1" />
+	</category>
+	<category id="boyAccsHead">
+		<part id="iHairFront" z="50" /> <part id="iHead" z="50" /> <part id="iHairBack" z="50" />
+	</category>
+
+	<category id="boyTiaras">
+		<part id="iHairFront" z="50" /> <part id="iHead" z="50" /> <part id="iHairBack" z="50" />
+	</category>
+
+	<category id="boyFaceJewels">
+		<part id="iHairFront" z="-2" /> <part id="iHead" z="21" />
+		<part id="iHead_iFace_iBrows" z="21"/>
+		<part id="iHead_iFace_iEyes" z="21"/>
+		<part id="iHead_iFace_iMouth" z="21"/>
+	</category>
+	
+	<category id="boyWigs">
+		<part id="iHairFront" hiddenTags="4" z="21" /> <part id="iHead" z="21" /> <part id="iHairBack" hiddenTags="4" z="21" />
+	</category>
+
+	<category id="boyWigsBearded">
+		<part id="iHead_iFace_iBeard" hiddenTags="5" z="1"/>
+		<part id="iHead_iFace_iMouth" hiddenTags="3" z="1"/>
+	</category>
+
+	<category id="boyWigsBrowBeard">
+		<part id="iHead_iFace_iBrows" hiddenTags="2" z="1"/>
+		<part id="iHead_iFace_iBeard" hiddenTags="5" z="1"/>
+	</category>
+
+	<category id="boyWigsHattedBearded">
+		<part id="iHead_iFace_iBeard" hiddenTags="5" z="1"/>
+	</category>
+
+	<category id="boyWigsFaced">
+		<part id="iHead_iFace_iBrows" hiddenTags="2" z="1"/>
+		<part id="iHead_iFace_iEyes" hiddenTags="1" z="1"/>
+		<part id="iHead_iFace_iMouth" hiddenTags="3" z="1"/>
+		<part id="iHead_iFace_iBeard" hiddenTags="5" z="1"/>
+	</category>
+
+	<category id="boyBeards">
+		<part id="iHairFront" z="21" /> <part id="iHead" z="21" /> <part id="iHairBack" z="21" />
+		<part id="iHead_iFace_iBeard" hiddenTags="5" z="1"/>
+	</category>
+
+	<category id="boyFaces">
+		<part id="iHairFront" z="20" /> <part id="iHead" z="20" /> <part id="iHairBack" z="20" />
+	</category>
+
+	<category id="boyFacesFull">
+		<part id="iHairFront" z="-2" /> <part id="iHead" z="20" />
+		<part id="iHead_iFace_iBrows" hiddenTags="2" z="20"/>
+		<part id="iHead_iFace_iEyes" hiddenTags="1" z="20"/>
+		<part id="iHead_iFace_iMouth" hiddenTags="3" z="20"/>
+	</category>
+
+	<category id="boyEarrings">
+		<part id="iHairFront" z="25" /> <part id="iHead" z="25" /> <part id="iHairBack" z="25" />
+	</category>
+
+	<category id="boyBandanas">
+		<part id="iHairFront" z="32" /> <part id="iHead" z="32" /> <part id="iHairBack" z="32" />
+	</category>
+
+	<category id="boyHorns">
+		<part id="iHairFront" z="35" /> <part id="iHead" z="35" /> <part id="iHairBack" z="35" />
+	</category>
+
+	<category id="boyMasks">
+		<part id="iHairFront" z="-1" /> <part id="iHead" z="36" /> <part id="iHairBack" z="1" /> <part id="iHair" z="1" />
+		<part id="iHead_iFace_iBeard" z="2"/>
+<!-- 		<part id="iHead_iFace_iMouth" hiddenTags="3" z="1"/>
+ -->		<part id="iHead_iFace_iMouth" z="1"/>
+	</category>
+
+	<category id="boyNoses">
+		<part id="iHairFront" z="36" /> <part id="iHead" z="36" /> <part id="iHairBack" z="36" />
+	</category>
+
+	<category id="boyMasksBearded">
+		<part id="iHead_iFace_iBeard" hiddenTags="5" z="2"/>
+		<part id="iHead_iFace_iMouth" hiddenTags="3" z="1"/>
+		<part id="iHairBack" z="32"/> 
+
+	</category>
+	<category id="boyMasksBeardedLow">
+		<part id="iHairFront" z="-1" /> <part id="iHead" z="36" /> <part id="iHairBack" z="1" />
+		<part id="iHead_iFace_iBeard" hiddenTags="5" z="2"/>
+		<part id="iHead_iFace_iMouth" z="1"/>
+	</category>
+
+	<category id="boyMasksHead">
+		<part id="iHairFront" z="36" /> <part id="iHead" z="36" /> <part id="iHairBack" z="32" /> <part id="iHair" z="1" />
+		<part id="iHead_iFace_iBeard" z="2"/>
+<!-- 		<part id="iHead_iFace_iMouth" hiddenTags="3" z="1"/>
+ -->		<part id="iHead_iFace_iMouth" z="1"/>
+	</category>
+
+	<category id="boyGlasses">
+		<part id="iHairFront" z="51" />  <part id="iHairBack" z="37" />
+	</category>
+
+	<category id="boyGlassesFaceTight">
+		<part id="iHairFront" z="-1" />  <part id="iHairBack" z="-1" />
+	</category>
+
+	<category id="boyHeadphonesHead">
+		<part id="iHairFront" z="37" />  <part id="iHead" z="37" />  <part id="iHairBack" z="37" />
+	</category>
+
+	<category id="boyHairpins">
+		<part id="iHairFront" z="40" /> <part id="iHead" z="40" /> <part id="iHairBack" z="40" />
+	</category>
+
+	<category id="boyHelmets">
+		<part id="iHairFront" hiddenTags="4" z="50" /> <part id="iHairBack" hiddenTags="4" z="50" />
+	</category>
+
+	<category id="boyHelmetsBearded">
+		<part id="iHead_iFace_iBeard" hiddenTags="5" z="50"/>
+	</category>
+
+	<category id="boyGloves">
+		<part id="iLHand" z="33" /> <part id="iLForearm" z="33" /> <part id="iLShoulder" z="33" />
+		<part id="iRHand" z="33" /> <part id="iRForearm" z="33" /> <part id="iRShoulder" z="33" />
+	</category>
+
+	<category id="boyGlovesLoose">
+		<part id="iLHand" z="36" /> <part id="iLForearm" z="40" /> <part id="iLShoulder" z="40" />
+		<part id="iRHand" z="36" /> <part id="iRForearm" z="40" /> <part id="iRShoulder" z="40" />
+	</category>
+
+	<category id="boyGlovesHuge">
+		<part id="iLHand" z="51" /> <part id="iLForearm" z="51" /> <part id="iLShoulder" z="51" />
+		<part id="iRHand" z="51" /> <part id="iRForearm" z="51" /> <part id="iRShoulder" z="51" />
+	</category>
+
+	<category id="boyBraceletes">
+		<part id="iLForearm" z="45" /> <part id="iLShoulder" z="33" />
+		<part id="iRForearm" z="45" /> <part id="iRShoulder" z="33" />
+	</category>
+
+	<category id="boyShouldersItems">
+		<part id="iLForearm" z="51" /> <part id="iLShoulder" z="51" />
+		<part id="iRForearm" z="51" /> <part id="iRShoulder" z="51" />
+	</category>
+
+	<category id="boyNecklace">
+		<part id="iBodyFront" z="47" /> <part id="iBody" z="47" /> <part id="iBodyBack" z="47" />
+	</category>
+
+	<category id="boyNeckItems">
+		<part id="iBodyFront" z="51" /> <part id="iBody" z="51" />
+	</category>
+
+	<category id="boyHeadphonesNeck">
+		<part id="iBodyFront" z="47" />  <part id="iBody" z="47" />
+	</category>
+
+	<category id="boyMuffler">
+		<part id="iBodyFront" z="51" /> <part id="iBody" z="49" /> <part id="iBodyBack" z="49" />
+	</category>
+
+	<category id="boyWings">
+		<part id="iBodyBack" z="70" />
+	</category>
+	<category id="boyTails">
+		<part id="iBodyBack" z="60" />
+	</category>
+	<category id="boyCloaks">
+		<part id="iLHand" z="70" /> <part id="iLForearm" z="70" /> <part id="iLShoulder" z="70" />
+		<part id="iBodyFront" z="70" /> <part id="iBody" z="70" /> <part id="iBodyBack" z="70" />
+		<part id="iRHand" z="70" /> <part id="iRForearm" z="70" /> <part id="iRShoulder" z="70" />
+	</category>
+
+	<category id="boyBelt">
+		<part id="iBody" z="33" /> <part id="iBodyBack" z="33" />
+		<part id="iLHip" z="29" /> <part id="iLShank" z="29" />
+		<part id="iRHip" z="29" /> <part id="iRShank" z="29" />
+	</category>
+
+	<category id="boyBeltBags">
+		<part id="iBody" z="34" />
+	</category>
+
+	<category id="boyBodyBags">
+		<part id="iBody" z="55" />
+	</category>
+
+	<category id="boyBodyBagsTight">
+		<part id="iBody" z="36" />
+	</category>
+
+	<category id="boyHandItems">
+		<part id="iLHand" z="90" />
+		<part id="iBodyFront" z="90" /> <part id="iBody" z="90" /> <part id="iBodyBack" z="90" />
+		<part id="iRHand" z="90" />
+	</category>
+	<category id="boyHandbags">
+		<part id="iLHand" z="90" />
+		<part id="iRHand" z="90" />
+	</category>
+
+	<category id="boyBackpacks">
+		<part id="iBodyFront" z="51" /> <part id="iBody" z="51" /> <part id="iBodyBack" z="70" />
+	</category>	
+
+	<category id="boyBackItems">
+		<part id="iLHand" z="70" /> <part id="iLForearm" z="70" /> <part id="iLShoulder" z="70" />
+		<part id="iBodyFront" z="70" /> <part id="iBody" z="70" /> <part id="iBodyBack" z="70" />
+		<part id="iRHand" z="70" /> <part id="iRForearm" z="70" /> <part id="iRShoulder" z="70" />
+	</category>
+
+	<category id="boyOther">
+		<part id="iLHand" z="49" /> <part id="iLForearm" z="49" /> <part id="iLShoulder" z="49" />
+		<part id="iRHand" z="49" /> <part id="iRForearm" z="49" /> <part id="iRShoulder" z="49" />
+		<part id="iBody" z="49" /> <part id="iBodyBack" z="49" /> <part id="iBodyFront" z="49" />
+		<part id="iLHip" z="49" /> <part id="iLShank" z="49" /> <part id="iLFoot" z="49" />
+		<part id="iLHip" z="49" /> <part id="iRShank" z="49" /> <part id="iRFoot" z="49" />
+	</category>
+	<category id="boyLifebuoy">
+		<part id="iLHand" z="49" /> <part id="iLForearm" z="49" /> <part id="iLShoulder" z="49" />
+		<part id="iRHand" z="49" /> <part id="iRForearm" z="49" /> <part id="iRShoulder" z="49" />
+		<part id="iBody" z="49" /> <part id="iBodyBack" z="49" /> <part id="iBodyFront" z="49" />
+		<part id="iLHip" z="49" /> <part id="iLShank" z="49" /> <part id="iLFoot" z="49" />
+		<part id="iLHip" z="49" /> <part id="iRShank" z="49" /> <part id="iRFoot" z="49" />
+	</category>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ///////////////////////////////////   GIRLS   //////////////////////////////////// -->
+
+
+	<category id="girlAShirts"> <!-- готово -->
+		<part id="iLHand" z="35" /> <part id="iLForearm" z="35" /> <part id="iLShoulder" z="35" />
+		<part id="iBodyFront" z="35" /> <part id="iBody" z="35" /> <part id="iBodyBack" z="35" />
+		<part id="iRForearm" z="35" /> <part id="iRHand" z="35" /> <part id="iRShoulder" z="35" />
+	</category>
+
+	<category id="girlAShirtsTight">
+		<part id="iBodyFront" z="24" /> <part id="iBody" z="24" /> <part id="iBodyBack" z="24" />
+	</category>
+
+	<category id="girlTShirts"> <!-- готово -->
+		<part id="iLHand" z="35" /> <part id="iLForearm" z="35" /> <part id="iLShoulder" z="35" />
+		<part id="iBodyFront" z="35" /> <part id="iBody" z="35" /> <part id="iBodyBack" z="35" />
+		<part id="iRForearm" z="35" /> <part id="iRHand" z="35" /> <part id="iRShoulder" z="35" />
+	</category>
+
+	<category id="girlTShirtsTight">
+		<part id="iBodyFront" z="24" /> <part id="iBody" z="24" /> <part id="iBodyBack" z="24" />
+	</category>
+
+	<category id="girlBlouses"> <!-- готово -->
+		<part id="iLHand" z="35" /> <part id="iLForearm" z="35" /> <part id="iLShoulder" z="35" />
+		<part id="iBodyFront" z="35" /> <part id="iBody" z="35" /> <part id="iBodyBack" z="35" />
+		<part id="iRForearm" z="35" /> <part id="iRHand" z="35" /> <part id="iRShoulder" z="35" />
+	</category>
+
+	<category id="girlBlousesTight">
+		<part id="iBodyFront" z="24" /> <part id="iBody" z="24" /> <part id="iBodyBack" z="24" />
+	</category>
+
+	<category id="girlShirts"> <!-- готово -->
+		<part id="iLHand" z="35" /> <part id="iLForearm" z="35" /> <part id="iLShoulder" z="35" />
+		<part id="iBodyFront" z="35" /> <part id="iBody" z="35" /> <part id="iBodyBack" z="35" />
+		<part id="iRForearm" z="35" /> <part id="iRHand" z="35" /> <part id="iRShoulder" z="35" />
+	</category>
+
+	<category id="girlShirtsTight">
+		<part id="iBodyFront" z="24" /> <part id="iBody" z="24" /> <part id="iBodyBack" z="24" />
+	</category>
+
+	<category id="girlBlousesLooseHooded">
+		<part id="iHairFront" hiddenTags="4" z="50" /> <part id="iHairBack" hiddenTags="4" z="50" />
+	</category>
+
+	<category id="girlJackets">
+		<part id="iLHand" z="50" /> <part id="iLForearm" z="50" /> <part id="iLShoulder" z="50" />
+		<part id="iBodyFront" z="50" /> <part id="iBody" z="50" /> <part id="iBodyBack" z="50" />
+		<part id="iRHand" z="50" /> <part id="iRForearm" z="50" /> <part id="iRShoulder" z="50" />
+	</category>
+
+	<category id="girlCoats">
+		<part id="iLHand" z="50" /> <part id="iLForearm" z="50" /> <part id="iLShoulder" z="50" />
+		<part id="iBodyFront" z="50" /> <part id="iBody" z="50" /> <part id="iBodyBack" z="50" />
+		<part id="iRHand" z="50" /> <part id="iRForearm" z="50" /> <part id="iRShoulder" z="50" />
+	</category>
+
+	<category id="girlSweaters">
+		<part id="iLHand" z="50" /> <part id="iLForearm" z="50" /> <part id="iLShoulder" z="50" />
+		<part id="iBodyFront" z="50" /> <part id="iBody" z="50" /> <part id="iBodyBack" z="50" />
+		<part id="iRHand" z="50" /> <part id="iRForearm" z="50" /> <part id="iRShoulder" z="50" />
+	</category>
+
+	<category id="girlVests">
+		<part id="iLHand" z="48" /> <part id="iLForearm" z="48" /> <part id="iLShoulder" z="48" />
+		<part id="iBodyFront" z="48" /> <part id="iBody" z="48" /> <part id="iBodyBack" z="48" />
+		<part id="iRHand" z="48" /> <part id="iRForearm" z="48" /> <part id="iRShoulder" z="48" />
+	</category>
+
+	<category id="girlCoatsMonoLongHooded">
+		<part id="iHairFront" hiddenTags="4" z="50" /> <part id="iHairBack" hiddenTags="4" z="50" />
+	</category>
+
+	<category id="girlBottomClothes">
+		<part id="iLHip" z="28" /> <part id="iLShank" z="28" /> <part id="iLFoot" z="25" />
+		<part id="iBody" z="25" /> <part id="iBodyBack" z="25" /> <part id="iBodyFront" z="25" />
+		<part id="iRHip" z="28" /> <part id="iRShank" z="28" /> <part id="iRFoot" z="25" />
+	</category>
+
+	<category id="girlPantsTight">
+		<part id="iLHip" z="25" /> <part id="iLShank" z="25" />
+		<part id="iRHip" z="25" /> <part id="iRShank" z="25" />
+	</category>
+
+	<category id="girlLegItems">
+		<part id="iLHip" z="26" /> <part id="iLShank" z="26" />
+		<part id="iRHip" z="26" /> <part id="iRShank" z="26" />
+	</category>
+
+	<category id="girlSocks">
+		<part id="iLHip" z="23" /> <part id="iLShank" z="23" /> <part id="iLFoot" z="23" />
+		<part id="iRHip" z="23" /> <part id="iRShank" z="23" /> <part id="iRFoot" z="23" />
+	</category>
+
+	<category id="girlPantyhose">
+		<part id="iLHip" z="22" /> <part id="iLShank" z="22" /> <part id="iLFoot" z="22" />
+		<part id="iBody" z="22" /> <part id="iBodyBack" z="22" />
+		<part id="iRHip" z="22" /> <part id="iRShank" z="22" /> <part id="iRFoot" z="22" />
+	</category>
+
+	<category id="girlShoes">
+		<part id="iLHip" z="24" /> <part id="iLShank" z="24" /> <part id="iLFoot" z="27" />
+		<part id="iRHip" z="24" /> <part id="iRShank" z="24" /> <part id="iRFoot" z="27" />
+	</category>
+
+	<category id="girlShoesSandalsHigh">
+		<part id="iLHip" z="27" /> <part id="iLShank" z="27" />
+		<part id="iRHip" z="27" /> <part id="iRShank" z="27" />
+	</category>
+
+	<category id="girlShoesSnickersHigh">
+		<part id="iLHip" z="27" /> <part id="iLShank" z="27" />
+		<part id="iRHip" z="27" /> <part id="iRShank" z="27" />
+	</category>
+
+	<category id="girlShoesSnickersSocks">
+		<part id="iLHip" z="23" /> <part id="iLShank" z="23" />
+		<part id="iRHip" z="23" /> <part id="iRShank" z="23" />
+	</category>
+
+	<category id="girlShoesShoesHigh">
+		<part id="iLHip" z="27" /> <part id="iLShank" z="27" />
+		<part id="iRHip" z="27" /> <part id="iRShank" z="27" />
+	</category>
+
+	<category id="girlShoesShoesSocks">
+		<part id="iLHip" z="23" /> <part id="iLShank" z="23" />
+		<part id="iRHip" z="23" /> <part id="iRShank" z="23" />
+	</category>
+
+	<category id="girlShoesHigh">
+		<part id="iLHip" z="27" /> <part id="iLShank" z="27" />
+		<part id="iRHip" z="27" /> <part id="iRShank" z="27" />
+	</category>
+	<category id="girlShoesHighLoose">
+		<part id="iLHip" z="29" /> <part id="iLShank" z="29" />
+		<part id="iRHip" z="29" /> <part id="iRShank" z="29" />
+	</category>
+
+
+	<category id="girlSuits">
+		<part id="iLHand" z="24" /> <part id="iLForearm" z="24" /> <part id="iLShoulder" z="24" />
+		<part id="iRHand" z="24" /> <part id="iRForearm" z="24" /> <part id="iRShoulder" z="24" />
+		<part id="iBody" z="24" /> <part id="iBodyBack" z="24" /> <part id="iBodyFront" z="24" />
+		<part id="iLHip" z="24" /> <part id="iLShank" z="24" /> <part id="iLFoot" z="24" />
+		<part id="iRHip" z="24" /> <part id="iRShank" z="24" /> <part id="iRFoot" z="24" />
+	</category>
+	<category id="girlSuitsExtraDevil">
+		<part id="iLShank" z="22" /> <part id="iRShank" z="22" />
+	</category>
+	<category id="girlSuitsExtraGeneralLoose">
+		<part id="iLHip" z="28" /> <part id="iRHip" z="28" />
+		<part id="iLShank" z="28" /> <part id="iRShank" z="28" />
+	</category>
+	<category id="girlSuitsExtraBackLoose">
+		<part id="iLHip" z="28" /> <part id="iRHip" z="28" />
+		<part id="iLShank" z="28" /> <part id="iRShank" z="28" />
+	</category>
+
+	<category id="girlDress">
+		<part id="iLHand" z="35" /> <part id="iLForearm" z="35" /> <part id="iLShoulder" z="35" />
+		<part id="iRHand" z="35" /> <part id="iRForearm" z="35" /> <part id="iRShoulder" z="35" />
+		<part id="iBody" z="35" /> <part id="iBodyBack" z="35" /> <part id="iBodyFront" z="35" />
+		<part id="iLHip" z="35" /> <part id="iLShank" z="35" /> <part id="iLFoot" z="35" />
+		<part id="iLHip" z="35" /> <part id="iRShank" z="35" /> <part id="iRFoot" z="35" />
+	</category>
+
+	<category id="girlDressSundress">
+		<part id="iLHand" z="28" /> <part id="iLForearm" z="28" /> <part id="iLShoulder" z="28" />
+		<part id="iRHand" z="28" /> <part id="iRForearm" z="28" /> <part id="iRShoulder" z="28" />
+		<part id="iLHip" z="28" /> <part id="iLShank" z="28" /> <part id="iLFoot" z="25" />
+		<part id="iBody" z="25" /> <part id="iBodyBack" z="25" /> <part id="iBodyFront" z="25" />
+		<part id="iRHip" z="28" /> <part id="iRShank" z="28" /> <part id="iRFoot" z="25" />
+	</category>
+
+	<category id="girlSwimsuit">
+		<part id="iLHand" z="20" /> <part id="iLForearm" z="20" /> <part id="iLShoulder" z="20" />
+		<part id="iRHand" z="20" /> <part id="iRForearm" z="20" /> <part id="iRShoulder" z="20" />
+		<part id="iBody" z="20" /> <part id="iBodyBack" z="20" /> <part id="iBodyFront" z="20" />
+		<part id="iLHip" z="20" /> <part id="iLShank" z="20" /> <part id="iLFoot" z="20" />
+		<part id="iLHip" z="20" /> <part id="iRShank" z="20" /> <part id="iRFoot" z="20" />
+	</category>
+	<category id="girlUnder">
+		<part id="iLHand" z="10" /> <part id="iLForearm" z="10" /> <part id="iLShoulder" z="10" />
+		<part id="iRHand" z="10" /> <part id="iRForearm" z="10" /> <part id="iRShoulder" z="10" />
+		<part id="iBody" z="10" /> <part id="iBodyBack" z="10" /> <part id="iBodyFront" z="10" />
+		<part id="iLHip" z="10" /> <part id="iLShank" z="10" /> <part id="iLFoot" z="10" />
+		<part id="iLHip" z="10" /> <part id="iRShank" z="10" /> <part id="iRFoot" z="10" />
+	</category>
+	<category id="girlUndergarmentsLingerie">
+		<part id="iBody" z="23" /> <part id="iBodyBack" z="23" /> <part id="iBodyFront" z="10" />
+	</category>
+	<category id="girlTattoos">
+		<part id="iLHand" z="5" /> <part id="iLForearm" z="5" /> <part id="iLShoulder" z="5" />
+		<part id="iRHand" z="5" /> <part id="iRForearm" z="5" /> <part id="iRShoulder" z="5" />
+		<part id="iHead" z="5" />
+		<part id="iBody" z="5" /> <part id="iBodyBack" z="5" /> <part id="iBodyFront" z="5" />
+		<part id="iLHip" z="5" /> <part id="iLShank" z="5" /> <part id="iLFoot" z="5" />
+		<part id="iLHip" z="5" /> <part id="iRShank" z="5" /> <part id="iRFoot" z="5" />
+	</category>
+	<category id="girlSkin">
+		<part id="iLHand" z="1" /> <part id="iLForearm" z="1" /> <part id="iLShoulder" z="1" />
+		<part id="iRHand" z="1" /> <part id="iRForearm" z="1" /> <part id="iRShoulder" z="1" />
+		<part id="iHead" z="1" />
+		<part id="iBody" z="1" /> <part id="iBodyBack" z="1" /> <part id="iBodyFront" z="1" />
+		<part id="iLHip" z="1" /> <part id="iLShank" z="1" /> <part id="iLFoot" z="1" />
+		<part id="iLHip" z="1" /> <part id="iRShank" z="1" /> <part id="iRFoot" z="1" />
+	</category>
+	<category id="girlAccsHead">
+		<part id="iHairFront" z="50" /> <part id="iHead" z="50" /> <part id="iHairBack" z="50" />
+	</category>
+
+	<category id="girlTiaras">
+		<part id="iHairFront" z="50" /> <part id="iHead" z="50" /> <part id="iHairBack" z="50" />
+	</category>
+
+	<category id="girlWigs">
+		<part id="iHairFront" hiddenTags="4" z="21" /> <part id="iHead" z="21" /> <part id="iHairBack" hiddenTags="4" z="21" />
+	</category>
+
+	<category id="girlWigsFaced">
+		<part id="iHead_iFace_iBrows" hiddenTags="2" z="1"/>
+		<part id="iHead_iFace_iEyes" hiddenTags="1" z="1"/>
+		<part id="iHead_iFace_iMouth" hiddenTags="3" z="1"/>
+		<part id="iHead_iFace_iShadow" hiddenTags="6" z="20"/>
+		<part id="iHead_iFace_iRouge" hiddenTags="7" z="20"/>
+		<part id="iHead_iFace_iStrass" hiddenTags="8" z="20"/>
+	</category>
+
+	<category id="girlFaces">
+		<part id="iHairFront" z="-2" /> <part id="iHead" z="20" /> <part id="iHairBack" z="-2" />
+	</category>
+
+	<category id="girlFacesFull">
+		<part id="iHairFront" z="-2" /> <part id="iHead" z="20" />
+		<part id="iHead_iFace_iBrows" hiddenTags="2" z="20"/>
+		<part id="iHead_iFace_iEyes" hiddenTags="1" z="20"/>
+		<part id="iHead_iFace_iMouth" hiddenTags="3" z="20"/>
+		<part id="iHead_iFace_iShadow" hiddenTags="6" z="20"/>
+		<part id="iHead_iFace_iRouge" hiddenTags="7" z="20"/>
+		<part id="iHead_iFace_iStrass" hiddenTags="8" z="20"/>
+	</category>
+
+	<category id="girlEarrings">
+		<part id="iHairFront" z="25" /> <part id="iHead" z="25" /> <part id="iHairBack" z="25" />
+	</category>
+
+	<category id="girlBandanas">
+		<part id="iHairFront" z="32" /> <part id="iHead" z="32" /> <part id="iHairBack" z="32" />
+	</category>
+
+	<category id="girlHorns">
+		<part id="iHairFront" z="35" /> <part id="iHead" z="35" /> <part id="iHairBack" z="35" />
+	</category>
+
+	<category id="girlMasks">
+		<part id="iHairFront" z="-1" /> <part id="iHead" z="36" /> <part id="iHairBack" z="1" />
+<!-- 		<part id="iHead_iFace_iMouth" hiddenTags="3" z="1"/>
+ -->		<part id="iHead_iFace_iMouth" z="1"/>
+	</category>
+
+	<category id="girlMasksHead">
+		<part id="iHairFront" z="36" /> <part id="iHead" z="36" /> <part id="iHairBack" z="32" />
+<!-- 		<part id="iHead_iFace_iMouth" hiddenTags="3" z="1"/>
+ -->		<part id="iHead_iFace_iMouth" z="1"/>
+	</category>
+
+
+	<category id="girlGlasses">
+		<part id="iHairFront" z="37" />  <part id="iHairBack" z="37" />
+	</category>
+
+	<category id="girlGlassesFaceTight">
+		<part id="iHairFront" z="-1" />  <part id="iHairBack" z="-1" />
+	</category>
+
+	<category id="girlHeadphonesHead">
+		<part id="iHairFront" z="37" />  <part id="iHead" z="37" />  <part id="iHairBack" z="37" />
+	</category>
+
+	<category id="girlHairpins">
+		<part id="iHairFront" z="40" /> <part id="iHead" z="40" /> <part id="iHairBack" z="40" />
+	</category>
+
+	<category id="girlHelmets">
+		<part id="iHairFront" hiddenTags="4" z="50" /> <part id="iHairBack" hiddenTags="4" z="50" />
+	</category>
+
+	<category id="girlGloves">
+		<part id="iLHand" z="36" /> <part id="iLForearm" z="33" /> <part id="iLShoulder" z="33" />
+		<part id="iRHand" z="36" /> <part id="iRForearm" z="33" /> <part id="iRShoulder" z="33" />
+	</category>
+
+	<category id="girlGlovesLoose">
+		<part id="iLForearm" z="40" /> <part id="iLShoulder" z="40" />
+		<part id="iRForearm" z="40" /> <part id="iRShoulder" z="40" />
+	</category>
+	<category id="girlGlovesFancy">
+		<part id="iLForearm" z="40" /> <part id="iLShoulder" z="40" />
+		<part id="iRForearm" z="40" /> <part id="iRShoulder" z="40" />
+	</category>
+	<category id="girlGlovesHuge">
+		<part id="iLHand" z="51" /> <part id="iLForearm" z="51" /> <part id="iLShoulder" z="51" />
+		<part id="iRHand" z="51" /> <part id="iRForearm" z="51" /> <part id="iRShoulder" z="51" />
+	</category>
+
+	<category id="girlBraceletes">
+		<part id="iLForearm" z="45" /> <part id="iLShoulder" z="33" />
+		<part id="iRForearm" z="45" /> <part id="iRShoulder" z="33" />
+	</category>
+
+	<category id="girlNecklace">
+		<part id="iBodyFront" z="47" />  <part id="iBody" z="47" /> <part id="iBodyBack" z="47" />
+	</category>
+
+	<category id="girlNeckItems">
+		<part id="iBodyFront" z="51" />  <part id="iBody" z="51" />
+	</category>
+
+	<category id="girlHeadphonesNeck">
+		<part id="iBodyFront" z="47" />  <part id="iBody" z="47" />
+	</category>
+
+	<category id="girlMuffler">
+		<part id="iBodyFront" z="51" /> <part id="iBody" z="51" /> <part id="iBodyBack" z="51" />
+	</category>
+
+	<category id="girlMufflerTight">
+		<part id="iBodyFront" z="49" /> <part id="iBody" z="49" /> <part id="iBodyBack" z="49" />
+	</category>
+
+	<category id="girlWings">
+		<part id="iBodyBack" z="70" />
+	</category>
+	<category id="girlTails">
+		<part id="iBodyBack" z="60" />
+	</category>
+	<category id="girlCloaks">
+		<part id="iLHand" z="70" /> <part id="iLForearm" z="70" /> <part id="iLShoulder" z="70" />
+		<part id="iBodyFront" z="70" /> <part id="iBody" z="70" /> <part id="iBodyBack" z="70" />
+		<part id="iRHand" z="70" /> <part id="iRForearm" z="70" /> <part id="iRShoulder" z="70" />
+	</category>
+
+	<category id="girlBelt">
+		<part id="iBody" z="45" />
+	</category>
+
+	<category id="girlBodyBags">
+		<part id="iBody" z="55" />
+	</category>
+	<category id="girlBodyTightBags">
+		<part id="iBody" z="36" />
+	</category>
+
+	<category id="girlHandItems">
+		<part id="iLHand" z="90" />
+		<part id="iBodyFront" z="90" /> <part id="iBody" z="90" /> <part id="iBodyBack" z="90" />
+		<part id="iRHand" z="90" />
+	</category>
+	<category id="girlHandbags">
+		<part id="iLHand" z="90" />
+		<part id="iRHand" z="90" />
+	</category>
+
+	<category id="girlBackpacks">
+		<part id="iBodyFront" z="51" /> <part id="iBody" z="51" /> <part id="iBodyBack" z="70" />
+	</category>	
+
+	<category id="girlBackItems">
+		<part id="iLHand" z="70" /> <part id="iLForearm" z="70" /> <part id="iLShoulder" z="70" />
+		<part id="iBodyFront" z="70" /> <part id="iBody" z="70" /> <part id="iBodyBack" z="70" />
+		<part id="iRHand" z="70" /> <part id="iRForearm" z="70" /> <part id="iRShoulder" z="70" />
+	</category>
+
+	<category id="girlOther">
+		<part id="iLHand" z="49" /> <part id="iLForearm" z="49" /> <part id="iLShoulder" z="49" />
+		<part id="iRHand" z="49" /> <part id="iRForearm" z="49" /> <part id="iRShoulder" z="49" />
+		<part id="iBody" z="49" /> <part id="iBodyBack" z="49" /> <part id="iBodyFront" z="49" />
+		<part id="iLHip" z="49" /> <part id="iLShank" z="49" /> <part id="iLFoot" z="49" />
+		<part id="iLHip" z="49" /> <part id="iRShank" z="49" /> <part id="iRFoot" z="49" />
+	</category>
+	<category id="girlLifebuoy">
+		<part id="iLHand" z="49" /> <part id="iLForearm" z="49" /> <part id="iLShoulder" z="49" />
+		<part id="iRHand" z="49" /> <part id="iRForearm" z="49" /> <part id="iRShoulder" z="49" />
+		<part id="iBody" z="49" /> <part id="iBodyBack" z="49" /> <part id="iBodyFront" z="49" />
+		<part id="iLHip" z="49" /> <part id="iLShank" z="49" /> <part id="iLFoot" z="49" />
+		<part id="iLHip" z="49" /> <part id="iRShank" z="49" /> <part id="iRFoot" z="49" />
+	</category>
+
+</config>

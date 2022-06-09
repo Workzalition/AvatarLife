@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<config>
+    <!-- // VIP -->
+
+    <LandscapeObjectKind id="314" name="vipJacuzzi1" width="5" length="20" height="0.1" />
+    <LandscapeObjectKind id="315" name="vipsummer_djtable" width="6" length="3" height="2" />
+    <LandscapeObjectKind id="319" name="vipJacuzzi2" width="20.6" length="5" height="0.1" />
+
+    <LandscapeObjectKind id="321" name="vipbar_sofa_r" width="2" length="6" height="2"/>
+    <LandscapeObjectKind id="322" name="vipbar_armchair_r" width="2" length="2.0" height="2"/>
+    <LandscapeObjectKind id="323" name="vipbar_table_w" width="2" length="2" height="1"/>
+
+    <LandscapeObjectKind id="354" name="vipcoco" width="0.8" length="0.8" height="0.8"/>
+    <LandscapeObjectKind id="355" name="vipmojito" width="0.8" length="0.8" height="0.8"/>
+    <LandscapeObjectKind id="356" name="vipsunrise" width="0.8" length="0.8" height="0.8"/> 
+
+    <!-- // CLUB -->
+
+    <LandscapeObjectKind id="501" name="clubclub_bar_sofa_r" width="2.0f" length="6.0f" height="1.0f"/>
+    <LandscapeObjectKind id="502" name="clubclub_bar_stool_w" width="1.0f" length="1.0f" height="2.5f"/>
+    <LandscapeObjectKind id="503" name="clubBar" width="12.0f" length="1.0f" height="6.0f" defDir="W"/>
+    <LandscapeObjectKind id="504" name="clubDJPult" width="4.0f" length="2.0f" height="2.0f" defDir="W"/>
+    <LandscapeObjectKind id="505" name="clubExit" width="0.1f" length="2.0f" height="5.0f"/>
+    <LandscapeObjectKind id="506" name="clubVipEnter" width="0.1f" length="2.0f" height="5.0f"/>
+    <LandscapeObjectKind id="507" name="clubclub_bar_armchair_r" width="2.0f" length="2.0f" height="1.0f"/>
+    <LandscapeObjectKind id="508" name="clubMenu" width="0.8f" length="0.8f" height="1.0f"/>
+    <LandscapeObjectKind id="509" name="clubIllumination" width="0.0f" length="0.0f" height="0.0f"/>
+    <LandscapeObjectKind id="510" name="clubclub_bar_table_w" width="2" length="2" height="1"/>
+    <LandscapeObjectKind id="511" name="clubDecorBachelor" width="1" length="1" height="2"/>
+    <LandscapeObjectKind id="512" name="clubDishRed" width="1" length="1" height="1"/>
+    <LandscapeObjectKind id="513" name="clubPartyDj" width="1" length="1" height="4"/>
+
+    <!-- // PUBLIC BEACH -->
+
+    <LandscapeObjectKind id="1530" name="publicBeachChair" width="1.0f" length="1.0f" height="1.5f"/>
+    <LandscapeObjectKind id="1531" name="publicBeachBed" width="4.0f" length="1.0f" height="2.0f"/>
+    <LandscapeObjectKind id="1526" name="publicBeachTable" width="2.0f" length="2.0f" height="1.0f"/>
+
+    <!-- // SALON -->
+
+    <LandscapeObjectKind id="901" name="salonWhiteCase" width="1.0f" length="2.0f" height="1.0f"/>
+    <LandscapeObjectKind id="902" name="salonTable" width="2.0f" length="3.0f" height="1.0f"/>
+    <LandscapeObjectKind id="903" name="salonWhiteSmallSofa" width="2.0f" length="3.0f" height="1.0f"/>
+    <LandscapeObjectKind id="904" name="salonBlueSmallSofa" width="2.0f" length="3.0f" height="1.0f"/>
+    <LandscapeObjectKind id="905" name="salonBlueLargeSofa" width="2.0f" length="5.0f" height="1.0f"/>
+    <LandscapeObjectKind id="906" name="salonDoor" width="0.0f" length="0.0f" height="0.0f"/>
+    <LandscapeObjectKind id="907" name="salonDivision" width="1.0f" length="11.0f" height="9.0f"/>
+    <LandscapeObjectKind id="908" name="salonDecor1" width="1.0f" length="1.5f" height="0.5f"/>
+    <LandscapeObjectKind id="909" name="salonDecor2" width="1.0f" length="1.5f" height="0.5f"/>
+    <LandscapeObjectKind id="910" name="salonActiveChair" width="1.0f" length="1.0f" height="1.0f"/>
+    <LandscapeObjectKind id="911" name="salonFlower" width="0.2f" length="0.2f" height="5.0f"/>
+    <LandscapeObjectKind id="912" name="salonLamp" width="0.3f" length="0.3f" height="1.0f"/>
+    <LandscapeObjectKind id="913" name="salonMagazine" width="1.0f" length="2.0f" height="0.1f"/>
+    <LandscapeObjectKind id="914" name="salonNYTwing" width="1.0f" length="1.0f" height="0.5f"/>
+    <LandscapeObjectKind id="915" name="salonCandleCobwebHW" width="0.9f" length="0.9f" height="3.0f"/>
+
+
+   
+</config>

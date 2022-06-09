@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+<!--
+    <achievement id="beachRaceChamp" maxlevel="3" title="#beachRaceChampTitle" description="#beachRaceChampDescription">
+        <grade level="1" winCount="25" title="#beachRaceChampTitle1" description="#beachRaceChampDescription1" awardId="beachRaceBronze" hint="#beachRaceChampHint1"/>
+        <grade level="2" winCount="100" title="#beachRaceChampTitle2" description="#beachRaceChampDescription2" awardId="beachRaceSilver" hint="#beachRaceChampHint2"/>
+        <grade level="3" winCount="250" title="#beachRaceChampTitle3" description="#beachRaceChampDescription3" awardId="beachRaceGold" hint="#beachRaceChampHint3"/>
+    </achievement>
+-->
+    <!-- <achievement id="schoolMaster" maxlevel="3" title="#schoolMasterTitle" description="#schoolMasterDescription">
+        <grade level="1" winCount="1" title="#schoolMasterTitle1" description="#schoolMasterDescription1" awardId="schlBronze" hint="#schoolMasterHint1"/>
+        <grade level="2" winCount="1" title="#schoolMasterTitle2" description="#schoolMasterDescription2" awardId="schlSilver" hint="#schoolMasterHint2"/>
+        <grade level="3" winCount="1" title="#schoolMasterTitle3" description="#schoolMasterDescription3" awardId="schlGold" hint="#schoolMasterHint3"/>
+    </achievement> -->
+    
+    <achievement id="vip" maxlevel="3" title="#vipTitle" description="#vipDescription">
+        <grade level="1" winCount="2" title="#vipTitle1" description="#vipDescription1" awardId="vipBronze" hint="#vipHint1"/>
+        <grade level="2" winCount="7" title="#vipTitle2" description="#vipDescription2" awardId="vipSilver" hint="#vipHint2"/>
+        <grade level="3" winCount="20" title="#vipTitle3" description="#vipDescription3" awardId="vipGold" hint="#vipHint3"/>
+    </achievement>
+
+    <achievement id="crafter" maxlevel="3" title="#crafterTitle" description="#crafterDescription">
+        <grade level="1" winCount="3" title="#crafterTitle1" description="#crafterDescription1" awardId="crafterBronze" hint="#crafterHint1"/>
+        <grade level="2" winCount="10" title="#crafterTitle2" description="#crafterDescription2" awardId="crafterSilver" hint="#crafterHint2"/>
+        <grade level="3" winCount="25" title="#crafterTitle3" description="#crafterDescription3" awardId="crafterGold" hint="#crafterHint3"/>
+    </achievement>
+    
+    <achievement id="magnate" maxlevel="3" title="#magnateTitle" description="#magnateDescription">
+        <grade level="1" winCount="20" title="#magnateTitle1" description="#magnateDescription1" awardId="magnateBronze" hint="#magnateHint1"/>
+        <grade level="2" winCount="100" title="#magnateTitle2" description="#magnateDescription2" awardId="magnateSilver" hint="#magnateHint2"/>
+        <grade level="3" winCount="500" title="#magnateTitle3" description="#magnateDescription3" awardId="magnateGold" hint="#magnateHint3"/>
+    </achievement>
+    
+    <achievement id="generous" maxlevel="3" title="#generousTitle" description="#generousDescription">
+        <grade level="1" winCount="25" title="#generousTitle1" description="#generousDescription1" awardId="presentBronze" hint="#generousHint1"/>
+        <grade level="2" winCount="100" title="#generousTitle2" description="#generousDescription2" awardId="presentSilver" hint="#generousHint2"/>
+        <grade level="3" winCount="250" title="#generousTitle3" description="#generousDescription3" awardId="presentGold" hint="#generousHint3"/>
+    </achievement>
+    
+    <achievement id="pilowChamp" maxlevel="3" title="#pilowChampTitle" description="#pilowChampDescription">
+        <grade level="1" winCount="25" title="#pilowChampTitle1" description="#pilowChampDescription1" awardId="pillowBronze" hint="#pilowChampHint1"/>
+        <grade level="2" winCount="100" title="#pilowChampTitle2" description="#pilowChampDescription2" awardId="pillowSilver" hint="#pilowChampHint2"/>
+        <grade level="3" winCount="250" title="#pilowChampTitle3" description="#pilowChampDescription3" awardId="pillowGold" hint="#pilowChampHint3"/>
+    </achievement>
+    
+    <achievement id="workaholic" maxlevel="3" title="#workaholicTitle" description="#workaholicDescription">
+        <grade level="1" winCount="2500" title="#workaholicTitle1" description="#workaholicDescription1" awardId="workBronze" hint="#workaholicHint1"/>
+        <grade level="2" winCount="10000" title="#workaholicTitle2" description="#workaholicDescription2" awardId="workSilver" hint="#workaholicHint2"/>
+        <grade level="3" winCount="50000" title="#workaholicTitle3" description="#workaholicDescription3" awardId="workGold" hint="#workaholicHint3"/>
+    </achievement>
+    
+    <achievement id="goodFriend" maxlevel="3" title="#goodFriendTitle" description="#goodFriendDescription">
+        <grade level="1" winCount="5" title="#goodFriendTitle1" description="#goodFriendDescription1" awardId="friendBronze" hint="#goodFriendHint1"/>
+        <grade level="2" winCount="20" title="#goodFriendTitle2" description="#goodFriendDescription2" awardId="friendSilver" hint="#goodFriendHint2"/>
+        <grade level="3" winCount="100" title="#goodFriendTitle3" description="#goodFriendDescription3" awardId="friendGold" hint="#goodFriendHint3"/>
+    </achievement>
+    
+    <achievement id="shopaholic" maxlevel="3" title="#shopaholicTitle" description="#shopaholicDescription">
+        <grade level="1" winCount="5000" title="#shopaholicTitle1" description="#shopaholicDescription1" awardId="shopaholicBronze" hint="#shopaholicHint1"/>
+        <grade level="2" winCount="20000" title="#shopaholicTitle2" description="#shopaholicDescription2" awardId="shopaholicSilver" hint="#shopaholicHint2"/>
+        <grade level="3" winCount="100000" title="#shopaholicTitle3" description="#shopaholicDescription3" awardId="shopaholicGold" hint="#shopaholicHint3"/>
+    </achievement>
+
+</config>

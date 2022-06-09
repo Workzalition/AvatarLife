@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config> 
+	<!--<eventEndTime timestamp="1548099685"/>
+	<eventType type="bank"/>-->
+	<eventCurrency id="AvaCoin"/>
+	<news>
+		<!-- <news name="iconItem" timestamp="1547737200" eventType="saleOfTheDay" placement="right_scroll"/> 	
+		<news name="iconBank" timestamp="1558969200" eventType="bank" placement="right_scroll"/>	 -->	
+		<!-- <news name="iconGeneral" timestamp="0" eventType="general"/> --> 
+		<!-- <news name="iconFest" timestamp="1558537200" eventType="seasonal" placement="right_scroll"/>
+		<news name="iconSaleClothes" timestamp="1558537200" eventType="saleClothes" placement="right_scroll"/>
+		<news name="offers" eventType="offer" placement="right_scroll"/> -->
+		<!-- <news name="iconSaleFurniture" timestamp="1558105200" eventType="saleFurnuture"/> -->
+		<!-- <news name="iconFest" timestamp="1568413875" eventType="vip"/> -->
+	</news>
+	<Sales>
+        <FurSaleTime>
+            <saleTime/>
+        </FurSaleTime>
+        <BoyClothSaleTime>
+            <boySaleTimeClothes/>
+        </BoyClothSaleTime>
+        <GirlClothSaleTime>
+            <girlSaleTimeClothes/>
+        </GirlClothSaleTime>
+    </Sales> 
+</config>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config>
+	<networks locale="ru">
+		<item icon="vk_logo_icon" link="promoCodeVkLink"/>
+		<item icon="insta_logo_icon" link="promoCodeInstagramLink"/>
+		<item icon="dsc_logo_icon" link="promoCodeDiscordLinkRu"/>
+		<item icon="youtube_logo_icon" link="promoCodeYoutubeLink"/>
+		<item icon="tiktok_logo_icon" link="promoCodeTiktokLink"/>
+	</networks>
+	<networks locale="de">
+		<item icon="fb_logo_icon" link="promoCodeFacebookLink"/>
+		<item icon="insta_logo_icon" link="promoCodeInstagramLink"/>
+		<item icon="dsc_logo_icon" link="promoCodeDiscordLink"/>
+		<item icon="youtube_logo_icon" link="promoCodeYoutubeLink"/>
+		<item icon="tiktok_logo_icon" link="promoCodeTiktokLink"/>
+	</networks>
+	<networks locale="en">
+		<item icon="fb_logo_icon" link="promoCodeFacebookLink"/>
+		<item icon="insta_logo_icon" link="promoCodeInstagramLink"/>
+		<item icon="dsc_logo_icon" link="promoCodeDiscordLink"/>
+		<item icon="youtube_logo_icon" link="promoCodeYoutubeLink"/>
+		<item icon="tiktok_logo_icon" link="promoCodeTiktokLink"/>
+	</networks>
+	<networks locale="es">
+		<item icon="fb_logo_icon" link="promoCodeFacebookLink"/>
+		<item icon="insta_logo_icon" link="promoCodeInstagramLink"/>
+		<item icon="dsc_logo_icon" link="promoCodeDiscordLink"/>
+		<item icon="youtube_logo_icon" link="promoCodeYoutubeLink"/>
+		<item icon="tiktok_logo_icon" link="promoCodeTiktokLink"/>
+	</networks>
+	<networks locale="fr">
+		<item icon="fb_logo_icon" link="promoCodeFacebookLink"/>
+		<item icon="insta_logo_icon" link="promoCodeInstagramLink"/>
+		<item icon="dsc_logo_icon" link="promoCodeDiscordLink"/>
+		<item icon="youtube_logo_icon" link="promoCodeYoutubeLink"/>
+		<item icon="tiktok_logo_icon" link="promoCodeTiktokLink"/>
+	</networks>
+	<networks locale="pl">
+		<item icon="fb_logo_icon" link="promoCodeFacebookLink"/>
+		<item icon="insta_logo_icon" link="promoCodeInstagramLink"/>
+		<item icon="dsc_logo_icon" link="promoCodeDiscordLink"/>
+		<item icon="youtube_logo_icon" link="promoCodeYoutubeLink"/>
+		<item icon="tiktok_logo_icon" link="promoCodeTiktokLink"/>
+	</networks>
+	<networks locale="pt">
+		<item icon="fb_logo_icon" link="promoCodeFacebookLink"/>
+		<item icon="insta_logo_icon" link="promoCodeInstagramLink"/>
+		<item icon="dsc_logo_icon" link="promoCodeDiscordLink"/>
+		<item icon="youtube_logo_icon" link="promoCodeYoutubeLink"/>
+		<item icon="tiktok_logo_icon" link="promoCodeTiktokLink"/>
+	</networks>
+	<networks locale="tr">
+		<item icon="fb_logo_icon" link="promoCodeFacebookLink"/>
+		<item icon="insta_logo_icon" link="promoCodeInstagramLink"/>
+		<item icon="dsc_logo_icon" link="promoCodeDiscordLink"/>
+		<item icon="youtube_logo_icon" link="promoCodeYoutubeLink"/>
+		<item icon="tiktok_logo_icon" link="promoCodeTiktokLink"/>
+	</networks>
+</config>

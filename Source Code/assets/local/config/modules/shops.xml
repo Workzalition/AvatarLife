@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config>
+
+    <item label="notEnougthGoldLabel" shop="bank" posX="0" posY="0" icon="igui/shops/Buy_bank6_btn.png" />
+
+    <item label="clothesShopTitle" shop="clothes" posX="1" posY="0" icon="igui/shops/Buy_clothes6_btn.png">
+        <tab category="girlTopClothes" type="clothes" gender="girl" />
+        <tab category="girlBottomClothes" type="clothes" gender="girl" />
+        <tab category="girlShoes" type="clothes" gender="girl" />
+        <tab category="girlDress" type="clothes" gender="girl" />
+        <tab category="girlSuits" type="clothes" gender="girl" />
+        <tab category="girlSwimsuit" type="clothes" gender="girl" />
+        <tab category="girlUndergarmentsBasics" type="clothes" gender="girl" />
+        <tab category="boyTopClothes" type="clothes" gender="boy" />
+        <tab category="boyBottomClothes" type="clothes" gender="boy" />
+        <tab category="boyShoes" type="clothes" gender="boy" />
+        <tab category="boySuits" type="clothes" gender="boy" />
+        <tab category="boySwimsuit" type="clothes" gender="boy" />
+        <tab category="boyUndergarmentsBasics" type="clothes" gender="boy" />
+    </item>
+
+    <item label="furnitureShopTitle" shop="furniture" posX="2" posY="0" icon="igui/shops/Buy_decor6_btn.png">
+        <tab category="0" type="furniture"/>
+        <tab category="11" type="furniture"/>
+        <tab category="livingroom" type="furniture"/>
+        <tab category="18" type="furniture"/>
+        <tab category="bedroom" type="furniture"/>
+        <tab category="24" type="furniture"/>
+        <tab category="16" type="furniture"/>
+    </item>
+
+    <item label="clothesCategoryAcs" shop="clothesOnly" posX="0" posY="1" icon="igui/shops/Buy_accessories6_btn.png">
+        <tab category="girlAccsHead" type="clothes" gender="girl" />
+        <tab category="girlAccsClothes" type="clothes" gender="girl" />
+        <tab category="girlAccsJewels" type="clothes" gender="girl" />
+        <tab category="girlAccsExtra" type="clothes" gender="girl" />
+        <tab category="girlAccsItems" type="clothes" gender="girl" />
+        <tab category="girlTattoos" type="clothes" gender="girl" />
+        <tab category="boyAccsHead" type="clothes" gender="boy" />
+        <tab category="boyAccsClothes" type="clothes" gender="boy" />
+        <tab category="boyAccsJewels" type="clothes" gender="boy" />
+        <tab category="boyAccsExtra" type="clothes" gender="boy" />
+        <tab category="boyAccsItems" type="clothes" gender="boy" />
+        <tab category="boyTattoos" type="clothes" gender="boy" />
+    </item>
+
+    <item label="weddingShopTitle" shop="wedding" posX="1" posY="1" icon="igui/shops/Buy_marriage6_btn.png" />
+
+    <item label="jokeAndPresentShopTitle" shop="giftsAndJokes" posX="2" posY="1" icon="igui/shops/Buy_other6_btn.png"/>
+    
+</config>

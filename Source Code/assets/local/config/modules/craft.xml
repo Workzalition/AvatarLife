@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>          
+
+    <craftedItem itemId="moneyBox" tab="default">
+        <component itemId="clay" count="8" />
+        <component itemId="generosity" count="5"  />
+        <component itemId="jarOfPaint" count="5" social="1" />
+        <component itemId="likeCoin" count="1" />
+    </craftedItem>
+    <craftedItem itemId="teddyBear" priority="4" tab="default">
+        <component itemId="feather" count="15" />
+        <component itemId="love" count="10" />
+        <component itemId="cloth" count="5" social="1" />
+        <component itemId="bow" count="1" />
+    </craftedItem>
+    <craftedItem itemId="tableVase" views="Orange,Pink,Yellow" priority="7" tab="default">
+        <component itemId="flowerBud" count="7" />
+        <component itemId="love" count="5" />
+        <component itemId="glass" count="5" social="1" />
+        <component itemId="wrappingPaper" count="1" />
+    </craftedItem>
+    <craftedItem itemId="floorVase" views="Blue,Red" priority="8" tab="default">
+        <component itemId="flowerBud" count="10" />
+        <component itemId="love" count="7" />
+        <component itemId="jarOfPaint" count="5" social="1" />
+        <component itemId="bigPhial" count="1" />
+    </craftedItem>
+    <craftedItem itemId="photoFrame1" views="Blue" priority="9" tab="default">
+        <component itemId="peaceOfWood" count="7" />
+        <component itemId="happiness" count="5" />
+        <component itemId="jarOfPaint" count="3" social="1" />
+        <component itemId="photograph" count="1" />
+    </craftedItem>
+    <craftedItem itemId="saber" priority="10" tab="default">
+        <component itemId="peaceOfIron" count="5" />
+        <component itemId="generosity" count="10" />
+        <component itemId="grindstone" count="3" social="1" />
+        <component itemId="swordHilt" count="1" />
+    </craftedItem>
+    <craftedItem itemId="lilyFlowers" priority="11" tab="default">
+        <component itemId="flowerBud" count="15" />
+        <component itemId="love" count="10" />
+        <component itemId="pollen" count="7" social="1" />
+        <component itemId="bigPhial" count="1" />
+    </craftedItem>
+    <craftedItem itemId="candel" priority="12" tab="default">
+        <component itemId="peaceOfIron" count="3" />
+        <component itemId="love" count="5" />
+        <component itemId="peaceOfWax" count="5" social="1" />
+        <component itemId="wick" count="1" />
+    </craftedItem> 
+    <craftedItem itemId="photoFrame2" views="Red" priority="13" tab="default">
+        <component itemId="peaceOfWood" count="7" />
+        <component itemId="happiness" count="5" />
+        <component itemId="jarOfPaint" count="3" social="1" />
+        <component itemId="photograph" count="1" />
+    </craftedItem>
+    <!-- <craftedItem itemId="fireplace1" priority="89" tab="default">
+        <component itemId="peaceOfIron" count="30" />
+        <component itemId="generosity" count="15" />
+        <component itemId="grindstone" count="10" social="1" />
+        <component itemId="wick" count="5" />
+    </craftedItem> -->
+    <craftedItem itemId="applianceTv3" priority="88" tab="default">
+        <component itemId="peaceOfIron" count="50" />
+        <component itemId="happiness" count="25" />
+        <component itemId="glass" count="20" social="1" />
+        <component itemId="bow" count="5" />
+    </craftedItem>
+    <craftedItem itemId="applianceMusicCenter1" priority="87" tab="default">
+        <component itemId="peaceOfIron" count="15" />
+        <component itemId="love" count="5" />
+        <component itemId="glass" count="7" social="1" />
+        <component itemId="wrappingPaper" count="2" />
+    </craftedItem>
+    <craftedItem itemId="chairBomb" priority="87" tab="default">
+        <component itemId="peaceOfIron" count="5" />
+        <component itemId="hatred" count="3" />
+        <component itemId="wick" count="1" />
+    </craftedItem>
+
+    <craftedItem itemId="craftedCoffee" priority="1" tab="energetic">
+        <component itemId="water" count="5" />
+        <component itemId="happiness" count="3" />
+        <component itemId="coffeBean" count="5" social="1" />
+        <component itemId="phial" count="1" />
+    </craftedItem>
+    <craftedItem itemId="craftedEnergyDrink" priority="2" tab="energetic">
+        <component itemId="water" count="12" />
+        <component itemId="happiness" count="5"  />
+        <component itemId="mintLeaf" count="10" social="1" />
+        <component itemId="bigPhial" count="1" />
+    </craftedItem>
+    
+</config>

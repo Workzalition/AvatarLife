@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<games>
+    <game id="fight">
+        <disablePanels>true</disablePanels>
+        <disableWorld>false</disableWorld>
+        <disableMouse>true</disableMouse>
+        <disableAvatars>false</disableAvatars>
+        <hideAvatars>false</hideAvatars>
+    </game>
+    <game id="beachRace">
+        <disablePanels>true</disablePanels>
+        <disableWorld>true</disableWorld>
+        <disableMouse>true</disableMouse>
+        <disableAvatars>true</disableAvatars>
+        <hideAvatars>true</hideAvatars>
+    </game>
+    <game id="canyonRace">
+        <disablePanels>true</disablePanels>
+        <disableWorld>true</disableWorld>
+        <disableMouse>true</disableMouse>
+        <disableAvatars>true</disableAvatars>
+        <hideAvatars>true</hideAvatars>
+    </game>
+</games>

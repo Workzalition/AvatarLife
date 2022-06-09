@@ -1,0 +1,1575 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<config>
+
+    <category id="clothes" label="#avatarClothesCategory" typeClass="clothes">
+
+        <category id="boyClothes" label="#avatarClothesCategory" typeClass="clothes" gender="boy">
+
+            <category id="boyTopClothes" label="#clothesCategoryTops" logCategory1="boyTopClothes">
+
+                <category id="boyAShirts" label="boyShirts_label" logCategory2="bShirts">
+
+                    <category id="boyAShirtsTight" label="AShirtsCategory_label" logCategory2="bShirts">
+
+                        <item id="boyShirtswolfmangr" label="#boyShirtswolfmanLabel" name="Shirts_wolfman_gr" icon="BoyShirts_wolfman_gr_icon" silver="16000" canBuy="0" rating="160"/>
+                        <item id="boyShirt15" label="#boyTShirtFunkyBlackSkull" name="TShirtFunkyBlackSkull" icon="BoyTShirtFunkyBlackSkullIcon" gold="0" silver="340" canBuy="0" rating="3" />
+                        <item id="boyShirtBoxR" label="#boyShirtBoxLabel" name="tShirt_box_r" icon="BoyShirtBoxRedIcon" silver="3800" rating="38" />
+                        <item id="boyShirtBoxBL" label="#boyShirtBoxLabel" name="tShirt_box_bl" icon="BoyShirtBoxBlackIcon" silver="3800" canBuy="1" rating="38" />
+                        <item id="boyShirtBoxBE" label="#boyShirtBoxLabel" name="tShirt_box_be" icon="BoyShirtBoxBlueIcon" silver="3800" rating="38" />
+                        <item id="boyShirt19" label="#boyTShirtFunkyLiteBluePeace" name="TShirtFunkyLiteBluePeace" icon="BoyTShirtFunkyLiteBluePeaceIcon" gold="0" silver="870" rating="8" canBuy="0"/>
+
+                    </category>
+
+                    <category id="boyAShirtsLoose" label="boyShirts_label" logCategory2="bShirts">
+
+                        <item id="boyShirts_brhome_dr" label="boyShirts_brhome_dr_label" name="Shirts_brhome_dr" icon="BoyShirts_brhome_dr_icon" silver="6400"  canBuy="0" rating="64"/>
+
+                    </category>
+
+                </category>
+
+                <category id="boyTShirts" label="TShirtsCategory_label" logCategory2="bShirts">
+
+                    <category id="boyTShirtsTight" label="boyShirts_label" logCategory2="bShirts">
+
+                        <item id="boyShirt_marafon1" label="BoyShirt_marafon1_label" name="Shirt_marafon1" icon="BoyShirt_marafon1_icon" rating="555"/>
+                        <item id="boyAVA1" label="#TShirtAVA1Label" name="TShirtAVA1" icon="BoyTShirtAVA1Icon" silver="1500" rating="25" >
+                            <altParents> <boyAVAlove/> </altParents>
+                        </item>
+                        <item id="boyAVA2" label="#TShirtAVA1Label" name="TShirtAVA2" icon="BoyTShirtAVA2Icon" silver="1500" rating="25" >
+                            <altParents> <boyAVAlove/> </altParents>
+                        </item>
+                        <item id="boyAVA3" label="#TShirtAVA1Label" name="TShirtAVA3" icon="BoyTShirtAVA3Icon" silver="1500" rating="25" >
+                            <altParents> <boyAVAlove/> </altParents>
+                        </item>
+                        <item id="boyAVA4" label="#TShirtAVA1Label" name="TShirtAVA4" icon="BoyTShirtAVA4Icon" silver="1500" rating="25" >
+                            <altParents> <boyAVAlove/> </altParents>
+                        </item>
+                        <item id="boyShirt14" label="#boyJacketStandartShorWhite" name="JacketStandartShorWhite" icon="BoyJacketStandartShorWhiteIcon" gold="0" silver="235" rating="2" canBuy="0" />
+
+                    </category>
+
+                </category>
+
+                <category id="boyBlouses" label="HoodiesCategory_label" logCategory2="bShirts">
+
+                    <category id="boyBlousesLoose" label="boyShirts_label" logCategory2="bShirts">
+
+                        <item id="boyShirt16" label="#boyTShirtFunkyCreamBlack" name="TShirtFunkyCreamBlack" icon="BoyTShirtFunkyCreamBlackIcon" gold="4" silver="0" rating="6"/>
+                        <item id="boyCtlTshUsa6" label="#boySweaterCasualLabel" name="SweaterCasualGray" icon="BoySweaterCasualGrayIcon" gold="9" rating="15"/>
+                        <item id="boyCtlTshUsa7" label="#boySweaterCasualLabel" name="SweaterCasualRed" icon="BoySweaterCasualRedIcon" gold="9" rating="15"/>
+
+                        <category id="boyBlousesLooseMono" label="#boyShirtsLoose_label" disabled="false" logCategory2="bShirts">
+
+                            <item id="boyJackets_lavaset" label="#boyJackets_lavaset_label" name="Jackets_lavaset" icon="BoyJackets_lavaset_icon" gold="320" rating="889" canBuy="0" />
+
+                        </category>
+
+                    </category>
+
+                </category>
+
+                <category id="boyShirts" label="boyShirts_label" logCategory2="bShirts">
+
+                    <category id="boyShirtsTight" label="BoyShirt_tattolook_label" logCategory2="bShirts">
+
+                        <item id="boyShirts_Starter" label="boyShirts_Starter_label" name="Shirts_Starter" icon="BoyShirts_Starter_icon" gold="160" rating="444" canBuy="0"/>
+
+                    </category>
+
+                    <category id="boyShirtsLoose" label="boyShirtsLoose_label" logCategory2="bShirts">
+
+                        <item id="BoyShirts_unicook" name="Shirts_unicook" raiting="0" gold="0" canBuy="0"/>
+                        <item id="boyCtlTshUsa5" label="#boyShirtSleepBlueLabel" name="ShirtSleepBlue" icon="BoyShirtSleepBlueIcon" gold="11" rating="22" vipOnly="1"/>
+
+                    </category>
+
+                    <category id="boyWeddingShirts" label="#boyWeddingShirtsCategory" visible="false">
+
+                        <item id="boyWdnSrh4" label="#boyTShirtWeddingWhiteBeige" name="TShirtWeddingWhiteBeige" icon="BoyTShirtWeddingWhiteBeigeIcon" gold="10" rating="20" wedding="1" />
+
+                    </category>
+
+                </category>
+
+                <category id="boyJackets" label="boyJackets_label" logCategory2="bJackets">
+
+                    <category id="boyJacketsVst" label="boyJacketsVst_label" logCategory2="bJackets"> <!-- жилеты - носятся между рубашкой и курткой --> 
+
+                        <category id="boyVestsMono" label="boyVestsMono_label" logCategory2="bJackets"> <!-- сложные, либо широко расстегнутые жилеты - не носятся с курткой, хотя выглядят, как жилеты -->
+
+                        <item id="boyJacket13" label="#boyVestFunkyBluePainted" name="VestFunkyBluePainted" icon="BoyVestFunkyBluePaintedIcon" gold="13" silver="0" rating="26">
+                            </item>
+
+                        </category>
+
+                    </category>
+
+                    <category id="boyJacketsOpen" label="#clothesCategoryJackets" logCategory2="bJackets"> <!-- расстегнутые куртки - требуют рубашки -->
+
+                    <item id="boyJackets_atmct_o" label="#boyJackets_atmct_dble_label" name="Jackets_atmct_o" icon="BoyJackets_atmct_o_icon" gold="280" canBuy="0" rating="778">
+                            <altParents> <boyAtmct/> </altParents>
+                        </item>
+                    <item id="boyJackets_bigcity" label="#boyJackets_bigcity_label" name="Jackets_bigcity" icon="BoyJackets_bigcity_icon" gold="320" rating="889" canBuy="0" />
+                    <item id="boyCltJckUsa2" label="#boyJacketCasualBeigeLabel" name="JacketCasualBeige" icon="BoyJacketCasualBeigeIcon" silver="2200" rating="22">
+                        </item>
+                    <item id="boyCltJckUsa3" label="#Jackets_blackman_label" name="JacketCasualBlack" icon="BoyJacketCasualBlackIcon" gold="12" rating="24"/>        
+                        <category id="boyJacketsOpenLong" label="#clothesCategoryJackets" logCategory2="bJackets">
+
+                        <item id="boyKpopJctW" label="#boyKpopJctLabel" name="Jackets_kpop_w" icon="BoyJacketsKpopWIcon" silver="80000" canBuy="0" rating="800">
+                                <altParents> <boyKpopStar/> </altParents>
+                            </item>
+
+                        </category>
+
+                    </category>
+
+                    <category id="boyJacketsMono" label="#clothesCategoryJackets" logCategory2="bJackets"> <!-- застегнутые куртки - рубашка необязательна, жилет сшибают -->
+
+                        <item id="boyCtlJck6" label="#boyJacketCocktailBlueGeometryLabel" name="JacketCocktailBlueGeometry" icon="BoyJacketCocktailBlueGeometryIcon" gold="14" rating="28">
+                        </item>
+                        <item id="boyJacket7" label="#boyJacketFunkyBlueClassic" name="JacketFunkyBlueClassic" icon="BoyJacketFunkyBlueClassicIcon" silver="2000" rating="20">
+                        </item>
+                        <item id="boyJacket6" label="#boyJacketFunkyBlackGray" name="JacketFunkyBlackGray" icon="BoyJacketFunkyBlackGrayIcon" gold="0" silver="1350" rating="13" />
+
+                        <item id="boyJacket9" label="#boyJacketFunkyEmerald" name="JacketFunkyEmerald" icon="BoyJacketFunkyEmeraldIcon" gold="0" silver="1100" rating="11" />
+
+                        <category id="boyJacketsMonoHooded" label="#clothesCategoryJackets" logCategory2="bJackets">
+                                
+                        </category>
+                        <category id="boyJacketsMonoLong" label="#clothesCategoryJackets" logCategory2="bJackets">
+
+                        </category>
+
+                    </category>
+
+                    <category id="boyWeddingJackets" label="#boyWeddingJacketsCategory" visible="false">
+
+                        <item id="boyWdnJk1" label="#boyJacketWeddingBlack" name="JacketWeddingBlack" icon="BoyJacketWeddingBlackIcon" silver="4500" rating="45" wedding="1" />
+                        <item id="boyWdnJk4" label="#boyJacketWeddingBeige" name="JacketWeddingBeige" icon="BoyJacketWeddingBeigeIcon" gold="15" rating="30" wedding="1" />
+
+                    </category>
+
+                </category>
+
+            </category>
+
+            <category id="boyBottomClothes" label="#clothesCategoryBottoms" logCategory1="boyBottomClothes">
+
+                <category id="boyPants" label="#clothesCategoryPants" logCategory2="bPants">
+
+                    <category id="boyPantsTight" label="#boyPantsTight_label" logCategory2="bPants">
+
+                        <item id="boyPants_marafon1" label="#BoyPants_marafon1_label" name="Pants_marafon1" icon="BoyPants_marafon1_icon" rating="777"/>
+                        <item id="boyPants_atmct_ble_r" label="#boyPants_atmct_gr_bk_label" name="Pants_atmct_ble_r" icon="BoyPants_atmct_ble_r_icon" gold="240" canBuy="0" rating="667"/>
+                        <item id="boyPants_bigcity" label="#boyPants_bigcity_label" name="Pants_bigcity" icon="BoyPants_bigcity_icon" gold="280" rating="778" canBuy="0"/>
+                        <item id="boyPants_lavaset" label="#boyPants_lavaset_label" name="Pants_lavaset" icon="BoyPants_lavaset_icon" gold="320" rating="889" canBuy="0"/>
+                        <item id="boyPants_Starter" label="#boyPants_Starter_label" name="Pants_Starter" icon="BoyPants_Starter_icon" gold="160" rating="444" canBuy="0"/>
+                        <item id="boyCtlPts2" label="#boyPantsCocktailBlueGrangeLabel" name="PantsCocktailBlueGrange" icon="BoyPantsCocktailBlueGrangeIcon" gold="33" rating="83" canBuy="0"/>
+                        <item id="boyPants_wntrpair" label="#Pants_wntrpair_label" name="Pants_wntrpair" icon="BoyPants_wntrpair_icon" gold="112" rating="311" canBuy="0">
+                        </item>
+                        <item id="boyPants10" label="#boyPantsCasualPolish" name="PantsCasualPolish" icon="BoyPantsCasualPolishIcon" gold="0" silver="1400" rating="14" canBuy="0" />
+                        <item id="boyPants18" label="#boyPantsFunkyBlueRagged" name="PantsFunkyBlueRagged" icon="BoyPantsFunkyBlueRaggedIcon" gold="0" silver="1330" rating="13" />
+                        <item id="boyPants19" label="#boyPantsFunkyDarkBlue" name="PantsFunkyDarkBlue" icon="BoyPantsFunkyDarkBlueIcon" silver="990" canBuy="0" rating="9" />
+                        <item id="boyPants23" label="#boyPantsFunkyGrayStrips" name="PantsFunkyGrayStrips" icon="BoyPantsFunkyGrayStripsIcon" gold="0" silver="1500" rating="15" />
+                        <item id="boyCltPtsUsa2" label="#boyJeansCasualGrayLabel" name="JeansCasualGray" icon="BoyJeansCasualGrayIcon" gold="10" rating="20"/>
+                        <item id="boyCltPtsUsa7" label="#boyPantsCasualGrayLabel" name="PantsCasualGray" icon="BoyPantsCasualGrayIcon" gold="5" rating="9"/>
+                        <item id="boyCltPtsUsa8" label="#boyPantsSleepBlueLabel" name="PantsSleepBlue" icon="BoyPantsSleepBlueIcon" gold="14" rating="28" vipOnly="1"/>
+
+                    </category>
+                    <category id="boyPantsLoose" label="#boyPantsLoose_label" logCategory2="bPants">
+
+                        <item id="boyPants24" label="#boyPantsFunkyOrange" name="PantsFunkyOrange" icon="BoyPantsFunkyOrangeIcon" gold="0" silver="1450" rating="14" />
+
+                    </category>
+                    <category id="boyPantsExtra" label="#boyPantsLoose_label" logCategory2="bPants">
+
+                    </category>
+                    <category id="boyWeddingPants" label="#boyWeddingPantsCategory" visible="false">
+
+                        <item id="boyWdnPts1" label="#boyPantsWeddingBlack" name="PantsWeddingBlack" icon="BoyPantsWeddingBlackIcon" silver="2300" rating="23" wedding="1" />
+                        <item id="boyWdnPts3" label="#boyPantsWeddingBeige" name="PantsWeddingBeige" icon="BoyPantsWeddingBeigeIcon" gold="14" rating="28" wedding="1" />
+
+                    </category>
+
+                </category>
+                
+                <category id="boyShorts" label="#clothesCategoryShorts" logCategory2="bShorts">
+
+                    <item id="boyShortsTornGr" label="#boyShortsTornLabel" name="Shorts_torn_gr" icon="BoyShortsTornGrIcon" silver="13600" canBuy="0" rating="136"/>
+                    <item id="boyShortBoxR" label="#boyShortBoxLabel" name="Pants_box_r" icon="BoyShortBoxRedIcon" silver="6000" rating="60" />
+                    <item id="boyShortBoxBL" label="#boyShortBoxLabel" name="Pants_box_bl" icon="BoyShortBoxBlackIcon" silver="6000" rating="60" />
+                    <item id="boyShortBoxBE" label="#boyShortBoxLabel" name="Pants_box_be" icon="BoyShortBoxBlueIcon" silver="6000" rating="60" />
+                    <item id="boyPants7" label="#boyShortsClubBlack" name="ShortsClubBlack" icon="BoyShortsClubBlackIcon" gold="0" silver="720" rating="7" />
+                    <item id="boyPants14" label="#boyPantsFunkyBeige" name="PantsFunkyBeige" icon="BoyPantsFunkyBeigeIcon" gold="0" silver="445" rating="4" />
+
+                </category>
+
+                <category id="boyPantyhose" label="boySocks_label" disabled="true" logCategory2="bSocks">
+
+                    <category id="boySocks" label="boySocks_label" disabled="true" logCategory2="bSocks">
+
+                    </category>
+
+                </category>
+
+            </category>
+
+            <category id="boyShoes" label="#clothesCategoryShoes" logCategory1="boyShoesClothes" logCategory2="bShoes">
+
+                <category id="boyShoesSandals" label="boyShoesSandals_label" logCategory1="girlShoesClothes" logCategory2="bShoes">
+
+                <item id="boyShoes8" label="#boyBootsStandartBlack" name="BootsStandartBlack" icon="BoyBootsStandartBlackIcon" gold="0" silver="260" rating="2" canBuy="0" />
+
+                </category>
+
+                <category id="boyShoesSnickers" label="boyShoesSnickers_label" logCategory1="girlShoesClothes" logCategory2="bShoes">
+
+                    <item id="boyShoes_marafon1" label="BoyShoes_marafon1_label" name="Shoes_marafon1" icon="BoyShoes_marafon1_icon" rating="444"/>
+                    <item id="boyShoes_Starter" label="#boyShoes_Starter_label" name="Shoes_Starter" icon="BoyShoes_Starter_icon" gold="80" rating="222" canBuy="0"/>
+                    <item id="boyShoesdancerble" label="#boyShoesdancerbleLabel" name="Shoes_dancer_ble" icon="BoyShoes_dancer_ble_icon" gold="832" rating="2311" canBuy="0"/>
+
+                    <category id="boyShoesSnickersSocks" label="boyShoesSnickersSocks_label" logCategory1="girlShoesClothes" logCategory2="bShoes">
+
+                    <item id="boyShoes16" label="#boyShoesFunkyGrayYellowKeds" name="ShoesFunkyGrayYellowKeds" icon="BoyShoesFunkyGrayYellowKedsIcon" gold="0" silver="465" rating="4" />
+                        <item id="boyShoes19" label="#boyShoesFunkyWhiteBlueKeds" name="ShoesFunkyWhiteBlueKeds" icon="BoyShoesFunkyWhiteBlueKedsIcon" gold="0" silver="765" rating="7" />
+
+                    </category>
+               
+                    <category id="boyShoesSnickersHigh" label="boyShoesSnickersHigh_label" logCategory1="girlShoesClothes" logCategory2="bShoes">
+
+                        <item id="boyShoes_bigcity" label="#boyShoes_bigcity_label" name="Shoes_bigcity" icon="BoyShoes_bigcity_icon" gold="160" rating="444" canBuy="0"/>
+                        <item id="boyShoes_elecorn" label="#Shoes_elecorn_label" name="Shoes_elecorn" icon="BoyShoes_elecorn_icon" gold="200" rating="556" canBuy="0"/>
+                        <item id="boyCtlSh12" label="#boyKedsCocktailYellowLabel" name="KedsCocktailYellow" icon="BoyKedsCocktailYellowIcon" gold="11" rating="22">
+                        </item>
+                        <item id="boyCtlSh9" label="#boyShoesCocktailBrownMustardLabel" name="ShoesCocktailBrownMustard" icon="BoyShoesCocktailBrownMustardIcon" gold="16" rating="32">
+                        </item>
+
+                    </category>
+
+                </category>
+
+                <category id="boyShoesShoes" label="boyShoesShoes_label" logCategory1="girlShoesClothes" logCategory2="bShoes"> 
+
+                    <item id="boyShoes_atmct_dr" label="boyShoes_atmct_br_label" name="Shoes_atmct_dr" icon="BoyShoes_atmct_dr_icon" gold="140" canBuy="0" rating="389"/>
+                    <item id="boyShoeswolfmanbl" label="#boyShoeswolfmanLabel" name="Shoes_wolfman_bl" icon="BoyShoes_wolfman_bl_icon" gold="184" canBuy="0" rating="511"/>
+                    <item id="boyShoes2" label="#boyShoesClubBlackWhiteKeds" name="ShoesClubBlackWhiteKeds" icon="BoyShoesClubBlackWhiteKedsIcon" gold="0" silver="560" canBuy="0" rating="5" />
+                    <item id="boyWdnShs1" label="#boyShoesWeddingBlack" name="ShoesWeddingBlack" icon="BoyShoesWeddingBlackIcon" silver="780" rating="7" wedding="1" />
+
+                    <category id="boyShoesShoesSocks" label="boyShoesShoesSocks_label" logCategory1="girlShoesClothes" logCategory2="bShoes">
+
+                    </category>
+
+                </category>
+                
+                <category id="boyShoesHigh" label="boyShoesHigh_label" logCategory1="girlShoesClothes" logCategory2="bShoes">
+
+                <item id="boyShoes_lavaset" label="#boyShoes_lavaset_label" name="Shoes_lavaset" icon="BoyShoes_lavaset_icon" gold="160" rating="444" canBuy="0"/>
+                <item id="boyFb23Shs" label="#boyFeb23ShoesLabel" name="ShoesMilitary" icon="BoyShoesMilitaryIcon" silver="5000" gold="0" rating="50" >
+                        <altParents> <boyDZOClothes/> </altParents>
+                    </item>
+
+                </category>
+
+            </category>
+
+            <category id="boySuits" label="#clothesCategorySuits" logCategory1="boySuitClothes" logCategory2="bSuit">
+
+                <category id="boySuitsClothes" label="boySuitsClothes_label" logCategory1="boySuitClothes" logCategory2="bSuit">
+
+                    <category id="boySuitsClothesGeneral" label="#clothesCategorySuits" logCategory1="boySuitClothes" logCategory2="bSuit">
+
+                        <category id="boySuitsClothesGeneralJckt" label="#clothesCategorySuits" logCategory1="boySuitClothes" logCategory2="bSuit">
+
+                        </category>
+
+                    </category>
+
+                    <category id="boySuitsClothesShoes" label="#clothesCategorySuits" logCategory1="boySuitClothes" logCategory2="bSuit">
+
+                    </category>
+                    <category id="boySuitsClothesBack" label="#clothesCategorySuits" logCategory1="boySuitClothes" logCategory2="bSuit">
+                    </category>
+                    <category id="boySuitsClothesOverall" label="#clothesCategorySuits" logCategory1="boySuitClothes" logCategory2="bSuit">
+                    </category>
+
+                </category>
+
+                <category id="boySuitsExtra" label="boySuitsExtra_label" logCategory1="boySuitClothes" logCategory2="bSuit">
+
+                    <category id="boySuitsExtraGeneral" label="#clothesCategorySuits" logCategory1="boySuitClothes" logCategory2="bSuit">
+
+                        <category id="boySuitsExtraGeneralLoose" label="#clothesCategorySuits" logCategory1="boySuitClothes" logCategory2="bSuit">
+
+                        </category>
+
+                    </category>
+                    <category id="boySuitsExtraShoes" label="#clothesCategorySuits" logCategory1="boySuitClothes" logCategory2="bSuit">
+
+                    </category>
+
+                    <category id="boySuitsExtraShoesBack" label="#clothesCategorySuits" logCategory1="boySuitClothes" logCategory2="bSuit">
+
+                    </category>
+
+                    <category id="boySuitsExtraBack" label="#clothesCategorySuits" logCategory1="boySuitClothes" logCategory2="bSuit">
+
+                        <item id="boySuits_elecorn" label="#Suits_elecorn_label" name="Suits_elecorn" icon="BoySuits_elecorn_icon" gold="600" rating="1667" canBuy="0"/>
+
+                        <category id="boySuitsExtraBackLoose" label="#clothesCategorySuits" logCategory1="boySuitClothes" logCategory2="bSuit">
+
+                        </category>
+
+                    </category>
+
+                    <category id="boySuitsExtraOverall" label="#clothesCategorySuits" logCategory1="boySuitClothes" logCategory2="bSuit">
+
+                    </category>
+
+                </category>
+
+            </category>
+
+            <category id="boyDecor" label="#clothesCategoryAcs" logCategory1="boyDecorClothes">
+
+                <category id="boyAccsHead" label="boyAccsHead_label" logCategory2="bHats">
+
+                    <category id="boyHats" label="#clothesCategoryHats" logCategory2="bHats">
+
+                        <item id="boyHats_marafon1" label="#BoyHats_marafon1_label" name="Hats_marafon1" icon="BoyHats_marafon1_icon" rating="444"/>
+                        <item id="BoyHats_unicook" name="Hats_unicook" gold="0" raiting="0" canBuy="0"/>    
+                        <item id="boyHatKnitted" label="#HatKnittedLabel" name="HatKnitted" icon="BoyHatKnittedIcon" silver="3600" gold="0" rating="42" >
+                            <altParents> <boyDeerSki/> </altParents>
+                        </item>
+
+                        <category id="boyHatsHeadphones" label="boyHatsHeadphones_label" visible="false" logCategory2="bHats">
+
+                        </category>
+
+                    </category>
+
+                    <category id="boyHelmets" label="boyHelmets_label" visible="false" logCategory2="bHelmets">
+
+                        <item id="boyHelmets_elecorn" label="#Helmets_elecorn_label" name="Helmets_elecorn" icon="BoyHelmets_elecorn_icon" gold="400" rating="1111" canBuy="0"/>
+                        <item id="boyHelmetBoxR" label="#boyHelmetBoxLabel" name="Helmet_box_r" icon="BoyHelmetBoxRedIcon" silver="5600" rating="56" >
+                            <altParents> <boyBox/> </altParents>
+                        </item>
+                        <item id="boyHelmetBoxBL" label="#boyHelmetBoxLabel" name="Helmet_box_bl" icon="BoyHelmetBoxBlackIcon" silver="5600" rating="56" >
+                            <altParents> <boyBox/> </altParents>
+                        </item>
+                        <item id="boyHelmetBoxBE" label="#boyHelmetBoxLabel" name="Helmet_box_be" icon="BoyHelmetBoxBlueIcon" silver="5600" rating="56" >
+                            <altParents> <boyBox/> </altParents>
+                        </item>
+
+                        <category id="boyHelmetsBearded" label="boyHelmetsBearded_label" visible="false" logCategory2="bHelmets">
+
+                        </category>
+
+                    </category>
+
+                </category>
+
+                <category id="boyAccsClothes" label="boyAccsClothes_label" logCategory2="bAccsClothes">
+
+                    <category id="boyGloves" label="#clothesCategoryGloves" logCategory2="bGloves">
+                    
+                        <category id="boyGlovesTight" label="#clothesCategoryGloves" logCategory2="bGloves">
+
+                        <item id="boyDecor7" label="#boyGloveAcsBlack" name="GloveAcsBlack" icon="BoyGloveAcsBlackIcon" canBuy="0" gold="5" silver="0" rating="8">
+                            </item>
+
+                        </category>
+
+                        <category id="boyGlovesLoose" label="#clothesCategoryGloves" logCategory2="bGloves">
+
+                        <item id="boyGlBoxR" label="#boyGlovesBoxLabel" name="Gloves_box_r" icon="BoyGlovesBoxRedIcon" silver="4200" rating="42" >
+                                <altParents> <boyBox/> </altParents>
+                            </item>
+                            <item id="boyGlBoxBL" label="#boyGlovesBoxLabel" name="Gloves_box_bl" icon="BoyGlovesBoxBlackIcon" silver="4200" rating="42" >
+                                <altParents> <boyBox/> </altParents>
+                            </item>
+                            <item id="boyGlBoxBE" label="#boyGlovesBoxLabel" name="Gloves_box_be" icon="BoyGlovesBoxBlueIcon" silver="4200" rating="42" >
+                                <altParents> <boyBox/> </altParents>
+                            </item>
+
+                        </category>
+
+                    </category>
+
+                    <category id="boyMuffler" label="boyMuffler_label" visible="false" logCategory2="bNecklaces">
+
+                        <item id="boyDecor3" label="#boyScarfClubWhiteBlue" name="ScarfClubWhiteBlue" icon="BoyScarfClubWhiteBlueIcon" gold="2" silver="0" rating="3" />
+                        <item id="boyCtlBdn3" label="#boyBandanaAcsCocktailBlackRedWhiteLabel" name="BandanaAcsCocktailBlackRedWhite" icon="BoyBandanaAcsCocktailBlackRedWhiteIcon" gold="19" rating="38">
+                        </item>
+
+                        <category id="boyMufflerMono" label="boyMufflerMono_label" visible="true" logCategory2="bNecklaces">
+
+                        </category>
+
+                    </category>
+
+                    <category id="boyBelt" label="boyBelt_label" visible="false" logCategory2="gBelts">
+
+                    </category>
+
+                    <category id="boyCloaks" label="boyCloaks_label" visible="true" logCategory2="gNecklaces">
+
+                    </category>
+
+                </category>
+
+                <category id="boyAccsJewels" label="boyAccsJewels_label" logCategory2="bJewels">
+
+                    <category id="boyTiaras" label="boyTiaras_label" logCategory2="bHats">
+
+                    </category>
+
+                    <category id="boyEarrings" label="boyEarrings_label" visible="false" logCategory2="bEarrings">
+
+                    <item id="boyEarrings_frrblck_gr" label="#boyEarrings_frrblck_label" name="Earrings_frrblck_gr" icon="BoyEarrings_frrblck_gr_icon" gold="48" canBuy="0" rating="133">
+                        <altParents> <boyFrrblck/> </altParents>
+                        </item>
+                    <item id="boyDecor5" label="#boyEaringAcsLight" name="EaringAcsLight" icon="BoyEaringAcsLightIcon" silver="100" canBuy="0" rating="1" />
+                    <item id="boyEarringsCross" label="#boyEarringsCrossLabel" name="Earrings_cross" icon="BoyEarringsCrossIcon" gold="14" rating="40" >
+                           <altParents> <boyRocks2/> </altParents>
+                        </item>
+                    <item id="boyEarringsTunnel" label="#boyEarringsTunnelLabel" name="Earrings_tunnel" icon="BoyEarringsTunnelIcon" silver="2640" rating="26" >
+                           <altParents> <boyRocks2/> </altParents>
+                        </item>
+
+                    </category>
+
+                    <category id="boyBraceletes" label="boyBraceletes_label" visible="false" logCategory2="bBracelets">
+
+                       <category id="boyBraceletesLeft" label="boyBraceletesLeft_label" visible="false" logCategory2="bBracelets">
+
+
+
+                       </category>
+
+                       <category id="boyBraceletesRight" label="boyBraceletesRight_label" visible="false" logCategory2="bBracelets">
+
+                        <item id="boyDecor21" label="#boyBraceletAcsBlack" name="BraceletAcsBlack" icon="BoyBraceletAcsBlackIcon" gold="0" silver="230" subType="left" rating="2" />
+                       <item id="boyAcsWatchBrBl" label="#boyAcsWatchBrBlLabel" name="Acs_watch_1" icon="BoyAcsWatchBrBlIcon" silver="2720" rating="27" >
+                                <altParents> <boyWristwatch/> </altParents>
+                            </item> 
+                       </category>
+
+                       <category id="boyBraceletesTwoHands" label="boyBraceletesTwoHands_label" visible="false" logCategory2="bBracelets">
+
+                       </category>
+
+                       <category id="boyBraceletesShoulders" label="boyBraceletesShoulders_label" visible="false" logCategory2="bBracelets">
+
+                       </category>
+                        
+                    </category>
+
+                    <category id="boyNecklace" label="boyNecklace_label" visible="true" logCategory2="bNecklaces">
+
+                        <item id="boyDecor13" label="#boyPendantAcsBlack" name="PendantAcsBlack" icon="BoyPendantAcsBlackIcon" silver="115" canBuy="0" rating="1" />
+                        <item id="boyDecor23" label="#boyPendantAcsGoldLetter" name="PendantAcsGoldLetter" icon="BoyPendantAcsGoldLetterIcon" gold="4" rating="6"/>
+                        <item id="boyDecor24" label="#boyPresentBlackPendant" name="PresentBlackPendant" icon="BoyPresentBlackPendantIcon" gold="12" silver="0" rating="24" />
+
+                    </category>
+
+                    <category id="boyFaceJewels" label="boyAccsJewels_label" visible="true" logCategory2="bJewels">
+
+                    </category>
+
+                </category>
+
+                <category id="boyAccsExtra" label="boyAccsExtra_label" visible="false" logCategory2="bExtra">
+
+                    <category id="boyWigs" label="boyWigs_label" visible="false" logCategory2="bWigs">
+
+                        <item id="boyWigs_marafon1" label="#BoyWigs_marafon1_label" name="Wigs_marafon1" icon="BoyWigs_marafon1_icon" rating="888"/>
+                        <item id="boyHelmets_bigcity" label="#boyHelmets_bigcity_label" name="Helmets_bigcity" icon="BoyHelmets_bigcity_icon" gold="440" rating="1222" canBuy="0"/>
+
+                        <category id="boyWigsBearded" label="boyWigsBearded_label" visible="false" logCategory2="bWigs">
+
+                        </category>
+                        
+                        <category id="boyWigsBrowBeard" label="boyWigsBrowBeard_label" visible="false" logCategory2="bWigs">
+
+                        </category>
+
+                        <category id="boyWigsHattedBearded" label="boyWigsHattedBearded_label" visible="false" logCategory2="bWigs">
+
+                        </category>
+
+                        <category id="boyWigsFaced" label="boyWigsFaced_label" visible="false" logCategory2="bWigs">
+
+                        </category>
+
+                    </category>
+
+                    <category id="boyBeards" label="boyBeards_label" visible="false" logCategory2="bWigs">
+
+                    </category>
+
+                    <category id="boyFaces" label="boyFaces_label" visible="false" logCategory2="bFaces">
+
+                        <category id="boyFacesFull" label="boyFacesFull_label" visible="false" logCategory2="bFaces">
+
+                        </category>
+
+                    </category>
+
+                    <category id="boyNoses" label="boyNoses_label" visible="false" logCategory2="boyMasks">
+
+                    </category>
+
+                    <category id="boyHorns" label="boyHorns_label" visible="false" logCategory2="bHorns">
+
+                    </category>
+
+                    <category id="boyWings" label="boyWings_label" visible="false" logCategory2="bWings">
+                        
+                    </category>
+
+                    <category id="boyTails" label="boyTails_label" visible="true">
+
+                    </category>
+
+                    <category id="boySkin" label="boySkin_label" visible="true" logCategory2="bExtra">
+ 
+                    </category>
+
+                </category>
+
+                <category id="boyAccsItems" label="boyAccsItems_label" visible="false" logCategory2="bBouquets">
+
+                    <category id="boyGlasses" label="#clothesCategoryGlasses" logCategory2="bGlasses">
+
+                        <category id="boyGlassesHead" label="#clothesCategoryGlasses" logCategory2="bGlasses">
+
+                        </category>
+
+                        <category id="boyGlassesFace" label="#clothesCategoryGlasses" logCategory2="bGlasses">
+
+                            <category id="boyGlassesFaceTight" label="#clothesCategoryGlasses" logCategory2="bGlasses">
+
+                            <item id="boyDecor8" label="#boyGlassAcsBlack" name="GlassAcsBlack" icon="BoyGlassAcsBlackIcon" gold="0" silver="380" rating="3" />
+                            <item id="boyDecor10" label="#boyGlassAcsGold" name="GlassAcsGold" icon="BoyGlassAcsGoldIcon" gold="5" silver="0" rating="8"/>
+
+                            </category>
+
+                            <category id="boyGlassesFaceLoose" label="#clothesCategoryGlasses" logCategory2="bGlasses">
+
+                            </category>
+
+                        </category>
+
+                    </category>
+
+                    <category id="boyMasks" label="boyMasks_label" logCategory2="bGlasses">
+
+                        <category id="boyMasksBearded" label="boyMasksBearded_label" logCategory2="bGlasses">
+
+                        <item id="boyGlasses_lavaset_bandana" label="#boyGlasses_lavaset_bandana_label" name="Glasses_lavaset_bandana" icon="BoyGlasses_lavaset_bandana_icon" gold="160" rating="444" canBuy="0"/>
+                        <item id="boyFacesmaskbear" label="#Facesmaskmoustache_label" name="Faces_mask_bear" icon="BoyFaces_mask_bear_icon" gold="18" rating="50">
+                                <altParents> <boyFunmask/> </altParents>
+                            </item>
+                            <item id="boyFacesmasktongue" label="#Facesmaskmoustache_label" name="Faces_mask_tongue" icon="BoyFaces_mask_tongue_icon" gold="18" rating="50">
+                                <altParents> <boyFunmask/> </altParents>
+                            </item>
+                        <item id="boyFacesmaskmoustache" label="#Facesmaskmoustache_label" name="Faces_mask_moustache" icon="BoyFaces_mask_moustache_icon" silver="9600" rating="96">
+                                <altParents> <boyFunmask/> </altParents>
+                            </item>    
+
+                        </category>
+
+                    </category>
+
+                    <category id="boyMasksBeardedLow" label="boyMasksBeardedLow_label" logCategory2="bGlasses">
+
+                    </category>
+
+                    <category id="boyBags" label="boyBags_label" visible="false" logCategory2="bBouquets">
+
+                        <category id="boyHandbags" label="boyHandbags_label" visible="false" logCategory2="bBouquets">
+
+                            <category id="boyLeftHandbags" label="boyLeftHandbags_label" visible="false" logCategory2="bBouquets">
+
+                            </category>
+
+                            <category id="boyRightHandbags" label="boyRightHandbags_label" visible="false" logCategory2="bBouquets">
+
+                            </category>
+
+                        </category>
+
+                        <category id="boyBodyBags" label="boyBodyBags_label" visible="false" logCategory2="gBelts">
+
+                        </category>
+
+                        <category id="boyBackpacks" label="boyBackpacks_label" visible="false" logCategory2="bOther">
+
+                        <item id="boyBackpkBR" label="#boyBackpackBrownLabel" name="Acs_backpack_br" icon="BoyBackpackBrownIcon" silver="4000" rating="40" subType="cloak" >
+                                <altParents> <boyBackpack/> </altParents>
+                            </item>
+                                
+                            
+                        </category>
+
+                    </category>
+
+                    <category id="boyNeckItems" label="boyNeckItems_label" visible="false" logCategory2="bNecklaces">
+
+                    </category>
+
+                    <category id="boyHandItems" label="boyHandItems_label" visible="false" logCategory2="bBouquets">
+
+                        <category id="boyLeftHandItems" label="boyLeftHandItems_label" visible="false" logCategory2="bBouquets">
+
+                        <item id="BoyOther_schtime_dr" label="#Other_schtime_dr_label" name="Other_schtime_dr" icon="BoyOther_schtime_dr_icon" gold="40" rating="111" canBuy="0">
+                            </item>
+
+                        </category>
+
+                        <category id="boyRightHandItems" label="boyRightHandItems_label" visible="false" logCategory2="bBouquets">
+
+                        <item id="boyBsktGrdnr" label="#boyBsktGrdnr" name="BasketProfessionsGardener" icon="BoyBasketProfessionsGardenerIcon" silver="2000" rating="20" >
+                                <altParents> <boyGardener/> </altParents>
+                            </item>
+
+                        </category>
+
+                        <category id="boyBothHandItems" label="boyBothHandItems_label" visible="false" logCategory2="bBouquets">
+                            
+                        </category>
+
+                    </category>
+
+                    <category id="boyHeadphones" label="boyHeadphones_label" visible="false" logCategory2="bNecklaces">
+
+                        <category id="boyHeadphonesHead" label="boyHeadphonesHead_label" visible="false" logCategory2="bNecklaces">
+                        
+                        <item id="boyHatHeadphoneBl" label="#boyHatHeadphoneBlLabel" name="Hat_headphone_head_bl" icon="BoyHatHeadphoneBlIcon" gold="48" rating="133" canBuy="0" >
+                            </item>
+
+                        </category>
+
+                        <category id="boyHeadphonesNeck" label="boyHeadphonesNeck_label" visible="false" logCategory2="bNecklaces">
+
+                        </category>
+
+                    </category>
+
+                    <category id="boyLegItems" label="boyLegItems_label" visible="false" logCategory2="bNecklaces">
+
+                    </category>
+
+                    <category id="boyBackItems" label="boyBackItems_label" visible="false" logCategory2="bNecklaces">
+
+                    </category>
+
+                    <category id="boyLifebuoy" label="#boyOtherCategory" visible="false" logCategory2="bOther">
+
+                    </category>
+
+                    <category id="boyOther" label="#boyOtherCategory" visible="false" logCategory2="bOther">
+
+                    </category>
+
+                </category>
+
+                <category id="boyTattoos" label="boyTattoos_label" visible="false" logCategory2="bTattoos">
+
+                    <category id="boyTattoosForearm" label="boyTattoosForearm_label" visible="false" logCategory2="bTattoos">
+
+                    </category>
+
+                    <category id="boyTattoosArm" label="boyTattoosArm_label" visible="false" logCategory2="bTattoos">
+
+                    </category>
+
+                    <category id="boyTattoosShoulder" label="boyTattoosShoulder_label" visible="false" logCategory2="bTattoos">
+
+                    <item id="boyDecor18" label="#boyTattooAcsRound" name="TattooAcsRound" icon="BoyTattooAcsRoundIcon" silver="200" rating="2" canBuy="0">
+                           <altParents> <boyHWClothes/> </altParents>
+                        </item>
+
+                    <item id="boyDecor15" label="#boyTattooAcsScorpion" name="TattooAcsScorpion" icon="BoyTattooAcsScorpionIcon" gold="0" silver="220" rating="2" />
+                        <item id="boyDecor16" label="#boyTattooAcsBug" name="TattoAcsBug" icon="BoyTattoAcsBugIcon" silver="85" canBuy="0" rating="1" />
+                        <item id="boyDecor17" label="#boyTattooAcsSign" name="TattoAcsSign" icon="BoyTattoAcsSignIcon" silver="90" rating="1" />
+
+                    </category>
+
+                    <category id="boyTattoosBody" label="boyTattoosBody_label" visible="false" logCategory2="bTattoos">
+
+                    </category>
+
+                    <category id="boyTattoosHip" label="boyTattoosHip_label" visible="false" logCategory2="bTattoos">
+
+                    </category>
+
+                    <category id="boyTattoosFace" label="boyTattoosFace_label" visible="false" logCategory2="bTattoos">
+
+                    </category>
+
+                </category>
+
+            </category>
+            
+            <category id="boySwimsuit" label="#clothesCategoryBoySwimsuits" logCategory1="boySwimsuitClothes" logCategory2="bSwimsuite">
+
+            <item id="boySwimsuit6" label="#boySwimsuitBeachBlackFire" name="SwimsuitBeachBlackFire" icon="BoySwimsuitBeachBlackFireIcon" gold="11" silver="0" rating="22">
+                </item>
+
+            </category>
+
+            <category id="boyUnder" label="#clothesCategoryUndergarments" logCategory1="bouUnderClothes">
+
+                <category id="boyUnderdress" label="#clothesCategoryUndergarments" visible="false" logCategory2="bUnderdress">
+                    <item id="boyUnderdress1" label="#boyDefaultUnderdress" name="Underdress1" canBuy="0" />
+                </category>
+
+                <category id="boyUndergarmentsBasics" label="#clothesCategoryUndergarmentsBasics" visible="false" logCategory2="bUndergarments">
+
+                <item id="boyUnd1" label="#boyUnderpantsSleepBlackRed" name="UnderpantsSleepBlackRed" icon="BoyUnderpantsSleepBlackRedIcon" silver="495" rating="4" />
+                <item id="boyUnd2" label="#boyUnderpantsSleepBlueWhite" name="UnderpantsSleepBlueWhite" icon="BoyUnderpantsSleepBlueWhiteIcon" gold="4" rating="7"/>
+                <item id="boyUnd11" label="#boyUnderpantsSleepYellowRed" name="UnderpantsSleepYellowRed" icon="BoyUnderpantsSleepYellowRedIcon" silver="580" rating="5" />
+
+                </category>
+
+            </category>
+
+        </category>
+
+        <category id="girlClothes" label="#avatarClothesCategory" typeClass="clothes" gender="girl">
+
+            <category id="girlTopClothes" label="#clothesCategoryTops" logCategory1="girlTopClothes">
+
+                <category id="girlAShirts" label="AShirtsCategory_label" logCategory2="gShirts">
+
+                    <category id="girlAShirtsTight" label="girlShirts_label" logCategory2="gShirts">
+
+                        <item id="GirlShirts23fevBlck" label="#girlTopArmyLabel" name="Shirts_23fev_bl" icon="GirlShirts23fevBlckIcon" gold="0" rating="1944" canBuy="0" >
+                            <altParents> <girlFairyTale/> </altParents>
+                        </item>
+                        <item id="girlShirtstoplacebl" label="#girlShirtstoplaceblLabel" name="Shirts_toplace_bl" icon="GirlShirts_toplace_bl_icon" gold="960" rating="2667" canBuy="0">
+                            <altParents> <girlbrutalMStar/> </altParents>
+                        </item>
+                        <item id="girlShirt12" label="#girlDressStandartBlouseWhite" name="DressStandartBlouseWhite" icon="GirlDressStandartBlouseWhiteIcon" gold="0" silver="315" canBuy="0" rating="3" />
+                        <item id="girlShirt24" label="#girlTShirtPink" name="TShirtPink" icon="GirlTShirtPinkIcon" gold="0" silver="1050" rating="10" />
+
+                    </category>
+
+                    <category id="girlAShirtsLoose" label="girlShirts_label" logCategory2="gShirts">
+
+                        <item id="girlShirt18" label="#girlTShirtGreenMini" name="TShirtGreenMini" icon="GirlTShirtGreenMiniIcon" gold="7" silver="0" rating="11"/>
+
+                    </category>
+
+                </category>
+
+                <category id="girlTShirts" label="TShirtsCategory_label" logCategory2="gShirts">
+
+                    <category id="girlTShirtsTight" label="girlShirts_label" logCategory2="gShirts">
+
+                        <item id="girlShirt_marafon1" label="GirlShirt_marafon1_label" name="Shirt_marafon1" icon="GirlShirt_marafon1_icon"  rating="555"/>
+                        <item id="girlAVA1" label="#TShirtAVA1Label" name="TShirtAVA1" icon="GirlTShirtAVA1Icon" silver="1000" rating="10">
+                            <altParents> <girlAVAlove/> </altParents>
+                        </item>
+                        <item id="girlAVA2" label="#TShirtAVA2Label" name="TShirtAVA2" icon="GirlTShirtAVA2Icon" silver="1500" rating="25">
+                            <altParents> <girlAVAlove/> </altParents>
+                        </item>
+                        <item id="girlAVA4" label="#TShirtAVA2Label" name="TShirtAVA4" icon="GirlTShirtAVA4Icon" silver="1500" rating="25">
+                            <altParents> <girlAVAlove/> </altParents>
+                        </item>
+                        <item id="girlAVA6" label="#TShirtAVA2Label" name="TShirtAVA6" icon="GirlTShirtAVA6Icon" silver="1500" rating="25">
+                            <altParents> <girlAVAlove/> </altParents>
+                        </item>
+                        <item id="girlAVA7" label="#TShirtAVA2Label" name="TShirtAVA7" icon="GirlTShirtAVA7Icon" silver="1500" rating="25">
+                            <altParents> <girlAVAlove/> </altParents>
+                        </item>
+                        <item id="girlAVA8" label="#TShirtAVA1Label" name="TShirtAVA8" icon="GirlTShirtAVA8Icon" silver="1000" rating="10">
+                            <altParents> <girlAVAlove/> </altParents>
+                        </item>
+                        <item id="girlAVA9" label="#TShirtAVA2Label" name="TShirtAVA9" icon="GirlTShirtAVA9Icon" silver="1500" rating="25">
+                            <altParents> <girlAVAlove/> </altParents>
+                        </item>
+
+
+                    </category>
+
+                </category>
+
+                <category id="girlBlouses" label="HoodiesCategory_label" logCategory2="gShirts">
+
+                    <category id="girlBlousesLoose" label="girlShirts_label" logCategory2="gShirts">
+
+                        <item id="GirlShirt_meloman" label="#GirlShirt_meloman_label" name="Shirt_meloman" icon="GirlShirt_meloman_icon" gold="280" rating="778" canBuy="0">
+                            <altParents> <girlVibe/> </altParents>
+                        </item>
+
+                    </category>
+
+                </category>
+
+
+                <category id="girlShirts" label="girlShirts_label" logCategory2="gShirts">
+
+                    <category id="girlShirtsTight" label="girlShirtsTight_label" logCategory2="gShirts">
+
+                        <item id="girlTopZaglushka" name="UnderwearSleepPinkWhite_top" gold="999" rating="1" canBuy="0" />
+
+                    </category>
+
+                    <category id="girlShirtsLoose" label="girlShirtsLoose_label" logCategory2="gShirts">
+
+                    </category>
+
+
+                </category>
+
+                <category id="girlJackets" label="girlJackets_label" logCategory2="gJackets">
+
+                    <category id="girlJacketsVst" label="girlJacketsVst_label" logCategory2="gJackets"> <!-- Жилеты - их, теоретически, можно носить между рубашкой и курткой -->
+
+                        <item id="girlJacket3" label="#girlVestBlue" name="VestBlue" icon="GirlVestBlueIcon" gold="0" silver="1400" rating="14" />
+
+                        <category id="girlJacketsVstMono" label="girlJacketsVstMono_label" logCategory2="gJackets"> <!-- сложные жилеты - нельзя носить с курткой -->
+
+                        <item id="girlJacketShtormw" label="#girlJacketShtormLabel" name="Jacket_Shtorm_w" icon="GirlJacket_Shtorm_w_icon" gold="160" canBuy="0" rating="444">
+                                <altParents> <girlStorm/> </altParents>
+                            </item>
+
+                        </category>
+
+                        <category id="girlJacketsVstLong" label="girlJacketsVstLong_label" logCategory2="gJackets">
+
+                        </category>
+
+                    </category>
+                    
+                    <category id="girlJacketsOpen" label="#girlJacketsOpen_label" logCategory2="gJackets"> <!-- Расстегнутые куртки, требуют рубашек -->
+
+                    <item id="girlJacket1" label="#Jackets_blackman_label" name="TShirtBlack" icon="GirlTShirtBlackIcon" silver="1300" rating="13"/>
+                        <item id="girlJacket2" label="#girlTShirtFunkyBlackPink" name="TShirtFunkyBlackPink" icon="GirlTShirtFunkyBlackPinkIcon" gold="6" silver="0" rating="10"/>
+
+                        <category id="girlJacketsOpenLong" label="#girlJacketsOpenLong_label" logCategory2="gJackets"> <!-- Расстегнутые, не дружат с юбками -->
+
+                        <item id="gPslnJckt1" label="#girlJacketPoisonKiss" name="JacketSkate2" icon="GirlJacketSkate2Icon" silver="0" gold="14" rating="28" vipOnly="1" />
+
+                        </category>
+
+                    </category>
+
+                    <category id="girlJacketsMono" label="#girlJacketsOpen_label" logCategory2="gJackets"> <!-- Застегнутые куртки, в них можно на улицу -->
+
+                    <item id="girlVests_bigcity" label="#girlVests_bigcity_label" name="Vests_bigcity" icon="GirlVests_bigcity_icon" gold="280" rating="778" canBuy="0"/>
+
+                        <category id="girlJacketsMonoLong" label="girlJacketsOpenLong_label" logCategory2="gJackets"> <!-- длинные застегнутые куртки -->
+
+                        </category>
+
+                        <category id="girlJacketsMonoLongHooded" label="girlJacketsOpenLong_label" logCategory2="gJackets"> <!-- длинные застегнутые куртки с helmet -->
+
+                        </category>                   
+
+                    </category>
+
+                </category>
+
+            </category>
+
+            <category id="girlBottomClothes" label="#clothesCategoryBottoms" logCategory1="girlBottomClothes">
+
+                <category id="girlPants" label="#clothesCategoryPants" logCategory2="gPants">
+
+                    <category id="girlPantsTight" label="#clothesCategoryPants" logCategory2="gPants">
+
+                    <item id="GirlPants_meloman" label="#GirlPants_meloman_label" name="Pants_meloman" icon="GirlPants_meloman_icon" gold="360" rating="1000" canBuy="0">
+                            <altParents> <girlVibe/> </altParents>
+                        </item>
+                    <item id="girlPantsmstartopjeansw" label="#girlPantsmstartopjeanswLabel" name="Pants_mstar_topjeans_w" icon="GirlPants_mstar_topjeans_w_icon" gold="0" rating="5333" canBuy="0">
+                            <altParents> <girlclubMstar19/> </altParents>
+                        </item>
+                    <item id="gPntsUsa2" label="#girlJeansCasualDarkBlue" name="JeansCasualDarkBlue" icon="GirlJeansCasualDarkBlueIcon" silver="2200" rating="22"/>
+                    <item id="girlPants1" label="#girlPantsClubLiteBlueDecorated" name="PantsClubLiteBlueDecorated" icon="GirlPantsClubLiteBlueDecoratedIcon" silver="3000" rating="30"/>
+                    <item id="girlPants4" label="#girlPantsCasualFlower" name="PantsCasualFlower" icon="GirlPantsCasualFlowerIcon" gold="0" silver="480" rating="4" />
+                        <item id="girlPants9" label="#girlDressStandartJeans" name="DressStandartJeans" icon="GirlDressStandartJeansIcon" gold="0" silver="400" rating="4" canBuy="0" />
+
+                    </category>
+
+                    <category id="girlPantsLoose" label="#clothesCategoryPants" logCategory2="gPants">
+
+                    <item id="gPntsUsa4" label="#girlPantsCasualWhite" name="PantsCasualWhite" icon="GirlPantsCasualWhiteIcon" silver="4400" rating="44"/>
+
+                    </category>
+
+                    <category id="girlWeddingPants" label="#girlWeddingPantsCategory" visible="false">
+
+                    </category>
+
+                </category>
+                
+                <category id="girlShorts" label="#clothesCategoryShorts" logCategory2="gShorts">
+
+                <item id="girlPslnShorts1" label="#girlPslnShorts1" name="ShortsSkate2" icon="GirlShortsSkate2Icon" gold="20" silver="0" rating="45" vipOnly="1" />
+                <item id="girlShortsmstarw" label="#girlShortsmstarwLabel" name="Shorts_mstar_w" icon="GirlShorts_mstar_w_icon" gold="1664" rating="4622" canBuy="0">
+                        <altParents> <girlbrutalMStar/> </altParents>
+                    </item>
+                <item id="girlPants13" label="#girlShortsPinkWhite" name="ShortsPinkWhite" icon="GirlShortsPinkWhiteIcon" silver="2200" rating="22">
+                    </item>
+                    <item id="girlPantsZaglushka" name="UnderwearSleepPinkWhite_bot" gold="999" rating="1" canBuy="0" />
+                    <item id="girlPants14" label="#girlShortsDarkBlueJeanse" name="ShortsDarkBlueJeanse" icon="GirlShortsDarkBlueJeanseIcon" silver="3200" rating="32">
+                    </item>
+
+                </category>
+
+                <category id="girlSkirts" label="#clothesCategorySkirts" logCategory2="gSkirts">
+
+                    <category id="girlSkirtsTight" label="#clothesCategorySkirts" logCategory2="gSkirts"> <!-- юбки в обтяжку -->
+
+                    <item id="girlSkirt1" label="#girlSkirtCasualPleatRushe" name="SkirtCasualPleat" icon="GirlSkirtCasualPleatIcon" gold="0" silver="730" rating="7" />
+                        <item id="girlSkirt3" label="#girlSkirtCasualRuche" name="SkirtCasualRuche" icon="GirlSkirtCasualRucheIcon" gold="0" silver="865" rating="8" />
+
+                    </category>
+
+                    <category id="girlSkirtsLoose" label="#clothesCategorySkirts" logCategory2="gSkirts"> <!-- пышные юбки, не носятся с длинными куртками -->
+
+                    <item id="gSkrtUsa5" label="#girlSkirtCasualWhite" name="SkirtCasualWhite" icon="GirlSkirtCasualWhiteIcon" silver="2000" rating="20"/>
+
+                    <item id="girlSkirt7" label="#girlSkirtEmeraldShiny" name="SkirtEmeraldShiny" icon="GirlSkirtEmeraldShinyIcon" gold="5" silver="0" rating="8"/>
+
+                    </category>
+
+                </category>
+
+                <category id="girlPantyhose" label="#clothesCategoryStockings" logCategory2="gPantyhose">
+
+                    <category id="girlStockings" label="#clothesCategoryStockings" logCategory2="gPantyhose">
+
+                    <item id="girlPantyhose_lavaset" label="#girlPantyhose_lavaset_label" name="Pantyhose_lavaset" icon="GirlPantyhose_lavaset_icon" silver="0" gold="120" rating="333" canBuy="0"/>
+                    <item id="girlPantyhosemollbl" label="#girlPantyhosemollLabel" name="Pantyhose_moll_bl" icon="GirlPantyhose_moll_bl_icon" silver="0" gold="0" rating="4089" canBuy="0">
+                            <altParents> <girlMoll/> </altParents>
+                        </item>
+                    <item id="girlPantyhose4" label="#girlStockingBlack" name="StockingBlack" icon="GirlStockingSleepBlackIcon" silver="750" rating="7" />
+
+                    </category>
+
+                    <category id="girlSocks" label="girlSocks_label" logCategory2="gPantyhose">
+
+                    <item id="girlPantyhose2" label="#girlSocksSleepWhite" name="SocksSleepWhite" icon="GirlSocksSleepWhiteIcon" silver="560" rating="5" />
+
+                    </category>                
+
+                    <category id="girlTights" label="girlTights_label" logCategory2="gPantyhose">
+
+                    <item id="girlPantyhose_Starter_v" label="#girlPantyhose_Starter_v_label" name="Pantyhose_Starter_v" icon="GirlPantyhose_Starter_v_icon" silver="0" gold="96" rating="267" canBuy="0"/>
+                    <item id="girlPantyhoseMinnie" label="#girlPantyhoseMinnieLabel" name="Pantyhose_Minnie" icon="GirlPantyhoseMinnieIcon" gold="400" canBuy="0" rating="1111" >
+                            <altParents> <girlMinnie/> </altParents>
+                        </item>
+                    <item id="girlWntrStck1" label="#girlTightsWinterBeige" name="TightsWinterBeige" icon="GirlTightsWinterBeigeIcon" silver="2200" rating="22"/>
+
+                    </category> 
+
+                </category>
+
+            </category>
+            
+            <category id="girlDress" label="#clothesCategoryDresses" logCategory1="girlDressClothes" logCategory2="gDress">
+
+                <category id="girlDressSundress" label="girlDressSundress_label" visible="false" logCategory2="gDress">
+
+                    <item id="girlSkirt_marafon1" label="#GirlSkirt_marafon1_label" name="Skirt_marafon1" icon="GirlSkirt_marafon1_icon" rating="777"/>
+
+                </category>
+
+                <category id="girlDressTight" label="girlDressTight_label" visible="false" logCategory2="gDress">
+
+                <item id="girlDress2" label="#girlDressClubDarkGoldShiny" name="DressClubDarkGoldShiny" icon="GirlDressClubDarkGoldShinyIcon" gold="0" silver="1250" rating="12" canBuy="1" />
+                    <item id="girlDress3" label="#girlDressClubGrayShiny" name="DressClubGrayShiny" icon="GirlDressClubGrayShinyIcon" gold="0" silver="1500" rating="15" />
+                    <item id="girlDress4" label="#girlDressClubPinkSexyShort" name="DressClubPinkSexyShort" icon="GirlDressClubPinkSexyShortIcon" gold="0" silver="500" rating="5" />
+                    <item id="girlDress9" label="#girlDressBluePink" name="DressWhiteBordo" icon="GirlDressWhiteBordoIcon" gold="24" silver="0" rating="52">
+                    </item>
+                    <item id="girlDress10" label="#girlDressYellowBeltBordo" name="DressYellowBeltBordo" icon="GirlDressYellowBeltBordoIcon" gold="13" silver="0" rating="26">
+                    </item>
+
+                <item id="gDrssUsa2" label="#girlDressCasualBrown" name="DressCasualBrown" icon="GirlDressCasualBrownIcon" silver="3000" rating="30">
+                    </item>
+
+                    <category id="girlDressTightSleeves" label="#girlDressTight_label" visible="false">
+
+                    </category>
+
+                    <category id="girlDressTightTails" label="#clothesCategoryDresses" visible="false" logCategory2="gDress">
+
+                    </category>
+
+                </category>
+
+                <category id="girlDressLoose" label="girlDressLoose_label" visible="false" logCategory2="gDress">
+
+                    <item id="girlDress_lavaset" label="#girlDress_lavaset_label" name="Suits_lavaset" icon="GirlSuits_lavaset_icon" gold="480" rating="1333" canBuy="0"/>
+                    <item id="girlDress_Starter_v" label="#girlDress_Starter_v_label" name="Dress_Starter_v" icon="GirlDress_Starter_v_icon" gold="160" rating="444" canBuy="0"/>
+                    <item id="girlDress_bigcity" label="#girlDress_bigcity_label" name="Dress_bigcity" icon="GirlDress_bigcity_icon" gold="320" rating="889" canBuy="0"/>
+                    <item id="gDrssCoc7" label="#girlDressCocktailBordoGold" name="DressCocktailBordoGold" icon="GirlDressCocktailBordoGoldIcon" gold="58" rating="125" canBuy="0">
+                        <altParents> <girlHWClothes/> </altParents>
+                    </item>
+                    <item id="GirlDress_waitressuni" name="Dress_waitressuni" gold="0" raiting="0" canBuy="0"/>
+
+                    <category id="girlDressLooseSleeves" label="#girlDressLoose_label" visible="false">
+
+                    </category>
+
+                </category>
+
+                <category id="girlWeddingDress" label="#girlWeddingDressTitle" visible="false">
+
+                    <item id="girlWdnDrs2" label="#girlWeddingDressTitle" name="DressWeddingSimpleWhite" icon="GirlDressWeddingSimpleWhiteIcon" silver="9500" rating="95" wedding="1" />
+                    <item id="girlWdnDrs3" label="#girlWeddingDressTitle" name="DressWeddingWhiteMarieAntoinette" icon="GirlDressWeddingWhiteMarieAntoinetteIcon" gold="40" rating="100" wedding="1" />
+
+                </category>
+              
+            </category>
+
+            <category id="girlSuits" label="#clothesCategorySuits" logCategory1="girlSuitClothes" logCategory2="gSuit">
+
+                <category id="girlSuitsClothes" label="girlSuitsClothes_label" logCategory1="girlSuitClothes" logCategory2="gSuit">
+
+                    <category id="girlSuitsClothesGeneral" label="#clothesCategorySuits" logCategory1="girlSuitClothes" logCategory2="gSuit">
+
+                        <category id="girlSuitsClothesGeneralJckt" label="#clothesCategorySuits" logCategory1="girlSuitClothes" logCategory2="gSuit">
+
+                        </category>
+
+                    </category>
+                    <category id="girlSuitsClothesShoes" label="#clothesCategorySuits" logCategory1="girlSuitClothes" logCategory2="gSuit">
+
+                    </category>
+
+                </category>
+
+                <category id="girlSuitsExtra" label="girlSuitsExtra_label" logCategory1="girlSuitClothes" logCategory2="gSuit">
+
+                    <category id="girlSuitsExtraGeneral" label="#clothesCategorySuits" logCategory1="girlSuitClothes" logCategory2="gSuit">
+
+                    </category>
+                    <category id="girlSuitsExtraBack" label="#clothesCategorySuits" logCategory1="girlSuitClothes" logCategory2="gSuit">
+
+                    <item id="girlSuits_elecorn" label="#Suits_elecorn_label" name="Suits_elecorn" icon="GirlSuits_elecorn_icon" gold="600" rating="1667" canBuy="0"/>
+
+                    </category>
+
+                    <category id="girlSuitsExtraBackLoose" label="#clothesCategorySuits" logCategory1="girlSuitClothes" logCategory2="gSuit">
+
+                    </category>
+
+                    <category id="girlSuitsExtraDevil" label="#clothesCategorySuits" logCategory1="girlSuitClothes" logCategory2="gSuit">
+
+                    </category>
+                    <category id="girlSuitsExtraOverall" label="#clothesCategorySuits" logCategory1="girlSuitClothes" logCategory2="gSuit">
+
+                    </category>
+                    <category id="girlSuitsExtraOverallBack" label="#clothesCategorySuits" logCategory1="girlSuitClothes" logCategory2="gSuit">
+
+                    </category>
+
+                </category>
+
+            </category>
+
+            <category id="girlShoes" label="#clothesCategoryShoes" logCategory1="girlShoesClothes" logCategory2="gShoes">
+
+                <category id="girlShoesSandals" label="girlShoesSandals_label" logCategory1="girlShoesClothes" logCategory2="gShoes">
+
+                <item id="gShsCoc10" label="#girlShoesCocktailBlackShiny" name="ShoesCocktailBlackShiny" icon="GirlShoesCocktailBlackShinyIcon" gold="14" rating="28"/>
+                <item id="girlShoes6" label="#girlSandalsClubBrownGoldMiddle" name="SandalsClubBrownGoldMiddle" icon="GirlSandalsClubBrownGoldMiddleIcon" gold="0" silver="530" canBuy="0" rating="5" />
+                <item id="girlShoes14" label="#girlDressStandartBoots" name="DressStandartBoots" icon="GirlDressStandartBootsIcon" canBuy="0" silver="320" rating="3"/>
+
+                    <category id="girlShoesSandalsHigh" label="girlShoesSandalsHigh_label" logCategory1="girlShoesClothes" logCategory2="gShoes">
+
+                    <item id="girlShoes22" label="#girlSandalsFunkyBordoLong" name="SandalsFunkyBordoLong" icon="GirlSandalsFunkyBordoLongIcon" silver="800" rating="8">
+                        </item>
+
+                    <item id="girlEvng3" label="#girlShoesEveningGirlLabel" name="SandalsCocktailBlueMiddle" icon="GirlSandalsEveningBlueMiddleIcon" silver="1750" rating="17" />
+
+                    </category>
+
+                </category>
+
+                <category id="girlShoesSnickers" label="girlShoesSnickers_label" logCategory1="girlShoesClothes" logCategory2="gShoes">
+
+                <item id="girlShoes31" label="#girlShoesPinkWhiteKeds" name="ShoesPinkWhiteKeds" icon="GirlShoesPinkWhiteKedsIcon" gold="0" silver="615" rating="6" />
+
+                    <category id="girlShoesSnickersHigh" label="girlShoesSnickersHigh_label" logCategory1="girlShoesClothes" logCategory2="gShoes">
+
+                        <item id="girlShoes_marafon1" label="#GirlShoes_marafon1_label" name="Shoes_marafon1" icon="GirlShoes_marafon1_icon" rating="444"/>
+
+                        <item id="GirlShoes_meloman" label="#GirlShoes_meloman_label" name="Shoes_meloman" icon="GirlShoes_meloman_icon" gold="200" rating="556" canBuy="0"/>
+                        <item id="girlShoes_lavaset" label="#girlShoes_lavaset_label" name="Shoes_lavaset" icon="GirlShoes_lavaset_icon" gold="200" rating="556" canBuy="0"/>
+                        <item id="girlShoes_Starter_v" label="#girlShoes_Starter_v_label" name="Shoes_Starter_v" icon="GirlShoes_Starter_v_icon" gold="144" rating="400" canBuy="0"/>
+                        <item id="girlShoes_elecorn" label="#Shoes_elecorn_label" name="Shoes_elecorn" icon="GirlShoes_elecorn_icon" gold="200" rating="556" canBuy="0"/>
+                        <item id="gShsPsln10" label="#gShsPsln10" name="ShoesSkate3" icon="GirlShoesSkate3Icon" silver="5100" rating="51" />
+
+                    </category>
+
+                </category>
+
+                <category id="girlShoesShoes" label="girlShoesShoes_label" logCategory1="girlShoesClothes" logCategory2="gShoes">
+
+                    <item id="girlWdnShs1" label="#girlWeddingShoes1Title" name="ShoesWeddingWhite" icon="GirlShoesWeddingWhiteIcon" silver="2500" rating="25" wedding="1" />
+
+                    <category id="girlShoesShoesSocks" label="girlShoesShoesSocks_label" logCategory1="girlShoesClothes" logCategory2="gShoes">
+
+                    </category>
+
+                    <category id="girlShoesShoesHigh" label="girlShoesShoesHigh_label" logCategory1="girlShoesClothes" logCategory2="gShoes">
+
+                    <item id="girlShoes_bigcity" label="#girlShoes_bigcity_label" name="Shoes_bigcity" icon="GirlShoes_bigcity_icon" gold="120" rating="333" canBuy="0"/>
+                    <item id="GirlShoes_Midtown_r" label="#GirlShoes_Midtown_label" name="Shoes_Midtown_r" icon="GirlShoes_Midtown_r_icon" gold="632" rating="1755" canBuy="0">
+                        <altParents> <girlMidtown/> </altParents>
+                    </item>    
+
+                    </category>
+
+                </category>
+
+                <category id="girlShoesHigh" label="girlShoesHigh_label" logCategory1="girlShoesClothes" logCategory2="gShoes">
+
+                    <item id="gShsCoc2" label="#girlBootsCocktailBordoGoldLabel" name="BootsCocktailBordoGold" icon="GirlBootsCocktailBordoGoldIcon" gold="37" rating="93" canBuy="0">
+                            <altParents> <girlHWClothes/> </altParents>
+                        </item>
+                    <item id="girlShoesPsyLbl" label="#girlShoesPsyLLabel" name="Shoes_PsyL_bl" icon="GirlShoes_PsyL_bl_icon" gold="176" canBuy="0" rating="488">
+                            <altParents> <girlPsly/> </altParents>
+                        </item>
+                    <item id="girlShoesbrutalbl" label="#girlShoesbrutalblLabel" name="Shoes_brutal_bl" icon="GirlShoes_brutal_bl_icon" gold="1600" rating="4444" canBuy="0">
+                        <altParents> <girlbrutalMStar/> </altParents>
+                    </item>
+                    <item id="gShsPsln9" label="#gShsPsln9" name="ShoesSkate2" icon="GirlShoesSkate2Icon" gold="44" rating="111" vipOnly="1" />
+
+                    <category id="girlShoesHighLoose" label="girlShoesHighLoose_label" logCategory1="girlShoes">
+
+                    </category>
+
+                </category>
+
+            </category>
+
+            <category id="girlDecor" label="#clothesCategoryAcs" logCategory1="girlDecorClothes">
+
+                    <category id="girlAccsHead" label="girlAccsHead_label" logCategory2="gHats">
+
+                        <category id="girlHats" label="#clothesCategoryHats" logCategory2="gHats">
+
+                            <item id="girlHat_marafon1" label="#GirlHat_marafon1_label" name="Hat_marafon1" icon="GirlHat_marafon1_icon" rating="444"/>
+                        
+                            <item id="GirlHats_waitressuni" name="Hats_waitressuni" gold="0" raiting="0" canBuy="0"/>
+                            <item id="girlHatKnitted" label="#HatKnittedLabel" name="HatKnitted" icon="GirlHatKnittedIcon" silver="3600" rating="36" >
+                                <altParents> <girlWinterHats/> </altParents>
+                            </item>
+                            <item id="gHtsPsln2" label="#gHtsPsln2" name="SHatPSRio" icon="GirlSHatPSRioIcon" silver="7500" rating="75" />
+                            <item id="gHtsPsln8" label="#gHtsPsln8" name="HatSkate2" icon="GirlHatSkate2Icon" gold="18" rating="36" vipOnly="1" />
+
+                            <category id="girlHatsHeadphones" label="girlHatsHeadphones_label" visible="false" logCategory2="gHats">
+
+                            </category>
+
+                        </category>
+
+                        <category id="girlHelmets" label="girlHelmets_label" visible="false" logCategory2="gHelmets">
+                        
+                        <item id="girlHelmets_elecorn" label="#Helmets_elecorn_label" name="Helmets_elecorn" icon="GirlHelmets_elecorn_icon" gold="400" rating="1111" canBuy="0"/>
+
+                        </category>
+
+                    </category>
+
+                    <category id="girlAccsClothes" label="girlAccsClothes_label" logCategory2="gGloves">
+
+                        <category id="girlGloves" label="#clothesCategoryGloves" logCategory2="gGloves">
+                        
+                            <category id="girlGlovesTight" label="#clothesCategoryGloves" logCategory2="gGloves">
+
+                                <item id="girlGlovesbikerbl" label="#girlGlovesbikerblLabel" name="Gloves_biker_bl" icon="GirlGloves_biker_bl_icon" gold="719" rating="1998" canBuy="0"/>
+                                <item id="girlEvng14" label="#girlEveningMittensLabel" name="MittensCocktailRedGold" icon="GirlMittensAcsEveningRedGoldIcon" silver="2600" rating="26"/>
+
+                            </category>
+
+                            <category id="girlGlovesLoose" label="#clothesCategoryGloves" logCategory2="gGloves">
+
+                            <item id="gGlvCoc1" label="#girlGlovesAcsCocktailBlackLabel" name="GlovesAcsCocktailBlack" icon="GirlGlovesAcsCocktailBlackIcon" gold="14" rating="28">
+                                </item>
+
+                            </category>
+
+                            <category id="girlGlovesFancy" label="#clothesCategoryGloves" logCategory2="gGloves">
+
+                            </category>
+
+                        </category>
+
+                        <category id="girlMuffler" label="girlMuffler_label" visible="false" logCategory2="bNecklaces">
+
+                        </category>
+
+                        <category id="girlBelt" label="girlBelt_label" visible="false" logCategory2="gBelts">
+
+                        </category>
+
+                        <category id="girlCloaks" label="girlCloaks_label" visible="true" logCategory2="gCloaks">
+
+                        </category>
+
+                    </category>
+
+                    <category id="girlAccsJewels" label="girlAccsJewels_label" logCategory2="gJewels">
+
+                        <category id="girlTiaras" label="girlTiaras_label" logCategory2="gGloves">
+
+                            <category id="girlTiarasEarrings" label="girlTiarasEarrings_label" visible="false" logCategory2="gEarrings">
+
+                            </category>
+
+                        </category>
+
+                        <category id="girlEarrings" label="girlEarrings_label" visible="false" logCategory2="gEarrings">
+
+                        <item id="girlEarrings_arist_v" label="#girlEarrings_arist_label" name="Earrings_arist_v" icon="GirlEarrings_arist_v_icon" gold="0" rating="1422" canBuy="0">
+                               <altParents> <girlArist/> </altParents>
+                            </item>
+                        <item id="GirlEarrings_townchic_r" label="#GirlEarrings_townchic_label" name="Earrings_townchic_r" icon="GirlEarrings_townchic_r_icon" gold="80" canBuy="0" silver="0" rating="222">
+                               <altParents> <girlChic/> </altParents>
+                            </item>
+                        <item id="gEarCoc2" label="#girlEarringsAcsCocktailGoldAmber" name="EarringsAcsCocktailGoldAmber" icon="GirlEarringsAcsCocktailGoldAmberIcon" gold="12" rating="24" canBuy="0">
+                               <altParents> <girlHWClothes/> </altParents>
+                            </item>
+                        <item id="girlEarringsShtormy" label="#girlEarringsShtormyLabel" name="Earrings_Shtorm_y" icon="GirlEarrings_Shtorm_y_icon" gold="120" silver="0" canBuy="0" rating="333">
+                               <altParents> <girlStorm/> </altParents>
+                            </item>
+                        <item id="girlDecor8" label="#girlEaringAcsBrll" name="EaringAcsBrll" icon="GirlEaringAcsBrllIcon" gold="11" silver="0" rating="22">
+                            </item>
+                            <item id="girlDecor9" label="#girlEaringAcsIndian2" name="EaringAcsIndian2" icon="GirlEaringAcsIndian2Icon" gold="5" canBuy="0" silver="0" rating="8">
+                            </item>
+                        <item id="girlDecor209" label="#girlEarringsPink" name="EarringsPink" icon="GirlEarringsPinkIcon" gold="0" silver="290" rating="2" />
+                        <item id="girlDecor11" label="#girlEarringAcsBow" name="EarringAcsBow" icon="GirlEarringAcsBowIcon" gold="6" silver="0" rating="10">
+                            </item>
+                            <item id="girlDecor12" label="#girlEarringAcsCamomile" name="EarringAcsCamomile" icon="GirlEarringAcsCamomileIcon" silver="60" rating="1" />
+                            <item id="girlDecor13" label="#girlEarringAcsRound" name="EarringAcsRound" icon="GirlEarringAcsRoundIcon" silver="50" rating="1" />
+                            <item id="girlDecor14" label="#girlEarringAcsCamomile" name="EarringAcsTriangle" icon="GirlEarringAcsTriangleIcon" gold="4" silver="0" rating="6">
+                            </item>
+
+                        </category>
+
+                        <category id="girlHairpins" label="girlHairpins_label" visible="false" logCategory2="gHeairpins">
+
+                        <item id="girlDecor22" label="#girlHairpinAcsGold" name="HairpinAcsGold" icon="GirlHairpinAcsGoldIcon" gold="4" silver="0" rating="6" canBuy="0">
+                            </item>
+                        <item id="girlDecor23" label="#girlHairpinAcsSilver" name="HairpinAcsSilver" icon="GirlHairpinAcsSilverIcon" gold="3" silver="0" rating="5" />
+
+                        </category>
+
+                        <category id="girlBraceletes" label="girlBraceletes_label" visible="false" logCategory2="gBracelets">
+
+                           <category id="girlBraceletesLeft" label="girlBraceletesLeft_label" visible="false" logCategory2="gBracelets">
+
+                           </category>
+
+                           <category id="girlBraceletesRight" label="girlBraceletesRight_label" visible="false" logCategory2="gBracelets">
+                            
+                            <item id="girlDecor3" label="#girlDecorClubGoldBracelet2" name="DecorClubGoldBracelet2" icon="GirlDecorClubGoldBracelet2Icon" gold="0" silver="245" canBuy="0" subType="left" rating="2" />
+                            <item id="gBrclCoc2" label="#girlBraceletAcsCocktailGoldSaphire" name="BraceletAcsCocktailGoldSaphire" icon="GirlBraceletAcsCocktailGoldSaphireIcon" gold="17" subType="left" rating="34">
+                                   <altParents> </altParents>
+                                </item>
+
+                           </category>
+
+                           <category id="girlBraceletesTwoHands" label="girlBraceletesTwoHands_label" visible="false" logCategory2="gBracelets">
+
+                           </category>
+
+                           <category id="girlBraceletesShoulders" label="girlBraceletesShoulders_label" visible="false" logCategory2="gBracelets">
+
+                            <item id="gBrclCoc1" label="#girlBraceletAcsCocktailGold" name="BraceletAcsCocktailGold" icon="GirlBraceletAcsCocktailGoldIcon" gold="12" subType="left" canBuy="0" rating="24">
+                                </item> 
+
+                           </category>
+                            
+                        </category>
+
+                        <category id="girlNecklace" label="girlNecklace_label" visible="true" logCategory2="gNecklaces">
+
+                        <item id="girlNecklace_arist_v" label="#girlNecklace_arist_label" name="Necklace_arist_v" icon="GirlNecklace_arist_v_icon" gold="0" rating="1778" canBuy="0">
+                                <altParents> <girlArist/> </altParents>
+                                </item>
+                        <item id="girlNecklace_markle_bk" label="#girlNecklace_markle_label" name="Necklace_markle_bk" icon="GirlNecklace_markle_bk_icon" gold="18" canBuy="0" rating="50">
+                                <altParents> <girlmarkle/> </altParents>
+                            </item>
+                        <item id="girlDecorShtormbl" label="#girlDecorShtormLabel" name="Decor_Shtorm_bl" icon="GirlDecor_Shtorm_bl_icon" gold="40" canBuy="0" rating="111">
+                                <altParents> <girlStorm/> </altParents>
+                           </item>
+                        <item id="gNcklCoc1" label="#girlPendantAcsCocktailGoldSaphireLabel" name="PendantAcsCocktailGoldSaphire" icon="GirlPendantAcsCocktailGoldSaphireIcon" gold="21" rating="46"/>
+
+                            <category id="girlNecklaceMono" label="girlNecklaceMono_label" visible="true" logCategory2="gNecklaces">
+
+                            </category>
+
+                        </category>
+
+                    </category>
+
+                    <category id="girlAccsExtra" label="girlAccsExtra_label" logCategory2="gExtra">
+
+                        <category id="girlWigs" label="girlWigs_label" visible="false" logCategory2="gHelmets">
+
+                            <item id="girlWigs_marafon1" label="#GirlWigs_marafon1_label" name="Wigs_marafon1" icon="GirlWigs_marafon1_icon" rating="888"/>
+
+                            <item id="girlHelmets_bigcity" label="#girlHelmets_bigcity_label" name="Helmets_bigcity" icon="GirlHelmets_bigcity_icon" gold="480" rating="1333" canBuy="0"/>
+                            <item id="girlHelmetsmystred" label="#girlHelmetsmystredLabel" name="Helmets_myst_red" icon="GirlHelmets_myst_red_icon" gold="560" canBuy="0" rating="1555"/>
+
+                            <category id="girlWigsHatted" label="girlWigsHatted_label" visible="false" logCategory2="gHelmets">
+
+                            </category>
+
+                            <category id="girlWigsFaced" label="girlWigsFaced_label" visible="false" logCategory2="gHelmets">
+
+                            </category>
+
+                        </category>
+
+                        <category id="girlFaces" label="girlFaces_label" visible="false" logCategory2="gFaces">
+
+                            <category id="girlFacesFull" label="girlFacesFull_label" visible="false" logCategory2="gFaces">
+
+                            </category>
+
+                        </category>
+
+                        <category id="girlNoses" label="girlNoses_label" visible="false" logCategory2="gMasks">
+
+                        </category>
+
+
+                        <category id="girlHorns" label="girlHorns_label" visible="false" logCategory2="gHorns">
+
+                            <category id="girlHornsMasked" label="girlHornsMasked_label" visible="false" logCategory2="gHorns">
+
+                            </category>
+
+                        </category>
+
+                        <category id="girlWings" label="girlWings_label" visible="false" logCategory2="gWings">
+
+                        </category>
+
+                        <category id="girlTails" label="girlTails_label" visible="true" logCategory2="gTails">
+
+                        </category>
+
+                        <category id="girlSkin" label="girlSkin_label" visible="true" logCategory2="gExtra">
+
+                        </category>
+
+                    </category>
+
+                    <category id="girlAccsItems" label="girlAccsItems_label" visible="false" logCategory2="bBouquets">
+
+                        <category id="girlGlasses" label="#clothesCategoryGlasses" logCategory2="gGlasses">
+
+                            <category id="girlGlassesHead" label="#clothesCategoryGlasses" logCategory2="gGlasses">
+
+                            </category>
+
+                            <category id="girlGlassesFace" label="#clothesCategoryGlasses" logCategory2="gGlasses">
+
+                                <category id="girlGlassesFaceTight" label="#clothesCategoryGlasses" logCategory2="gGlasses">
+
+                                <item id="girlDecor18" label="#girlGlassAcsSimple" name="GlassAcsSimple" icon="GirlGlassAcsSimpleIcon" gold="0" silver="300" rating="3" />
+
+                                </category>
+
+                                <category id="girlGlassesFaceLoose" label="#clothesCategoryGlasses" logCategory2="gGlasses">
+
+                                <item id="girlDecor15" label="#girlGlassAcsBlack" name="GlassAcsBlack" icon="GirlGlassAcsBlackIcon" gold="9" silver="0" rating="15"/>
+                                    <item id="girlDecor16" label="#girlGlassAcsGold" name="GlassAcsGold" icon="GirlGlassAcsGoldIcon" silver="2200" rating="22"/>
+
+                                </category>
+
+                            </category>
+
+                        </category>
+
+                        <category id="girlMasks" label="girlMasks_label" visible="false" logCategory2="gMasks">
+                        
+                        <item id="girlFacesmaskmoustache" label="#Facesmaskmoustache_label" name="Faces_mask_moustache" icon="GirlFaces_mask_moustache_icon" silver="9600" rating="96">
+                                <altParents> <girlFunmask/> </altParents>
+                            </item>
+                        <item id="girlFacesmaskbear" label="#Facesmaskmoustache_label" name="Faces_mask_bear" icon="GirlFaces_mask_bear_icon" gold="18" rating="50">
+                                <altParents> <girlFunmask/> </altParents>
+                            </item>
+                            <item id="girlFacesmasktongue" label="#Facesmaskmoustache_label" name="Faces_mask_tongue" icon="GirlFaces_mask_tongue_icon" gold="18" rating="50">
+                                <altParents> <girlFunmask/> </altParents>
+                            </item>
+
+                        </category>
+
+                        <category id="girlBags" label="girlBags_label" visible="false" logCategory2="gBouquets">
+
+                            <category id="girlHandbags" label="girlHandbags_label" visible="false" logCategory2="gBouquets">
+
+                                <category id="girlLeftHandbags" label="girlLeftHandbags_label" visible="false" logCategory2="gBouquets">
+
+                                </category>
+
+                                <category id="girlRightHandbags" label="girlRightHandbags_label" visible="false" logCategory2="gBouquets"> 
+
+                                </category>
+
+                            </category>
+
+                            <category id="girlBodyBags" label="girlBodyBags_label" visible="false" logCategory2="gBelts">
+
+                            <item id="girlAcsBagGr" label="#girlAcsBagGrLabel" name="Acs_bag_gr" icon="GirlAcsBagGrIcon" subType="cloak" silver="5920" gold="0" rating="59" >
+                                    <altParents> <girlWinterbag/> </altParents>
+                                </item>
+                                <item id="girlAcsLeatherBagBl" label="#girlAcsLeatherBagBlLabel" name="Acs_bag_bl2" icon="GirlAcsLeatherBagBlIcon" subType="cloak" silver="0" gold="32" rating="89" >
+                                    <altParents> <girlWinterbag/> </altParents>
+                                </item>
+
+                            </category>
+
+                            <category id="girlBackpacks" label="girlBackpacks_label" visible="false" logCategory2="gOther">
+
+                            <item id="girlOther_lavaset_backpack" label="#girlOther_lavaset_backpack_label" name="Other_lavaset_backpack" icon="GirlOther_lavaset_backpack_icon" gold="160" rating="444" canBuy="0"/>
+
+                            </category>
+
+                        </category>
+
+                        <category id="girlNeckItems" label="girlNeckItems_label" visible="false" logCategory2="gNecklaces">
+
+                        </category>
+
+                        <category id="girlHandItems" label="girlHandItems_label" visible="false" logCategory2="bBouquets">
+
+                            <category id="girlLeftHandItems" label="girlLeftHandItems_label" visible="false" logCategory2="bBouquets">
+
+                            </category>
+
+                            <category id="girlRightHandItems" label="girlRightHandItems_label" visible="false" logCategory2="bBouquets">
+
+                            <item id="girlBsktGrdnr" label="#girlBsktGrdnr" name="BasketProfessionsGardener" icon="GirlBasketProfessionsGardenerIcon" silver="2500" rating="25">
+                                </item>
+
+                            </category>
+
+                            <category id="girlBothHandItems" label="girlBothHandItems_label" visible="false" logCategory2="bBouquets">
+
+                            </category>
+
+                        </category>
+
+                        <category id="girlHeadphones" label="girlHeadphones_label" visible="false" logCategory2="bNecklaces">
+
+                            <category id="girlHeadphonesHead" label="girlHeadphonesHead_label" visible="false" logCategory2="bNecklaces">
+
+                            </category>
+
+                            <category id="girlHeadphonesNeck" label="girlHeadphonesNeck_label" visible="false" logCategory2="gNecklaces">
+
+                            <item id="GirlHdphn_meloman" label="#GirlHdphn_meloman_label" name="Hdphn_meloman" icon="GirlHdphn_meloman_icon" gold="120" rating="333" canBuy="0" >
+                                    <altParents> <girlVibe/> </altParents>
+                                </item>
+
+                            </category>
+
+                        </category>
+
+                        <category id="girlLegItems" label="girlLegItems_label" visible="false" logCategory2="gOther">
+
+
+                        </category>
+
+                        <category id="girlBackItems" label="girlBackItems_label" visible="false" logCategory2="bNecklaces">
+
+                        </category>
+
+                        <category id="girlLifebuoy" label="#girlOtherCategory" visible="true" disabled="true" logCategory2="gOther">
+
+
+                        </category>
+
+                        <category id="girlOther" label="#girlOtherCategory" visible="true" disabled="true" logCategory2="gOther">
+
+
+                        </category>
+
+                    </category>
+                    
+                    <category id="girlTattoos" label="girlTattoos_label" visible="false" logCategory2="gTattoos">
+
+                        <category id="girlTattoosForearm" label="girlTattoosForearm_label" visible="false" logCategory2="gTattoos">
+
+                        </category>
+
+                        <category id="girlTattoosArm" label="girlTattoos_label" visible="false" logCategory2="gTattoos">
+
+
+                        </category>
+
+                        <category id="girlTattoosShoulder" label="girlTattoosShoulder_label" visible="false" logCategory2="gTattoos">
+
+                        </category>
+
+                        <category id="girlTattoosHip" label="girlTattoosHip_label" visible="false" logCategory2="gTattoos">
+
+                        </category>
+
+                        <category id="girlTattoosFace" label="girlTattoosFace_label" visible="false" logCategory2="gTattoos">
+
+                        </category>
+
+                    </category>
+
+            </category>
+
+            <category id="girlSwimsuit" label="#clothesCategorySwimsuits" logCategory1="girlSwimsuitClothes" logCategory2="gSwimsuit">
+
+            <item id="girlSwimsuit4" label="#girlSwimsuitBeachMagentaShiny" name="SwimsuitBeachMagentaShiny" icon="GirlSwimsuitBeachMagentaShinyIcon" gold="0" silver="1400" rating="14" />
+            <item id="girlSwimsuit5" label="#girlSwimsuitBeachBlue" name="SwimsuitBeachBlue" icon="GirlSwimsuitBeachBlueIcon" silver="980" rating="9" />
+            <item id="girlSwimsuit6" label="#girlSwimsuitBeachBlack" name="SwimsuitBeachBlack" icon="GirlSwimsuitBeachBlackIcon" gold="19" silver="0" rating="38"/>
+            
+            
+            <item id="girlSwimsuit7" label="#girlSwimsuitBeachBlack" name="SwimsuitBeachBlack" icon="GirlSwimsuitBeachBlackIcon" gold="19" silver="0" rating="38" fight="true" protection="1" attack="3" tier="1"/>
+            <item id="girlSwimsuit8" label="#girlSwimsuitBeachBlack" name="SwimsuitBeachBlack" icon="GirlSwimsuitBeachBlackIcon" gold="19" silver="0" rating="38" fight="true" protection="0" attack="3" tier="5"/>
+            <item id="girlSwimsuit9" label="#girlSwimsuitBeachBlack" name="SwimsuitBeachBlack" icon="GirlSwimsuitBeachBlackIcon" gold="19" silver="0" rating="38" fight="true" protection="3" attack="0" tier="7"/>
+
+            </category>
+
+            <category id="girlUnder" label="#clothesCategoryUndergarmentsBasics" logCategory1="girlUnderClothes">
+
+                <category id="girlUnderdress" label="#avatarClothesCategory9" visible="false" logCategory2="gUnderdress">
+
+                    <item id="girlUnderdress1" label="#girlDefaultUnderdress" name="UnderdressTop" canBuy="0" />
+                    <item id="girlUnderdress2" label="#girlDefaultUnderdress" name="UnderdressDown" canBuy="0" />
+                </category>
+               
+                <category id="girlUndergarmentsBasics" label="#clothesCategoryUndergarmentsBasics" logCategory2="gUndergarments">
+
+                    <category id="girlUndergarmentsBasics1" label="#clothesCategoryUndergarments" logCategory2="gUndergarments">
+
+                    <item id="girlUnd1" label="#girlUnderwearSleep" name="UnderwearSleepBlack" icon="GirlUnderwearSleepBlackIcon" gold="8" rating="14"/>
+                    <item id="girlUnd4" label="#girlUnderwearSleep" name="UnderwearSleepPinkBlack" icon="GirlUnderwearSleepPinkBlackIcon" silver="950" rating="9" />
+                    <item id="girlUnd5" label="#girlUnderwearSleep" name="UnderwearSleepPinkWhite" icon="GirlUnderwearSleepPinkWhiteIcon" silver="900" rating="9" />
+
+                    </category>
+
+                    <category id="girlUndergarmentsLingerie" label="#clothesCategoryUndergarmentsLingerie" logCategory2="gLingeries">
+
+
+                    </category>
+
+                </category>
+
+            </category>
+
+        </category>
+
+    </category>
+
+</config>

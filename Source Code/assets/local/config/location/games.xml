@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+
+<config>
+
+    <game id="snowbattle" zoneId="snowbattle">
+        <icon name="SnowbattleGameIcon" title="" width="580"/>
+    </game>
+
+</config>

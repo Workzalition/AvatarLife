@@ -1,0 +1,1646 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+
+<config>
+    
+    <boy>
+    
+        <!-- SKIN -->
+    
+        <category id="0" label="#avatarApearanceCategory0">
+        
+	        <item kind="1" />
+	        <item kind="2" />
+	        <item kind="3" />
+	        <item kind="4" />
+	        <item kind="5" />
+	        
+        </category>
+        
+        <!-- EYES -->
+        
+        <category id="1" label="#avatarApearanceCategory1">
+        
+            <item kind="1" silver="180" >
+                <shops>
+                    <shop id="default" />
+                </shops>
+            </item>
+            <item kind="2" silver="135" >
+                <shops>
+                    <shop id="default" />
+                </shops>
+            </item>
+            <item kind="3" silver="150" >
+                <shops>
+                    <shop id="default" />
+                </shops>
+            </item>
+            <item kind="4" silver="120" >
+                <shops>
+                    <shop id="default" />
+                </shops>
+            </item>
+            <item kind="5" silver="140" >
+                <shops>
+                    <shop id="default" />
+                </shops>
+            </item>
+            <item kind="6" silver="100" >
+                <shops>
+                    <shop id="default" />
+                </shops>
+            </item>
+            
+            <!-- salonOnly -->
+           
+            <item kind="7" silver="270" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="8" gold="3" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="9" silver="200" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="10" gold="3" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="11" silver="420" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="12" gold="1" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            
+        </category>
+        
+        <!-- BROWS -->
+        
+        <category id="2" label="#avatarApearanceCategory2">
+        
+            <item kind="1" silver="50" >
+                <shops>
+                    <shop id="default" />
+                </shops>
+            </item>
+            <item kind="2" silver="65" >
+                <shops>
+                    <shop id="default" />
+                </shops>
+            </item>
+            <item kind="3" silver="55" >
+                <shops>
+                    <shop id="default" />
+                </shops>
+            </item>
+            <item kind="4" silver="95" >
+                <shops>
+                    <shop id="default" />
+                </shops>
+            </item>
+            <item kind="5" silver="105" >
+                <shops>
+                    <shop id="default" />
+                </shops>
+            </item>
+            <item kind="6" silver="45" >
+                <shops>
+                    <shop id="default" />
+                </shops>
+            </item>
+            
+            <!-- salonOnly -->
+         
+            <item kind="7" gold="1" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="8" silver="250" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="9" gold="2" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="10" silver="320" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="11" gold="2" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="12" silver="280" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+        
+        </category>
+        
+        <!-- MOUTH -->
+        
+        <category id="3" label="#avatarApearanceCategory3">
+        
+            <item kind="1" silver="70" >
+                <shops>
+                    <shop id="default" />
+                </shops>
+            </item>
+            <item kind="2" silver="65" >
+                <shops>
+                    <shop id="default" />
+                </shops>
+            </item>
+            <item kind="3" silver="100" >
+                <shops>
+                    <shop id="default" />
+                </shops>
+            </item>
+            <item kind="4" silver="80" >
+                <shops>
+                    <shop id="default" />
+                </shops>
+            </item>
+            <item kind="5" silver="60" >
+                <shops>
+                    <shop id="default" />
+                </shops>
+            </item>
+            <item kind="6" silver="115" >
+                <shops>
+                    <shop id="default" />
+                </shops>
+            </item>
+            
+            <!-- salonOnly -->
+    
+            <item kind="7" silver="430" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="8" silver="320" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="9" gold="1" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="10" silver="260" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="11" gold="3" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="12" gold="1" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+        
+        </category>
+        
+        <!-- HAIR -->
+        
+        <category id="4" label="#avatarApearanceCategory4">
+        
+            <item kind="1" silver="350" >
+                <shops>
+                    <shop id="default" />
+                </shops>
+            </item>
+            <item kind="2" silver="220" >
+                <shops>
+                    <shop id="default" />
+                </shops>
+            </item>
+            <item kind="3" silver="235" >
+                <shops>
+                    <shop id="default" />
+                </shops>
+            </item>
+            <item kind="4" silver="380" >
+                <shops>
+                    <shop id="default" />
+                </shops>
+            </item>
+            <item kind="5" silver="265" >
+                <shops>
+                    <shop id="default" />
+                </shops>
+            </item>
+            <item kind="6" silver="275" >
+                <shops>
+                    <shop id="default" />
+                </shops>
+            </item>
+            <item kind="7" silver="410" >
+                <shops>
+                    <shop id="default" />
+                </shops>
+            </item>
+            <item kind="8" silver="390" >
+                <shops>
+                    <shop id="default" />
+                </shops>
+            </item>
+            <item kind="9" silver="245" >
+                <shops>
+                    <shop id="default" />
+                </shops>
+            </item>
+            <item kind="10" silver="350" >
+                <shops>
+                    <shop id="default" />
+                </shops>
+            </item>
+            <item kind="11" silver="220" >
+                <shops>
+                    <shop id="default" />
+                </shops>
+            </item>
+            <item kind="12" silver="210" >
+                <shops>
+                    <shop id="default" />
+                </shops>
+            </item>
+            <item kind="13" silver="225" >
+                <shops>
+                    <shop id="default" />
+                </shops>
+            </item>
+            <item kind="14" silver="365" >
+                <shops>
+                    <shop id="default" />
+                </shops>
+            </item>
+            
+            <!-- salonOnly -->
+            
+            <item kind="15" gold="3" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="16" silver="675" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="17" silver="580" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="18" gold="10" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="19" gold="20" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="20" gold="3" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="21" silver="790" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="22" gold="3" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="23" gold="3" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="24" gold="2" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="25" silver="540" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="26" silver="835" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="27" silver="720" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="28" silver="815" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="29" silver="1450" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="30" gold="3" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="31" gold="4" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="32" gold="6" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="33" silver="900" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="34" gold="12" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="35" silver="1650" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="36" gold="4" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="37" gold="3" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="38" gold="11" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="39" gold="7" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="40" gold="24" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="41" gold="21" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="42" gold="22" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>     
+            <item kind="43" gold="15" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="44" gold="9" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <!-- NEW -->
+            <item kind="45" gold="19" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="46" gold="24" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="47" gold="15" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="48" gold="22" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="49" gold="25" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="50" silver="7500" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="51" gold="18" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="52" gold="19" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <!-- NEW AUGUST 2019-->
+            <item kind="53" gold="19" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="54" gold="24" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="55" gold="27" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+
+        </category>
+        
+        <!-- BEARD -->
+        
+        <category id="5" label="#avatarApearanceCategory5">
+        
+            <item kind="0" />
+            <item kind="1" silver="160" />
+            <item kind="2" silver="95" />
+            <item kind="3" silver="125" />
+            <item kind="4" silver="80" />
+            <item kind="5" silver="75" />
+            <item kind="6" silver="65" />
+            <item kind="7" silver="60" />
+            
+            <!-- salonOnly -->
+            
+            <item kind="8" gold="4" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="9" gold="3" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="10" gold="6" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="11" gold="15" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="12" gold="12" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item> 
+            <!-- NEW -->
+            <!-- <item kind="13" gold="14" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="14" gold="17" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item> -->
+            
+        </category>
+        
+    </boy>    
+    
+    <girl>
+    
+        <!-- SKIN -->
+    
+        <category id="0" label="#avatarApearanceCategory0">
+        
+	        <item kind="1" />
+	        <item kind="2" />
+	        <item kind="3" />
+	        <item kind="4" />
+	        <item kind="5" />
+	        
+        </category>
+        
+        <!-- EYES -->
+        
+        <category id="1" label="#avatarApearanceCategory1">
+        
+            <item kind="1" silver="180" >
+                <shops>
+                    <shop id="default" />
+                </shops>
+            </item>
+            <item kind="2" silver="185" >
+                <shops>
+                    <shop id="default" />
+                </shops>
+            </item>
+            <item kind="3" silver="190" >
+                <shops>
+                    <shop id="default" />
+                </shops>
+            </item>
+            <item kind="4" silver="165" >
+                <shops>
+                    <shop id="default" />
+                </shops>
+            </item>
+            <item kind="5" silver="170" >
+                <shops>
+                    <shop id="default" />
+                </shops>
+            </item>
+            <item kind="6" silver="160" >
+                <shops>
+                    <shop id="default" />
+                </shops>
+            </item>
+            <item kind="7" silver="165" >
+                <shops>
+                    <shop id="default" />
+                </shops>
+            </item>
+            <item kind="8" silver="180" >
+                <shops>
+                    <shop id="default" />
+                </shops>
+            </item>
+            
+            <!-- salonOnly -->
+          
+            <item kind="9" gold="5" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="10" silver="435" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="11" silver="470" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="12" silver="540" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="13" gold="3" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="14" gold="3" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="15" gold="3" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="16" silver="485" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="17" gold="5" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="18" silver="495" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="19" gold="3" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="20" silver="515" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="21" gold="4" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="22" gold="5" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="23" silver="500" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="24" gold="5" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="25" silver="820" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="26" silver="880" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="27" gold="4" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="28" gold="3" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            
+        </category>
+        
+        <!-- BROWS -->
+        
+        <category id="2" label="#avatarApearanceCategory2">
+        
+            <item kind="1" silver="55" >
+                <shops>
+                    <shop id="default" />
+                </shops>
+            </item>
+            <item kind="2" silver="80" >
+                <shops>
+                    <shop id="default" />
+                </shops>
+            </item>
+            <item kind="3" silver="50" >
+                <shops>
+                    <shop id="default" />
+                </shops>
+            </item>
+            <item kind="4" silver="95" >
+                <shops>
+                    <shop id="default" />
+                </shops>
+            </item>
+            <item kind="5" silver="45" >
+                <shops>
+                    <shop id="default" />
+                </shops>
+            </item>
+            <item kind="6" silver="90" >
+                <shops>
+                    <shop id="default" />
+                </shops>
+            </item>
+            <item kind="7" silver="65" >
+                <shops>
+                    <shop id="default" />
+                </shops>
+            </item>
+            
+            <!-- salonOnly -->
+      
+            <item kind="8" silver="350" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="9" gold="3" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="10" silver="405" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="11" silver="410" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="12" gold="5" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="13" silver="380" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="14" gold="1" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="15" gold="2" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="16" gold="4" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="17" gold="4" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="18" silver="410" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="19" silver="500" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="20" silver="370" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="21" silver="425" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            
+        </category>
+        
+        <!-- MOUTH -->
+        
+        <category id="3" label="#avatarApearanceCategory3">
+        
+            <item kind="1" silver="115" >
+                <shops>
+                    <shop id="default" />
+                </shops>
+            </item>
+            <item kind="2" silver="130" >
+                <shops>
+                    <shop id="default" />
+                </shops>
+            </item>
+            <item kind="3" silver="95" >
+                <shops>
+                    <shop id="default" />
+                </shops>
+            </item>
+            <item kind="4" silver="90" >
+                <shops>
+                    <shop id="default" />
+                </shops>
+            </item>
+            <item kind="5" silver="100" >
+                <shops>
+                    <shop id="default" />
+                </shops>
+            </item>
+            <item kind="6" silver="95" >
+                <shops>
+                    <shop id="default" />
+                </shops>
+            </item>
+            <item kind="7" silver="80" >
+                <shops>
+                    <shop id="default" />
+                </shops>
+            </item>
+            
+            <!-- salonOnly -->
+
+            <item kind="8" silver="420" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="9" silver="485" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="10" silver="550" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="11" gold="3" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="12" silver="495" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="13" gold="3" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="14" gold="5" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="15" silver="680" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="16" gold="3" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="17" silver="735" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="18" silver="720" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="19" gold="3" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="20" gold="3" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="21" gold="4" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            
+        </category>
+        
+        <!-- HAIR -->
+        
+        <category id="4" label="#avatarApearanceCategory4">
+        
+            <item kind="1" silver="320" >
+                <shops>
+                    <shop id="default" />
+                </shops>
+            </item>
+            <item kind="2" silver="350" >
+                <shops>
+                    <shop id="default" />
+                </shops>
+            </item>
+            <item kind="3" silver="330" >
+                <shops>
+                    <shop id="default" />
+                </shops>
+            </item>
+            <item kind="4" silver="365" >
+                <shops>
+                    <shop id="default" />
+                </shops>
+            </item>
+            <item kind="5" silver="315" >
+                <shops>
+                    <shop id="default" />
+                </shops>
+            </item>
+            <item kind="6" silver="325" >
+                <shops>
+                    <shop id="default" />
+                </shops>
+            </item>
+            <item kind="7" silver="295" >
+                <shops>
+                    <shop id="default" />
+                </shops>
+            </item>
+            <item kind="8" silver="300" >
+                <shops>
+                    <shop id="default" />
+                </shops>
+            </item>
+            <item kind="9" silver="320" >
+                <shops>
+                    <shop id="default" />
+                </shops>
+            </item>
+            <item kind="10" silver="360" >
+                <shops>
+                    <shop id="default" />
+                </shops>
+            </item>
+            <item kind="11" silver="385" >
+                <shops>
+                    <shop id="default" />
+                </shops>
+            </item>
+            <item kind="12" silver="330" >
+                <shops>
+                    <shop id="default" />
+                </shops>
+            </item>
+            <item kind="13" silver="320" >
+                <shops>
+                    <shop id="default" />
+                </shops>
+            </item>
+            <item kind="14" silver="290" >
+                <shops>
+                    <shop id="default" />
+                </shops>
+            </item>
+            <item kind="15" silver="300" >
+                <shops>
+                    <shop id="default" />
+                </shops>
+            </item>
+            <item kind="16" silver="310" >
+                <shops>
+                    <shop id="default" />
+                </shops>
+            </item>
+            <item kind="17" silver="375" >
+                <shops>
+                    <shop id="default" />
+                </shops>
+            </item>
+            
+            <!-- salonOnly -->
+         
+            <item kind="18" gold="5" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="19" gold="6" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="20" gold="6" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="21" silver="800" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="22" gold="4" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="23" silver="760" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="24" silver="920" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="25" gold="6" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="26" gold="4" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="27" gold="5" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="28" gold="5" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="29" silver="785" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="30" gold="6" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="31" silver="690" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="32" silver="770" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="33" silver="865" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="34" gold="5" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="35" gold="4" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="36" gold="4" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="37" gold="5" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="38" silver="940" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="39" silver="650" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="40" gold="3" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="41" silver="1000" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="42" gold="3" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="43" gold="3" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="44" gold="4" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="45" silver="950" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="46" gold="25" >
+                <shops>
+                    <shop id="wedding" />
+                </shops>
+            </item>
+            <item kind="47" gold="20" >
+                <shops>
+                    <shop id="wedding" />
+                </shops>
+            </item>
+            <item kind="48" silver="6000" >
+                <shops>
+                    <shop id="wedding" />
+                </shops>
+            </item>
+            <item kind="49" silver="7800" >
+                <shops>
+                    <shop id="wedding" />
+                </shops>
+            </item>
+            <item kind="50" silver="7500" >
+                <shops>
+                    <shop id="wedding" />
+                </shops>
+            </item>
+            <item kind="51" gold="16" >
+                <shops>
+                    <shop id="wedding" />
+                </shops>
+            </item>
+            <item kind="52" gold="14" >
+                <shops>
+                    <shop id="wedding" />
+                </shops>
+            </item>
+            <item kind="53" gold="35" >
+                <shops>
+                    <shop id="wedding" />
+                </shops>
+            </item>
+            <item kind="54" gold="11" >
+                <shops>
+                    <shop id="wedding" />
+                </shops>
+            </item>
+            <item kind="55" gold="50" >
+                <shops>
+                    <shop id="wedding" />
+                </shops>
+            </item>
+            <item kind="56" gold="22" >
+                <shops>
+                    <shop id="wedding" />
+                </shops>
+            </item>
+            <item kind="57" silver="8350" >
+                <shops>
+                    <shop id="wedding" />
+                </shops>
+            </item>
+            <item kind="58" silver="4950" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="59" gold="10" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="60" gold="7" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="61" gold="5" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="62" silver="2200" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="63" gold="8" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="64" gold="9" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="65" gold="16" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="66" gold="12" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="67" gold="15" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="68" gold="16" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="69" gold="10" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="70" gold="12" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="71" gold="10" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="72" gold="11" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="73" gold="15" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="74" gold="12" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="75" gold="8" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="76" silver="2850" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="77" gold="7" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="78" silver="2700" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="79" gold="17" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="80" gold="14" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="81" gold="6" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="82" gold="19" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="83" gold="15" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="84" gold="23" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="85" gold="35" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>          
+            <!-- NEW -->
+            <item kind="86" silver="9000" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="87" gold="28" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="88" gold="36" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="89" gold="17" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="90" gold="26" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="91" gold="22" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="92" gold="20" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="93" gold="15" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="94" gold="17" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="95" gold="19" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="96" gold="9" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="97" gold="13" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="98" gold="15" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="99" gold="17" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="100" gold="11" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item> 
+            <!-- NEW AUGUST 2019-->
+            <item kind="101" gold="30" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="102" gold="25" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="103" gold="40" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item> 
+
+        </category>
+        
+        <!-- SHADOW -->
+  
+        <category id="6" label="#avatarApearanceCategory6">
+        
+            <item kind="0" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="1" gold="2" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="2" silver="440" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="3" gold="5" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="4" gold="3" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="5" gold="3" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="6" gold="4" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="7" silver="465" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            
+        </category>
+        
+        <!-- ROUGE -->
+        
+        <category id="7" label="#avatarApearanceCategory7">
+        
+            <item kind="0" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="1" gold="3" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="2" silver="500" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="3" gold="2" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            
+        </category>
+        
+        <!-- STRASS -->
+        
+        <category id="8" label="#avatarApearanceCategory8">
+        
+            <item kind="0" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="1" gold="3" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="2" gold="4" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="3" gold="2" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="4" gold="5" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="5" silver="980" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="6" silver="995" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="7" silver="750" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="8" gold="3" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="9" gold="3" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="10" gold="5" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="11" gold="5" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="12" gold="3" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            <item kind="13" gold="3" >
+                <shops>
+                    <shop id="salon" />
+                </shops>
+            </item>
+            
+        </category>
+      
+    </girl>
+    
+</config>

@@ -1,0 +1,308 @@
+<DailyLists>
+    <DailyRewardList id="1" next_list_id="2" initial="true">
+      <DailyPacks>
+          <Pack id="1" icon="igui/bank_dialog/Ready/items_icons/ico_silver_0.png">
+              <Rewards>
+                   <Reward category="currency" type="silver" count="10000"/>
+              </Rewards>
+          </Pack>
+          <Pack id="2">
+              <Rewards>
+                   <Reward category="energyItem" type="craftedApplePie" count="1"/>
+              </Rewards>
+          </Pack>
+          <Pack id="3" featured="true">
+              <Rewards>
+                   <Reward category="clothes" type="boyHats_marafon1" count="1"/>
+                   <Reward category="clothes" type="girlHat_marafon1" count="1"/>
+              </Rewards>
+          </Pack>
+          <Pack id="4" icon="igui/daily_gift/marafon_day04_preview.png" description="message2items" showInfo="0">
+              <Rewards>
+                   <Reward category="furinture" type="craftedBLb_carpet_r" count="1"/>
+                   <Reward category="furinture" type="craftedBLb_door" count="1"/>
+              </Rewards>
+          </Pack>
+          <Pack id="5">
+              <Rewards>
+                   <Reward category="graffity" type="wllgrfft3" count="2"/>
+              </Rewards>
+          </Pack>
+          <Pack id="6" icon="igui/daily_gift/marafon_day06_preview.png" description="message4items" showInfo="0">
+              <Rewards>
+                   <Reward category="furinture" type="craftedBLb_cup_w" count="2"/>
+                   <Reward category="furinture" type="craftedBLb_poster_B" count="1"/>
+                   <Reward category="furinture" type="craftedBLb_writ_table" count="1"/>
+              </Rewards>
+          </Pack>
+          <Pack id="7" icon="igui/bank_dialog/Ready/items_icons/ico_gold_1.png" featured="true">
+              <Rewards>
+                   <Reward category="currency" type="gold" count="50"/>
+              </Rewards>
+          </Pack>
+          <Pack id="8" icon="igui/bank_dialog/Ready/items_icons/ico_silver_0.png">
+              <Rewards>
+                   <Reward category="currency" type="silver" count="15000"/>
+              </Rewards>
+          </Pack>
+          <Pack id="9">
+              <Rewards>
+                   <Reward category="energyItem" type="craftedGreenTea" count="3"/>
+              </Rewards>
+          </Pack>
+          <Pack id="10" icon="igui/daily_gift/marafon_day10_preview.png" description="message4items" featured="true" showInfo="0">
+              <Rewards>
+                   <Reward category="furinture" type="craftedBLb_shelf_wall" count="1"/>
+                   <Reward category="furinture" type="craftedBLb_dinner_table" count="1"/>
+                   <Reward category="furinture" type="craftedBLb_dinner_chair" count="2"/>
+              </Rewards>
+          </Pack>
+          <Pack id="11">
+              <Rewards>
+                   <Reward category="joke" type="chairBomb" count="3"/>
+              </Rewards>
+          </Pack>
+          <Pack id="12">
+              <Rewards>
+                   <Reward category="clothes" type="boyShirt_marafon1" count="1"/>
+                   <Reward category="clothes" type="girlShirt_marafon1" count="1"/>
+              </Rewards>
+          </Pack>
+          <Pack id="13" icon="igui/bank_dialog/Ready/items_icons/ico_silver_1.png">
+              <Rewards>
+                   <Reward category="currency" type="silver" count="20000"/>
+              </Rewards>
+          </Pack>
+          <Pack id="14" icon="igui/bank_dialog/Ready/items_icons/ico_gold_1.png" featured="true">
+              <Rewards>
+                   <Reward category="currency" type="gold" count="50"/>
+              </Rewards>
+          </Pack>
+          <Pack id="15">
+              <Rewards>
+                   <Reward category="joke" type="applianceBat" count="2"/>
+              </Rewards>
+          </Pack>
+          <Pack id="16">
+              <Rewards>
+                   <Reward category="energyItem" type="craftedSandwich" count="4"/>
+              </Rewards>
+          </Pack>
+          <Pack id="17">
+              <Rewards>
+                   <Reward category="clothes" type="boyShoes_marafon1" count="1"/>
+                   <Reward category="clothes" type="girlShoes_marafon1" count="1"/>
+              </Rewards>
+          </Pack>
+          <Pack id="18" icon="igui/daily_gift/marafon_day18_preview.png" description="message4items" featured="true" showInfo="0">
+              <Rewards>
+                   <Reward category="furinture" type="craftedBLb_wall" count="1"/>
+                   <Reward category="furinture" type="craftedBLb_floor" count="1"/>
+                   <Reward category="furinture" type="craftedBLb_lamp_floor" count="2"/>
+              </Rewards>
+          </Pack>
+          <Pack id="19">
+              <Rewards>
+                   <Reward category="energyItem" type="craftedApplePie" count="3"/>
+              </Rewards>
+          </Pack>
+          <Pack id="20" icon="igui/bank_dialog/Ready/items_icons/ico_gold_1.png">
+              <Rewards>
+                   <Reward category="currency" type="gold" count="30"/>
+              </Rewards>
+          </Pack>
+          <Pack id="21" featured="true">
+              <Rewards>
+                   <Reward category="clothes" type="boyPants_marafon1" count="1"/>
+                   <Reward category="clothes" type="girlSkirt_marafon1" count="1"/>
+              </Rewards>
+          </Pack>
+          <Pack id="22" icon="igui/bank_dialog/Ready/items_icons/ico_silver_2.png">
+              <Rewards>
+                   <Reward category="currency" type="silver" count="35000"/>
+              </Rewards>
+          </Pack>
+          <Pack id="23">
+              <Rewards>
+                   <Reward category="joke" type="scrdvr" count="3"/>
+              </Rewards>
+          </Pack>
+          <Pack id="24">
+              <Rewards>
+                   <Reward category="graffity" type="wllgrfft1" count="3"/>
+              </Rewards>
+          </Pack>
+          <Pack id="25" icon="igui/daily_gift/marafon_day25_preview.png" description="message3items" featured="true" showInfo="0">
+              <Rewards>
+                   <Reward category="furinture" type="craftedBLb_pottedtree" count="1"/>
+                   <Reward category="furinture" type="craftedBLb_plant_wall_3" count="1"/>
+                   <Reward category="furinture" type="craftedBLb_window" count="1"/>
+              </Rewards>
+          </Pack>
+          <Pack id="26">
+              <Rewards>
+                   <Reward category="energyItem" type="craftedBento" count="3"/>
+              </Rewards>
+          </Pack>
+          <Pack id="27" icon="igui/bank_dialog/Ready/items_icons/ico_gold_1.png">
+              <Rewards>
+                   <Reward category="currency" type="gold" count="50"/>
+              </Rewards>
+          </Pack>
+          <Pack id="28" featured="true">
+              <Rewards>
+                   <Reward category="clothes" type="boyWigs_marafon1" count="1"/>
+                   <Reward category="clothes" type="girlWigs_marafon1" count="1"/>
+              </Rewards>
+          </Pack>
+      </DailyPacks>
+    </DailyRewardList>
+
+
+
+
+    <DailyRewardList id="2" next_list_id="2">
+      <DailyPacks>
+          <Pack id="1" icon="igui/bank_dialog/Ready/items_icons/ico_silver_0.png">
+              <Rewards>
+                   <Reward category="currency" type="silver" count="12000"/>
+              </Rewards>
+          </Pack>
+          <Pack id="2">
+              <Rewards>
+                   <Reward category="energyItem" type="craftedSandwich" count="2"/>
+              </Rewards>
+          </Pack>
+          <Pack id="3" icon="igui/bank_dialog/Ready/items_icons/ico_gold_0.png" featured="true">
+              <Rewards>
+                   <Reward category="currency" type="gold" count="15"/>
+              </Rewards>
+          </Pack>
+          <Pack id="4" icon="igui/bank_dialog/Ready/items_icons/icon_avacoin_3.png">
+              <Rewards>
+                   <Reward category="currency" type="AvaCoin" count="222"/>
+              </Rewards>
+          </Pack>
+          <Pack id="5" icon="igui/bank_dialog/Ready/items_icons/ico_silver_0.png">
+              <Rewards>
+                   <Reward category="currency" type="silver" count="12000"/>
+              </Rewards>
+          </Pack>
+          <Pack id="6">
+              <Rewards>
+                   <Reward category="furinture" type="craftedBLb_poster_M" count="1"/>
+              </Rewards>
+          </Pack>
+          <Pack id="7" icon="igui/bank_dialog/Ready/items_icons/ico_gold_1.png" featured="true">
+              <Rewards>
+                   <Reward category="currency" type="gold" count="15"/>
+              </Rewards>
+          </Pack>
+          <Pack id="8">
+              <Rewards>
+                   <Reward category="joke" type="chairBomb" count="1"/>
+              </Rewards>
+          </Pack>
+          <Pack id="9">
+              <Rewards>
+                   <Reward category="furinture" type="craftedEnergyDrink" count="1"/>
+              </Rewards>
+          </Pack>
+          <Pack id="10" featured="true">
+              <Rewards>
+                   <Reward category="currency" type="silver" count="14000"/>
+              </Rewards>
+          </Pack>
+          <Pack id="11">
+              <Rewards>
+                   <Reward category="energyItem" type="craftedEnergyDrink" count="2"/>
+              </Rewards>
+          </Pack>
+          <Pack id="12" icon="igui/bank_dialog/Ready/items_icons/icon_avacoin_3.png">
+              <Rewards>
+                   <Reward category="currency" type="AvaCoin" count="444"/>
+              </Rewards>
+          </Pack>
+          <Pack id="13">
+              <Rewards>
+                   <Reward category="furinture" type="svd_craft_vase" count="1"/>
+              </Rewards>
+          </Pack>
+          <Pack id="14" icon="igui/bank_dialog/Ready/items_icons/ico_gold_1.png" featured="true">
+              <Rewards>
+                   <Reward category="currency" type="gold" count="20"/>
+              </Rewards>
+          </Pack>
+          <Pack id="15">
+              <Rewards>
+                   <Reward category="currency" type="silver" count="16000"/>
+              </Rewards>
+          </Pack>
+          <Pack id="16">
+              <Rewards>
+                   <Reward category="joke" type="applianceBat" count="1"/>
+              </Rewards>
+          </Pack>
+          <Pack id="17">
+              <Rewards>
+                   <Reward category="energyItem" type="craftedWater" count="6"/>
+              </Rewards>
+          </Pack>
+          <Pack id="18" icon="igui/bank_dialog/Ready/items_icons/ico_gold_1.png" featured="true">
+              <Rewards>
+                   <Reward category="currency" type="gold" count="20"/>
+              </Rewards>
+          </Pack>
+          <Pack id="19">
+              <Rewards>
+                   <Reward category="joke" type="chairBomb" count="1"/>
+              </Rewards>
+          </Pack>
+          <Pack id="20">
+              <Rewards>
+                   <Reward category="furinture" type="grdtnLB_deers_decor2" count="1"/>
+              </Rewards>
+          </Pack>
+          <Pack id="21" icon="igui/bank_dialog/Ready/items_icons/ico_gold_1.png" featured="true">
+              <Rewards>
+                   <Reward category="currency" type="gold" count="25"/>
+              </Rewards>
+          </Pack>
+          <Pack id="22">
+              <Rewards>
+                   <Reward category="currency" type="silver" count="16000"/>
+              </Rewards>
+          </Pack>
+          <Pack id="23">
+              <Rewards>
+                   <Reward category="furinture" type="craftedBLb_coffee_table" count="1"/>
+              </Rewards>
+          </Pack>
+          <Pack id="24">
+              <Rewards>
+                   <Reward category="joke" type="applianceBat" count="1"/>
+              </Rewards>
+          </Pack>
+          <Pack id="25" icon="igui/bank_dialog/Ready/items_icons/icon_avacoin_3.png" featured="true">
+              <Rewards>
+                   <Reward category="currency" type="AvaCoin" count="666"/>
+              </Rewards>
+          </Pack>
+          <Pack id="26">
+              <Rewards>
+                   <Reward category="energyItem" type="craftedBento" count="2"/>
+              </Rewards>
+          </Pack>
+          <Pack id="27">
+              <Rewards>
+                   <Reward category="currency" type="silver" count="20000"/>
+              </Rewards>
+          </Pack>
+          <Pack id="28" icon="igui/bank_dialog/Ready/items_icons/ico_gold_1.png" featured="true">
+              <Rewards>
+                   <Reward category="currency" type="gold" count="40"/>
+              </Rewards>
+          </Pack>
+      </DailyPacks>
+    </DailyRewardList>
+</DailyLists>

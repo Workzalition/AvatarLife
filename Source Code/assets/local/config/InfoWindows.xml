@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config id="info_window">
+	<delay>0</delay>
+	<event_id>New_Year_fifth</event_id>
+	<windows>
+
+		<!-- <window id="halloween_onStart" type="choice_url" show="4" showPoint="beforePlay" title="Обратная связь" hAlign="left" percentWidth="0.8">
+			<content text="Возникла проблема? Обращайся в нашу группу Вконтакте. \nВ сообществе публикуются самые актуальные новости мобильной Аватарии, а также проводятся конкурсы на золото! Поспеши!\n" url="https://vk.com/avatariamobile" urlTitle="Группа"/>
+		</window> -->
+
+		<window id="vip_gold" type="info" show="0" showPoint="noPoint" title="Info!" hAlign="left" percentWidth="0.65">
+			<content text="Info..." />
+		</window>
+		
+		<window id="New_Year_fifth" type="store_and_support" show="0" showPoint="noPoint" title="Новости Аватарии!" hAlign="left" percentWidth="0.70">
+			<content text="Покажи всем, как ты любишь Аватарию! 
+				\nУникальные футболки I love AVA, костюмы Волшебника и Волшебницы и новые украшения для дома ждут тебя.
+				\n
+				\nА ещё - не проспи скидку! Только сейчас костюмы Деда Мороза и Снегурочки, а также кигуруми можно купить с волшебной скидкой!\n"
+			supportUrl="https://vk.com/avatariamobile" supportTitle="Группа ВК" 
+			aStoreUrl="itms://itunes.apple.com/ru/app/id982229455?mt=8" gStoreUrl="market://details?id=com.xp101.ava_rus" storeTitle="Поддержать!" />
+		</window>
+	</windows>
+</config>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<config>
+	<weather id="snow" plist="particles/snow.plist" layers="3" duration="7" pause="3">
+		<!-- <location id="street" />
+		<location id="park" />
+		<location id="yard" /> -->
+	</weather>
+</config>

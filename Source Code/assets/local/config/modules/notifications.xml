@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<config>
+	<notification id="incomplete_tutorial" group="1" enabled="1" timeout="15" title="incompleteTutorialTitle" text="incompleteTutorialText" />
+
+	<notification id="visit_reminder_1" group="2" enabled="1" timeout="1440" title="visitReminder1Title" text="visitReminder1Text" />
+	<notification id="visit_reminder_2" group="3" enabled="1" timeout="4320" title="visitReminder2Title" text="visitReminder2Text" />
+	<notification id="visit_reminder_3" group="4" enabled="1" timeout="10080" title="visitReminder3Title" text="visitReminder3Text" />
+
+	<notification id="work_garden" group="5" enabled="1" timeout="0" title="notificationGardenTitle" text="notificationGardenText" />
+	<notification id="work_garbage" group="6" enabled="1" timeout="0" title="notificationGarbageTitle" text="notificationGarbageText" />
+	<notification id="work_npcHouse" group="7" enabled="1" timeout="0" title="notificationNPCHouseTitle" text="notificationNPCHouseText" />
+	<notification id="work_nyJob" group="8" enabled="1" timeout="0" title="notificationEventJobTitle" text="notificationEventJobText" />
+
+	<!-- <notification id="offer" group="9" timeout="-30" title="OFFER_TITLE_EMPTY" text="OFFER_TEXT_EMPTY" /> -->
+	<!--<notification id="offer_1" group="10" timeout="-30" title="OFFER_TITLE_EMPTY" text="OFFER_TEXT_EMPTY" />-->
+
+	<notification id="chest_timeout" group="11" enabled="1" timeout="0" title="notificationChestTimeoutTitle" text="notificationChestTimeoutText" />
+</config>

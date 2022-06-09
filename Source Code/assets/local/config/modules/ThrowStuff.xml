@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<config>
+
+	<cfg loc="club" actionType="dance" btn="igui/action_menu/pdnc_menu.png"/>
+	<!-- HEARTS-->
+	<!-- <cfg loc="cafe" btn="igui/action_menu/ht_menu.png" actionType="dance"/>
+	<cfg loc="street" room="" btn="igui/action_menu/ht_menu.png" actionType="throw" obj="igui/action_menu/ht_obj.png" trail="particles/heartTrail.plist" impact="particles/heartImpact.plist" rotate="180"/>
+	<cfg loc="publicBeach" room="" btn="igui/action_menu/ht_menu.png" obj="igui/action_menu/ht_obj.png" trail="particles/heartTrail.plist" impact="particles/heartImpact.plist" rotate="180"/>
+	<cfg loc="club" room="" btn="igui/action_menu/ht_menu.png" actionType="dance"/>
+	<cfg loc="vip" room="" btn="igui/action_menu/ht_menu.png" obj="igui/action_menu/ht_obj.png" trail="particles/heartTrail.plist" impact="particles/heartImpact.plist" rotate="180"/>
+	<cfg loc="nyCastle" room="" btn="igui/action_menu/ht_menu.png" obj="igui/action_menu/ht_obj.png" trail="particles/heartTrail.plist" impact="particles/heartImpact.plist" rotate="180"/>
+	<cfg loc="salon" room="" btn="igui/action_menu/ht_menu.png" obj="igui/action_menu/ht_obj.png" trail="particles/heartTrail.plist" impact="particles/heartImpact.plist" rotate="180"/>
+	<cfg loc="park" room="" btn="igui/action_menu/ht_menu.png" obj="igui/action_menu/ht_obj.png" trail="particles/heartTrail.plist" impact="particles/heartImpact.plist" rotate="180"/>
+	<cfg loc="yard" room="" btn="igui/action_menu/ht_menu.png" obj="igui/action_menu/ht_obj.png" trail="particles/heartTrail.plist" impact="particles/heartImpact.plist" rotate="180"/> -->
+
+	<!-- SNOWBALLS -->
+	<!-- <cfg loc="street" room="" btn="igui/action_menu/sb_menu.png" obj="igui/action_menu/sb_obj.png" trail="particles/snowTrail.plist" impact="particles/snowImpact.plist"/>
+	<cfg loc="park" room="" btn="igui/action_menu/sb_menu.png" obj="igui/action_menu/sb_obj.png" trail="particles/snowTrail.plist" impact="particles/snowImpact.plist"/>
+	<cfg loc="yard" room="" btn="igui/action_menu/sb_menu.png" obj="igui/action_menu/sb_obj.png" trail="particles/snowTrail.plist" impact="particles/snowImpact.plist"/> -->
+</config>

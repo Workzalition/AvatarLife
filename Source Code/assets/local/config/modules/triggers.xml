@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<triggers>
+	<trigger action="RateUs" delay="2">
+		<condition type="sequence">
+			<condition type="levelReached" level="3"/>
+			<condition type="any">
+				<condition type="event" name="ActorAction_StandKiss"/>
+				<condition type="event" name="ActorAction_Dance"/>
+				<condition type="event" name="ActorAction_Hug"/>
+				<condition type="event" name="SocialAction_addToAssociates"/>
+				<condition type="event" name="GIFT_ACCEPTED"/>
+				<condition type="event" name="CAFE_ORDER_ME"/>
+				<condition type="event" name="CAFE_ORDER_OTHER"/>
+				<condition type="event" name="SalonBeauty_SaveAppearance"/>
+				<condition type="event" name="JOKE_USED"/>
+				<condition type="event" name="FIGHT_RESULT_DIALOG_CLOSED"/>
+				<condition type="event" name="EVENT_CREATED"/>
+			</condition>
+		</condition>
+	</trigger>
+	<!-- <trigger action="ShowOffer" delay="0" offerId="1">
+		<condition type="sequence">
+			<condition type="offerAvailable" offerId="1"/>
+			<condition type="dialogsClosed" />
+		</condition>
+	</trigger> -->
+</triggers>

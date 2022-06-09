@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+
+<config>  
+      
+    <location id="cafe" zoneId="street" loadingContent="cafe" defaultRoomId="cf1" order="2">
+        <icon name="CafeLocationIcon@location" title="#cafeLocationTitle" />
+        <rooms>
+           <room id="cf1" tmxmap="cafe/red_cafe" tutorialMap="cafe/red_cafe_tut.tmx" userCount="15" criticalUserCount="30" backgroundSound="Cafe1,Cafe2" dresscode="outside" />
+        </rooms>
+    </location>
+
+    <location id="club" zoneId="street" loadingContent="club,vip" defaultRoomId="cl1" order="8">
+    <icon name="ClubLocationIcon@location" title="#clubLocationTitle" />
+    <rooms>
+           <room id="cl1" map="club_1_map" userCount="15" tutorialMap="club_1_map_tut.xml" criticalUserCount="30"  backgroundSound="Club1,Club2" minLevel="4" dresscode="outside" />
+           <room id="v1" map="vip_2_map" userCount="15" criticalUserCount="30"  backgroundSound="VIP1,VIP2" vip="1" dresscode="outside" />
+        </rooms>
+    </location>
+
+    <location id="street" zoneId="street" loadingContent="street,landscape" defaultRoomId="s1" order="3">
+        <icon name="StreetLocationIcon@location" title="#streetLocationTitle" />
+        <rooms>
+           <room id="s1" map="street_1_map" userCount="15" criticalUserCount="30" backgroundSound="Outside1,Outside2" dresscode="outside" />
+        </rooms>
+    </location>
+
+    <location id="park" zoneId="street" loadingContent="park,landscape" defaultRoomId="p1" order="4">
+        <icon name="ParkLocationIcon@location" title="#parkLocationTitle"/>
+        <rooms>
+           <room id="p1" map="park_1_map" userCount="15" criticalUserCount="30" backgroundSound="Outside1,Outside2" dresscode="outside" />
+           <room id="p1e" map="park_1_map" userCount="30" criticalUserCount="45" backgroundSound="Outside1,Outside2" dresscode="outside" />
+        </rooms>
+    </location>
+    
+     <location id="publicBeach" zoneId="street" loadingContent="publicBeach" defaultRoomId="pb1" order="7">
+        <icon name="PublicBeachLocationIcon@location" title="#publicBeachLocationTitle" visible="true" isNew="1"/>
+        <rooms>
+           <room id="pb1" map="public_beach_1_map" userCount="15" criticalUserCount="20"  backgroundSound="Outside1,Outside2" dresscode="swim" />
+        </rooms>
+    </location>
+    
+    <location id="salon" zoneId="street" loadingContent="salon" defaultRoomId="sn1" order="9">
+        <icon name="SalonLocationIcon@location" title="#beautyLocationTitle" />
+        <rooms>
+           <room id="sn1" map="salon_1_map" userCount="5" criticalUserCount="10" backgroundSound="VIP1,VIP2" minLevel="6" dresscode="outside" />
+        </rooms>
+    </location>   
+
+    <location id="schoolAvataria" zoneId="street" loadingContent="club,vip" defaultRoomId="ScienceClass" order="5">
+        <icon name="ClubLocationIcon@location" title="#schoolAvatariaTitle" />
+        <rooms>
+           <room id="ScienceClass" tmxmap="school/science_class" userCount="15" criticalUserCount="20" backgroundSound="Outside1,Outside2" dresscode="outside" />
+        </rooms>
+    </location> 
+
+    <location id="vip" zoneId="street" loadingContent="club,vip" defaultRoomId="v1" order="10">
+        <icon name="ClubLocationIcon@location" title="#vipLocationTitle" visible="true" />
+        <rooms>
+           <room id="v1" map="vip_2_map" userCount="15" criticalUserCount="30"  backgroundSound="VIP1,VIP2" vip="1" dresscode="event" />
+           
+        </rooms>
+	</location>
+	
+	<location id="travel" zoneId="street" loadingContent="street" defaultRoomId="s1" order="11">
+        <icon name="StreetLocationIcon@location" title="#travelLocationTitle" visible="true" />
+        <rooms>
+           <room id="s1" map="street_1_map" userCount="0" criticalUserCount="1"  backgroundSound="Outside1,Outside2" workInProgress="yes" dresscode="" />
+           
+        </rooms>
+    </location>
+
+</config>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config>
+    <moves>
+        <move id="0" energy="0" bonus="0" type="undefined" target="undefined">
+            <animation name="PillowWait" duration="30" tool="Pillow"/>
+            <damage min="0" max="0" />
+            <blockDamage min="0" max="0" />
+        </move>
+        
+        <move id="98" energy="0" bonus="0" type="damaged" target="top">
+            <animation name="PillowDamageHead" duration="12" tool="Pillow"/>
+            <damage min="0" max="0" />
+            <blockDamage min="0" max="0" />
+        </move>
+        
+        <move id="99" energy="0" bonus="0" type="damaged" target="bottom">
+            <animation name="PillowDamageBody" duration="17" tool="Pillow"/>
+            <damage min="0" max="0" />
+            <blockDamage min="0" max="0" />
+        </move>
+        
+        <move id="1" title="#fightPillowUpMove" icon="FightPillowUpIcon@location" energy="8" bonus="1" type="attack" target="top">
+            <animation name="PillowToHead" duration="36" tool="Pillow" strikeTick="31"/>
+            <damage min="6" max="9" />
+            <blockDamage min="0" max="0" />
+        </move>
+        
+        <move id="2" title="#fightPillowDownMove" icon="FightPillowDownIcon@location" energy="6" bonus="1" type="attack" target="bottom">
+            <animation name="PillowToBody" duration="36" tool="Pillow" strikeTick="31"/>
+            <damage min="5" max="7" />
+            <blockDamage min="0" max="0" />
+        </move>
+        
+        <move id="3" title="#fightDefenceUpMove" icon="FightDefenceUpIcon@location" energy="4" bonus="1" type="block" target="top">
+            <animation name="PillowCoverHead" tool="Pillow" duration="25" strikeTick="12"/>
+        </move>
+        
+        <move id="4" title="#fightDefenceDownMove" icon="FightDefenceDownIcon@location" energy="3" bonus="1" type="block" target="bottom">
+            <animation name="PillowCoverBody" tool="Pillow" duration="25" strikeTick="12"/>
+        </move>
+    </moves>
+</config>
