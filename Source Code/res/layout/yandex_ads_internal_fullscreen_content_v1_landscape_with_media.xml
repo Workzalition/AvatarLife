@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<com.yandex.mobile.ads.fullscreen.template.FullscreenNativeAdView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:layout_width="fill_parent" android:layout_height="fill_parent">
+	<include android:layout_width="fill_parent" android:layout_height="fill_parent" layout="@layout/yandex_ads_internal_fullscreen_content_v1_tile_background" />
+	<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent">
+		<include android:layout_width="fill_parent" android:layout_height="wrap_content" layout="@layout/yandex_ads_internal_fullscreen_content_v1_header_dark" />
+		<LinearLayout android:orientation="horizontal" android:id="@id/body_container" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_marginTop="8.0dip" android:layout_marginBottom="16.0dip" android:layout_weight="1.0">
+			<View android:layout_width="0.0dip" android:layout_height="0.0dip" android:layout_weight="1.0" />
+			<com.yandex.mobile.ads.fullscreen.template.view.ExtendedViewContainer android:layout_gravity="center_vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" app:yandex_max_screen_width="0.5">
+				<LinearLayout android:orientation="vertical" android:id="@id/design_degradation_container" android:layout_width="fill_parent" android:layout_height="fill_parent">
+					<include android:layout_width="fill_parent" android:layout_height="fill_parent" layout="@layout/yandex_ads_internal_fullscreen_content_v1_text_assets" />
+					<include android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/yandex_ads_internal_fullscreen_content_v1_offset" android:layout_marginTop="12.0dip" android:layout_marginRight="@dimen/yandex_ads_internal_fullscreen_content_v1_offset" layout="@layout/yandex_ads_internal_fullscreen_content_v1_call_to_action" />
+					<View android:id="@id/design_degradation_reference_view" android:layout_width="0.0dip" android:layout_height="0.0dip" />
+				</LinearLayout>
+			</com.yandex.mobile.ads.fullscreen.template.view.ExtendedViewContainer>
+			<com.yandex.mobile.ads.fullscreen.template.view.ExtendedViewContainer android:layout_gravity="center_vertical" android:id="@id/media_container" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/yandex_ads_internal_fullscreen_content_v1_offset" android:layout_marginRight="@dimen/yandex_ads_internal_fullscreen_content_v1_offset" app:yandex_corner_radius="@dimen/yandex_ads_internal_fullscreen_content_v1_media_corner" app:yandex_max_screen_width="0.5">
+				<com.yandex.mobile.ads.nativeads.MediaView android:id="@id/media" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" app:yandex_video_controls_layout="@layout/yandex_ads_internal_outstream_controls_fullscreen_content_v1" />
+			</com.yandex.mobile.ads.fullscreen.template.view.ExtendedViewContainer>
+			<View android:layout_width="0.0dip" android:layout_height="0.0dip" android:layout_weight="1.0" />
+		</LinearLayout>
+		<include android:layout_width="fill_parent" android:layout_height="wrap_content" layout="@layout/yandex_ads_internal_fullscreen_content_v1_landscape_warning" />
+	</LinearLayout>
+</com.yandex.mobile.ads.fullscreen.template.FullscreenNativeAdView>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<com.yandex.mobile.ads.fullscreen.template.FullscreenNativeAdView xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="fill_parent" android:layout_height="fill_parent">
+	<FrameLayout android:id="@id/root_view" android:background="@android:color/black" android:layout_width="fill_parent" android:layout_height="fill_parent">
+		<com.yandex.mobile.ads.nativeads.MediaView android:layout_gravity="center_vertical" android:id="@id/media" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+		<include layout="@layout/yandex_ads_internal_native_rewarded_controls" />
+		<com.yandex.mobile.ads.fullscreen.template.view.CallToActionView android:textSize="@dimen/yandex_ads_internal_rewarded_call_to_action_text_size" android:layout_gravity="bottom" android:id="@id/call_to_action" android:paddingLeft="@dimen/yandex_ads_internal_call_to_action_padding_horizontal" android:paddingRight="@dimen/yandex_ads_internal_call_to_action_padding_horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/yandex_ads_internal_call_to_action_margin_horizontal" android:layout_marginRight="@dimen/yandex_ads_internal_call_to_action_margin_horizontal" android:layout_marginBottom="@dimen/yandex_ads_internal_call_to_action_margin_vertical" style="@style/YandexAdsInternal.RewardedCallToAction" />
+	</FrameLayout>
+</com.yandex.mobile.ads.fullscreen.template.FullscreenNativeAdView>

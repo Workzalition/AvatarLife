@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<com.yandex.mobile.ads.fullscreen.template.view.ExtendedTextView xmlns:android="http://schemas.android.com/apk/res/android" android:textColor="#40ffffff" android:gravity="center" android:layout_gravity="bottom" android:id="@id/warning" android:paddingLeft="8.0dip" android:paddingRight="8.0dip" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:textAllCaps="true" />

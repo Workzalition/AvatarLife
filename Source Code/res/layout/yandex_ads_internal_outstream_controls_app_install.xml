@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<com.yandex.mobile.ads.nativeads.video.view.PlaybackControlsContainer xmlns:android="http://schemas.android.com/apk/res/android" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent">
+	<CheckBox android:layout_gravity="bottom|center|left" android:id="@id/video_mute_control" android:layout_width="24.0dip" android:layout_height="24.0dip" android:layout_marginLeft="10.0dip" android:layout_marginBottom="20.0dip" android:button="@drawable/yandex_ads_internal_mute_checkable_app_install" />
+	<ProgressBar android:layout_gravity="bottom" android:id="@id/video_progress_control" android:layout_width="fill_parent" android:layout_height="2.0dip" android:progressDrawable="@drawable/yandex_instream_internal_progress_display" style="?android:progressBarStyleHorizontal" />
+</com.yandex.mobile.ads.nativeads.video.view.PlaybackControlsContainer>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:gravity="center" android:id="@id/rating_container" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="16.0dip">
+	<com.yandex.mobile.ads.fullscreen.template.view.ColorizedRatingView android:layout_gravity="center_vertical" android:id="@id/rating" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="8.0dip" android:numStars="@integer/yandex_ads_internal_rating_num_stars" android:stepSize="@dimen/yandex_ads_internal_rating_step_size" style="@style/YandexAdsInternal.RatingBar.Small" />
+	<TextView android:textSize="16.0dip" android:textStyle="bold" android:textColor="@android:color/black" android:id="@id/rating_text" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+</LinearLayout>

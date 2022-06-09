@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<com.yandex.mobile.ads.fullscreen.template.FullscreenNativeAdView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:layout_width="fill_parent" android:layout_height="fill_parent">
+	<LinearLayout android:orientation="vertical" android:background="@android:color/white" android:layout_width="fill_parent" android:layout_height="fill_parent">
+		<FrameLayout android:layout_width="fill_parent" android:layout_height="wrap_content">
+			<com.yandex.mobile.ads.nativeads.MediaView android:id="@id/media" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:foreground="@color/yandex_ads_internal_app_install_media_view_foreground" app:yandex_video_controls_layout="@layout/yandex_ads_internal_outstream_controls_app_install" />
+			<include layout="@layout/yandex_app_internal_app_install_controls_light" />
+		</FrameLayout>
+		<RelativeLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_margin="@dimen/yandex_ads_internal_app_install_info_container_margin" android:layout_marginBottom="@dimen/yandex_ads_internal_app_install_call_to_action_bottom_margin_base" android:layout_weight="1.0">
+			<LinearLayout android:gravity="center" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_above="@id/call_to_action">
+				<LinearLayout android:gravity="center" android:orientation="horizontal" android:id="@id/text_content" android:layout_width="fill_parent" android:layout_height="wrap_content">
+					<com.yandex.mobile.ads.fullscreen.template.view.RoundImageView android:layout_gravity="center" android:id="@id/icon" android:visibility="gone" android:layout_width="@dimen/yandex_ads_internal_app_install_icon_size_first_degradation" android:layout_height="@dimen/yandex_ads_internal_app_install_icon_size_first_degradation" android:layout_marginRight="12.0dip" android:scaleType="centerCrop" android:adjustViewBounds="true" app:yandex_corner_radius="@dimen/yandex_ads_internal_app_install_icon_radius_base" />
+					<LinearLayout android:gravity="center" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+						<TextView android:textSize="20.0dip" android:textStyle="bold" android:textColor="@android:color/black" android:ellipsize="end" android:gravity="left" android:id="@id/title" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:maxHeight="48.0dip" android:maxLines="2" />
+						<LinearLayout android:gravity="center_vertical" android:layout_gravity="center" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="2.0dip" android:maxHeight="@dimen/yandex_ads_internal_app_install_rating_height">
+							<include layout="@layout/yandex_ads_internal_app_install_rating" />
+							<TextView android:textSize="@dimen/yandex_ads_internal_appinstall_sponsored_text_size" android:textColor="@color/yandex_ads_internal_domain_grey_text_color" android:id="@id/sponsored" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="8.0dip" />
+							<TextView android:textSize="@dimen/yandex_ads_internal_appinstall_age_text_size" android:textColor="@color/yandex_ads_internal_domain_grey_text_color" android:id="@id/age" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+						</LinearLayout>
+					</LinearLayout>
+				</LinearLayout>
+				<com.yandex.mobile.ads.fullscreen.template.view.CroppedTextView android:textSize="@dimen/yandex_ads_internal_appinstall_body_text_size" android:textColor="@color/yandex_ads_internal_grey_text_color" android:ellipsize="end" android:gravity="start" android:id="@id/body" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/yandex_ads_internal_app_install_body_margin_top" android:maxHeight="@dimen/yandex_ads_internal_app_install_body_height" android:maxLines="3" />
+			</LinearLayout>
+			<com.yandex.mobile.ads.fullscreen.template.view.CallToActionView android:textSize="@dimen/yandex_ads_internal_appinstall_call_to_action_text_size" android:textColor="@android:color/white" android:id="@id/call_to_action" android:background="@drawable/yandex_ads_internal_call_to_action_green_solid_background" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="@dimen/yandex_ads_internal_app_install_call_to_action_height" android:layout_marginTop="@dimen/yandex_ads_internal_app_install_call_to_action_top_margin_base" android:text="@string/yandex_ads_internal_tools_app_install_call_to_action_text_large" android:layout_alignParentBottom="true" app:yandex_icon="@drawable/yandex_ads_internal_google_play_icon_white" app:yandex_icon_offset="@dimen/yandex_ads_internal_call_to_action_icon_offset" app:yandex_icon_size="@dimen/yandex_ads_internal_call_to_action_icon_size" style="@style/YandexAdsInternal.CallToAction" />
+		</RelativeLayout>
+		<include layout="@layout/yandex_ads_internal_app_install_warning" />
+	</LinearLayout>
+</com.yandex.mobile.ads.fullscreen.template.FullscreenNativeAdView>

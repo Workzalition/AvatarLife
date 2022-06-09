@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<com.yandex.mobile.ads.fullscreen.template.view.CallToActionView xmlns:android="http://schemas.android.com/apk/res/android" android:id="@id/call_to_action" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/YandexAdsInternal.ContentAnimatedGradientCallToAction" />

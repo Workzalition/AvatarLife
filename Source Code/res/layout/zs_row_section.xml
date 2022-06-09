@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:orientation="vertical" android:id="@id/section_group" android:layout_width="fill_parent" android:layout_height="wrap_content">
+	<TextView android:id="@id/section_title" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="@dimen/zs_help_row_section_min_height" style="@style/ZendeskSdkTheme.Light.HelpCenter.Section" />
+</LinearLayout>
