@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ripple xmlns:android="http://schemas.android.com/apk/res/android" android:color="@color/yandex_ads_internal_call_to_action_ripple_highlight_light_color">
+	<item android:drawable="@drawable/yandex_ads_internal_call_to_action_blue_stroke_background" />
+</ripple>
