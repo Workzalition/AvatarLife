@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:orientation="horizontal" android:id="@id/inviteListCell" android:layout_width="fill_parent" android:layout_height="wrap_content">
+	<ImageView android:id="@id/userImage" android:background="@mipmap/logo_101xp2" android:layout_width="50.0dip" android:layout_height="50.0dip" android:layout_marginLeft="15.0dip" android:layout_marginTop="3.0dip" android:layout_marginRight="10.0dip" android:layout_marginBottom="3.0dip" />
+	<TextView android:textSize="16.0sp" android:textColor="#ff63686b" android:gravity="center_vertical" android:id="@id/inviteListName" android:layout_width="wrap_content" android:layout_height="fill_parent" android:text="Medium Text" android:layout_weight="1.0" />
+	<ImageButton android:layout_gravity="center_vertical" android:id="@id/inviteButton" android:background="@mipmap/blue_button_invite" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="5.0dip" android:layout_marginRight="15.0dip" android:layout_marginBottom="5.0dip" />
+</LinearLayout>
