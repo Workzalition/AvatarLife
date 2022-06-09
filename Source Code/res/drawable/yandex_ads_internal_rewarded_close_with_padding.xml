@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+	<item android:drawable="@drawable/yandex_ads_internal_rewarded_close" android:left="@dimen/yandex_ads_internal_rewarded_control_icon_padding" android:top="@dimen/yandex_ads_internal_rewarded_control_icon_padding" android:right="@dimen/yandex_ads_internal_rewarded_control_icon_padding" android:bottom="@dimen/yandex_ads_internal_rewarded_control_icon_padding" />
+</layer-list>

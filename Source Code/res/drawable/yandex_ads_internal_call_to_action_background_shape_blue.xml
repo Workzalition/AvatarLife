@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android" android:tint="@color/yandex_ads_internal_call_to_action_background_color_blue" android:shape="rectangle">
+	<solid android:color="#ff2f7df5" />
+	<corners android:radius="@dimen/yandex_ads_internal_call_to_action_radius" />
+</shape>
