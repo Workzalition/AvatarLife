@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" android:fitsSystemWindows="true" android:layout_width="fill_parent" android:layout_height="fill_parent">
+	<WebView android:id="@id/web_dialogs" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+	<ImageButton android:id="@id/web_close_button_landscape" android:background="@color/transparent" android:padding="8.0dip" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ic_closed_cross" android:layout_alignParentRight="true" android:contentDescription="@string/close" android:layout_alignParentEnd="true" />
+	<ImageButton android:id="@id/web_close_button_portrait" android:background="@color/transparent" android:padding="24.0dip" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ic_closed_cross" android:layout_alignParentRight="true" android:layout_alignParentBottom="true" android:contentDescription="@string/close" android:layout_alignParentEnd="true" />
+</RelativeLayout>

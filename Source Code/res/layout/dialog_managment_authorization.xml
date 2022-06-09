@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:orientation="vertical" android:background="@drawable/dialog_corner_bg" android:layout_width="wrap_content" android:layout_height="wrap_content" android:minWidth="@dimen/authorize_dialog_fixed_width">
+	<LinearLayout android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:minWidth="@dimen/authorize_dialog_fixed_width">
+		<LinearLayout android:layout_width="fill_parent" android:layout_height="fill_parent">
+			<TextView android:textSize="15.0sp" android:textStyle="bold" android:textColor="#ff8f979c" android:gravity="center" android:id="@id/auth_label1" android:paddingLeft="32.0dip" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_marginTop="8.0dip" android:layout_marginBottom="4.0dip" android:text="@string/player_profile" android:layout_weight="1.0" />
+			<ImageButton android:id="@id/button_close" android:background="#00ffffff" android:padding="8.0dip" android:clickable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@mipmap/icon_close" android:adjustViewBounds="false" android:foregroundGravity="top" />
+		</LinearLayout>
+		<LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+			<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_weight="1.0">
+				<LinearLayout android:layout_gravity="center" android:orientation="horizontal" android:visibility="visible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="4.0dip">
+					<TextView android:textSize="12.0sp" android:textColor="#ff8f979c" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="1.0sp" android:text="@string/username" />
+					<TextView android:textSize="12.0sp" android:textColor="#ff63686b" android:id="@id/username_textview" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="" />
+				</LinearLayout>
+				<LinearLayout android:layout_gravity="center" android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content">
+					<TextView android:textSize="12.0sp" android:textColor="#ff8f979c" android:id="@id/p101xp_id_label" android:visibility="visible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="1.0sp" android:text="@string/id" />
+					<TextView android:textSize="12.0sp" android:textColor="#ff63686b" android:id="@id/p101xp_id_value" android:visibility="visible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="" />
+				</LinearLayout>
+				<LinearLayout android:layout_gravity="center" android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="4.0dip">
+					<TextView android:textSize="12.0sp" android:textColor="#ff8f979c" android:id="@id/user_game_id_label" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="1.0sp" android:text="@string/p101xp_label_text" />
+					<TextView android:textSize="12.0sp" android:textColor="#ff63686b" android:id="@id/user_game_id_value" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="" />
+				</LinearLayout>
+			</LinearLayout>
+		</LinearLayout>
+		<LinearLayout android:layout_gravity="center_vertical" android:background="#ffdfe5e8" android:layout_width="fill_parent" android:layout_height="1.0dip" android:layout_marginLeft="15.0dip" android:layout_marginRight="15.0dip" />
+		<LinearLayout android:orientation="vertical" android:id="@id/bind_sn_layout" android:layout_width="fill_parent" android:layout_height="fill_parent">
+			<TextView android:textSize="12.0sp" android:textColor="#ff8f979c" android:gravity="center_horizontal" android:id="@id/bind_sn_text" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="8.0dip" android:text="@string/log_in_with" />
+			<Button android:textSize="15.0sp" android:textColor="@android:color/white" android:gravity="center" android:layout_gravity="center_horizontal" android:id="@id/bind_sn_button" android:background="@drawable/selector_portal_button" android:paddingTop="8.0dip" android:paddingBottom="8.0dip" android:clickable="true" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="15.0dip" android:layout_marginTop="4.0dip" android:layout_marginRight="15.0dip" android:layout_marginBottom="8.0dip" android:text="@string/bind_sn" style="@style/CaptionOnly" />
+			<Button android:textSize="12.0sp" android:textColor="@color/p101xp_eula_button_text" android:layout_gravity="center_horizontal" android:id="@id/eula_text_button" android:background="@color/transparent" android:paddingTop="8.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="15.0dip" android:layout_marginRight="15.0dip" android:layout_marginBottom="8.0dip" android:text="@string/eula_btn_text" style="@style/CaptionOnly" />
+		</LinearLayout>
+	</LinearLayout>
+	<View android:layout_gravity="center_vertical" android:background="#ffdfe5e8" android:layout_width="fill_parent" android:layout_height="1.0dip" android:layout_marginLeft="15.0dip" android:layout_marginRight="15.0dip" android:layout_weight="1.0" />
+	<Button android:textSize="13.0sp" android:textColor="#ff947cd6" android:id="@id/button_collect_logs" android:background="@null" android:paddingTop="8.0dip" android:paddingBottom="8.0dip" android:visibility="visible" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginLeft="15.0dip" android:layout_marginRight="15.0dip" android:layout_marginBottom="4.0dip" android:minWidth="0.0dip" android:minHeight="0.0dip" android:text="@string/collect_logs" />
+	<LinearLayout android:layout_gravity="center" android:orientation="vertical" android:id="@id/android_report_layout" android:visibility="visible" android:layout_width="fill_parent" android:layout_height="fill_parent">
+		<View android:layout_gravity="center_vertical" android:id="@id/manage_divisor" android:background="#ffdfe5e8" android:layout_width="fill_parent" android:layout_height="1.0dip" android:layout_marginLeft="15.0dip" android:layout_marginRight="15.0dip" android:layout_weight="1.0" />
+		<LinearLayout android:layout_gravity="center" android:orientation="vertical" android:clickable="true" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="15.0dip" android:layout_marginRight="15.0dip">
+			<Button android:textSize="13.0sp" android:textColor="#ff63686b" android:layout_gravity="center" android:id="@id/button_report" android:background="@null" android:paddingTop="4.0dip" android:paddingBottom="8.0dip" android:visibility="visible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:minWidth="0.0dip" android:minHeight="0.0dip" android:text="@string/report" android:drawableLeft="@mipmap/icon_support" android:drawablePadding="5.0dip" />
+		</LinearLayout>
+	</LinearLayout>
+	<View android:layout_gravity="center_vertical" android:background="#ffdfe5e8" android:layout_width="fill_parent" android:layout_height="1.0dip" android:layout_marginLeft="15.0dip" android:layout_marginRight="15.0dip" android:layout_weight="1.0" />
+	<Button android:textSize="13.0sp" android:textColor="#ff947cd6" android:id="@id/button_logout" android:background="@null" android:paddingTop="8.0dip" android:paddingBottom="8.0dip" android:visibility="visible" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginLeft="15.0dip" android:layout_marginRight="15.0dip" android:layout_marginBottom="4.0dip" android:minWidth="0.0dip" android:minHeight="0.0dip" android:text="@string/logout" />
+</LinearLayout>
