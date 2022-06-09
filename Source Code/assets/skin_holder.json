@@ -1,0 +1,13 @@
+{
+  "p101xp_dialog_window_bg": "bg_ex.png",
+  "p101xp_landscape_image": "img.png",
+  "p101xp_rating_star_normal": "ic_star_ex_normal.png",
+  "p101xp_rating_star_active": "ic_star_ex_active.png",
+  "p101xp_rating_star_pressed": "ic_star_ex_normal.png",
+  "p101xp_button_left_positive": "button_1_box_left.png",
+  "p101xp_button_center_positive": "button_1_box_center.png",
+  "p101xp_button_right_positive": "button_1_box_right.png",
+  "p101xp_button_left_negative": "button_2_box_left.png",
+  "p101xp_button_center_negative": "button_2_box_center.png",
+  "p101xp_button_right_negative": "button_2_box_right.png"
+}
