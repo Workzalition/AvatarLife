@@ -1,0 +1,693 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="abc_action_bar_home_description">Navigate home</string>
+<string name="abc_action_bar_up_description">Navigate up</string>
+<string name="abc_action_menu_overflow_description">More options</string>
+<string name="abc_action_mode_done">Done</string>
+<string name="abc_activity_chooser_view_see_all">See all</string>
+<string name="abc_activitychooserview_choose_application">Choose an app</string>
+<string name="abc_capital_off">OFF</string>
+<string name="abc_capital_on">ON</string>
+<string name="abc_menu_alt_shortcut_label">Alt+</string>
+<string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+<string name="abc_menu_delete_shortcut_label">delete</string>
+<string name="abc_menu_enter_shortcut_label">enter</string>
+<string name="abc_menu_function_shortcut_label">Function+</string>
+<string name="abc_menu_meta_shortcut_label">Meta+</string>
+<string name="abc_menu_shift_shortcut_label">Shift+</string>
+<string name="abc_menu_space_shortcut_label">space</string>
+<string name="abc_menu_sym_shortcut_label">Sym+</string>
+<string name="abc_prepend_shortcut_label">Menu+</string>
+<string name="abc_search_hint">Search…</string>
+<string name="abc_searchview_description_clear">Clear query</string>
+<string name="abc_searchview_description_query">Search query</string>
+<string name="abc_searchview_description_search">Search</string>
+<string name="abc_searchview_description_submit">Submit query</string>
+<string name="abc_searchview_description_voice">Voice search</string>
+<string name="abc_shareactionprovider_share_with">Share with</string>
+<string name="abc_shareactionprovider_share_with_application">Share with %s</string>
+<string name="abc_toolbar_collapse_description">Collapse</string>
+<string name="achievement">Achievement</string>
+<string name="achievement_as_work">You spend in the game 40 hours for 5 days</string>
+<string name="achievement_guest">You spend in the game 1 hour!</string>
+<string name="achievement_middle">You spend in the game 24 hours!</string>
+<string name="achievement_new_year">Happy new year!</string>
+<string name="achievement_newbie">You spend in the game 3 hours!</string>
+<string name="achievement_night">Night life!</string>
+<string name="achievement_pro">You spend in the game 100 hours!</string>
+<string name="action_settings">Settings</string>
+<string name="analytics_CH_project_dev_id">309</string>
+<string name="analytics_CH_project_id">309</string>
+<string name="androidx_startup">androidx.startup</string>
+<string name="api_method_cant_be_empty">"Api method can't be empty or null"</string>
+<string name="app_config_name">avatariam</string>
+<string name="app_id">171455904607</string>
+<string name="app_name">Avatar Life</string>
+<string name="app_skin_name">avataria</string>
+<string name="appbar_scrolling_view_behavior">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
+<string name="applovin_list_item_image_description">Displays more info about the list item.</string>
+<string name="appsflyer_gcmproject">AAAAJ-uRe18:APA91bGJk6ejkT9zMEGE_5JkoKvY1_WJu0BXyvXfWwfG_BuZaXbnz_EVnMdVFG3DI9jlSPLXnUnZ6gtWNbZ_eTGZBoQZrxpLMBZDMsliX0exc-seq5wkEmwYMURIAMbtX1fUWVfijGPP</string>
+<string name="articles_list_fragment_error_message">Failed to get articles</string>
+<string name="articles_list_fragment_no_articles_found">No articles found</string>
+<string name="ask_request_list_failed_request_message">Message failed</string>
+<string name="attention">Attention!</string>
+<string name="authorization_canceled">Authorization was canceled</string>
+<string name="belvedere_dialog_camera">Camera</string>
+<string name="belvedere_dialog_gallery">Gallery</string>
+<string name="belvedere_fam_desc_collapse_fam">Collapse Floating Action Menu</string>
+<string name="belvedere_fam_desc_expand_fam">Expand Floating Action Menu</string>
+<string name="belvedere_fam_desc_open_gallery">Import file from gallery</string>
+<string name="belvedere_fam_desc_open_google_photos">Import image from Google Photos</string>
+<string name="belvedere_image_stream_file_too_large">File too large</string>
+<string name="belvedere_image_stream_title">Photo library</string>
+<string name="belvedere_image_stream_unknown_app">@string/request_attachment_generic_unknown_app</string>
+<string name="belvedere_permissions_denied">Permissions denied</string>
+<string name="belvedere_sdk_fpa_suffix_v2">.belvedere2.attachments</string>
+<string name="belvedere_stream_item_camera_tile_desc">Import image from camera</string>
+<string name="belvedere_stream_item_select_file_desc">Select file %s</string>
+<string name="belvedere_stream_item_select_image_desc">Select image %s</string>
+<string name="belvedere_stream_item_unselect_file_desc">Unselect file %s</string>
+<string name="belvedere_stream_item_unselect_image_desc">Unselect image %s</string>
+<string name="belvedere_toolbar_desc_collapse">Close image picker</string>
+<string name="billing_public_key">MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAgj0KePer+W4ra2/nec4LtEK8GTdW5NYcGy9GlpgPkB8wIUnwyvKTF5Pm94wxonEJJ1HPrdehNKDCrOl2TWg+lacnbL6CQo5BqRLWHm00WwM6YADwZyppqbq60OV3odePwteoFGzy5RtHyGLay6XHHt4JEfPu5DOPPVKBCKFa1+IzZlbIdLX/KCeYZRWVkWjZ2KDpj5A5r8f5AOWAdHWuR6lt14FTUk6nh3xXn0HpNFcWFFx/8CtDfw6JDXBGgYQ9jane9YA3VofotK5gGjcL//o7zSGIjFRaDN7F9W8lQEdHdOy3SFGTBdXPQvcyPUDnRFFYLQhh4xFmO5ALLbXddwIDAQAB</string>
+<string name="billing_sku">"com.101xp.avataria.pack01_rus_andr,
+        com.101xp.avataria.pack02_rus_andr,
+        com.101xp.avataria.pack03_rus_andr,
+        com.101xp.avataria.pack04_rus_andr,
+        com.101xp.avataria.pack05_rus_andr,
+        com.101xp.avataria.pack06_rus_andr,
+        com.101xp.avataria.vip01_rus_andr,
+        com.101xp.avataria.vip02_rus_andr,
+        com.101xp.avataria.vip03_rus_andr,
+        com.101xp.avataria.starter_pack_rus_andr,
+        com.101xp.avataria.offer1_rus_andr,
+        com.101xp.avataria.offer2_rus_andr,
+        com.101xp.avataria.offer3_rus_andr,
+        com.101xp.avataria.offer4_rus_andr,
+        com.101xp.avataria.offer5_rus_andr,
+        com.101xp.avataria.offer6_rus_andr,
+        com.101xp.avataria.offer7_rus_andr,
+        com.101xp.avataria.offer8_rus_andr,
+        com.101xp.avataria.offer9_rus_andr,
+        com.101xp.avataria.offer10_rus_andr,
+        com.101xp.avataria.offer11_rus_andr,
+        com.101xp.avataria.offer12_rus_andr,
+        com.101xp.avataria.offer13_rus_andr,
+        com.101xp.avataria.offer14_rus_andr,
+        com.101xp.avataria.offer15_rus_andr,
+        com.101xp.avataria.offer16_rus_andr,
+        com.101xp.avataria.offer17_rus_andr,
+        com.101xp.avataria.offer101_rus_andr,
+        com.101xp.avataria.offer102_rus_andr,
+        com.101xp.avataria.offer103_rus_andr,
+        com.101xp.avataria.offer104_rus_andr,
+        com.101xp.avataria.offer105_rus_andr,
+        com.101xp.avataria.offer106_rus_andr,
+        com.101xp.avataria.offer107_rus_andr,
+        com.101xp.avataria.offer108_rus_andr,
+        com.101xp.avataria.offer109_rus_andr,
+        com.101xp.avataria.offer110_rus_andr,
+        com.101xp.avataria.offer111_rus_andr,
+        com.101xp.avataria.offer112_rus_andr,
+        com.101xp.avataria.offer113_rus_andr,
+        com.101xp.avataria.offer114_rus_andr,
+        com.101xp.avataria.offer115_rus_andr,
+        com.101xp.avataria.offer116_rus_andr,
+        com.101xp.avataria.offer117_rus_andr,
+        com.101xp.avataria.offer118_rus_andr,
+        com.101xp.avataria.offer119_rus_andr,
+        com.101xp.avataria.offer120_rus_andr,
+        com.101xp.avataria.offer121_rus_andr,
+        com.101xp.avataria.offer122_rus_andr,
+        com.101xp.avataria.offer123_rus_andr,
+        com.101xp.avataria.offer124_rus_andr,
+        com.101xp.avataria.offer125_rus_andr,
+        com.101xp.avataria.offer20_rus_andr,
+        com.101xp.avataria.lootbox1_rus_andr,
+        com.101xp.avataria.lootbox1sale_rus_andr,
+        com.101xp.avataria.bundle7_rus_andr,
+        com.101xp.avataria.bundle12_rus_andr,
+        com.101xp.avataria.lvl03offer1_rus_andr,
+        com.101xp.avataria.lvl03offer2_rus_andr,
+        com.101xp.avataria.lvl04offer1_rus_andr,
+        com.101xp.avataria.lvl04offer2_rus_andr,
+        com.101xp.avataria.lvl05offer2_rus_andr,
+        com.101xp.avataria.lvl06offer1_rus_andr,
+        com.101xp.avataria.lvl06offer2_rus_andr,
+        com.101xp.avataria.lvl07offer1_rus_andr,
+        com.101xp.avataria.lvl07offer2_rus_andr,
+        com.101xp.avataria.lvl08offer1_rus_andr,
+        com.101xp.avataria.lvl08offer2_rus_andr,
+        com.101xp.avataria.lvl09offer1_rus_andr,
+        com.101xp.avataria.lvl09offer2_rus_andr,
+        com.101xp.avataria.lvl10offer1_rus_andr,
+        com.101xp.avataria.lvl10offer2_rus_andr,
+        com.101xp.avataria.lvl11offer1_rus_andr,
+        com.101xp.avataria.lvl11offer2_rus_andr,
+        com.101xp.avataria.lvl12offer1_rus_andr,
+        com.101xp.avataria.lvl12offer2_rus_andr,
+        com.101xp.avataria.lvl13offer1_rus_andr,
+        com.101xp.avataria.lvl13offer2_rus_andr,
+        com.101xp.avataria.lvl14offer1_rus_andr,
+        com.101xp.avataria.lvl14offer2_rus_andr,
+        com.101xp.avataria.lvl15offer1_rus_andr,
+        com.101xp.avataria.lvl15offer2_rus_andr,
+        com.101xp.avataria.lvl16offer1_rus_andr,
+        com.101xp.avataria.lvl16offer2_rus_andr,
+        com.101xp.avataria.lvl17offer1_rus_andr,
+        com.101xp.avataria.lvl17offer2_rus_andr,
+        com.101xp.avataria.lvl18offer1_rus_andr,
+        com.101xp.avataria.lvl18offer2_rus_andr,
+        com.101xp.avataria.lvl19offer1_rus_andr,
+        com.101xp.avataria.lvl19offer2_rus_andr,
+        com.101xp.avataria.lvl20offer1_rus_andr,
+        com.101xp.avataria.lvl20offer2_rus_andr,
+        com.101xp.avataria.lvl21offer1_rus_andr,
+        com.101xp.avataria.lvl21offer2_rus_andr,
+        com.101xp.avataria.lvl22offer1_rus_andr,
+        com.101xp.avataria.lvl22offer2_rus_andr,
+        com.101xp.avataria.lvl23offer1_rus_andr,
+        com.101xp.avataria.lvl23offer2_rus_andr,
+        com.101xp.avataria.lvl24offer1_rus_andr,
+        com.101xp.avataria.lvl24offer2_rus_andr,
+        com.101xp.avataria.lvl25offer1_rus_andr,
+        com.101xp.avataria.lvl25offer2_rus_andr,
+        com.101xp.avataria.lvl26offer1_rus_andr,
+        com.101xp.avataria.lvl26offer2_rus_andr,
+        com.101xp.avataria.lvl27offer1_rus_andr,
+        com.101xp.avataria.lvl27offer2_rus_andr,
+        com.101xp.avataria.lvl28offer1_rus_andr,
+        com.101xp.avataria.lvl28offer2_rus_andr,
+        com.101xp.avataria.lvl29offer1_rus_andr,
+        com.101xp.avataria.lvl29offer2_rus_andr,
+        com.101xp.avataria.lvl30offer1_rus_andr,
+        com.101xp.avataria.lvl30offer2_rus_andr,
+        com.101xp.avataria.offer1d_1_rus_andr,
+        com.101xp.avataria.offer1d_2_rus_andr,
+        com.101xp.avataria.offer1d_3_rus_andr,
+        com.101xp.avataria.offer1d_4_rus_andr,
+        com.101xp.avataria.offer1d_5_rus_andr,
+        com.101xp.avataria.offer2d_1_rus_andr,
+        com.101xp.avataria.offer2d_2_rus_andr,
+        com.101xp.avataria.offer2d_3_rus_andr,
+        com.101xp.avataria.offer2d_4_rus_andr,
+        com.101xp.avataria.offer2d_5_rus_andr,
+        com.101xp.avataria.offer3d_1_rus_andr,
+        com.101xp.avataria.offer3d_2_rus_andr,
+        com.101xp.avataria.offer3d_3_rus_andr,
+        com.101xp.avataria.offer3d_4_rus_andr,
+        com.101xp.avataria.offer3d_5_rus_andr,
+        com.101xp.avataria.offer4d_1_rus_andr,
+        com.101xp.avataria.offer4d_2_rus_andr,
+        com.101xp.avataria.offer4d_3_rus_andr,
+        com.101xp.avataria.offer4d_4_rus_andr,
+        com.101xp.avataria.offer4d_5_rus_andr,
+        com.101xp.avataria.offer5d_1_rus_andr,
+        com.101xp.avataria.offer5d_2_rus_andr,
+        com.101xp.avataria.offer5d_3_rus_andr,
+        com.101xp.avataria.offer5d_4_rus_andr,
+        com.101xp.avataria.offer5d_5_rus_andr,
+        com.101xp.avataria.offer6d_1_rus_andr,
+        com.101xp.avataria.offer6d_2_rus_andr,
+        com.101xp.avataria.offer6d_3_rus_andr,
+        com.101xp.avataria.offer6d_4_rus_andr,
+        com.101xp.avataria.offer6d_5_rus_andr,
+        com.101xp.avataria.offer7d_1_rus_andr,
+        com.101xp.avataria.offer7d_2_rus_andr,
+        com.101xp.avataria.offer7d_3_rus_andr,
+        com.101xp.avataria.offer7d_4_rus_andr,
+        com.101xp.avataria.offer7d_5_rus_andr,
+        com.101xp.avataria.offer8d_1_rus_andr,
+        com.101xp.avataria.offer8d_2_rus_andr,
+        com.101xp.avataria.offer8d_3_rus_andr,
+        com.101xp.avataria.offer8d_4_rus_andr,
+        com.101xp.avataria.offer8d_5_rus_andr,
+        com.101xp.avataria.offer9d_1_rus_andr,
+        com.101xp.avataria.offer9d_2_rus_andr,
+        com.101xp.avataria.offer9d_3_rus_andr,
+        com.101xp.avataria.offer9d_4_rus_andr,
+        com.101xp.avataria.offer9d_5_rus_andr,
+        com.101xp.avataria.offer10d_1_rus_andr,
+        com.101xp.avataria.offer10d_2_rus_andr,
+        com.101xp.avataria.offer10d_3_rus_andr,
+        com.101xp.avataria.offer10d_4_rus_andr,
+        com.101xp.avataria.offer10d_5_rus_andr,
+        com.101xp.avataria.offer12d_1_rus_andr,
+        com.101xp.avataria.offer12d_2_rus_andr,
+        com.101xp.avataria.offer12d_3_rus_andr,
+        com.101xp.avataria.offer12d_4_rus_andr,
+        com.101xp.avataria.offer12d_5_rus_andr,
+        com.101xp.avataria.offer15d_1_rus_andr,
+        com.101xp.avataria.offer15d_2_rus_andr,
+        com.101xp.avataria.offer15d_3_rus_andr,
+        com.101xp.avataria.offer15d_4_rus_andr,
+        com.101xp.avataria.offer15d_5_rus_andr"</string>
+<string name="bind_101xp">Sync progress</string>
+<string name="bind_another_account">Sync another profile</string>
+<string name="bind_sn">Sync progress</string>
+<string name="bind_text_warning">All the characters previously created on this device while using a guest account will be synced to a 101XP.com or a social network account.</string>
+<string name="bind_warning_text">The account is already in use. Please select another.</string>
+<string name="bottom_sheet_behavior">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
+<string name="cancel">Cancel</string>
+<string name="categories_list_fragment_error_message">Failed to get categories</string>
+<string name="change">Change</string>
+<string name="character_counter_content_description">Characters entered %1$d of %2$d</string>
+<string name="character_counter_overflowed_content_description">Character limit exceeded %1$d of %2$d</string>
+<string name="character_counter_pattern">%1$d/%2$d</string>
+<string name="chip_text">Chip text</string>
+<string name="clear_text_end_icon_content_description">Clear text</string>
+<string name="close">Close</string>
+<string name="collect_logs">Collect logs</string>
+<string name="com.crashlytics.android.build_id">00000000000000000000000000000000</string>
+<string name="com_facebook_device_auth_instructions">Visit &lt;b>facebook.com/device&lt;/b> and enter the code shown above.</string>
+<string name="com_facebook_image_download_unknown_error">Unexpected error while downloading an image.</string>
+<string name="com_facebook_internet_permission_error_message">WebView login requires INTERNET permission</string>
+<string name="com_facebook_internet_permission_error_title">AndroidManifest Error</string>
+<string name="com_facebook_like_button_liked">Liked</string>
+<string name="com_facebook_like_button_not_liked">Like</string>
+<string name="com_facebook_loading">Loading…</string>
+<string name="com_facebook_loginview_cancel_action">Cancel</string>
+<string name="com_facebook_loginview_log_in_button">Log in</string>
+<string name="com_facebook_loginview_log_in_button_continue">Continue with Facebook</string>
+<string name="com_facebook_loginview_log_in_button_long">Log in with Facebook</string>
+<string name="com_facebook_loginview_log_out_action">Log out</string>
+<string name="com_facebook_loginview_log_out_button">Log out</string>
+<string name="com_facebook_loginview_logged_in_as">Logged in as: %1$s</string>
+<string name="com_facebook_loginview_logged_in_using_facebook">Logged in using Facebook</string>
+<string name="com_facebook_send_button_text">Send</string>
+<string name="com_facebook_share_button_text">Share</string>
+<string name="com_facebook_smart_device_instructions">To connect your account, open the Facebook app on your mobile device and check for notifications.</string>
+<string name="com_facebook_smart_device_instructions_or">- OR -</string>
+<string name="com_facebook_smart_login_confirmation_cancel">Not you?</string>
+<string name="com_facebook_smart_login_confirmation_continue_as">Continue as %1$s</string>
+<string name="com_facebook_smart_login_confirmation_title">Confirm Login</string>
+<string name="com_facebook_tooltip_default">"You're in control - choose what info you want to share with apps."</string>
+<string name="common_google_play_services_enable_button">Enable</string>
+<string name="common_google_play_services_enable_text">"%1$s won't work unless you enable Google Play services."</string>
+<string name="common_google_play_services_enable_title">Enable Google Play services</string>
+<string name="common_google_play_services_install_button">Install</string>
+<string name="common_google_play_services_install_text">"%1$s won't run without Google Play services, which are missing from your device."</string>
+<string name="common_google_play_services_install_title">Get Google Play services</string>
+<string name="common_google_play_services_notification_channel_name">Google Play services availability</string>
+<string name="common_google_play_services_notification_ticker">Google Play services error</string>
+<string name="common_google_play_services_unknown_issue">%1$s is having trouble with Google Play services. Please try again.</string>
+<string name="common_google_play_services_unsupported_text">"%1$s won't run without Google Play services, which are not supported by your device."</string>
+<string name="common_google_play_services_update_button">Update</string>
+<string name="common_google_play_services_update_text">"%1$s won't run unless you update Google Play services."</string>
+<string name="common_google_play_services_update_title">Update Google Play services</string>
+<string name="common_google_play_services_updating_text">"%1$s won't run without Google Play services, which are currently updating."</string>
+<string name="common_google_play_services_wear_update_text">New version of Google Play services needed. It will update itself shortly.</string>
+<string name="common_open_on_phone">Open on phone</string>
+<string name="common_signin_button_text">Sign in</string>
+<string name="common_signin_button_text_long">Sign in with Google</string>
+<string name="contact_fragment_title">Contact us</string>
+<string name="continue_as_guest">Continue as guest</string>
+<string name="continue_with_fb">Continue with Facebook</string>
+<string name="copy_toast_msg">Link copied to clipboard</string>
+<string name="date_format_month_day">EEEE, MMMM d</string>
+<string name="date_format_year_month_day">EEEE, MMMM d yyyy</string>
+<string name="default_web_client_id">171455904607-ksnjd77qg6rv6l6mp2cngkfdiuiu2p2b.apps.googleusercontent.com</string>
+<string name="dialog_logs_text">Save application error information to a file on your device?</string>
+<string name="done">Done</string>
+<string name="empty" />
+<string name="enter_email">Please enter your e-mail for contact</string>
+<string name="error_connect">Failed to connect to the server</string>
+<string name="error_failed_ssl_handshake">Failed to perform SSL handshake</string>
+<string name="error_host_lookup">Server or proxy hostname lookup failed</string>
+<string name="error_icon_content_description">Error</string>
+<string name="error_msg_invalid_email">Enter valid email address</string>
+<string name="error_msg_invalid_message">Enter your message</string>
+<string name="error_msg_invalid_name">Enter your full name</string>
+<string name="error_ssl_date_invalid">The date of the certificate is invalid</string>
+<string name="error_ssl_expired">The certificate has expired</string>
+<string name="error_ssl_id_mismatch">Hostname mismatch</string>
+<string name="error_ssl_not_yet_valid">The certificate is not yet valid</string>
+<string name="error_ssl_untrusted">The certificate authority is not trusted</string>
+<string name="error_timeout">Connection timed out</string>
+<string name="error_unknown">Generic error</string>
+<string name="eula_accept_text">Accept</string>
+<string name="eula_agree_text">I accept the licensing terms and conditions</string>
+<string name="eula_browser_alert_text">To access the EULA, please install or enable a web browser.</string>
+<string name="eula_btn_text">EULA</string>
+<string name="eula_close_text">Close</string>
+<string name="eula_default_url">https://mobile.101xp.com/pages/privacy-policy-terms-of-service</string>
+<string name="eula_message_text">"By tapping the “Accept” button you
+ confirm that you have read and agree to
+ our User Agreement and Privacy Policy."</string>
+<string name="eula_read_text">Read</string>
+<string name="eula_retry_btn_text">Try again</string>
+<string name="eula_retry_message">"Read error.
+Please try again."</string>
+<string name="eula_title">User Agreement and Privacy Policy</string>
+<string name="exit">Exit</string>
+<string name="exit_logout">Logout</string>
+<string name="exposed_dropdown_menu_content_description">Show dropdown menu</string>
+<string name="fab_transformation_scrim_behavior">com.google.android.material.transformation.FabTransformationScrimBehavior</string>
+<string name="fab_transformation_sheet_behavior">com.google.android.material.transformation.FabTransformationSheetBehavior</string>
+<string name="facebook_bind_warning">This Facebook profile is already linked to another account</string>
+<string name="failed_to_get_more">Failed to load more.</string>
+<string name="failed_to_load">Failed to load.</string>
+<string name="failed_to_refresh">Failed to refresh.</string>
+<string name="fallback_menu_item_copy_link">Copy link</string>
+<string name="fallback_menu_item_open_in_browser">Open in browser</string>
+<string name="fallback_menu_item_share_link">Share link</string>
+<string name="fb_app_id">1992215494439519</string>
+<string name="fcm_fallback_notification_channel_label">Miscellaneous</string>
+<string name="feedback_hint">Your feedback</string>
+<string name="feedback_not_sent">Your feedback has not been sent to support team. Error: %1$s</string>
+<string name="feedback_result_text">"It will help us
+make the game better!"</string>
+<string name="feedback_result_title">Thanks for the feedback!</string>
+<string name="feedback_sent_hint">Your feedback has been sent to support team.</string>
+<string name="firebase_database_url">https://avataria-ru.firebaseio.com</string>
+<string name="fiverocks_app_id" />
+<string name="fiverocks_app_key" />
+<string name="gcm_defaultSenderId">171455904607</string>
+<string name="getting_more">Loading more…</string>
+<string name="google_api_key">AIzaSyD-ucGo9d9Zvx3VdcW-WEH336hIsZIAjFE</string>
+<string name="google_app_id">1:171455904607:android:43c76208d2da1c7a</string>
+<string name="google_client_id">171455904607-lm0mqbanjsrcij16gra6jh7goaj1m5kq.apps.googleusercontent.com</string>
+<string name="google_crash_reporting_api_key">AIzaSyD-ucGo9d9Zvx3VdcW-WEH336hIsZIAjFE</string>
+<string name="google_storage_bucket">avataria-ru.appspot.com</string>
+<string name="guest_session_save_text">You are using a guest account. We recommend syncing your progress to a 101XP.com or a social network account.</string>
+<string name="hello_world">Hello world!</string>
+<string name="help_search_no_results_label">No results for</string>
+<string name="help_search_subtitle_format">%1$s • %2$s</string>
+<string name="help_see_all_articles_label">See all articles</string>
+<string name="help_see_all_n_articles_label">See all %d articles</string>
+<string name="hide_bottom_view_on_scroll_behavior">com.google.android.material.behavior.HideBottomViewOnScrollBehavior</string>
+<string name="icon_content_description">Dialog Icon</string>
+<string name="id">101XP ID:</string>
+<string name="id_not_equal_warning">This social network profile is linked to another mobile account. Are you sure you want to connect to an existing account?</string>
+<string name="invite">Invite friends</string>
+<string name="invite_canceled">Invite friends was canceled</string>
+<string name="invite_fb">Invite friends Facebook</string>
+<string name="invite_link_error_message">Sorry, can not send invitation</string>
+<string name="invite_link_message">"Let's play %1$s together! Use my referrer link: %2$s"</string>
+<string name="invite_link_subject">%1$s invite you to play in %2$s!</string>
+<string name="invite_link_title">"Let's play %1$s"</string>
+<string name="invite_ok">Invite friends Odnoklassniki</string>
+<string name="invite_title">Invite Friends</string>
+<string name="invite_vk">Invite friends Vkontakte</string>
+<string name="item_view_role_description">Tab</string>
+<string name="join_button">Join to group</string>
+<string name="join_vk">Join to group Vkontakte</string>
+<string name="just_before">Just before</string>
+<string name="later">Remind later</string>
+<string name="like_game">"Do you like the
+%1$s?"</string>
+<string name="loading">Loading...</string>
+<string name="log_in_with">To sync your progress sign in with a 101XP.com or a social network account</string>
+<string name="login">Authorization</string>
+<string name="login_text">Sign in with a 101XP.com or a social network account or continue as guest</string>
+<string name="logout">Logout</string>
+<string name="material_slider_range_end">Range end,</string>
+<string name="material_slider_range_start">Range start,</string>
+<string name="meny_operations_warning_test">Too many operations. Please try again later.</string>
+<string name="messenger_send_button_text">Send</string>
+<string name="mtrl_badge_numberless_content_description">New notification</string>
+<string name="mtrl_chip_close_icon_content_description">Remove %1$s</string>
+<string name="mtrl_exceed_max_badge_number_content_description">More than %1$d new notifications</string>
+<string name="mtrl_exceed_max_badge_number_suffix">%1$d%2$s</string>
+<string name="mtrl_picker_a11y_next_month">Change to next month</string>
+<string name="mtrl_picker_a11y_prev_month">Change to previous month</string>
+<string name="mtrl_picker_announce_current_selection">Current selection: %1$s</string>
+<string name="mtrl_picker_cancel">@android:string/cancel</string>
+<string name="mtrl_picker_confirm">@android:string/ok</string>
+<string name="mtrl_picker_date_header_selected">%1$s</string>
+<string name="mtrl_picker_date_header_title">Select a Date</string>
+<string name="mtrl_picker_date_header_unselected">Selected date</string>
+<string name="mtrl_picker_day_of_week_column_header">Column of days: %1$s</string>
+<string name="mtrl_picker_invalid_format">Invalid format.</string>
+<string name="mtrl_picker_invalid_format_example">Example: %1$s</string>
+<string name="mtrl_picker_invalid_format_use">Use: %1$s</string>
+<string name="mtrl_picker_invalid_range">Invalid range.</string>
+<string name="mtrl_picker_navigate_to_year_description">Navigate to year %1$s</string>
+<string name="mtrl_picker_out_of_range">Out of range: %1$s</string>
+<string name="mtrl_picker_range_header_only_end_selected">Start date – %1$s</string>
+<string name="mtrl_picker_range_header_only_start_selected">%1$s – End date</string>
+<string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
+<string name="mtrl_picker_range_header_title">Select a Date Range</string>
+<string name="mtrl_picker_range_header_unselected">Start date – End date</string>
+<string name="mtrl_picker_save">Save</string>
+<string name="mtrl_picker_text_input_date_hint">Date</string>
+<string name="mtrl_picker_text_input_date_range_end_hint">End date</string>
+<string name="mtrl_picker_text_input_date_range_start_hint">Start date</string>
+<string name="mtrl_picker_text_input_day_abbr">d</string>
+<string name="mtrl_picker_text_input_month_abbr">m</string>
+<string name="mtrl_picker_text_input_year_abbr">y</string>
+<string name="mtrl_picker_toggle_to_calendar_input_mode">Switch to calendar input mode</string>
+<string name="mtrl_picker_toggle_to_day_selection">Tap to switch to selecting a day</string>
+<string name="mtrl_picker_toggle_to_text_input_mode">Switch to text input mode</string>
+<string name="mtrl_picker_toggle_to_year_selection">Tap to switch to selecting a year</string>
+<string name="network_activity_no_connectivity">No connection</string>
+<string name="no">No</string>
+<string name="no_application_data">No application data (id or public key)</string>
+<string name="no_button">No</string>
+<string name="no_ok_application_installed">OK application is required to be installed for SSO authorization.</string>
+<string name="no_valid_token">No valid token</string>
+<string name="not_logged_in_message">You’re not logged in! Please, log in!</string>
+<string name="not_now_button">Not now</string>
+<string name="offline_notification_text">Tap to open ad</string>
+<string name="offline_notification_title">View the ad you saved when you were offline</string>
+<string name="offline_opt_in_confirm">OK</string>
+<string name="offline_opt_in_confirmation">"You'll get a notification with the link when you're back online"</string>
+<string name="offline_opt_in_decline">No thanks</string>
+<string name="offline_opt_in_message">"We'll send you a notification with a link to the advertiser site."</string>
+<string name="offline_opt_in_title">"Open ad when you're back online."</string>
+<string name="ok">OK</string>
+<string name="ok_app_id">1123291648</string>
+<string name="ok_app_key">CBADBFPDEBABABABA</string>
+<string name="ok_redirect_url">okauth://ok1123291648</string>
+<string name="or">or</string>
+<string name="or_use_sn">or use social network</string>
+<string name="p101xp_label_text">Game ID:</string>
+<string name="password_toggle_content_description">Show password</string>
+<string name="path_password_eye">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
+<string name="path_password_eye_mask_strike_through">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+<string name="path_password_eye_mask_visible">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+<string name="path_password_strike_through">M3.27,4.27 L19.74,20.74</string>
+<string name="player_profile">Player Profile</string>
+<string name="please_wait">Please wait…</string>
+<string name="posting_canceled">Posting was canceled</string>
+<string name="project_id">avataria-ru</string>
+<string name="pull_down_to_load">Pull down to load.</string>
+<string name="pull_down_to_refresh">Pull down to refresh.</string>
+<string name="pull_up_to_get_more">Pull up to load more.</string>
+<string name="rate_us">Rate the game</string>
+<string name="refresh">Refresh</string>
+<string name="release_to_get_more">Release to load more.</string>
+<string name="release_to_load">Release to load.</string>
+<string name="release_to_refresh">Release to refresh.</string>
+<string name="report">Technical support</string>
+<string name="request_activity_title">@string/contact_fragment_title</string>
+<string name="request_attachment_generic_unknown_app">Unknown</string>
+<string name="request_dialog_body_unsaved_changes">Going back will delete your message. Are you sure you want to delete it?</string>
+<string name="request_dialog_button_label_cancel">Cancel</string>
+<string name="request_dialog_button_label_delete">Delete</string>
+<string name="request_dialog_title_unsaved_changes">Message not sent</string>
+<string name="request_email_entry_hint">Email</string>
+<string name="request_error_create_request">Failed to create request</string>
+<string name="request_error_load_comments">Failed to load comments</string>
+<string name="request_file_attachment_download_in_progress">File download in progress</string>
+<string name="request_list_activity_title">My tickets</string>
+<string name="request_list_empty_start_conversation">START A CONVERSATION</string>
+<string name="request_list_empty_text">Conversations started from this app will be visible here.</string>
+<string name="request_list_error_message">@string/request_list_fragment_error_message</string>
+<string name="request_list_fragment_error_message">Failed to get tickets</string>
+<string name="request_list_me">Me</string>
+<string name="request_list_re">Re: %s</string>
+<string name="request_list_ticket_closed">Ticket Closed</string>
+<string name="request_menu_button_label_add_attachments">Add attachments</string>
+<string name="request_menu_button_label_send">Send</string>
+<string name="request_message_date_today">TODAY</string>
+<string name="request_message_date_yesterday">YESTERDAY</string>
+<string name="request_message_entry_hint">Message</string>
+<string name="request_message_inline_image_title_format">[%1$s]</string>
+<string name="request_message_status_delivered">Delivered</string>
+<string name="request_messages_status_error">Message failed. Tap to retry</string>
+<string name="request_name_entry_hint">Name</string>
+<string name="request_retry_dialog_delete_message">Delete message</string>
+<string name="request_retry_dialog_retry">Retry sending</string>
+<string name="request_system_message_closed_ticket">This conversation has been closed.</string>
+<string name="request_toolbar_last_reply">Last reply %s</string>
+<string name="request_write_a_message">Write a message</string>
+<string name="retry">Retry</string>
+<string name="retry_view_button_label">Retry</string>
+<string name="return_to_servers">Back to servers list</string>
+<string name="s1">Save image</string>
+<string name="s2">Allow Ad to store image in Picture gallery?</string>
+<string name="s3">Accept</string>
+<string name="s4">Decline</string>
+<string name="s5">Create calendar event</string>
+<string name="s6">Allow Ad to create a calendar event?</string>
+<string name="s7">Test Ad</string>
+<string name="save_game_progress">Sync your progress</string>
+<string name="save_game_progress_text">Your game progress can be lost. We recommend syncing your progress to a 101XP.com or a social network account.</string>
+<string name="sdk_client_id">A3A24F4222CBD</string>
+<string name="search_hint">Search</string>
+<string name="search_menu_title">Search</string>
+<string name="sections_list_fragment_error_message">Failed to get sections</string>
+<string name="select_account_title">Select an account to play</string>
+<string name="send_button">Send</string>
+<string name="send_post">Send post</string>
+<string name="settings">Settings</string>
+<string name="sign_in">Sign in</string>
+<string name="sign_in_101xp">Sign in with</string>
+<string name="sign_out">Sign out</string>
+<string name="sign_up">Sign up</string>
+<string name="status_bar_notification_info_overflow">999+</string>
+<string name="suggest_canceled">Suggest to friends was canceled</string>
+<string name="support_activity_title">Support</string>
+<string name="support_articles_list_fragment_error_message">@string/articles_list_fragment_error_message</string>
+<string name="support_articles_list_fragment_no_articles_found">@string/articles_list_fragment_no_articles_found</string>
+<string name="support_categories_list_fragment_error_message">@string/categories_list_fragment_error_message</string>
+<string name="support_conversations_menu">Conversations</string>
+<string name="support_help_search_no_results_label">@string/help_search_no_results_label</string>
+<string name="support_help_see_all_articles_label">@string/help_see_all_articles_label</string>
+<string name="support_help_see_all_n_articles_label">@string/help_see_all_n_articles_label</string>
+<string name="support_sections_list_fragment_error_message">@string/sections_list_fragment_error_message</string>
+<string name="sure_button">Sure</string>
+<string name="title_activity_main">MainActivity</string>
+<string name="today">Today</string>
+<string name="updating">Updating…</string>
+<string name="username">Welcome,</string>
+<string name="view_article_attachments_error">Failed to fetch attachments</string>
+<string name="view_article_html_body">"&lt;HTML dir=auto> &lt;HEAD>&lt;LINK href='%1$s' type='text/css' rel='stylesheet'/>&lt;/HEAD> &lt;body> &lt;h1 id=title>%2$s&lt;/h1> %3$s &lt;footer>&lt;p id=footerText>%4$s&lt;/p>&lt;/footer> &lt;/body> &lt;/HTML>"</string>
+<string name="view_article_seperator">•</string>
+<string name="view_article_vote_prompt">Was this article helpful?</string>
+<string name="vk_captcha_hint">Please enter the code from the picture</string>
+<string name="vk_confirm">Please confirm</string>
+<string name="vk_retry">Retry</string>
+<string name="warning_bind_text">This social network profile is already linked to another account.</string>
+<string name="web_store_project_name">avataria</string>
+<string name="web_ui_version">1.0.0</string>
+<string name="welcome_guest">guest</string>
+<string name="welcome_player">player</string>
+<string name="welcome_user">Welcome, %1$s!</string>
+<string name="whats_wrong">Tell us, please, what you did not like in the game.</string>
+<string name="whats_wrong_please">Please tell us what exactly does not please you in game %1$s?</string>
+<string name="yandex_ads_context">yandex:ads:context</string>
+<string name="yandex_ads_context_allow_parsing">allow-parsing</string>
+<string name="yandex_ads_context_do_not_parse">do-not-parse</string>
+<string name="yandex_ads_internal_after_timer_value">сек</string>
+<string name="yandex_ads_internal_before_timer_value">До начисления награды осталось</string>
+<string name="yandex_ads_internal_go">Перейти</string>
+<string name="yandex_ads_internal_install">Установить</string>
+<string name="yandex_ads_internal_install_from_google_play">Установить из Google Play</string>
+<string name="yandex_ads_internal_instream_advertiser_social">Социальная реклама</string>
+<string name="yandex_ads_internal_instream_advertiser_yandex">Реклама</string>
+<string name="yandex_ads_internal_rewarded_close_verification_button_close">Закрыть</string>
+<string name="yandex_ads_internal_rewarded_close_verification_button_dismiss">Досмотреть</string>
+<string name="yandex_ads_internal_rewarded_close_verification_text">Если закрыть рекламу до окончания таймера, награда за просмотр не будет начислена</string>
+<string name="yandex_ads_internal_rewarded_close_verification_title">Закрыть рекламу?</string>
+<string name="yandex_ads_internal_text_divider">·</string>
+<string name="yandex_ads_internal_tools_age_text">3+</string>
+<string name="yandex_ads_internal_tools_app_install_call_to_action_text">Установить</string>
+<string name="yandex_ads_internal_tools_app_install_call_to_action_text_large">Установить из Google Play</string>
+<string name="yandex_ads_internal_tools_body_text">Огромный выбор авто. Удобный поиск. Авто новые и с пробегом. Ежедневные обновления. Огромный выбор авто. Огромный выбор авто. Удобный поиск. Авто новые и с пробегом. Ежедневные обновления. Огромный выбор авто</string>
+<string name="yandex_ads_internal_tools_call_to_action_text">Перейти на сайт</string>
+<string name="yandex_ads_internal_tools_domain_text">domain</string>
+<string name="yandex_ads_internal_tools_price_text">price</string>
+<string name="yandex_ads_internal_tools_rating_text">rating</string>
+<string name="yandex_ads_internal_tools_review_count_text">review count</string>
+<string name="yandex_ads_internal_tools_sponsored_text">sponsored</string>
+<string name="yandex_ads_internal_tools_title_text">Покупка и продажа элитных и дешёвых машин на Авто.ру</string>
+<string name="yandex_ads_internal_tools_warning_text">Есть противопоказания. Обратитесь к специалисту Есть противопоказания. Обратитесь к специалисту</string>
+<string name="yandex_mobileads_automatic_sdk_initialization">com.yandex.mobile.ads.AUTOMATIC_SDK_INITIALIZATION</string>
+<string name="yes">Yes</string>
+<string name="yes_button">Yes</string>
+<string name="yesterday">Yesterday</string>
+<string name="zendesk_app_id">21b055e1e2c05df4c4d285464753952067702306e06a8db5</string>
+<string name="zendesk_auth_client_id">mobile_sdk_client_94e3717273c5b74df55b</string>
+<string name="zendesk_category_id">360001375492</string>
+<string name="zendesk_game_id">game_11</string>
+<string name="zendesk_no_connectivity_error">@string/network_activity_no_connectivity</string>
+<string name="zendesk_retry_button_label">@string/retry_view_button_label</string>
+<string name="zg_general_contact_us_button_label_accessibility">Contact us</string>
+<string name="zg_general_no_connection_message">No connection</string>
+<string name="zs_engine_greeting_message">Type a message and I will find someone who can help you.</string>
+<string name="zs_engine_message_retry_button">Retry</string>
+<string name="zs_engine_message_send_error_message">"Something went wrong and I wasn't able to send your message. Please try again later."</string>
+<string name="zs_engine_request_created_conversations_enabled_message">Thank you. A message has been sent to the team. You can view this message and add additional details here:</string>
+<string name="zs_engine_request_created_conversations_off_message">Thank you. A message has been sent to the team. If a reply is needed, they will contact you by email.</string>
+<string name="zs_engine_request_created_request_list_button">View messages</string>
+<string name="zs_engine_request_creation_email_prompt_hint">Enter your email…</string>
+<string name="zs_engine_request_creation_email_prompt_message">If a reply is needed, someone will contact you by email. What is your email address?</string>
+<string name="zs_engine_request_creation_email_validation_failed_message">The email address you entered is incorrect. Enter a valid email address.</string>
+<string name="zs_general_contact_us_button_label_accessibility">Contact us</string>
+<string name="zs_general_referrer_logo_label_accessibility">Zendesk</string>
+<string name="zs_help_center_content_loaded_accessibility">Help Center loaded</string>
+<string name="zs_help_center_search_loaded_accessibility">Search results loaded</string>
+<string name="zs_request_announce_comment_created_accessibility">Comment with text %s sent.</string>
+<string name="zs_request_announce_comment_failed_accessibility">Unable to create comment with text %s.</string>
+<string name="zs_request_announce_comments_loaded_accessibility">Comments loaded.</string>
+<string name="zs_request_attachment_carousel_attachment_accessibility">Attached file with name %s.</string>
+<string name="zs_request_attachment_carousel_remove_attachment_accessibility">Remove attachment with name %s.</string>
+<string name="zs_request_attachment_indicator_accessibility">Select an attachment.</string>
+<string name="zs_request_attachment_indicator_n_attachments_selected_accessibility">There are %d attachments selected.</string>
+<string name="zs_request_attachment_indicator_no_attachments_selected_accessibility">There are no attachments selected.</string>
+<string name="zs_request_attachment_indicator_one_attachments_selected_accessibility">There is one attachment selected.</string>
+<string name="zs_request_contact_option_leave_a_message">Leave a message</string>
+<string name="zs_request_list_content_load_failed_accessibility">Support tickets failed to load</string>
+<string name="zs_request_list_content_loaded_accessibility">Support tickets loaded</string>
+<string name="zs_request_list_content_loaded_empty_accessibility">No support tickets</string>
+<string name="zs_request_list_content_loading_accessibility">Loading support tickets</string>
+<string name="zs_request_message_agent_file_accessibility">Agent file attachment with name %s.</string>
+<string name="zs_request_message_agent_image_accessibility">Agent image attachment with name %s.</string>
+<string name="zs_request_message_agent_sent_accessibility">Sent by %1$s at %2$s.</string>
+<string name="zs_request_message_agent_text_accessibility">Agent message %s.</string>
+<string name="zs_request_message_user_error_accessibility">Failed to send. Tap for options.</string>
+<string name="zs_request_message_user_file_accessibility">File with name %s.</string>
+<string name="zs_request_message_user_image_accessibility">Image with name %s.</string>
+<string name="zs_request_message_user_sent_accessibility">Sent by you at %s</string>
+<string name="zs_request_message_user_text_accessibility">Message %s.</string>
+<string name="zs_request_toolbar_accessibility">Last reply by %1$s at %2$s.</string>
+<string name="zs_view_article_error">Failed to fetch article</string>
+<string name="zs_view_article_loaded_accessibility">%s article loaded</string>
+<string name="zs_view_article_loading_title" />
+<string name="zs_view_article_vote_no_accessibility">No vote</string>
+<string name="zs_view_article_vote_no_remove_accessibility">Remove yes vote</string>
+<string name="zs_view_article_vote_yes_accessibility">Yes vote</string>
+<string name="zs_view_article_vote_yes_remove_accessibility">Remove no vote</string>
+<string name="zs_view_article_voted_failed_accessibility_announce">Vote failed</string>
+<string name="zs_view_article_voted_no_accessibility_announce">Voted no</string>
+<string name="zs_view_article_voted_yes_accessibility_announce">Voted yes</string>
+<string name="zui_attachment_indicator_accessibility">Select an attachment</string>
+<string name="zui_attachment_indicator_n_attachments_selected_accessibility">There are %d attachments selected</string>
+<string name="zui_attachment_indicator_no_attachments_selected_accessibility">There are no attachments selected</string>
+<string name="zui_attachment_indicator_one_attachments_selected_accessibility">There is one attachment selected</string>
+<string name="zui_bot_label">BOT</string>
+<string name="zui_button_label_no">No</string>
+<string name="zui_button_label_yes">Yes</string>
+<string name="zui_cell_text_suggested_article_header">"Here's an article that may help:"</string>
+<string name="zui_cell_text_suggested_articles_header">Here are some articles that may help:</string>
+<string name="zui_default_bot_name">Answer Bot</string>
+<string name="zui_dialog_email_error">Invalid email</string>
+<string name="zui_dialog_email_hint">Email address</string>
+<string name="zui_failed_message_copy">Copy</string>
+<string name="zui_failed_message_delete">Delete</string>
+<string name="zui_failed_message_retry">Retry</string>
+<string name="zui_hint_type_message">Type a message…</string>
+<string name="zui_label_connecting">Connecting…</string>
+<string name="zui_label_dialog_delete_btn">Delete message</string>
+<string name="zui_label_dialog_retry_btn">Retry sending</string>
+<string name="zui_label_failed">Failed</string>
+<string name="zui_label_reconnecting">Reconnecting…</string>
+<string name="zui_label_reconnecting_failed">Connection failed.</string>
+<string name="zui_label_send">Send</string>
+<string name="zui_label_sent">Sent</string>
+<string name="zui_label_tap_retry">Tap to retry</string>
+<string name="zui_message_log_article_opened_formatter">"%1$s opened article '%2$s'"</string>
+<string name="zui_message_log_article_suggestion_message">I found these articles:</string>
+<string name="zui_message_log_attachment_sending_failed">Attachment could not be sent</string>
+<string name="zui_message_log_default_visitor_name">Visitor</string>
+<string name="zui_message_log_message_attachment_type_not_supported">Attachment type not supported</string>
+<string name="zui_message_log_message_attachments_not_supported">Attachments not supported</string>
+<string name="zui_message_log_message_failed_to_send">[Failed to send]</string>
+<string name="zui_message_log_message_file_exceeds_max_size">Exceeds max file size (%1$s)</string>
+<string name="zui_message_log_transfer_option_selection_formatter">%1$s selected %2$s</string>
+<string name="zui_retry_button_label">Retry</string>
+<string name="zui_toolbar_title">Contact us</string>
+<string name="zui_unable_open_file">Unable to open file.</string>
+</resources>

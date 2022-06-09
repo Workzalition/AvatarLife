@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<bool name="abc_action_bar_embed_tabs">true</bool>
+<bool name="abc_allow_stacked_button_bar">false</bool>
+<bool name="abc_config_actionMenuItemAllCaps">true</bool>
+<bool name="achievements_on">false</bool>
+<bool name="app_review_enabled">true</bool>
+<bool name="appsflyer_debug_log_enabled">true</bool>
+<bool name="auto_login_enabled">true</bool>
+<bool name="billing_enabled">true</bool>
+<bool name="billing_test">false</bool>
+<bool name="crashlytics_enabled">true</bool>
+<bool name="dev_mode">false</bool>
+<bool name="device_token_enabled">true</bool>
+<bool name="enable_system_alarm_service_default">true</bool>
+<bool name="enable_system_foreground_service_default">true</bool>
+<bool name="enable_system_job_service_default">false</bool>
+<bool name="eula_show_enabled">true</bool>
+<bool name="firebase_crashlytics_collection_enabled">false</bool>
+<bool name="google_auth_first_session">true</bool>
+<bool name="gp_enabled">true</bool>
+<bool name="guest_auth">true</bool>
+<bool name="guest_timeout_enabled">true</bool>
+<bool name="mtrl_btn_textappearance_all_caps">true</bool>
+<bool name="web_screen_rotation_disabled">true</bool>
+<bool name="web_ui_enabled">false</bool>
+<bool name="workmanager_test_configuration">false</bool>
+<bool name="zs_request_image_picker_full_screen">true</bool>
+</resources>

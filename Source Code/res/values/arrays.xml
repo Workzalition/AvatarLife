@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<style name="com_google_android_gms_fonts_certs" />
+<style name="com_google_android_gms_fonts_certs_dev" />
+<style name="com_google_android_gms_fonts_certs_prod" />
+<style name="preloaded_fonts" />
+<style name="zui_avatar_view__background_color_palette" />
+</resources>
