@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dictionary>
+  <locale name="es">
+    <message key="supportButtonTitle">Escribir al soporte técnico</message>
+    <message key="eventCreateFailedTitle">No se puede crear un evento</message>
+    <message key="eventCreateFailedDesc">Inténtalo de nuevo. Solo se pueden usar símbolos de texto.</message>
+    <message key="continueButton">Continuar</message>
+    <message key="errorTitle">Error</message>
+    <message key="101xpAuthError">Ha ocurrido un error durante la autorización, vuelve a intentarlo más tarde</message>
+    <message key="okButton">Aceptar</message>
+    <message key="contactSupportButton">Asistencia</message>
+    <message key="attentionTitle">Atención</message>
+    <message key="backStartScreen">Volverás a la pantalla de inicio</message>
+    <message key="cancelButton">Cancelar</message>
+    <message key="waitingText">Conectándote al servidor de autorización...</message>
+    <message key="profileButton">Perfil</message>
+    <message key="authProblemTitle">¿No puedes iniciar sesión?</message>
+    <message key="authProblemText">Nos hemos percatado de un error que ha tenido lugar las últimas veces que intentaste iniciar el juego. Si esto es correcto, ponte en contacto con nuestro equipo de asistencia.</message>
+    <message key="skipButton">Saltar</message>
+    <message key="confirmActionTitle">Confirmar acción</message>
+    <message key="wantBuyText">¿Seguro que quieres comprar objetos por</message>
+    <message key="yesButton">Sí</message>
+    <message key="noButton">No</message>
+    <message key="resourcesDownloadTitle">Descargar</message>
+    <message key="resourcesDownloadText">Los recursos no han sido descargados</message>
+    <message key="resourcesLoaderText">Descargando recursos</message>
+    <message key="resourcesLoaderText2">Descargando recursos adicionales</message>
+    <message key="leaveFeedbackText">Valoramos mucho tus comentarios. ¿Quieres valorar la aplicación?</message>
+    <message key="supportPageRedirect">Te redirigiremos a la página de asistencia</message>
+    <message key="submitAction">Enviar</message>
+    <message key="inappError">Ha ocurrido un error. Vuelve a intentarlo más tarde.</message>
+    <message key="inappSuccess">El producto ha sido comprado.</message>
+    <message key="inappRestored">El producto que habías comprado ha sido repuesto.</message>
+    <message key="somethingWentWrong">Ha ocurrido un error, inténtalo de nuevo más tarde.</message>
+    <message key="Unlock">Abrir</message>
+    <message key="unlockConfirmTitle">Abrir</message>
+    <message key="unlockDescription">¿Quieres desbloquear esto?</message>
+    <message key="nyFriend">Hada del bosque</message>
+    <message key="101xpInitError">Ha ocurrido un error al intentar iniciar la aplicación. Vuelve a intentarlo y, si el error sigue ocurriendo, ponte en contacto con el servicio de asistencia técnica.</message>
+    <message key="socialNetworkUrl">https://www.facebook.com/AvatarLife101XP</message>
+    <message key="resourcesDownloadFinishedText">¡Contenido actualizado!</message>
+    <message key="billingNotAvailableTitle">Los pagos están temporalmente desactivados</message>
+  </locale>
+</dictionary>

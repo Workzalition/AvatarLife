@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dictionary>
+  <locale name="ru">
+    <message key="retry">Повторить</message>
+    <message key="NETWORK_ERROR_DEFAULT">Проверьте интернет-соединение</message>
+    <message key="NETWORK_ERROR_1">URL использует неподдерживаемый протокол</message>
+    <message key="NETWORK_ERROR_2">Ошибка инициализации curl</message>
+    <message key="NETWORK_ERROR_3">Некорректный URL-адрес</message>
+    <message key="NETWORK_ERROR_6">Невозможно определить хост</message>
+    <message key="NETWORK_ERROR_7">Ошибка соединения с хостом или прокси</message>
+    <message key="NETWORK_ERROR_8">FTP сервер послал неопознанный ответ</message>
+    <message key="NETWORK_ERROR_9">FTP ошибка удаленного доступа</message>
+    <message key="NETWORK_ERROR_12">Время FTP сессии истекло</message>
+    <message key="NETWORK_ERROR_15">Невозможно разрешить хост для соединения</message>
+    <message key="NETWORK_ERROR_23">Ошибка записи локального файла</message>
+    <message key="NETWORK_ERROR_27">Ошибка памяти</message>
+    <message key="NETWORK_ERROR_28">Время операции истекло</message>
+    <message key="NETWORK_ERROR_30">Ошибка FTP порта</message>
+    <message key="NETWORK_ERROR_36">Невозможно восстановить загрузку. Некорректное смещение данных</message>
+    <message key="NETWORK_ERROR_213">Ошибка загрузки файла. Повторите позже</message>
+    <message key="NETWORK_ERROR_331">Имя пользователя корректно, нужен пароль</message>
+    <message key="NETWORK_ERROR_332">Для входа в систему необходима аутентификация</message>
+    <message key="NETWORK_ERROR_404">Удалённый сервер не найден</message>
+    <message key="NETWORK_ERROR_421">Процедура невозможна, канал закрывается</message>
+    <message key="NETWORK_ERROR_425">Открытие информационного канала невозможно</message>
+    <message key="NETWORK_ERROR_426">Канал закрыт, обмен прерван</message>
+    <message key="NETWORK_ERROR_434">Запрашиваемый хост недоступен</message>
+    <message key="relogin_request">Нужен релогин</message>
+    <message key="NETWORK_ERROR_TITLE">Не удалось подключиться</message>
+  </locale>
+</dictionary>

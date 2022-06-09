@@ -1,0 +1,2136 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dictionary>
+  <locale name="tr">
+    <gender key="achievementNotification">
+      <form>:name: bir «:achievement:» kupası aldı. Gidin ve tebrik edin!</form>
+      <form>:name: bir «:achievement:» kupası aldı. Gidin ve tebrik edin!</form>
+    </gender>
+    <gender key="alreadyEngagedMessage">
+      <form>Zaten nişanlısınız. Önce şimdiki nişanlınızdan ayrılmanız gerekmektedir.</form>
+      <form>Zaten nişanlısınız. Önce şimdiki nişanlınızdan ayrılmanız gerekmektedir.</form>
+    </gender>
+    <gender key="alreadyEngagedTitle">
+      <form>Zaten nişanlısınız</form>
+      <form>Zaten nişanlısınız</form>
+    </gender>
+    <gender key="alreadyMarriedMessage">
+      <form>Zaten evlisiniz. Önce kocanızdan boşanmanız gerekmektedir.</form>
+      <form>Zaten evlisiniz. Önce karınızdan boşanmanız gerekmektedir.</form>
+    </gender>
+    <gender key="alreadyMarriedTitle">
+      <form>Zaten evlisiniz</form>
+      <form>Zaten evlisiniz</form>
+    </gender>
+    <gender key="brokeObject">
+      <form>:name: :object: bozdu</form>
+      <form>:name: :object: bozdu</form>
+    </gender>
+    <gender key="buyBeforeWedding">
+      <form>Misafirleri davet etmeden önce, şunları aldığınızdan emin olun;</form>
+      <form>Misafirleri davet etmeden önce, şunları aldığınızdan emin olun;</form>
+    </gender>
+    <gender key="buyVipNotification">
+      <form>:name: VIP statüsü satın aldı</form>
+      <form>:name: VIP statüsü satın aldı</form>
+    </gender>
+    <gender key="buyVipTitle">
+      <form>VIP statüsü satın aldınız</form>
+      <form>VIP statüsü satın aldınız</form>
+    </gender>
+    <gender key="cityEventNotification">
+      <form>:name: yeni bir etkinlik oluşturdu; «:event:» ve sizi bekliyor.</form>
+      <form>:name: yeni bir etkinlik oluşturdu; «:event:» ve sizi bekliyor.</form>
+    </gender>
+    <gender key="completedQuest">
+      <form>Avataria'da :questLabel: görevini tamamladım.</form>
+      <form>Avataria'da :questLabel: görevini tamamladım.</form>
+    </gender>
+    <gender key="craftProducedDialogMessage">
+      <form>:craftItemLabel: oluşturduğunuz için tebrikler!</form>
+      <form>:craftItemLabel: oluşturduğunuz için tebrikler!</form>
+    </gender>
+    <gender key="craftResponseNotificationDescription">
+      <form>:name: size :component: gönderdi</form>
+      <form>:name: size :component: gönderdi</form>
+    </gender>
+    <gender key="createAvatarDialogMessage">
+      <form>Avatarınızı oluşturduğunuz için tebrikler! Arkadaşlarla daha eğlenceli olur! Arkadaşlarınızı oynamaları için davet edin!</form>
+      <form>Avatarınızı oluşturduğunuz için tebrikler! Arkadaşlarla daha eğlenceli olur! Arkadaşlarınızı oynamaları için davet edin!</form>
+    </gender>
+    <gender key="createAvatarWallMessage">
+      <form>Avataria'da bir karakter oluşturdum!</form>
+      <form>Avataria'da bir karakter oluşturdum!</form>
+    </gender>
+    <gender key="createEventDialogMessage">
+      <form>Yeni bir etkinlik oluşturduğunuz için tebrikler! Arkadaşlarınıza anlatın!</form>
+      <form>Yeni bir etkinlik oluşturduğunuz için tebrikler! Arkadaşlarınıza anlatın!</form>
+    </gender>
+    <gender key="createEventWallMessage">
+      <form>Avataria'da bir etkinlik oluşturdum! Beni ziyaret et!</form>
+      <form>Avataria'da bir etkinlik oluşturdum! Beni ziyaret et!</form>
+    </gender>
+    <gender key="dailyGiftWallMessage">
+      <form>Avataria'da günlük hediyemi aldım.</form>
+      <form>Avataria'da günlük hediyemi aldım.</form>
+    </gender>
+    <gender key="eatenObject">
+      <form>:name: buradan yemek yedi; :object:</form>
+      <form>:name: buradan yemek yedi; :object:</form>
+    </gender>
+    <gender key="fightLooseResult">
+      <form>Kaybettiniz</form>
+      <form>Kaybettiniz</form>
+    </gender>
+    <gender key="fightWinResult">
+      <form>Kazandınız</form>
+      <form>Kazandınız</form>
+    </gender>
+    <gender key="fireworkExplodeMessage">
+      <form>:name: havai fişek attı. Siz de atmak ister misiniz?</form>
+      <form>:name: havai fişek attı. Siz de atmak ister misiniz?</form>
+    </gender>
+    <gender key="genderAsked">
+      <form>talep edildi</form>
+      <form>talep edildi</form>
+    </gender>
+    <gender key="genderDrop">
+      <form>düştü</form>
+      <form>düştü</form>
+    </gender>
+    <gender key="getReadyForGuests">
+      <form>Misafirleri kabul etmek için hazır olmalısınız!</form>
+      <form>Misafirleri kabul etmek için hazır olmalısınız!</form>
+    </gender>
+    <gender key="himhis">
+      <form>ona</form>
+      <form>ona</form>
+    </gender>
+    <gender key="itemCraftedWallMessage">
+      <form>Avataria'daki atölyede :itemLabel: yaptım!</form>
+      <form>Avataria'daki atölyede :itemLabel: yaptım!</form>
+    </gender>
+    <gender key="looseMessageSex">
+      <form>kaybettiniz</form>
+      <form>kaybettiniz</form>
+    </gender>
+    <gender key="makeGiftNotificationCancelMessage">
+      <form>:name: hediyenizi reddetti.</form>
+      <form>:name: hediyenizi reddetti.</form>
+    </gender>
+    <gender key="makeGiftNotificationConfirmMessage">
+      <form>:name: hediyenizi kabul etti.</form>
+      <form>:name: hediyenizi kabul etti.</form>
+    </gender>
+    <gender key="makeGiftRequestNotificationPanelMessage">
+      <form>:name: size bir hediye gönderdi: :gift:</form>
+      <form>:name: size bir hediye gönderdi: :gift:</form>
+    </gender>
+    <message key="newLevelAchived">YENİ SEVİYE</message>
+    <gender key="newLevelAchivedByMe">
+      <form>Avataria'da %i. seviyeye ulaştım. İsterseniz, sizin de seviye arttırmanıza yardımcı olabilirim.</form>
+      <form>Avataria'da %i. seviyeye ulaştım. İsterseniz, sizin de seviye arttırmanıza yardımcı olabilirim.</form>
+    </gender>
+    <gender key="newRoomBoudWallMessage">
+      <form>Avataria'daki evim için yeni bir oda satın aldım!</form>
+      <form>Avataria'daki evim için yeni bir oda satın aldım!</form>
+    </gender>
+    <gender key="newWeddingWitness">
+      <form>Arkadaşımın düğününde şahit oldum</form>
+      <form>Arkadaşımın düğününde şahit oldum</form>
+    </gender>
+    <gender key="owner">
+      <form>Ev Sahibi</form>
+      <form>Ev Sahibesi</form>
+    </gender>
+    <gender key="paintBombMessage">
+      <form>:name: tarafından kurulmuş bir bombayı ateşlediniz</form>
+      <form>:name: tarafından kurulmuş bir bombayı ateşlediniz</form>
+    </gender>
+    <gender key="paintBombResultMessage">
+      <form>:name: bombanızı ateşledi</form>
+      <form>:name: bombanızı ateşledi</form>
+    </gender>
+    <gender key="passportRelationEngaged">
+      <form>Nişanlı</form>
+      <form>Nişanlı</form>
+    </gender>
+    <gender key="passportRelationMarried">
+      <form>Evli</form>
+      <form>Evli</form>
+    </gender>
+    <gender key="passportRelationSingle">
+      <form>Bekar</form>
+      <form>Bekar</form>
+    </gender>
+    <gender key="passportRelationBeloved">
+      <form>Aşık</form>
+      <form>Aşık</form>
+    </gender>
+    <gender key="presentedVipNotification">
+      <form>:name: VIP statüsü aldı</form>
+      <form>:name: VIP statüsü aldı</form>
+    </gender>
+    <gender key="presentedVipTitle">
+      <form>:name: size VIP statüsü verdi</form>
+      <form>:name: size VIP statüsü verdi</form>
+    </gender>
+    <gender key="presentVipSuccesfullMessage">
+      <form>:name: sizden VIP statüsü aldı</form>
+      <form>:name: sizden VIP statüsü aldı</form>
+    </gender>
+    <gender key="questCompleteByMe">
+      <form>Avataria'da «:questTitle:» görevini tamamladım</form>
+      <form>Avataria'da «:questTitle:» görevini tamamladım</form>
+    </gender>
+    <gender key="questCompleted">
+      <form>«:questTitle:» görevini tamamladınız</form>
+      <form>«:questTitle:» görevini tamamladınız</form>
+    </gender>
+    <gender key="relationAssociate">
+      <form>dost</form>
+      <form>dost</form>
+    </gender>
+    <gender key="relationBadAssociate">
+      <form>kötü dost</form>
+      <form>kötü dost</form>
+    </gender>
+    <gender key="relationBadEnemy">
+      <form>düşman</form>
+      <form>düşman</form>
+    </gender>
+    <gender key="relationBadFriend">
+      <form>kötü arkadaş</form>
+      <form>kötü arkadaş</form>
+    </gender>
+    <gender key="relationBeloved">
+      <form>erkek arkadaş</form>
+      <form>kız arkadaş</form>
+    </gender>
+    <gender key="relationBestFriend">
+      <form>en iyi arkadaş</form>
+      <form>en iyi arkadaş</form>
+    </gender>
+    <gender key="relationEnemy">
+      <form>hasım</form>
+      <form>hasım</form>
+    </gender>
+    <gender key="relationEngaged">
+      <form>gelin</form>
+      <form>damat</form>
+    </gender>
+    <gender key="relationExBeloved">
+      <form>eski kız arkadaş</form>
+      <form>eski erkek arkadaş</form>
+    </gender>
+    <gender key="relationExEnemy">
+      <form>eski düşman</form>
+      <form>eski düşman</form>
+    </gender>
+    <gender key="relationExEngaged">
+      <form>eski gelin</form>
+      <form>eski damat</form>
+    </gender>
+    <gender key="relationExFriend">
+      <form>eski arkadaş</form>
+      <form>eski arkadaş</form>
+    </gender>
+    <gender key="relationExMarried">
+      <form>eski karı</form>
+      <form>eski koca</form>
+    </gender>
+    <gender key="relationFriend">
+      <form>arkadaş</form>
+      <form>arkadaş</form>
+    </gender>
+    <gender key="relationGoodAssociate">
+      <form>iyi dost</form>
+      <form>iyi dost</form>
+    </gender>
+    <gender key="relationGoodFriend">
+      <form>iyi arkadaş</form>
+      <form>iyi arkadaş</form>
+    </gender>
+    <gender key="relationMarried">
+      <form>koca</form>
+      <form>karı</form>
+    </gender>
+    <gender key="relationStranger">
+      <form>yabancı</form>
+      <form>yabancı</form>
+    </gender>
+    <gender key="relationWorstEnemy">
+      <form>ölümcül düşman</form>
+      <form>ölümcül düşman</form>
+    </gender>
+    <gender key="resourcesPresentedFromMessage">
+      <form>:name: size :item: ikram etti</form>
+      <form>:name: size :item: ikram etti</form>
+    </gender>
+    <gender key="transferItemFromMessage">
+      <form>:name: size :item: verdi</form>
+      <form>:name: size :item: verdi</form>
+    </gender>
+    <gender key="transferItemToMessage">
+      <form>:name: :item: aldı</form>
+      <form>:name: :item: aldı</form>
+    </gender>
+    <gender key="userAlreadyEngagedMessage">
+      <form>:userName: zaten nişanlı. Önce nişanlısından ayrılması gereklidir.</form>
+      <form>:userName: zaten nişanlı. Önce nişanlısından ayrılması gereklidir.</form>
+    </gender>
+    <gender key="userAlreadyEngagedTitle">
+      <form>:userName: zaten nişanlı</form>
+      <form>:userName: zaten nişanlı</form>
+    </gender>
+    <gender key="userAlreadyMarriedMessage">
+      <form>:userName: zaten evli. Önce kocasından boşanması lazım.</form>
+      <form>:userName: zaten evli. Önce karısından boşanması lazım.</form>
+    </gender>
+    <gender key="userAlreadyMarriedTitle">
+      <form>:userName: zaten evli</form>
+      <form>:userName: zaten evli</form>
+    </gender>
+    <gender key="wallBuyVipDescription">
+      <form>Kendime VIP statüsü satın aldım ve artık VIP bölgesine sınırsız olarak girebiliyorum, enerjimi ücretsiz geri kazanıyorum ve çok daha fazlası!</form>
+      <form>Kendime VIP statüsü satın aldım ve artık VIP bölgesine sınırsız olarak girebiliyorum, enerjimi ücretsiz geri kazanıyorum ve çok daha fazlası!</form>
+    </gender>
+    <gender key="wallVipTitle">
+      <form>VIP statüsü aldınız</form>
+      <form>VIP statüsü aldınız</form>
+    </gender>
+    <gender key="weddingCancelledMessage">
+      <form>:name: evlilik töreninizi yarıda kesti.</form>
+      <form>:name: evlilik töreninizi yarıda kesti.</form>
+    </gender>
+    <gender key="weddingClothes">
+      <form>düğün kıyafeti</form>
+      <form>düğün kıyafeti</form>
+    </gender>
+    <gender key="weddingClothesCheckDetails">
+      <form>Bir takım; bir ceketten, bir gömlekten ve bir pantolondan oluşur. Evlilik mağazasında tam sizin ölçülerinizde damatlıklar mevcut.</form>
+      <form>Evlilik mağazasında tam sizin ölçülerinizde gelinlikler mevcut.</form>
+    </gender>
+    <gender key="weddingConfirm">
+      <form>:name:, :opponent: adlı kişiyi yasalar önünde kocanız olarak kabul ediyor musunuz?</form>
+      <form>:name:, :opponent: adlı kişiyi yasalar önünde karınız olarak kabul ediyor musunuz?</form>
+    </gender>
+    <gender key="weddingDressCodeMessage">
+      <form>Resmi bir davet damadın resmi bir kostüm giymesini gerektirir. Değiştirmesini isteyin</form>
+      <form>Resmi bir davet gelinin resmi bir kostüm giymesini gerektirir. Değiştirmesini isteyin</form>
+    </gender>
+    <gender key="weddingDressCodeSelfMessage">
+      <form>Resmi bir davet resmi kıyafet gerektirir. Değiştirmek istiyor musunuz?</form>
+      <form>Resmi bir davet resmi kıyafet gerektirir. Değiştirmek istiyor musunuz?</form>
+    </gender>
+    <gender key="weddingRings">
+      <form>alyanslar</form>
+      <form>alyanslar</form>
+    </gender>
+    <gender key="winJackpotWallMessage">
+      <form>Vay! Avataria'da tam :value: Büyük Ödül kazandım!</form>
+      <form>Vay! Avataria'da tam :value: Büyük Ödül kazandım!</form>
+    </gender>
+    <gender key="winMessageSex">
+      <form>kazandınız</form>
+      <form>kazandınız</form>
+    </gender>
+    <message key="3timesMoreGold">Üç kat daha fazla altın!</message>
+    <message key="acceptFightButtonLabel">kabul edin</message>
+    <message key="accessDeny">Maalesef bu uygulamaya erişemezsiniz.</message>
+    <message key="accessLocationWarning">Buraya gidemezsiniz. Birkaç dakika bekleyip tekrar deneyin.</message>
+    <message key="achievementAwardDescription">Envantuarınızda görebilirsiniz.</message>
+    <message key="achievementAwardNextDescription">Kupadaki sonraki seviye için, :nextAwardAction: gereklidir.</message>
+    <message key="achievementAwardText">:award: kupasını aldınız</message>
+    <message key="achievementAwardWallDescription">Avataria'da «:award:» kupasını kazandım! Bana katılın ve siz de aynı kupayı alın!</message>
+    <message key="achievementGaveTitle">alındı</message>
+    <message key="achievementProgressText">:count: / :maxCount: kaldı</message>
+    <message key="achievementTabTitle">Kupalar</message>
+    <message key="achievementTitleLabel">Tebrikler!</message>
+    <message key="action_action_pool_rubberring">Daireler çizerek yüz</message>
+    <message key="action_bedjumping">Yatakta zıpla</message>
+    <message key="action_bench_read">Bankta kitap oku</message>
+    <message key="action_blowcandles">Mumları üfle</message>
+    <message key="action_cooksausages">Sosisleri kızartın</message>
+    <message key="action_cozysitwindow">Pencere kenarında oturun</message>
+    <message key="action_deck_liedown">Bir tembel yalan</message>
+    <message key="action_drinktea">Çay için</message>
+    <message key="action_drums_afro_play">Davul çal</message>
+    <message key="action_fedthbird">Kuşu besleyin</message>
+    <message key="action_feedfish_label">Balığı besleyin</message>
+    <message key="action_fircandles">Mumları yak</message>
+    <message key="action_fitballjump_label">Topla egzersiz yapın</message>
+    <message key="action_floweroff">Çiçeği kapat</message>
+    <message key="action_floweron">Çiçeği aç</message>
+    <message key="action_fullsit">Berjerde oturun</message>
+    <message key="action_gossip">Dedikodu yap</message>
+    <message key="action_gotobed">Yatağa gitmek</message>
+    <message key="action_gr20_ballroom">Çift dans</message>
+    <message key="action_hand_wind">Yelpazeyi al</message>
+    <message key="action_liedown">Yatmak</message>
+    <message key="action_lieoncoach">Çekyata uzanın</message>
+    <message key="action_look_atbook">Kitabı incele</message>
+    <message key="action_look_forbook">Kitabı ara</message>
+    <message key="action_looktelescope">Teleskop ile bakın</message>
+    <message key="action_makeup">Giyinin</message>
+    <message key="action_opengrill">Mangalı açın</message>
+    <message key="action_playdj_label">DJ setini çalın</message>
+    <message key="action_readsit">Otur ve oku</message>
+    <message key="action_speedrun_label">Koşun</message>
+    <message key="action_takeshower_label">Duş alın</message>
+    <message key="action_tothebalcony">Balkona çıkın</message>
+    <message key="action_upandsit">Yukarı tırmanın</message>
+    <message key="action_uptobed">Üstüne uzanın</message>
+    <message key="action_wndwhi">Camdan el salla</message>
+    <message key="action_yogastand_label">Yoga pozu verin</message>
+    <message key="actionButtonTitle">eylem</message>
+    <message key="actionForbiddenInFullscreen">Tam ekran modunda bu eylemi gerçekleştiremezsiniz Pencere moduna dönülsün mü?</message>
+    <message key="addBelovedButtonTitle">randevuya çıkın</message>
+    <message key="addBuddyButtonTitle">dost listesine ekle</message>
+    <message key="addButtonTitle">ekleyin</message>
+    <message key="addEngagedButtonTitle">nişanlanın</message>
+    <message key="addFriendButtonTitle">arkadaşlara ekleyin</message>
+    <message key="additionalInfoCreateEvent">Ek olarak:</message>
+    <message key="addMarriedButtonTitle">evlenin</message>
+    <message key="addRoomButtonTitle">+ oda</message>
+    <message key="addRoomInfoMessage">Odalar koridorlarla bağlanabilir. Ancak, oda satın almadan önce koridoru nereye yerleştireceğinizi seçmeniz gereklidir. Devam edilsin mi?</message>
+    <message key="addToEngagedGirlMessage">Sadece erkekler evlilik teklifi edebilir</message>
+    <message key="adsFailToShowDescription">Şu an izlenecek video yok. Lütfen sonra tekrar deneyin</message>
+    <message key="adsFailToShowTitle">Video bulunamadı.</message>
+    <message key="allEventCategories">TÜMÜ</message>
+    <message key="allowButtonTitle">İzin ver</message>
+    <message key="allowedQuests">Mevcut görevler</message>
+    <message key="allTypeButtonTitle">tümü</message>
+    <message key="alreadyBrokenObjectText">Kırılamadı. Bu eşya zaten kırık.</message>
+    <message key="alreadyHasGraffitiMessage">Bu duvarda zaten grafiti var.</message>
+    <message key="angryButtonTitle">sinirlenin</message>
+    <message key="apartment">Daire</message>
+    <message key="apartmentsText">Daireler</message>
+    <message key="apologizeButtonTitle">özür dileyin</message>
+    <message key="approveButtonTitle">kabul et</message>
+    <message key="april1stGoldBonus">Tebrikler! Avataria'yı ziyaret ettiğiniz için hediye olarak 10 altın para aldınız!</message>
+    <message key="askButtonTitle">talep edin</message>
+    <message key="askCraftComponentDescription">Arkadaşlar! Bana yardım edin, :component: ihtiyacım var! Lütfen bana gönderin, ben de karşılığını vereyim!</message>
+    <message key="askCraftComponentTitle">yardım talep edin</message>
+    <message key="askToComeButtonTitle">davet edin</message>
+    <message key="associateBuddyListEmpty">Henüz dostunuz yok. Bir dost eklemek için önce birileriyle buluşmalısınız.</message>
+    <message key="associateButtonTitle">tanıdıklara ekleyin</message>
+    <message key="associateRequestDeclinedMessage">:name: sizinle buluşmak istemiyor</message>
+    <message key="associateRequestDeclinedTitle">Reddedin</message>
+    <message key="associateRequestReceivedMessage">:name: sizinle buluşmak istiyor. Kabul ediyor musunuz?</message>
+    <message key="associateRequestSendedMessage">:name: birazdan sizin buluşma isteğinizi öğrenecek.</message>
+    <message key="associateRequestSendedTitle">Tanıdık talebi</message>
+    <message key="authorization">Yetkilendirme</message>
+    <message key="avatarApearance">Görünüş</message>
+    <message key="avatarApearanceCategory0">Cilt</message>
+    <message key="avatarApearanceCategory1">Gözler</message>
+    <message key="avatarApearanceCategory2">Kaşlar</message>
+    <message key="avatarApearanceCategory3">Dudaklar</message>
+    <message key="avatarApearanceCategory4">Saç şekli</message>
+    <message key="avatarApearanceCategory5">Sakal, bıyık</message>
+    <message key="avatarApearanceCategory6">Göz makyajı</message>
+    <message key="avatarApearanceCategory7">Allık</message>
+    <message key="avatarApearanceCategory8">Pırıltılar</message>
+    <message key="avatariaGameTitle">Avataria</message>
+    <message key="AvatariaNews">Avataria Haberleri!</message>
+    <message key="avatarSexFemale">kadın</message>
+    <message key="avatarSexMale">erkek</message>
+    <message key="backButtonTitle">geri</message>
+    <message key="badBehaviourBanReason">Uygunsuz bir şekilde davrandınız</message>
+    <message key="badInternetConnection">Daha iyi bağlantıya sahip bir yere gitmeyi deneyin. Hala bağlantı konusunda sorun yaşıyorsanız daha sonra tekrar deneyin.</message>
+    <message key="badRulesBanReason">Kullanıcı sözleşmesini ihlal ettiniz</message>
+    <message key="badWordsBanReason">Uygunsuz dil kullandınız</message>
+    <message key="badWordsError">Yasaklı kelimeleri kullanmadan eylemi tekrarlayın</message>
+    <message key="badWordsErrorTitle">Yanlış Metin</message>
+    <message key="badWordsWarning">Uygunsuz dil kullanımı yasaktır. Diğerlerine karşı saygılı olun. Aksi takdirde uygulamayı kullanmanızı yasaklayacağız.</message>
+    <message key="bagBump_label">okul çantası ile vurun</message>
+    <message key="BallroomDancePermissionsRequestMessage">Birlikte dans etmek istiyorsanız önce barışmanız gerekli!</message>
+    <message key="BallroomDanceRequestApprovedMessage">:name: sizinle dans etmek istiyor! :)</message>
+    <message key="BallroomDanceRequestDeclinedMessage">:name: sizinle dans etmek istemiyor :(</message>
+    <message key="BallroomDanceRequestReceivedMessage">:name: sizinle dans etmek istiyor. Kabul edecek misiniz?</message>
+    <message key="BallroomDanceRequestSendedMessage">:name: yakında dans etmek istediğinizi öğrenecek.</message>
+    <message key="banButtonTitle">yasaklayın</message>
+    <message key="banChatInfoMessage">:reason:. yoluyla sohbete devam edebilirsin :leftTime:</message>
+    <message key="banChatReason">Sohbet seçeneklerinizi küfürden dolayı kısıtladık</message>
+    <message key="banChatTitle">Sohbet yasaklaması</message>
+    <message key="banInfoMessage">:reason:. Uygulamaya :leftTime: içerisinde girebilirsiniz</message>
+    <message key="bank_sale_text">BONUS!</message>
+    <message key="bankAdAvailableIn">Kullanılabilir:</message>
+    <message key="bankAdButton">Alın</message>
+    <message key="bankAdDayGifts">Bugün ödülleri</message>
+    <message key="bankBonusLabel">BONUS</message>
+    <message key="bankEventText">2 KEZ DAHA!</message>
+    <message key="bankEventTextGold">Etkinlik!</message>
+    <message key="bankLabel">BANKA</message>
+    <message key="bankrupt">İFLAS</message>
+    <message key="BankVipDescription">Daha fazla ayrıntı</message>
+    <message key="banMessage">Odadan dışarı atıldınız.</message>
+    <message key="banMessageConfirm">Odadan dışarı atıldınız. Ayrılmak mı istiyorsunuz?</message>
+    <message key="banReasonParagraph10">iftirada bulunmak</message>
+    <message key="banReasonParagraph10Full">(s. 7) Tortuga LLC, öteki kullanıcılar, oyun hizmetleri, oyun promosyonları, oyun aktiviteleri, Şirket ortakları veya tüm olarak Oyun hakkında söylentiler yaymak, iftiralarda bulunmak, veya başka türlü lekeleyici bilgiler paylaşmak.</message>
+    <message key="banReasonParagraph11">spam ve flood yapmak</message>
+    <message key="banReasonParagraph11Full">(s. 8) Oyunun herhangi bir bilgi kanalında spam/flood yapmak(arka arkaya mesaj atmak).</message>
+    <message key="banReasonParagraph12">linkler veya reklamlar</message>
+    <message key="banReasonParagraph12Full">(s. 9) Oyun içinde internet sayfa linkleri dahil reklamlar vermek ve yaymak.</message>
+    <message key="banReasonParagraph13">müstehcen isim ve açıklamalar</message>
+    <message key="banReasonParagraph13Full">(s. 10) Oyunda isim veya karakter açıklamaları, öteki oyun objeleri, ve guildler veya başka oyuncu kuruluş veya toplulukları için müstehcen, saldırgan, kışkırtıcı, reklam özelliği taşıyan veya izin verilmeyen öteki söz veya semboller kullanmak.</message>
+    <message key="banReasonParagraph14">kaba ve/veya aşağılayıcı dil</message>
+    <message key="banReasonParagraph14Full">(s. 11) Oyun sırasında genel sohbet veya diğer iletişim yollarında küfür veya hakaret etmek. Ayrıca, her türlü oyun iletişim platformunda (tüm kanallar ve mesajlaşma türleri), tehditler savurmak (fiziksel veya başka türlü), uyuşturucu, pornografi reklamı yapmak, veya herkese açık ortamlarda üçüncü bir şahıs tarafından bu tip davranışların sergilenmesi, ırk, etnik köken ,din, kültür, cinsiyet, dil, veya politik görüş, hakkında ayrımcılık yapmak, ayrıca bu gibi eylem veya ifadeleri teşvik edici girişimlerde bulunmak.</message>
+    <message key="banReasonParagraph15">oyuna kasıtlı müdahalede bulunmak</message>
+    <message key="banReasonParagraph15Full">(s. 12) Bilinçli olarak diğer oyuncuların oyuna erişimini veya Şirketin yerine getirmesi gereken yükümlülüklerini zor veya imkansız hale getirmek. Bilinçli bir şekilde diğer oyuncular için normal oyun modu tarafından sağlanmayan engeller yaratmak.</message>
+    <message key="banReasonParagraph16">kötü niyetli dosyalar</message>
+    <message key="banReasonParagraph16Full">(s. 13) Kötü niyetli yazılım, virüslü veya değiştirilmiş dosyalar veya bilgiler, veya oyuna zarar verebilecek, diğer bilgisayarları veya iletişimi bozabilecek, veya kullanıcı hesaplarının (oyun hesapları) bütünlüğünü ihlal edebilecek benzer yazılımlar hakkında bilgiler yayınlamak veya dosyalar yüklemek.</message>
+    <message key="banReasonParagraph17">bir çalışanı taklit etmek</message>
+    <message key="banReasonParagraph17Full">(s. 14) Tortuga LLC veya onun ortaklarına ait olduğu belirtilen eşya, obje, veya oyuncu toplulugu/kuruluşu adları veya başka bir sembol yaratmak. Başka oyunculara kendini şirketin veya ortaklarından birinin çalışanı veya eski çalışanı olarak tanıtmak.</message>
+    <message key="banReasonParagraph18">başka hesaplara erişim sağlamaya çalışmak</message>
+    <message key="banReasonParagraph18Full">(s. 15) Oyunda, Oyunun web sitesinde, Oyun forumlarında , Oyun hizmetlerinde diğer oyuncuların hesaplarına erişim sağlayabilmek için bilgi kullanmak veya yaymak. Ayrıca, benzer bilgiler içeren ve üçüncü şahıs tarafından sağlanan linkleri yaymak.</message>
+    <message key="banReasonParagraph19">Yönetimi yanıltmak</message>
+    <message key="banReasonParagraph19Full">(s. 16) Yönetimle iletişime geçerken yanlış bilgi vermek, veya daha önceden bulunan bilgileri çarpıtmak.</message>
+    <message key="banReasonParagraph20">dolandırıcılık</message>
+    <message key="banReasonParagraph20Full">(s. 19) Dolandırıcılık (kişisel kazanç amacıyla -diğer oyuncuların giriş bilgilerini ele geçirme amacı da dahil- diğer oyuncuları aldatmak).</message>
+    <message key="banReasonParagraph21">aşırı format kullanımı</message>
+    <message key="banReasonParagraph21Full">(s. 20) Aşırı format kullanımı; "BAĞIRMA" (büyük harflerle yazmak) ve ŞuNuN Gİbİ sinir bozucu büyük harf kullanımı dahildir. Bütün metnin %30 veya fazlasında aşırı format kullanımı olursa bu madde ihlal edilmiş sayılır.</message>
+    <message key="banReasonParagraph6">oyun hesabi manipülasyonu</message>
+    <message key="banReasonParagraph6Full">(s. 3) Oyun hesabini satma/satın alma/takas etme/nakletme/başkasına verme. Kullanıcının kendisinin veya üçüncü bir şahsın bu gibi eylemler hakkında bilgi yayma girişimine teşebbüs etmesi.</message>
+    <message key="banReasonParagraph7">oyun parası manipülasyonu</message>
+    <message key="banReasonParagraph7Full">(s. 4) Herhangi bir oyun objesini, fonksiyonunu, eşyasını, fazladan oyun fonksiyonlarını, veya oyun parasını oyun parası dışında veya oyun dışı herhangi bir eşya karşılığında almak/satmak/takas etmek gibi eylemleri uygulamak veya uygulamaya teşvik etmek.</message>
+    <message key="banReasonParagraph8">oyun botlarını kullanmak</message>
+    <message key="banReasonParagraph8Full">(s. 5) Oyun botu oluşturma ve kullanma.</message>
+    <message key="banReasonParagraph9">oyundaki buglardan yararlanma</message>
+    <message key="banReasonParagraph9Full">(s. 6) Oyundaki hataları veya yazılım buglarını kullanmak veya haklarında etrafa bilgi yaymak.</message>
+    <message key="banTitle">Yasaklayın</message>
+    <message key="basket">Sepet</message>
+    <message key="bathClothesConfirm">Banyoya girmek için banyo kıyafetini giymeniz gerekir. Değiştirmek istiyor musunuz?</message>
+    <message key="bathClothesTitle">Değiştirmeniz gerekli</message>
+    <message key="bathroomDoorTitle">Banyo</message>
+    <message key="beachMenuTitle">Menü</message>
+    <message key="beachNeedEnergyTitle">katılmak için gerekli olan:</message>
+    <message key="beachRaceBarrierLabel">bariyer</message>
+    <message key="beachRaceBonusLabel">bonus</message>
+    <message key="beachRaceButtonTitle">sörf yarışı</message>
+    <message key="beachRaceBypassLabel">çekilin</message>
+    <message key="beachRaceDialogTitle">Sörf Yarışı</message>
+    <message key="beachRaceFinishLabel">BİTİŞ</message>
+    <message key="beachRaceGameRequest">:name: size bir sörf yarışı için meydan okudu. Kabul ediyor musunuz?</message>
+    <message key="beachRacePickupLabel">yakalayın</message>
+    <message key="beachRacePortalLabel">portal</message>
+    <message key="beachRaceStartLabel">BAŞLANGIÇ</message>
+    <message key="beachRaceUsePortalLabel">portal</message>
+    <message key="beautyLocationTitle">Güzellik Salonu</message>
+    <message key="beautySalonTitle">Güzellik Salonu</message>
+    <message key="beHealthy">“Çok yaşa!” diyin</message>
+    <message key="beloved_nocensRequestDeclinedMessage">:name: sizinle çift olmak istemiyor</message>
+    <message key="beloved_nocensRequestDeclinedTitle">reddedin</message>
+    <message key="beloved_nocensRequestReceivedMessage">:name: size bir çift olmayı önerdi.
+Kabul ediyor musunuz?</message>
+    <message key="beloved_nocensRequestSendedMessage">:name: birazdan sizin çift olma isteğinizi öğrenecek.</message>
+    <message key="beloved_nocensRequestSendedTitle">İlişki talebi</message>
+    <message key="belovedConfirmTitle">Dışarı çağrılsın mı?</message>
+    <message key="belovedRequestDeclinedMessage">:name: sizinle çift olmak istemiyor</message>
+    <message key="belovedRequestDeclinedTitle">Reddedin</message>
+    <message key="belovedRequestReceivedMessage">:name: size bir çift olmayı önerdi.
+Kabul ediyor musunuz?</message>
+    <message key="belovedRequestSendedMessage">:name: birazdan sizin çift olma isteğinizi öğrenecek.</message>
+    <message key="belovedRequestSendedTitle">İlişki talebi</message>
+    <message key="bestAssociateBeforeMessage">Önce iyi dost olmanız gerekmektedir.</message>
+    <message key="bestFriendsBeforeMessage">Birbirinize çift diyebilmek için önce en iyi arkadaş olmanız gerekmektedir.</message>
+    <message key="betaTestMessage">Bu uygulama şu an test aşamasında. Uygulamaya sadece Avataria grubu üyeleri erişebilir.</message>
+    <message key="betaTestTitle">Test işlemi devam ediyor</message>
+    <message key="billingSpecialOfferMessage">Sadece sınırlı bir zaman için, bu özel fırsattan yararlanın ve altın paraları büyük bir indirimle alın!</message>
+    <message key="billingSpecialOfferTitle">Oldukça karlı bir teklif!</message>
+    <message key="billingSpecialOfferTitle1">Oldukça karlı bir teklif!</message>
+    <message key="billingStarterOfferMessage">Çok çeşitli kaynakları çok özel fiyatlara almak için bu özel teklifi sakın kaçırmayın! Stoklar tükenmeden hemen alın!</message>
+    <message key="billingStarterOfferTitle">Oldukça karlı bir teklif!</message>
+    <message key="block">engelleyin</message>
+    <message key="blockedChatUsersLengthEmpty">Engelli kullanıcı listeniz boş.</message>
+    <message key="blockedChatUsersLengthWarning">Engelli kullanıcı listeniz çok kalabalık.</message>
+    <message key="blockedOnLabel">engelli kalacağı süre</message>
+    <message key="blockedUsersButtonTitle">engellenen kullanıcılar</message>
+    <message key="blocks">Engelleme:</message>
+    <message key="blockUserButtonTitle">engelleyin</message>
+    <message key="bonusPointsButton">:coins: alın</message>
+    <message key="bonusPointsMessage">:coins: kazandınız. :gold: ile değiştirebilirsiniz.</message>
+    <message key="bonusPointsTitle">Para aktarma</message>
+    <message key="temporaryQuestSection">ZAMAN SINIRLI GÖREVLER</message>
+    <message key="baseQuestSection">ANA GÖREVLER</message>
+    <message key="bonusQuestSection">BONUS GÖREVLER</message>
+    <message key="bookshelf_act_label">arayın</message>
+    <message key="brokeActionTitle">Kırın</message>
+    <message key="brokeButtonTitle">Kırın</message>
+    <message key="brokenHintText">Bozuk</message>
+    <message key="buddyAddedMessage">:userName: ile artık dostsunuz.</message>
+    <message key="buddyAddedTitle">Yeni bir dostunuz var.</message>
+    <message key="buddyDuplicate">Bu kullanıcı zaten dost listenizde.</message>
+    <message key="buddyErrorMessage">Dost listesi hatası</message>
+    <message key="buddyErrorTitle">Dost hatası</message>
+    <message key="buddyList">Dost listesi</message>
+    <message key="buddyListButtonLabel">dostlar</message>
+    <message key="buddyListHomeBtn">ziyaret
+edin</message>
+    <message key="buddyListIsFull">Dost listeniz dolu. Yeni birisini eklemeden önce birilerini çıkartmayı deneyin.</message>
+    <message key="buddyListLookupBtn">bul</message>
+    <message key="buddyListLookupTitle">Dost ara:</message>
+    <message key="buddyListOnlineText">sadece çevrimiçi</message>
+    <message key="buddyListRemoveBtn">kaldırın</message>
+    <message key="buddyListSortOnComfort">Konfor</message>
+    <message key="buddyListSortOnImage">İmaj</message>
+    <message key="buddyListSortOnLevel">Seviye</message>
+    <message key="buddyListSortTitle">Sırala:</message>
+    <message key="buddyOnlineMessage">:userName: şu anda oyunda.</message>
+    <message key="buddyOnlineTitle">Dostunuz çevrimiçi</message>
+    <message key="buddyRemovedMessage">:userName: ile artık dost değilsiniz.</message>
+    <message key="buddyRemovedTitle">Dost çıkarıldı</message>
+    <message key="buddyRequestDeclineMessage">:userName: arkadaşlık talebinizi reddetti.</message>
+    <message key="buddyRequestDeclineTitle">Arkadaşlığı reddedin</message>
+    <message key="buddyRequestMessage">:userName: dostunuz olmak istiyor. Kabul ediyor musunuz?</message>
+    <message key="buddyRequestTitle">Arkadaşlık talebi</message>
+    <message key="buddyStatInfo">:max: olası miktardan :count: :buddy: var</message>
+    <message key="buddyTopPanelLabel">En İyi Dostlar</message>
+    <message key="buyAllClothesItemsLabel">satın alın</message>
+    <message key="buyButtonTitle">satın alın</message>
+    <message key="buyCarButtonTitle">satın alın</message>
+    <message key="buyChips">Aldığınız</message>
+    <message key="buyCoins">Aldığınız</message>
+    <message key="buyCompleteMessage">Başarılı alışverişiniz için tebrikler!</message>
+    <message key="buyCompleteTitle">Mal satın alındı.</message>
+    <message key="buyConfirmTitle">Satın almayı onayla</message>
+    <message key="buyed">Satın alındı</message>
+    <message key="buyEventCurrencyTitle">Para satın almak</message>
+    <message key="buyFirToyButtonTitle">bir oyuncak satın al</message>
+    <message key="buyGameChipsTitle">Çip Satın Al</message>
+    <message key="buyGoldCoinsTab">Para satın alın</message>
+    <message key="buyGoldResult">Tebrikler! Artık :gold: sahibisiniz.</message>
+    <message key="buyGoldTitle">Altın para satın alın</message>
+    <message key="buyItemDescription">Satın al :itemName:</message>
+    <message key="buyMobileCoinsTab">Mobil ödeme</message>
+    <message key="buyNewRoomDialogMessage">Yeni odayı aldığınız için tebrikler! Arkadaşlarınızı davet edin!</message>
+    <message key="buyNewRoomDialogTitle">Oda satın alındı</message>
+    <message key="buyRingMessage">Geline vermek üzere bir yüzük seçin</message>
+    <message key="buyRoomConfirmMessage">Başka bir oda mı satın almak istiyorsunuz?</message>
+    <message key="buyRoomLevelMessage">Başka bir oda satın almak için %i. seviyeye ulaşmanız gerekmektedir.</message>
+    <message key="buyRoomTitle">Bir oda satın alın</message>
+    <message key="buySilverCase1">Bahçeyle ilgilenerek veya sokakları temizleyerek gümüş para kazanabilirsiniz.</message>
+    <message key="buySilverCase2">Arkadaşlarınız dairelerini ziyaret ederek ve çöplerini toplayarak gümüş para kazanabilirsiniz.</message>
+    <message key="buySilverTitle">Gümüş para satın alın</message>
+    <message key="buyTaskFor">Tamamla :gold:</message>
+    <message key="buyVipAttention">Herhangi bir ağda yetkili değilsiniz. Yetkilendirme olmadan herhangi bir cihazda aboneliği geri yükleyemezsiniz. Devam?</message>
+    <message key="buyVipButtonTitle">Satın alın :value:</message>
+    <message key="buyVipDialogDescription">VIP statüsü yepyeni bir fırsatlar dünyasının kapılarını açar. Kendinizi lüks içerisinde şımartın, yaşamı dolu dolu ve en fazla zevki alarak yaşayın, çünkü tamamen inanılmaz ve eşsizdir!</message>
+    <message key="buyVipDialogTitle">VIP satın alın</message>
+    <message key="buyVipOnlyItemTitle">Satın Alın</message>
+    <message key="buyVipOnlyItemWarning">Sadece VIP statüsüne sahip bir kişi bu eşyayı alabilir. Statüyü istiyor musunuz?</message>
+    <message key="buyWardrobeMessage">Eşyalar bir dolapta tutulmalıdır, ama sizin henüz dolabınız yok. Bir dolap alın ve kıyafetlerinizi yerleştirmek için dairenize koyun.</message>
+    <message key="buyWardrobeTitle">Oda yok</message>
+    <message key="buyWeddingClothesButtonTitle">Depo</message>
+    <message key="buyWeddingRingButtonTitle">Depo</message>
+    <message key="cabinetDoorTitle">Ofis</message>
+    <message key="cafeCookName">Şef</message>
+    <message key="cafeLocationTitle">Kafe</message>
+    <message key="cafeMenuTitle">Menü</message>
+    <message key="cafeWaitressName">Garson</message>
+    <message key="cancelButtonTitle">iptal edin</message>
+    <message key="cantBrokeNotVipMessage">Sizin de VIP statünüz yoksa, bir VIP'nin eşyasını bozamazsınız. VIP satın almak mı istiyorsunuz?</message>
+    <message key="cantBrokeRepairedMessage">:time: içerisinde bozulabilir</message>
+    <message key="cantBrokeRepairedTitle">Bozulamıyor</message>
+    <message key="cantBrokeSelfItemsMessage">Kendi eşyalarınızı bozamazsınız.</message>
+    <message key="cantEditRoomObjectMessage">Bu nesne düzenlenemez veya odadan çıkartılamaz.</message>
+    <message key="cantMoveWithLinkedObjectsMessage">Bir nesneyi, başka nesneleri tuttuğu sürece odadan kaldıramazsınız.</message>
+    <message key="cantMoveWithLinkedObjectsTitle">Nesne kaldırılamıyor</message>
+    <message key="cantPaintPaintedMessage">:time: içerisinde geri çekilebilir</message>
+    <message key="cantPaintPaintedTitle">Geri çekilemiyor</message>
+    <message key="cantPaintSelfItemsMessage">Kendi duvarlarınızı boyayamazsınız.</message>
+    <message key="cantRemoveBrokenObjectsMessage">Bir nesneyi, bozuk olduğu sürece odadan kaldıramazsınız.</message>
+    <message key="cantRemoveBrokenObjectsTitle">Nesne bozuk.</message>
+    <message key="cantRemoveEmptyFoodObjectsMessage">Yemek üretimi tamamlanana kadar nesneyi odadan kaldıramazsınız.</message>
+    <message key="cantRemoveEmptyFoodObjectsTitle">Yemek üretimi tamamlanmadı</message>
+    <message key="cantRemoveUseObjectsMessage">Nesne meşgulken odadan çıkaramazsınız.</message>
+    <message key="cantRemoveUseObjectsTitle">Bu nesne meşgul.</message>
+    <message key="cantReplaceWallsWithGraffitiMessage">Duvar kağıdını değiştirmeden önce grafitiyi silmeniz gerekmektedir.</message>
+    <message key="canUseNYGiftHintLabel">İçinde neler varmış acaba? 1 Ocak 2014 geldiğinde öğrenebilirsiniz!</message>
+    <message key="canyonLocationTitle">Kanyon</message>
+    <message key="canyonRaceActionCommandLabel">Yarışlar</message>
+    <message key="canyonRaceBarrierLabel">bariyer</message>
+    <message key="canyonRaceBonusLabel">hızlanma</message>
+    <message key="canyonRaceBypassLabel">manevra</message>
+    <message key="canyonRaceDialogLabel">Otomobil Yarışları</message>
+    <message key="canyonRaceGameRequest">:name: sizi yarışmaya davet ediyor! Ne dersiniz?</message>
+    <message key="canyonRaceGirlName">Yarış Organizatörü</message>
+    <message key="canyonRacePickupLabel">yakalayın</message>
+    <message key="canyonRacePortalLabel">UFO</message>
+    <message key="canyonRaceUsePortalLabel">UFO</message>
+    <message key="changeButtonTitle">değiştirin</message>
+    <message key="changeCountConfirmButtonTitle">Onaylayın</message>
+    <message key="changeCountInfo">Eşyaların sayısını seçin</message>
+    <message key="changeGenderButtonTitle">Cinsiyeti değiştirin</message>
+    <message key="changeNameDialogTitle">Avatarı yeniden adlandırın</message>
+    <message key="changeStatusInfo">Yeni bir ilişki seviyesi, ortak pek çok fırsat sunar.</message>
+    <message key="chatDialogTitle">Sohbet</message>
+    <message key="checkMailMessagesButtonTitle">Postayı kontrol edin</message>
+    <message key="CHIPS_title">Çip Paralar</message>
+    <message key="chooseAvatarSex">Cinsiyet seç:</message>
+    <message key="chooseCarDialogDescriptionText">Arabayla gidebilmeniz için, dairenizde en az bir araba olması gerekir.</message>
+    <message key="chooseCarForCanyonDialogTitle">Bir araç seçin</message>
+    <message key="chooseCarForCanyonLocationWarningMessage">Yarışlara katılabilmeniz için, dairenizde en az bir araba olması gerekir.</message>
+    <message key="chooseCarForCanyonLocationWarningTitle">Hazır! Tamamdır!</message>
+    <message key="chooseFightActionLabel">Mevcut aşama için listeden bir hareket seçin</message>
+    <message key="chooseTreadPlayerMessage">Buzdolabından ikramda bulunmak istediğiniz arkadaşı seçin.</message>
+    <message key="cleanButtonTitle">kaldırın</message>
+    <message key="clear_wight_label">sil</message>
+    <message key="ClearMeButtonTitle">Yıka</message>
+    <message key="closeButtonTitle">kapatın</message>
+    <message key="closeCityEvent">ETKİNLİĞİ
+BİTİRİN</message>
+    <message key="closeEventConfirm">Etkinlik bitirildikten sonra tüm listelerden çıkartılacaktır. Devam edilsin mi?</message>
+    <message key="closeEventTitle">etkinliği bitirin</message>
+    <message key="clothesCollectionCasual">Gündelik</message>
+    <message key="clothesCollectionClub">Kulüp</message>
+    <message key="clothesCollectionOfficial">Resmi</message>
+    <message key="clothesCollectionSwimwear">Mayo</message>
+    <message key="clothesCollectionUnderdress">İç çamaşır</message>
+    <message key="clothesRating">İmaj</message>
+    <message key="clothesShopTitle">Kıyafetler</message>
+    <message key="club">Elektronik</message>
+    <message key="clubBarmaidName">Barmen</message>
+    <message key="clubDjName">DJ</message>
+    <message key="clubLocationTitle">Kulüp</message>
+    <message key="clubMenuTitle">Menü</message>
+    <message key="clubWaitressName">Garson</message>
+    <message key="commonChatTitle">Genel</message>
+    <message key="completedQuestWallTitle">Görevi tamamladım</message>
+    <message key="computerInUseHintText">Bilgisayar kullanılıyor</message>
+    <message key="conditionsErrorTitle">Tüm koşullar sağlanmamış</message>
+    <message key="confirmTitle">Uyarı</message>
+    <message key="congratulateButton">Tebrik edin</message>
+    <message key="congratulateTitle">Tebrikler</message>
+    <message key="congratulation">Tebrikler!</message>
+    <message key="congratulationsTitle">Tebrikler!</message>
+    <message key="connection_closed_333">Sunucu istemcinin talebine yanıt vermiyor. Hata kodu: 333</message>
+    <message key="connection_closed_555">Sunucu yanıt süresi geçti. Hata kodu: 555</message>
+    <message key="connection_closed_999">Sunucu istemciyle bağlantıyı kapadı. Hata kodu: 999</message>
+    <message key="continueButtonTitle">devam edin</message>
+    <message key="CookMeButtonTitle">Pişir</message>
+    <message key="countLabel">Miktar</message>
+    <message key="craftAskComponentMessage">Sayfanızda yayınlayarak arkadaşlara sorun</message>
+    <message key="craftAskFriendButtonTitle">talep edin</message>
+    <message key="craftButtonBuyLabel">tümünü satın alın</message>
+    <message key="craftButtonCompleteLabel">Toplayın</message>
+    <message key="craftButtonLabel">Atölye</message>
+    <message key="craftFriendRequestApprove">Hediye verin</message>
+    <message key="craftFriendRequestDefaultText">Talep listesi boş. Arkadaşlarınızı davet edin ve koleksiyonlarını tamamlamalarında onlara yardımcı olun.</message>
+    <message key="craftFriendRequestDeny">Reddedin</message>
+    <message key="craftFriendRequestDescription">:item: ihtiyacım var. Lütfen, bana gönderin!</message>
+    <message key="craftFriendRequestDialogTitile">arkadaş talepleri ve yanıtları</message>
+    <message key="craftFriendRequestPanelTitle">Bugün :count: :gift: gönderebilirsiniz.</message>
+    <message key="craftFriendRequestTabTitle">Talepler (:count:)</message>
+    <message key="craftFriendResponseDefaultText">Bugün kimse size bir şey vermedi. Arkadaşlarınızı davet edin ve onlardan hediye alın.</message>
+    <message key="craftFriendResponseDescription">:action: yapmanız için size bir :item:</message>
+    <message key="craftFriendResponseOk">tamam</message>
+    <message key="craftFriendResponsePanelEmptyTitle">Kimse size bir şey vermedi</message>
+    <message key="craftFriendResponsePanelTitle">Arkadaşlarınız size bunları gönderdi:</message>
+    <message key="craftFriendResponseTabTitle">Yanıtlar (:count:)</message>
+    <message key="craftNotificationCollect">toplayın</message>
+    <message key="craftNotificationDone">Bitti!</message>
+    <message key="craftProducedDialogTitle">Üretim tamamlandı</message>
+    <message key="craftResponseNotificationButton">Atölye</message>
+    <message key="craftResponseNotificationPanelTitle">Atölye</message>
+    <message key="craftTabTitle">Atölye</message>
+    <message key="craftUseButtonTitle">kullanın</message>
+    <message key="createAvatarChooseAppearance">Görünüş seç</message>
+    <message key="createAvatarDialogTitle">Avatar oluşturuldu</message>
+    <message key="createAvatarHelpFull">bir ad ve cinsiyet seç</message>
+    <message key="createAvatarHelpName">adını seç</message>
+    <message key="createAvatarHelpSex">cinsiyetini seç</message>
+    <message key="createAvatarTitle">Avatar oluştur</message>
+    <message key="createdAvatarWallTitle">Bir avatar oluşturdum</message>
+    <message key="createdEventWallTitle">Yeni bir etkinlik yaptım</message>
+    <message key="createEventButtonTitle">ETKİNLİK
+OLUŞTURUN</message>
+    <message key="createEventCancelButton">İPTAL ET</message>
+    <message key="createEventDialogTitle">Etkinlik oluşturuldu</message>
+    <message key="createEventFillFields">Etkinlik adını ve açıklama olarak birkaç kelime girin.</message>
+    <message key="createEventLevelMessage">Yeni bir etkinlik oluşturmak için %i. seviyeye ulaşmanız gerekmektedir.</message>
+    <message key="createEventTitle">Yeni etkinlik oluşturun</message>
+    <message key="createForButtonTitle">OLUŞTURUN</message>
+    <message key="createWeddingEventButtonTitle">etkinlikler</message>
+    <message key="cryingButtonTitle">ağlayın</message>
+    <message key="currentWin">Mevcut kazançlar</message>
+    <message key="dailyDresscodeDescription">Gündelik kıyafet kodu: kıyafet ve ayakkabı gerekli</message>
+    <message key="dailyGiftComment">Oyuna her gün girin ve hediyeleri alın</message>
+    <message key="dailyGiftDayTitle">:num: gün</message>
+    <message key="dailyGiftTitle">GÜNLÜK HEDİYELER</message>
+    <message key="dailyGiftWallTitle">Günlük hediyem var</message>
+    <message key="danceButtonTitle">dans edin</message>
+    <message key="dayliGiftGetButtonTitle">alın</message>
+    <message key="declineButtonTitle">reddedin</message>
+    <message key="defaultAvatarName">Avatar adını girin</message>
+    <message key="defaultLookupInputText">bir ad gir</message>
+    <message key="defaultQuestSection">Görevler</message>
+    <message key="defaultReg">Avrupa</message>
+    <message key="defaultRelationConfirmButton">ekleyin</message>
+    <message key="defaultRelationConfirmTitle">:status: eklensin mi?</message>
+    <message key="denyFightButtonLabel">Reddedin</message>
+    <message key="descexperiment_label">deney gerçekleştir</message>
+    <message key="descstudy_label">çalışın</message>
+    <message key="deselectAction">Seçimi Kaldırın</message>
+    <message key="doneButtonTitle">tamamlandı</message>
+    <message key="dontShowAnymore">Bir daha gösterme</message>
+    <message key="draw_wight_label">izle</message>
+    <message key="draw_yellow_label">çek</message>
+    <message key="dressCode">Kıyafet Kodu</message>
+    <message key="dressCode_event_Warning">Bu parti için kıyafet kodu bayramlık kostüm öğeleri olmadan gelmene izin vermez.</message>
+    <message key="dressCode_jacuzzi_Warning">Havuzda ya da Jakuzide oturmak için mayo veya bikini giyin.</message>
+    <message key="dressCode_outside_Warning">Standart kıyafet kodu insanların toplum içine ayakkabısız ve iç çamaşırlarıyla çıkmalarını engeller.</message>
+    <message key="dressCode_swim_Warning">Bu konum için kıyafet kodu sadece mayo veya yüzme şortuyla gelmene izin verir.</message>
+    <message key="dressCodeConfirm">Kıyafetlerinizi değiştirmek istiyor musunuz?</message>
+    <message key="dressCodeEventWarning">Bu etkinlik için kıyafet kodu, insanların herhangi bir takım elbise olmadan halka açık şekilde görünmelerini engeller.</message>
+    <message key="dressCodeOutsideWarning">Standart kıyafet kodu insanların toplum içine ayakkabısız ve iç çamaşırlarıyla çıkmalarını engeller.</message>
+    <message key="driveOutButtonTitle">tekmeleyin</message>
+    <message key="duplicateUserSessionError">Adınızla mükerrer uygulama başlatması.</message>
+    <message key="easelDrawButtonTitle">Çiz</message>
+    <message key="eatButtonTitle">Yiyin</message>
+    <message key="editAction">Düzenleyin</message>
+    <message key="editAvatarAppearanceTitle">Görünüş</message>
+    <message key="editAvatarButtonLabel">Görünüş</message>
+    <message key="editAvatarClothesTitle">Dolap</message>
+    <message key="editAvatarNameDialogTitle">Adınız nedir?</message>
+    <message key="editClothesButtonLabel">Kıyafet Değiştirin</message>
+    <message key="editDoorNoItemsMessge">Düzenlenecek bir kapı yok. Ama düzeltilebilir!</message>
+    <message key="editDoorTitle">Kapı düzenleyici</message>
+    <message key="editFirToysButtonTitle">düzenle</message>
+    <message key="editHouseButtonLabel">Oda Düzenleyici</message>
+    <message key="editorExitConfirmMessage">Düzenleyiciden çıkmadan önce değişiklikler kaydedilsin mi?</message>
+    <message key="editorExitConfirmTitle">Düzenleyiciden çık</message>
+    <message key="emailQuestAwardComment">Muhteşem! Artık herhangi bir indirimi kaçırmayacaksınız, ve Avataria dünyasında olup bitenlere dair her zaman güncel olacaksınız.</message>
+    <message key="emailQuestButtonTitle">Mektubunuz var!</message>
+    <message key="emailQuestCompleteButtonTitle">Beni güncel tut!</message>
+    <message key="emailQuestDescription">Bu fırsatı kaçırmayın! Yeni özel teklifler ve indirimler hakkında öğrenen ilk kişilerden olacaksınız! İlaveten, oyun bonuslarında eşsiz elde edeceksiniz! Aşağıdakine tıklayarak bu son derece bilgilendirici haber mektuplarını e-postanıza göndermemize izin verin.</message>
+    <message key="emailQuestTaskTitle">Uygulamanın haberleri epostama göndermesine izin ver</message>
+    <message key="emailQuestTitle">Mektubunuz var!</message>
+    <message key="empltyPlayerList">Seçilecek biri yok</message>
+    <message key="emptySocialOffers">Şu anda sizin için özel bir teklif yok. Tekrar gelin ve daha sonra yeniden kontrol edin..</message>
+    <message key="enemyBuddyListEmpty">Liste boş. Oyunda herhangi bir düşman edinirseniz, burada görüntülenecektir.</message>
+    <message key="enemyButtonTitle">düşman</message>
+    <message key="energy">enerji</message>
+    <message key="ENERGY_title">Enerji</message>
+    <message key="energyLabel">enerji</message>
+    <message key="energyProgressLabel">Enerji. Her dakika yeniden yüklenir.</message>
+    <message key="energyRestoredButtonTitle">:golds: karşılığında 100 enerji satın alın</message>
+    <message key="energyRestoredResult">Enerji tamamen yüklendi.</message>
+    <message key="energyRestoredTitle">Enerji kazanma</message>
+    <message key="energyRestoreMessage">Altın karşılığında, şu anda 100 enerji satın alabilirsiniz. Aksi takdirde, enerjiniz dakikada 1 birimlik bir hızla ücretsiz olarak dolacaktır.</message>
+    <message key="engaged_nocensRequestDeclinedMessage">:name: teklifinizi reddetti</message>
+    <message key="engaged_nocensRequestDeclinedTitle">reddedin</message>
+    <message key="engaged_nocensRequestReceivedMessage">:name: sizinle evlenmek istiyor</message>
+    <message key="engaged_nocensRequestSendedMessage">:name: birazdan sizin nişanlanma teklifinizi öğrenecek.</message>
+    <message key="engaged_nocensRequestSendedTitle">İlişki talebi</message>
+    <message key="engagedConfirmTitle">Evlilik teklifi yapılsın mı?</message>
+    <message key="engagedRequestDeclinedMessage">:name: teklifinizi reddetti</message>
+    <message key="engagedRequestDeclinedTitle">Reddedin</message>
+    <message key="engagedRequestReceivedMessage">:name: sizinle evlenmek istiyor</message>
+    <message key="engagedRequestSendedMessage">:name: birazdan sizin nişanlanma teklifinizi öğrenecek.</message>
+    <message key="engagedRequestSendedTitle">İlişki talebi</message>
+    <message key="engegedButtonTitle">evlilik teklifi edin</message>
+    <message key="enterEventDescriptionLabel">etkinlik açıklamasını gir</message>
+    <message key="enterEventNameLabel">etkinlik adını gir</message>
+    <message key="enterMessage">Mesaj girin</message>
+    <message key="eraseButtonTitle">Silin</message>
+    <message key="error">Hata</message>
+    <message key="escapeBattle">kaçın</message>
+    <message key="estr20bush">Çalıda yumurta aramak</message>
+    <message key="estr20dance">Tavşan Dansı</message>
+    <message key="estr20dancewith">Tavşan ile dans et</message>
+    <message key="estr20eggs">Paskalya Yumurtası</message>
+    <message key="estr20hole">Oyukta yumurta aramak</message>
+    <message key="estr20openegg">Bir sürpriz yumurta aç</message>
+    <message key="estr20printegg">Yumurtaları boya</message>
+    <message key="estr20showoff">Sepeti övmek</message>
+    <message key="estr20steal">Sepetten çalmak</message>
+    <message key="estr20toyrab">Bir oyuncak tavşan al</message>
+    <message key="estr20tree">Bir ağacı salla</message>
+    <message key="estr20tulip">Lale</message>
+    <message key="EVENT_title">Para</message>
+    <message key="event2_tab">Bayram</message>
+    <message key="eventCategoryLabel">Kategori</message>
+    <message key="eventCreatedMessage">Etkinlik oluşturuldu. Misafirleri beklemeye başlayın!</message>
+    <message key="eventDescriptionLabel">Açıklama</message>
+    <message key="eventJobWorkTitle">Bulut Dokuz Bar</message>
+    <message key="eventLength120">iki saat</message>
+    <message key="eventLength30">yarım saat</message>
+    <message key="eventLength60">bir saat</message>
+    <message key="eventLengthLabel">Uzunluk</message>
+    <message key="eventLevelNoRestrictLabel">kısıtlama yok</message>
+    <message key="eventLevelRestrictLabel">Minimum seviye</message>
+    <message key="EventLocationLabel">Okul Salonu</message>
+    <message key="eventMinLevelRestrictInfo">%i. seviyeden</message>
+    <message key="eventMinLevelRestrictMessage">Etkinlik %i. seviyeden itibaren kullanılabilir</message>
+    <message key="eventNameLabel">Ad</message>
+    <message key="eventRatingLabel">Altın yıldız</message>
+    <message key="EventSaleLabel">Bayram İndirimleri</message>
+    <message key="EventShopLabel">Şenlikli Çarşısı</message>
+    <message key="eventsTitle">Etkinlikler</message>
+    <message key="eventTitle">Etkinlik</message>
+    <message key="EventWindowLabel">Avataria Turları</message>
+    <message key="EventWindowSaleLabel">Büyük indirim</message>
+    <message key="exBelovedConfirmButton">terk edin</message>
+    <message key="exBelovedConfirmTitle">Gerçekten ayrılmak istiyor musunuz ?</message>
+    <message key="exchange_error_cant_find_item">Eşya bulunamadı</message>
+    <message key="exchange_error_cant_trade">Bu eşyaları takas edemezsiniz</message>
+    <message key="exchange_error_in_progress">Bu oyuncu, başka bir oyuncuyla eşya değiştiriyor. Lütfen sonra tekrar deneyin.</message>
+    <message key="exchange_error_not_init">Değişim sırasında bir hata oluştu</message>
+    <message key="exchange_error2_in_progress">Mevcut değişimi tamamlamalısınız</message>
+    <message key="exchange_item_select">Değiştirmek için hiç eşya yok</message>
+    <message key="exchangeButtonTitle">takas edin</message>
+    <message key="exchangeCancelText">Takası iptal etmek istediğinizden emin misiniz?</message>
+    <message key="exchangeGoldToChipsMessage">Altın paralarınızı çip paralarla değiştirebilirsiniz.</message>
+    <message key="exchangeGoldToSilverMessage">Altın paralarınızı gümüş paralarla değiştirebilirsiniz.</message>
+    <message key="exchangeInfo">Takas edilecek eşyaları seçin</message>
+    <message key="exchangeItemsGiven">Verilen eşyalar:</message>
+    <message key="exchangeItemsReceived">Alınan eşyalar:</message>
+    <message key="exchangeItemsResult">Değişim sonucu</message>
+    <message key="exchangeNeedItem">Değişim için bir eşya teklif edin</message>
+    <message key="exchangeNoItems">Değişim için eşya yok</message>
+    <message key="exchangePointsButtonTitle">Değiştirin</message>
+    <message key="exchangePointsMessage">:coins: var, :gold: ile değiştirebilirsiniz.</message>
+    <message key="exchangeRequestApprovedMessage">:userName: sizinle eşyalarını takas etmek istiyor</message>
+    <message key="exchangeRequestDeclinedMessage">:name: sizinle eşyalarını takas etmek istemiyor</message>
+    <message key="exchangeRequestReceivedMessage">:name: sizinle eşyalarını takas etmek istiyor</message>
+    <message key="exchangeRequestSendedMessage">Takas daveti gönderildi</message>
+    <message key="exchangeWaitPlayer">Başka bir oyuncunun hareket etmesini bekleyin</message>
+    <message key="exEngagedConfirmButton">ayrılın</message>
+    <message key="exEngagedConfirmTitle">İlişkiyi bitirmek istiyor musunuz?</message>
+    <message key="exit">Çık</message>
+    <message key="exitAppText">Oyundan çıkmak istediğinizden emin misiniz?</message>
+    <message key="exitAppTitle">DİKKAT!</message>
+    <message key="exitButtonTitle">çıkın</message>
+    <message key="exitWithoutSaveWarningMessage">Balık tankı düzenlemesini bitirdiğinizde önceki tüm değişiklikler kaybedilecektir. Devam edilsin mi?</message>
+    <message key="exMarriedConfirmButton">boşanın</message>
+    <message key="exMarriedConfirmTitle">Boşanmak istiyor musunuz?</message>
+    <message key="facebook">Facebook</message>
+    <message key="feedbackLabel">Geri bildirim</message>
+    <message key="fightButtonTitle">düello</message>
+    <message key="fightDefenceDownMove">Ayağı engelleyin</message>
+    <message key="fightDefenceUpMove">Başı engelleyin</message>
+    <message key="fightDrawResult">Beraberlik!</message>
+    <message key="fightGameReadyTimeLeft">Oyun :time: içerisinde bitecek.</message>
+    <message key="fightGameRequest">:name: sizi düelloya davet ediyor. Kabul ediyor musunuz?</message>
+    <message key="fightPillowDownMove">Ayağa yastık vuruşu</message>
+    <message key="fightPillowUpMove">Başa yastık vuruşu</message>
+    <message key="fightRequestDialogTitle">Bir kavga için meydan okuyun</message>
+    <message key="fightRequestLabel">:name: :genderDrop: size meydan okudu</message>
+    <message key="fileredBuddyListEmpty">Liste boş. Sol taraftaki kutudaki arama parametrelerini değiştirmeyi deneyin.</message>
+    <message key="fillEnergyButtonTitle">enerji kazan</message>
+    <message key="fireworkExplodeTitle">Oley!</message>
+    <message key="floodBanReason">Aynı mesajların sıklıkla gönderilmesi (pakete boğma) yasaktır.</message>
+    <message key="floodWarning">Aynı mesajların sıklıkla gönderilmesi (pakete boğma) yasaktır. Başkalarına karşı saygılı olun. Aksi takdirde uygulamayı kullanmanızı yasaklayacağız.</message>
+    <message key="flowerLootNotReadyMessage">Olgunlaşması için kalan süre: :timeLeft:</message>
+    <message key="flowerLootNotReadyTitle">Çiçek yeterince olgun değil</message>
+    <message key="followFriendCanyonMessage">Arkadaşınız şu anda yarışıyor. Ziyaret etmek ister misiniz?</message>
+    <message key="followFriendCanyonTitle">Kanyona doğru</message>
+    <message key="followFriendCityMessage">Dostunuz şu anda evinde. Ziyaret etmek ister miydiniz?</message>
+    <message key="followFriendCityTitle">Arkadaş arayın</message>
+    <message key="followFriendIslandMessage">Dostunuz şu anda Tropicania'daki adasında evcil hayvanı ile oynuyor. Siz de aynısını yapmak ister miydiniz?</message>
+    <message key="followFriendIslandTitle">Arkadaş arayın</message>
+    <message key="followFriendWorkMessage">Arkadaşınız şu anda para kazanmak için çalışıyor. Siz de aynısını yapmak ister misiniz?</message>
+    <message key="followFriendWorkTitle">Arkadaş arayın</message>
+    <message key="foodNotReadyMessage">Sonraki porsiyonun hazır olmasına :timeLeft: kaldı</message>
+    <message key="foodNotReadyTitle">Yemek hazır değil</message>
+    <message key="forCoins">:coins: karşılığında satın alın</message>
+    <message key="forGolds">:golds: karşılığında satın alın</message>
+    <message key="fortuneTellButtonTitle">fal bak</message>
+    <message key="fortuneWheelExitMessage">Kazancını şimdi toplarsan, bir dahaki sefere baştan başlarsın.</message>
+    <message key="fortuneWheelExitTitle">Mini oyundan çıkılsın mı?</message>
+    <message key="fortuneWorkBankruptConsolationPrizeDialogDescription">İflas mı? Yok yok, şaka yaptık :) Şans Çarkı’nda görüntülenen altın paralar oyun hesabınıza aktarıldı ve toplam kazançlarınızın toplamı:</message>
+    <message key="fortuneWorkBankruptConsolationPrizeDialogTitle">1 Nisan’da Başlıyor!</message>
+    <message key="fortuneWorkFirstAprilInviteDialogChipsLabel">Sizde olan</message>
+    <message key="fortuneWorkFirstAprilInviteDialogDescription">Bugün şans yüzünüze gülecek, Şans Çarkı’nı çevirin!</message>
+    <message key="fortuneWorkFirstAprilInviteDialogTitle">Şans yanınızda!</message>
+    <message key="fortuneWorkPrizeConfirmDescription">Şans bu kadar yakınınızdayken elinizden kaçıp gitmesine izin vermeyin! Çarkı çevirmeye devam etmek istiyor musunuz?</message>
+    <message key="fortuneWorkPrizeConfirmTitle">Şans kesinlikle yanınızda olacak!</message>
+    <message key="fortuneWorkTitle">Şans Çarkı</message>
+    <message key="FREE_title">Ücretsiz</message>
+    <message key="freeButtonTitle">ücretsiz</message>
+    <message key="freeloveESReg">İspanya ve Latin Amerika</message>
+    <message key="freelovePLReg">Polonya</message>
+    <message key="freeloveTRReg">Türkiye</message>
+    <message key="friendBuddyListEmpty">Henüz arkadaşınız yok. Arkadaşınız olmayı kabul eden kişiler burada görüntülenecektir.</message>
+    <message key="friendsRequestDeclinedMessage">:userName: sizinle arkadaş olmak istemiyor.</message>
+    <message key="friendsRequestDeclinedTitle">Reddedin</message>
+    <message key="friendsRequestReceivedMessage">:name: ilişkinizde sonraki aşamaya geçmenizi önerdi - arkadaşlık. Kabul ediyor musunuz?</message>
+    <message key="friendsRequestSendedMessage">:name: birazdan sizin arkadaş olma isteğinizi öğrenecek.</message>
+    <message key="friendsRequestSendedTitle">Arkadaşlık talebi</message>
+    <message key="friendsTopPanelLabel">En İyi Komşular</message>
+    <message key="FullloveKissPermissionsRequestMessage">Bir karakteri öpmek için önce barışmanız gerekir!</message>
+    <message key="FullloveKissRequestApprovedMessage">:name: sizi öpmek istiyor :)</message>
+    <message key="FullloveKissRequestDeclinedMessage">:name: sizi öpmek istemiyor :(</message>
+    <message key="FullloveKissRequestReceivedMessage">:name: sizi öpmek istiyor. Kabul edecek misiniz?</message>
+    <message key="FullloveKissRequestSendedMessage">:name: yakında onları öpmek istediğinizi öğrenecek.</message>
+    <message key="fullscreen">Tam ekran modu</message>
+    <message key="furnitureShopTitle">Mobilya</message>
+    <message key="furSitButtonTitle">otur</message>
+    <message key="ga">Envantuar</message>
+    <message key="gameChipsButtonLabel">Çip Paralar</message>
+    <message key="gameChipsLabel">oyun çip paraları</message>
+    <message key="gameRequestApprovedMessage">:name: meydan okumanızı kabul etti.</message>
+    <message key="gameRequestApprovedTitle">Talep onaylandı</message>
+    <message key="gameRequestDeclinedMessage">:name: meydan okumanızı reddetti.</message>
+    <message key="gameRequestDeclinedTitle">Talep reddedildi</message>
+    <message key="gameRequestSendedMessage">:name: birazdan talebinizi alacak</message>
+    <message key="gameRequestSendedTitle">Talep gönderildi</message>
+    <message key="gameResourceFilmItemUserLabel">Fotoğraf Stüdyosu'na gitmek istediğinizden emin misiniz?</message>
+    <message key="gameResourceGameChipsItemUserLabel">Şans Çarkı'na gitmek istediğinizden emin misiniz?</message>
+    <message key="gameRulesDialogTitle">Oyun Kuralları</message>
+    <message key="gamesComingMessage">Çok yakında arkadaşlarınızla heyecanlı oyunlar oynayabilecek ve gümüş para kazanabileceksiniz.</message>
+    <message key="gamesTitle">Oyunlar</message>
+    <message key="garbageWorkTitle">Çöpün temizlenmesi</message>
+    <message key="gardenWorkTitle">Bahçe</message>
+    <message key="getBonusCurrencyMessage">Şunu kazandınız :value:.</message>
+    <message key="getButtonTitle">al</message>
+    <message key="giftButtonTitle">hediye yap</message>
+    <message key="giftFirToyButtonTitle">bir oyuncak ver</message>
+    <message key="giftLevelMessage">Eşya takası için %i. seviyeye ulaşmanız gerekmektedir.</message>
+    <message key="GiftLovecardPermissionsRequestMessage">Bir karakteri tebrik etmek için önce barışmanız gerekir!</message>
+    <message key="GiftLovecardRequestApprovedMessage">:name: onları tebrik ederseniz mutlu olacaktır :)</message>
+    <message key="GiftLovecardRequestDeclinedMessage">:name: onları etmenizi istemiyor :(</message>
+    <message key="GiftLovecardRequestReceivedMessage">:name: sizi tebrik etmek istiyor. Kabul edecek misiniz?</message>
+    <message key="GiftLovecardRequestSendedMessage">:name: onları tebrik etmek istediğinizi öğrenecek.</message>
+    <message key="giftNoItemsText">Maalesef, verecek bir şeyiniz yok.</message>
+    <message key="giftNoItemsWithBuyText">Maalesef, verecek bir şeyiniz yok. Bir hediye satın almak ister misiniz?</message>
+    <message key="giftsButtonTitle">hediyeler</message>
+    <message key="giftsShopTitle">Hediyeler</message>
+    <message key="giftVipButtonTitle">Verin :value:</message>
+    <message key="giftVipDialogTitle">VIP verin</message>
+    <message key="goButtonTitle">git!</message>
+    <message key="GOLD_title">Altın</message>
+    <message key="goldEventRating">altın yıldız (:gold: G)</message>
+    <message key="goldLabel">altın</message>
+    <message key="goldPacksDialogLabel">Daha fazla altın mı lazım?</message>
+    <message key="goldPurchase">:gold:</message>
+    <message key="goldPurchaseDescription">Altın paralar en değerli kaynağınızdır, çünkü Avataria'daki en iyi mallar sadece altın karşılığında satılmaktadır.</message>
+    <message key="goldSaleButton">Satın Alın</message>
+    <message key="goldSaleMessage">%50'lik inanılmaz indirim sayesinde, aynı fiyata iki katı altın almak için sadece üç gününüz var! Gecikmeyin, hemen satın alın!</message>
+    <message key="goldSaleTitle">Altın indirimde</message>
+    <message key="goldTypeButtonTitle">altın</message>
+    <message key="goodButtonTitle">TAMAM</message>
+    <message key="gotoFurnitureShop">Depo</message>
+    <message key="gotoIn">İçeri</message>
+    <message key="gr20ActionCelebrateLabel">Kutlayın</message>
+    <message key="gr20ActionCheersLabelLabel">Tebrik edin</message>
+    <message key="gr20ActionGroupPoseLabel">Birlikte poz verin</message>
+    <message key="gr20ActionMakeShootLabel">Resim çekin</message>
+    <message key="gr20ActionPlayMusLabel">Enstrüman çalın</message>
+    <message key="gr20LootBaloonLabel">Balonlar</message>
+    <message key="gr20LootGoodMemoryLabel">Muhteşem Anılar</message>
+    <message key="gr20LootGraduationHatLabel">Balo Şapkası</message>
+    <message key="gr20LootMusciNoteLabel">Nota Kâğıdı</message>
+    <message key="gr20LootPlasticCupLabel">Plastik bardaklar</message>
+    <message key="gr20LootPositiveLabel">Olumlu Bir Atmosfer</message>
+    <message key="gr20LootRhythmLabel">Ritim Duygusu</message>
+    <message key="greenhouseRoom">Sera</message>
+    <message key="halloweenLocationTitle">Thompsonların Evi</message>
+    <message key="hallTipHigh_label">Cömert ipucu
+</message>
+    <message key="hallTipLow_label">Mütevazı ipucu
+</message>
+    <message key="hallTipMedium_label">İpucu ver</message>
+    <message key="happyNewYearLabel">İyi seneler!</message>
+    <message key="hasItemMessage">Sizde bu eşya zaten var.</message>
+    <message key="hasItemTitle">Zaten satın alındı</message>
+    <message key="helpButtonLabel">Destek</message>
+    <message key="helpMessage1">Çarkı çevirmek için «Çevir» öğesine tıklayın. Çarkı istediğiniz kadar çevirebilirsiniz.</message>
+    <message key="helpMessage2">«İflas» kısmına denk gelmemeye çalışın, yoksa tüm kazançlarınızı kaybedersiniz ve oyun sona erer.</message>
+    <message key="helpMessage3">Kazancınızı yeterli gördüğünüz zaman «Kazançları Al» üzerine tıklayın.</message>
+    <message key="hideAction">Envantuara</message>
+    <message key="hideRelationsPermission">Bir ilişkiyi gizlemek için VIP olmalısın</message>
+    <message key="homeButtonLabel">Ev</message>
+    <message key="houseKickedMessage">Ev sahibi sizi bir süre görmek istemiyor.</message>
+    <message key="houseKickedTitle">Dışarı atıldınız.</message>
+    <message key="houseLockedForTutorialMessage">Bu dairenin sahibi henüz tanıtım dersini tamamlamadı. Bitirmelerini bekleyin.</message>
+    <message key="houseLockedForTutorialTitle">Bu dairenin sahibi tanıtım dersini tamamlıyor.</message>
+    <message key="houseLockedMessage">Bu dairenin sahibi dairesini kilitlemeye karar vermiş. Ziyaretçi yok.</message>
+    <message key="houseLockedTitle">Daire kilitlendi</message>
+    <message key="houseRating">Konfor</message>
+    <message key="howToPlay">Nasıl oynanır</message>
+    <message key="hugButtonTitle">sarılın</message>
+    <message key="hugLevelMessage">Birisine sarılmak için %i. seviyeye ulaşmanız gerekmektedir.</message>
+    <message key="hugPermissionsRequestMessage">Bir oyuncuya sarılmak için önce barışmanız gerekmektedir. Barış önerilsin mi?</message>
+    <message key="hugRequestApprovedMessage">:name: size sarılmayı kabul etti</message>
+    <message key="hugRequestApprovedTitle">Devam edin ve sarılın!</message>
+    <message key="hugRequestDeclinedMessage">:name: sizinle sarılmak istemiyor</message>
+    <message key="hugRequestDeclinedTitle">Reddedin</message>
+    <message key="hugRequestReceivedMessage">:name: size sarılmak istiyor. İzin veriyor musunuz?</message>
+    <message key="hugRequestReceivedTitle">Birisi size sarılmak istiyor</message>
+    <message key="hugRequestSendedMessage">:name: birazdan sizin sarılma isteğinizi öğrenecek.</message>
+    <message key="hugRequestSendedTitle">Sarılma izni</message>
+    <message key="hugTitle">Sarıl</message>
+    <message key="hurra">Yaşasın!</message>
+    <message key="innerRoomTitle">Oda</message>
+    <message key="instagramLink">https://www.instagram.com/avatarlife_official/</message>
+    <message key="installButtonTitle">yerleştirin</message>
+    <message key="inTime">:time: içinde</message>
+    <message key="inventoryButtonLabel">Envantuar</message>
+    <message key="inventoryBuyDialogTitle">Envantuar alma</message>
+    <message key="inventoryDialogTitle">Envantuar</message>
+    <message key="inventoryTabTitle">Envantuar</message>
+    <message key="invitationMessage">Dairemi ziyaret et!</message>
+    <message key="inviteBtnTitle">DAVET EDİN</message>
+    <message key="inviteButtonTitle">davet edin</message>
+    <message key="inviteFriends">Arkadaşları davet edin</message>
+    <message key="inviteFriendsDlgTitle">Arkadaşları davet edin</message>
+    <message key="iod_timer_label">indirimli:</message>
+    <message key="itemCraftedWallTitle">Yeni bir eşyam var</message>
+    <message key="itemNeededMessage">Şunlara sahip olmalısınız :item:</message>
+    <message key="itemNeededTitle">Gerekli eşya</message>
+    <message key="itemOfDay">Özel teklif</message>
+    <message key="itemOfDayNewPrice">Yeni fiyat: :price:</message>
+    <message key="itemOfDayOldPrice">Eski fiyat: :price:</message>
+    <message key="itemOfDayToEnd">kalan zaman:</message>
+    <message key="itemsNotFound">Kullanılabilir değil</message>
+    <message key="jackpot">Büyük ödül</message>
+    <message key="jacuzziBrokePermissionsDenyedMessage">Jakuziyi bozmadan önce düşman olmanız gerekmektedir.</message>
+    <message key="jacuzziRepairPermissionsDenyedMessage">Jakuziyi onarmadan önce iyi arkadaş olmanız gerekmektedir.</message>
+    <message key="jokeAndPresentShopTitle">Hediyeler ve şakalar</message>
+    <message key="justNowBillingMessage">Sınırlı Süre</message>
+    <message key="karaokesing">şarkı söyle</message>
+    <message key="kickButtonTitle">tekmeleyin</message>
+    <message key="kickFailedText">Sadece daire sahibi bir oyuncuyu daireden atabilir</message>
+    <message key="kickFailedTitle">Bir oyuncuyu atamazsınız</message>
+    <message key="kickMeLabel">Beni Tekmele!</message>
+    <message key="kiss_nocensPermissionsRequestMessage">Diğer oyuncularla öpüşmek için arkadaş olmanız gerekmektedir. Arkadaş olmak istiyor musunuz?</message>
+    <message key="kiss_nocensPermissionsRequestMessage2">Diğer oyuncularla öpüşmek için arkadaş olmanız gerekmektedir.</message>
+    <message key="kiss_nocensRequestApprovedMessage">:name: sizi öpmeyi kabul etti</message>
+    <message key="kiss_nocensRequestApprovedTitle">Devam edin ve öpün!</message>
+    <message key="kiss_nocensRequestDeclinedMessage">:name: sizinle öpüşmek istemiyor</message>
+    <message key="kiss_nocensRequestDeclinedTitle">reddedin</message>
+    <message key="kiss_nocensRequestReceivedMessage">:name: sizi öpmek istiyor. İzin veriyor musunuz?</message>
+    <message key="kiss_nocensRequestReceivedTitle">Birisi sizi öpmek istiyor</message>
+    <message key="kiss_nocensRequestSendedMessage">:name: birazdan sizin öpme isteğinizi öğrenecek.</message>
+    <message key="kiss_nocensRequestSendedTitle">Öpme izni</message>
+    <message key="kissButtonTitle">öpün</message>
+    <message key="kissLevelMessage">Birisini öpmek için %i. seviyeye ulaşmanız gerekmektedir.</message>
+    <message key="kissPermissionsRequestMessage">Diğer oyuncularla öpüşmek için arkadaş olmanız gerekmektedir. Arkadaş olmak istiyor musunuz?</message>
+    <message key="kissPermissionsRequestMessage2">Diğer oyuncularla öpüşmek için arkadaş olmanız gerekmektedir.</message>
+    <message key="kissRequestApprovedMessage">:name: sizi öpmeyi kabul etti</message>
+    <message key="kissRequestApprovedTitle">Devam edin ve öpün!</message>
+    <message key="kissRequestDeclinedMessage">:name: sizinle öpüşmek istemiyor</message>
+    <message key="kissRequestDeclinedTitle">Reddedin</message>
+    <message key="kissRequestReceivedMessage">:name: sizi öpmek istiyor. İzin veriyor musunuz?</message>
+    <message key="kissRequestReceivedTitle">Birisi sizi öpmek istiyor</message>
+    <message key="kissRequestSendedMessage">:name: birazdan sizin öpme isteğinizi öğrenecek.</message>
+    <message key="kissRequestSendedTitle">Öpme izni</message>
+    <message key="kissTitle">Öp</message>
+    <message key="kitchenDoorTitle">Mutfak</message>
+    <message key="labelBenefit">Kâr</message>
+    <message key="labelNeededLevel">seviye :level:</message>
+    <message key="labelNeededTitle">Gerekli</message>
+    <message key="labelNeededVip">VIP statüsü</message>
+    <message key="lagDisconnected">Bağlantı kaybedildi...</message>
+    <message key="lagReconnectMessage">Oyun duraklatıldı. Devam etsin mi?</message>
+    <message key="lagReconnectTitle">Duraklat</message>
+    <message key="langAttention">Ayarları etkinleştirmek için oyunu kapatıp tekrar aç</message>
+    <message key="langRestart">Dil ayarlarını değiştirmek istediğinizden emin misiniz?</message>
+    <message key="language">Dil</message>
+    <message key="languageSelection">Dil seçimi</message>
+    <message key="leaveGameLabel">kaçın</message>
+    <message key="levelProgressLabel">Seviye. Yeni bir seviyeye ulaşmak için görevleri tamamlayın.</message>
+    <message key="livingRoom">Oturma Odası</message>
+    <message key="loading">yükleniyor...</message>
+    <message key="loadingLocation">Yükleniyor...</message>
+    <message key="locationLevelTitle">Seviye yetersiz</message>
+    <message key="locationLevelWarning">Bu konuma girmek için %i. seviyede olmanız gerekmektedir.</message>
+    <message key="locationNeedVipTitle">VIP statüsü gerekli</message>
+    <message key="locationNeedVipWarning">Sadece VIP statüsüne sahip bir kişi bu konuma girebilir. Statüyü istiyor musunuz?</message>
+    <message key="locationQuestSection">Konum Görevleri</message>
+    <message key="locationSelectTitle">Hoş Geldiniz</message>
+    <message key="lockHouseButtonTitle">Daireyi kilitleyin</message>
+    <message key="lockHouseConfirm">Daireniz kilitliyse, arkadaşlarınız sizi ziyaret edemez. Dairenizi kilitlemek istediğinizden emin misiniz?</message>
+    <message key="lockHouseTitle">Daireyi kilitleyin</message>
+    <message key="lockTime">Daire şu zamana kadar kilitli:</message>
+    <message key="longKissButtonTitle">uzun öpün</message>
+    <message key="lookingGreat">Çok şıksınız!</message>
+    <message key="looseMessage">Maalesef, :gender:.</message>
+    <message key="lootAntiseptic">Antiseptik</message>
+    <message key="lootFAK">İlk Yardım Seti</message>
+    <message key="lootHandy">Kağıt Mendil</message>
+    <message key="lootVitamins">Vitaminler</message>
+    <message key="LoveAroma_label">Aşk Havası</message>
+    <message key="LoveBrHeart_label">Kırık Kalp</message>
+    <message key="loveBuddyListEmpty">Liste boş. Yakın arkadaşlarınız burada görüntülenecektir.</message>
+    <message key="LoveFlower_label">Çiçek</message>
+    <message key="LoveHeart_label">Kanatlı Kalp</message>
+    <message key="LoveKey_label">Anahtar Kilit</message>
+    <message key="LoveLetter_label">Aşk Mektubu</message>
+    <message key="lvMtrPublishDialogFalseDescription">Anlaşılan kader bizim birlikte oImamızı istemiyor. Ama kim bilir? Belki de bu bizim ilişkimizin gücünü sınayan bir testtir?</message>
+    <message key="lvMtrPublishDialogFalseWallPost">Anlaşılan kader bizim birlikte oImamızı istemiyor. Başka biriyle olan uyumluluğunuzu test etmek ister misiniz? Gelin ve oyunu oynayın!</message>
+    <message key="lvMtrPublishDialogTitle">Uyumlu muyuz?</message>
+    <message key="lvMtrPublishDialogTrueDescription">Biz birbirimiz için yaratılmışız! Kimilerini kıskandıracak olsa da, bunu herkesin bilmesini istiyoruz!</message>
+    <message key="lvMtrPublishDialogTrueWallPost">:userName: ve ben birbirimiz için yaratılmışız! Başka biriyle olan uyumluluğunuzu test etmek ister misiniz? Gelin ve oyunu oynayın!</message>
+    <message key="mailAnswerButtonLabel">yanıt verin</message>
+    <message key="mailLeaveMessageDialogTitle">Mesaj bırakın</message>
+    <message key="mailLeaveMessageEmptyText">Lütfen mesaj metnini girin.</message>
+    <message key="mailLeaveMessageLabel">Mesaj metni:</message>
+    <message key="mailLeaveMessageSuccess">Mesaj eklendi.</message>
+    <message key="mailListDefaultIncomeText">Henüz kimse size yazmadı.</message>
+    <message key="mailListDefaultOutcomeText">Henüz arkadaşlarınıza hiç mektup yazmadınız.</message>
+    <message key="mailMessageListDailogTitle">Mesajlar listesi</message>
+    <message key="mailNewMessageText">Yeni bir mesajınız var.</message>
+    <message key="mailNewMessageTitle">Yeni mesaj.</message>
+    <message key="mainIncommingTabTitle">Gelen</message>
+    <message key="mainOutcommingTabTitle">Giden</message>
+    <message key="maintenanceError">Sunucuda bakım çalışmaları gerçekleştiriliyor. Lütfen daha sonra tekrar gelin.</message>
+    <message key="mainTopPanelLabel">Onur Listesi</message>
+    <message key="makeGiftApproveButtonTitle">kabul edin</message>
+    <message key="makeGiftButtonTitle">Hediye verin</message>
+    <message key="makeGiftDialogTitle">Hediye verin</message>
+    <message key="makeGiftInfo">Vermek için bir eşya seçin</message>
+    <message key="makeGiftNotificationCancelTitle">Hediye</message>
+    <message key="makeGiftNotificationConfirmTitle">Hediye</message>
+    <message key="makeGiftNotificationMessage">:name: birazdan hediyenizi öğrenecek.</message>
+    <message key="makeGiftNotificationTitle">Hediye verin</message>
+    <message key="makeGiftRequestNotificationPanelTitle">Hediye</message>
+    <message key="makeOfflineGiftNotificationMessage">Oyuncu, oyuna giriş yaptığı zaman hediyenizi öğrenecek.</message>
+    <message key="makeWaitressOrder">sipariş verin</message>
+    <message key="married_nocensRequestDeclinedMessage">:userName: sizinle evlilik bağı kurmak istemiyor</message>
+    <message key="married_nocensRequestDeclinedTitle">reddedin</message>
+    <message key="married_nocensRequestReceivedMessage">:isim: sizinle karı koca olmayı teklif etti. Kabul ediyor musunuz?</message>
+    <message key="married_nocensRequestSendedMessage">:name: birazdan sizin evlenme isteğinizi öğrenecek.</message>
+    <message key="married_nocensRequestSendedTitle">İlişki talebi</message>
+    <message key="marriedButtonTitle">evlilik teklifi edin</message>
+    <message key="marriedConfirmTitle">Evliliğe başlansın mı?</message>
+    <message key="marriedRequestDeclinedMessage">:userName: sizinle evlilik bağı kurmak istemiyor</message>
+    <message key="marriedRequestDeclinedTitle">Reddedin</message>
+    <message key="marriedRequestReceivedMessage">:isim: sizinle karı koca olmayı teklif etti. Kabul ediyor musunuz?</message>
+    <message key="marriedRequestSendedMessage">:name: birazdan sizin evlenme isteğinizi öğrenecek.</message>
+    <message key="marriedRequestSendedTitle">İlişki talebi</message>
+    <message key="maxAssociateMessage">Çok fazla dostunuz var. İlişkinizi geliştirin veya iletişim kurmadıklarınızı çıkartın.</message>
+    <message key="maxDoorsCountReachedMessage">Bir odada %i üzerinde kapı olamaz. Başka bir kapı satın almak için başka bir odaya gidin.</message>
+    <message key="maxEnemyMessage">Çok fazla düşmanınız var. Ya bazılarıyla barışın ya da ilişkinizi kesin.</message>
+    <message key="maxEnergyReachedMessage">Enerji seviyesi dolu</message>
+    <message key="maxRelationsTitle">Liste dolu</message>
+    <message key="messageButtonTitle">söyleyin</message>
+    <message key="miscCategory">Diğer</message>
+    <message key="modelPoseButtonTitle">Poz Ver</message>
+    <message key="moderateButtonTitle">orta</message>
+    <message key="moderatorMessage">Moderatörden gelen mesaj</message>
+    <message key="moderatorMessageButtonTitle">mesaj</message>
+    <message key="moderatorRenameLabel">İhlal Yapan Oyuncu</message>
+    <message key="month1">ocak</message>
+    <message key="month10">ekim</message>
+    <message key="month11">kasım</message>
+    <message key="month12">aralık</message>
+    <message key="month2">şubat</message>
+    <message key="month3">mart</message>
+    <message key="month4">nisan</message>
+    <message key="month5">mayıs</message>
+    <message key="month6">haziran</message>
+    <message key="month7">temmuz</message>
+    <message key="month8">ağustos</message>
+    <message key="month9">eylül</message>
+    <message key="moreButtonTitle">Daha fazla ayrıntı</message>
+    <message key="multipler">ÇARPAN</message>
+    <message key="music">Müzik</message>
+    <message key="musicChannelNotAvailableMessage">Şu anda radyo kanalı kullanılabilir değil Başka birini deneyin.</message>
+    <message key="musicChannelNotAvailableTitle">Radyo kanalı kullanılabilir değil</message>
+    <message key="mustBeVipUserMessage">Bu işlemi gerçekleştirmek için VIP oyuncu olmanız gerekmektedir.</message>
+    <message key="myRequestButtonTitle">versiyonunuz</message>
+    <message key="native">Türk</message>
+    <message key="neededForPurchase">Satın almak için gerekli</message>
+    <message key="neededItemsNotFound">Bu işlemi gerçekleştirmek için gerekli eşyalarınız yok.</message>
+    <message key="needEngagedStatusMessage">Nişanlı olmalıdır</message>
+    <message key="needLevel">Seviye gerekli</message>
+    <message key="needVipStatusMessage">VIP statüsü gerekli</message>
+    <message key="needVipText">Bu seçenek sadece VIP'ler için mevcuttur.</message>
+    <message key="networkLagtMessage">Oyunu oynayabilmek için daha iyi bir İnternet bağlantısına ihtiyacınız var. Başka bir programın veya uygulamanın İnterneti kullanmadığından emin olun (torrent programı gibi).</message>
+    <message key="newAchievement">Yeni bir kupam var</message>
+    <message key="newHairsDialogMessage">Çok şıksınız!</message>
+    <message key="newHairsDialogTitle">Güzellik Salonu</message>
+    <message key="newItemsDialogMessage">Yeni lüks eşyalar satın almaya hazır!</message>
+    <message key="newItemsDialogTitle">Yeni eşyalar</message>
+    <message key="newLevel">Yeni bir seviyeye ulaştım</message>
+    <message key="newNameLabel">Yeni Ad:</message>
+    <message key="newRelation">Yeni bir ilişkim var</message>
+    <message key="newRelationLabel">Siz ve :name: artık</message>
+    <message key="newRoomWallTitle">Yeni bir oda satın aldım!</message>
+    <message key="newsButton">Haberler</message>
+    <message key="newsButtonLabel">Haberci</message>
+    <message key="newSelfRelationLabel">:name: ve ben artık :relation: olduk.</message>
+    <message key="newWedding">Düğünüm yaklaşıyor</message>
+    <message key="newYearGiftLabel">Noel Hediyeleri</message>
+    <message key="newYearOpenedGiftDescriptionLabel">Bu hediye kutusunun içinde bak neler varmış:</message>
+    <message key="newYearOpenGiftDescriptionLabel">Bu kutunun içinde çok harika öğeler bulacaksınız. Hediyenizi hemen açmak ister misiniz?</message>
+    <message key="noAchievementAwardsText">Kupa yok</message>
+    <message key="noAvatarNameWarning">Bir avatar adı girmediniz</message>
+    <message key="noAwardFriendTitle">Ödüller henüz alınmadı</message>
+    <message key="noAwardTitle">Henüz hiç ödülün yok. Avataria oynayarak hepsini topla!</message>
+    <message key="nobodyToThrow">Burada kartopu atılacak kimse yok. Başka yere bakalım!</message>
+    <message key="nobodyToThrowTitle">Burada hiç kimse yok</message>
+    <message key="noButtonTitle">hayır</message>
+    <message key="noCarsForCanyonRaceWarningText">Hala araba almadınız mı? Size hemen bir tane araba bulmalıyız!</message>
+    <message key="noEnemyButtonTitle">barışın</message>
+    <message key="noGiftFirToysItemsText">Değiştirilecek oyuncak yok.</message>
+    <message key="noMailMessageSendText">Sadece dostlar mesaj gönderebilir. Şu anda :gender: bulmak istiyor musunuz?</message>
+    <message key="noneEventRating">PR olmadan</message>
+    <message key="noNews">Bir sorun mu var? Sosyal medya sayfalarımızdan bize ulaş.
+
+Mobil Avataria için en son haberleri ve altın ödüllü yarışmaları bulabilirsin! Acele et!</message>
+    <message key="notAllObjectsInPlacesMessage">Tüm nesneler olmaları gereken yerde değil. Birbiri ile çakışmayacak şekilde odanın içinde düzenleyin ve fazlalık olanları kaldırın.</message>
+    <message key="notAllObjectsInPlacesTitle">Tüm nesneleri düzenleyin</message>
+    <message key="notenemyRequestDeclinedMessage">:name: düşman kalmak istiyor</message>
+    <message key="notenemyRequestDeclinedTitle">Reddedin</message>
+    <message key="notenemyRequestReceivedMessage">:name: size bir barış önerdi. Kabul ederseniz, artık düşman olmayacaksınız. Kabul ediyor musunuz?</message>
+    <message key="notenemyRequestSendedMessage">:name: birazdan sizin barışma teklifinizi öğrenecek.</message>
+    <message key="notenemyRequestSendedTitle">Barış</message>
+    <message key="notEngagedTitle">Etkinlik oluşturulamıyor</message>
+    <message key="notEngagedTitleMessage">Bir Düğün oluşturmak için nişanlı olmanız gerekmektedir. Önce ruh eşinizle nişanlanın.</message>
+    <message key="notEnoughEnergyMessage">:gold: karşılığında enerjinizi tamamen kazanmak ister misiniz?</message>
+    <message key="notEnoughEnergyTitle">Yeterli enerji yok</message>
+    <message key="notEnoughGameChipsConfirm">Yeterli oyun çip paranız yok. Çip satın alma penceresi açılsın mı?</message>
+    <message key="notEnoughGameChipsTitle">Yeterli çip para yok</message>
+    <message key="notEnoughGoldMessage">Yeterince :coins: yok mu? İşte size birkaç güzel teklif.</message>
+    <message key="notEnoughGoldTitle">Yeterli altın yok.</message>
+    <message key="notEnoughLevel">Seviyeniz çok düşük.</message>
+    <message key="notEnoughRelationStatuss">Yetersiz ilişki durumu.</message>
+    <message key="notEnoughResourcesError">Yeterli kaynağınız yok.</message>
+    <message key="notEnoughSilverMessage">Yeterli gümüşünüz yok. Altın paralarınızı gümüş paralarla değiştirmek ister misiniz?</message>
+    <message key="notEnoughSilverTitle">Yeterli gümüş yok</message>
+    <message key="notEnougthGoldLabel">Banka</message>
+    <message key="notifications">Bildirimler</message>
+    <message key="notLevelForSalonHairs">Seviye yetersiz</message>
+    <message key="noTransferInventoryItems">Maalesef aktarılacak eşyalar listesi boş.</message>
+    <message key="notVip">Sadece VIP statüsüne sahip bir oyuncu bu işlemi yapabilir.</message>
+    <message key="npcHouseWorkTitle">Komşunuza yardım edin</message>
+    <message key="ny2020LocationTitle">Noel Topu</message>
+    <message key="nyFriend">Avatar</message>
+    <message key="nyJobWorkTitle">Deniz Kıyısı Plajı</message>
+    <message key="NYLocationTitle">Noel Ağacı</message>
+    <message key="odnoklassniki">OK.ru</message>
+    <message key="OFFER_TEXT_EMPTY">Eşsiz teklifinizin süresi dolacak</message>
+    <message key="OFFER_TITLE_EMPTY">Acele edin!</message>
+    <message key="offer101Title">Modaya uyun!</message>
+    <message key="offer102Title">Tarz Oturma Odası</message>
+    <message key="offer103Title">En Tarz Olanlar İçin</message>
+    <message key="offer104Title">En İyi Yatak Odası</message>
+    <message key="offer105Title">Çılgın kâr!</message>
+    <message key="offer106Title">Tarz Oturma Odası</message>
+    <message key="offer107Title">En Tarz Olanlar İçin</message>
+    <message key="offer108Title">En İyi Yatak Odası</message>
+    <message key="offer109Title">Göze Çarpın!</message>
+    <message key="offer110Title">En Tarz Olanlar İçin</message>
+    <message key="offer111Title">En İyi Yatak Odası</message>
+    <message key="offer112Title">Göze Çarpın!</message>
+    <message key="offer113Title">Tam Rahatlık!</message>
+    <message key="offer114Title">En İyi Yatak Odası</message>
+    <message key="offer115Title">Göze Çarpın!</message>
+    <message key="offer116Title">Tam Rahatlık!</message>
+    <message key="offer117Title">En iyi parti için</message>
+    <message key="offer118Title">Göze Çarpın!</message>
+    <message key="offer119Title">Tam Rahatlık!</message>
+    <message key="offer120Title">En iyi parti için</message>
+    <message key="offer121Title">Kendinizi dönüştürün!</message>
+    <message key="offer122Title">İndirim!</message>
+    <message key="offer123Title">İndirimli Satış!</message>
+    <message key="offer124Title">İndirim!</message>
+    <message key="offer125Title">İndirimli Satış!</message>
+    <message key="offer12Title">Güzel teklif!</message>
+    <message key="offer16Title">Başlangıç Yatçı</message>
+    <message key="offer17Title">Konfor Seti</message>
+    <message key="offer1Title">Mary öneriyor</message>
+    <message key="offer4Title">Haftanın Trendi</message>
+    <message key="offer5Title">Özel teklif</message>
+    <message key="offerExpired">Geriye kalan:</message>
+    <message key="okButtonTitle">TAMAM</message>
+    <message key="on">açık</message>
+    <message key="openButtonTitle">açın</message>
+    <message key="outsideDoorTitle">Dışarı</message>
+    <message key="ownerNotAtHouse">Ev sahibi evde değil</message>
+    <message key="ownerNotAtHouseWarning">Ev sahibi burada değilken bunu kullanamazsınız. Geri dönene kadar bekleyin.</message>
+    <message key="pageFromPages">:page: / :maxPages:</message>
+    <message key="paintBombResultTitle">Bir boya bombası!</message>
+    <message key="paintBombTitle">Bomba patladı!</message>
+    <message key="pairDancePermissionsRequestMessage">Birlikte dans etmek istiyorsanız önce barışmanız gerekli!</message>
+    <message key="pairDanceRequestApprovedMessage">:name: sizinle dans etmek istiyor! :)</message>
+    <message key="pairDanceRequestDeclinedMessage">:name: sizinle dans etmek istemiyor :(</message>
+    <message key="pairDanceRequestReceivedMessage">:name: sizinle dans etmek istiyor. Evet diyecek misiniz?</message>
+    <message key="pairDanceRequestSendedMessage">:name: yakında dans etmek istediğinizi öğrenecek.</message>
+    <message key="parkLocationTitle">Park</message>
+    <message key="partyEventCategories">PARTİ</message>
+    <message key="passportAwardTitle">Kupalar:</message>
+    <message key="passportButtonTitle">pasaport</message>
+    <message key="passportDialogTitle">Pasaport</message>
+    <message key="passportEditNameText">Adınızı değiştirin</message>
+    <message key="passportHideInfoLabel">bilgileri gizleyin</message>
+    <message key="passportRelationInvisible">Gizli</message>
+    <message key="passportRelationLabel">İlişki:</message>
+    <message key="petShopTitle">Pet Shop</message>
+    <message key="photoAlbumDescription">Avataria oynuyorum. Bu albüm oyundaki tüm güzel yerlere ve ilginç anlara ayrılmıştır. Bana katılın! 
+    
+:appLink:</message>
+    <message key="photoAlbumName">Avataria</message>
+    <message key="photoParticipantReceivedMessage">:name: sizinle bir fotoğraf çektirmek istiyor. Kabul ediyor musunuz?</message>
+    <message key="photoParticipantRequestApprovedMessage">:name: sizinle fotoğraf çektirmekte bir sakınca görmüyor.</message>
+    <message key="photoParticipantRequestApprovedTitle">Kabul Edin</message>
+    <message key="photoParticipantRequestDeclinedMessage">:name: sizinle fotoğraf çektirmek istemiyor.</message>
+    <message key="photoParticipantRequestDeclinedTitle">Reddedin</message>
+    <message key="photoParticipantRequestSendedMessage">:name: kısa bir süre sonra fotoğraf talebinizi alacak.</message>
+    <message key="photoParticipantRequestSendedTitle">Benimle bir fotoğraf çektir!</message>
+    <message key="photoReadyMessage">Fotoğrafınız hazır!</message>
+    <message key="photoSalonAddFriendButtonTitle">bir arkadaş ekleyin</message>
+    <message key="photoSalonBottomDescription">Eşyalar ekleyin, düzenleyin ve avatarınız için bir poz seçin. Fotoğraf 800x600 çözünürlükte çekilecektir. Mevcut karartının yerine yeni avatar geçecektir.</message>
+    <message key="photoSalonChooseThemeLabel">Bir kategori seçin:</message>
+    <message key="photoSalonDialogTitle">Fotoğraf Stüdyosu</message>
+    <message key="photoSalonInviteFrindsDialogLabel">Kiminle fotoğraf çektirebiliriz?</message>
+    <message key="photoSalonItemsPanelTitle">Eşyalar</message>
+    <message key="photoSalonLabel">Fotoğraf Stüdyosu</message>
+    <message key="photoSalonLocationTitle">Fotoğraf Stüdyosu</message>
+    <message key="photoSalonPeoplesFriendButtonTitle">Karakter</message>
+    <message key="photoSalonPublishDescription">Beğendiniz mi? Avataria'nın fotoğraf stüdyosunda bunun gibi pek çok fotoğraf çektirebilirsiniz. Her türlü temayı ve dekorasyonu kullanabilirsiniz. Arkadaşlarınızla fotoğraf çektirmeyi de unutmayın!
+
+:appLink:</message>
+    <message key="photoSalonSnapshotBottomDescription">Kaydettiğiniz ve yayınladığınız fotoğraf 800x600 çözünürlükte olacaktır.</message>
+    <message key="photoSalonTakePhotoButtonTitle">fotoğraf çektirin</message>
+    <message key="photoSalonTemporaryDisabledMessage">Fotoğraf stüdyosu geçici olarak kullanılamıyor</message>
+    <message key="photoSuccessfullySavedMessage">Fotoğrafınız sabit sürücünüze başarıyla kaydedildi!</message>
+    <message key="pianoPlay_label">oynayın</message>
+    <message key="placesButtonLabel">Yerler</message>
+    <message key="plantJokeButtonTitle">eşek şakası</message>
+    <message key="play">Oyna</message>
+    <message key="playAgain">Tekrar oyna</message>
+    <message key="playAvatariaText">Herkes için eğlence dolu büyüleyici bir dünya. Dairenizi döşeyin, işe gidin, yeni arkadaşlar edinin, kağıt oynayın. Avataria dünyası sizi bekliyor!</message>
+    <message key="playTitle">Oyna</message>
+    <message key="playUpper">OYNA!</message>
+    <message key="pop">Pop</message>
+    <message key="prepareResourcesText">Kaynaklar uygulanıyor. Bu biraz zaman alabilir.</message>
+    <message key="prepareResourcesTitle">Yükleniyor</message>
+    <message key="privateChatMessageTitle">Özel mesaj</message>
+    <message key="privateMessageFor">:name:, özel mesaj</message>
+    <message key="prkClosePicnic">sepet kapatın</message>
+    <message key="prkDuckFeed">besleyin</message>
+    <message key="prkNPCName">Satıcı</message>
+    <message key="prkOpenPicnic">sepet açın</message>
+    <message key="prkSswCare">dürtün</message>
+    <message key="prkSswRock">sallanın</message>
+    <message key="profile">Profil</message>
+    <message key="PROMO_CODE_ERROR_100">Bir terslik oldu (Hata Kodu: 100)</message>
+    <message key="PROMO_CODE_ERROR_101">Bir terslik oldu (Hata Kodu: 101)</message>
+    <message key="PROMO_CODE_ERROR_105">Bir terslik oldu (Hata Kodu: 105)</message>
+    <message key="PROMO_CODE_ERROR_106">Bir terslik oldu (Hata Kodu: 106)</message>
+    <message key="PROMO_CODE_ERROR_107">Bir terslik oldu (Hata Kodu: 107)</message>
+    <message key="PROMO_CODE_ERROR_108">Bir terslik oldu (Hata Kodu: 108)</message>
+    <message key="PROMO_CODE_ERROR_109">Bir terslik oldu (Hata Kodu: 109)</message>
+    <message key="PROMO_CODE_ERROR_110">Bir terslik oldu (Hata Kodu: 110)</message>
+    <message key="PROMO_CODE_ERROR_111">Bir terslik oldu (Hata Kodu: 111)</message>
+    <message key="PROMO_CODE_ERROR_112">Bir terslik oldu (Hata Kodu: 112)</message>
+    <message key="PROMO_CODE_ERROR_150">Bir terslik oldu (Hata Kodu: 150)</message>
+    <message key="PROMO_CODE_ERROR_151">Bir terslik oldu (Hata Kodu: 151)</message>
+    <message key="PROMO_CODE_ERROR_152">Bir terslik oldu (Hata Kodu: 152)</message>
+    <message key="PROMO_CODE_ERROR_153">Bir terslik oldu (Hata Kodu: 153)</message>
+    <message key="PROMO_CODE_ERROR_154">Bir terslik oldu (Hata Kodu: 154)</message>
+    <message key="PROMO_CODE_ERROR_155">Bir terslik oldu (Hata Kodu: 155)</message>
+    <message key="PROMO_CODE_ERROR_156">Bir terslik oldu (Hata Kodu: 156)</message>
+    <message key="PROMO_CODE_ERROR_200">Sunucu bağlantısı koptu. Lütfen tekrar giriş yapın (Hata Kodu: 200)</message>
+    <message key="PROMO_CODE_ERROR_250">Kupon daha önce kullanılmış (Hata Kodu: 250)</message>
+    <message key="PROMO_CODE_ERROR_251">Kuponun süresi bitmiş (Hata Kodu: 251)</message>
+    <message key="PROMO_CODE_ERROR_252">Kupon kodu mevcut değil (Hata Kodu: 252)</message>
+    <message key="PROMO_CODE_ERROR_253">Kupon kodu mevcut değil (Hata Kodu: 253)</message>
+    <message key="PROMO_CODE_ERROR_300">Kupon kodu girin (Hata kodu: 300)</message>
+    <message key="promoCodeBankButton">Kod girin</message>
+    <message key="promoCodeFacebookLink">https://www.facebook.com/AvatarLife101XP/</message>
+    <message key="promoCodeInfo">Kod size bir hediye getirebilir: nakit, VIP, kıyafetler ve mobilyalar. Resmi topluluğumuzu takip edin, etkinliklerde yer alın ve kod kazanma fırsatı yakalayın!</message>
+    <message key="promoCodeInstagramLink">https://www.instagram.com/avatarlife_official/</message>
+    <message key="promoCodeRewardTake">Alın</message>
+    <message key="promoCodeRewardTitle">Şu konuma yükseldiniz:</message>
+    <message key="promoCodeTiktokLink">https://www.tiktok.com/share/user/6671145681372299269</message>
+    <message key="promoCodeDiscordLink">https://discord.gg/bRbs994mhH</message>
+    <message key="promoCodeTitle">Kod</message>
+    <message key="promoCodeVkLink">https://vk.com/avatariamobile/</message>
+    <message key="promoCodeYoutubeLink">https://www.youtube.com/channel/UCug0BkcvHzvwSQrA-kNb4Gg</message>
+    <message key="promoEnterCode">Ödül kazanın</message>
+    <message key="promoTextFieldPlaceHolder">Kod numarası girin</message>
+    <message key="promoWaitText">Lütfen bekleyin, ödül veriliyor</message>
+    <message key="publicBeachLocationTitle">Plaj</message>
+    <message key="publicBeachRaceActionsPanelDescription">Eyleminizi seçin:</message>
+    <message key="publicBeachRaceActionsPanelTitle">Kendiniz için:</message>
+    <message key="publicBeachRaceBarriersPanelDescription">Rakibinizin yoluna engeller yerleştirin:</message>
+    <message key="publicBeachRaceBarriersPanelTitle">Rakibiniz için:</message>
+    <message key="publicBeachRaceDialogLabel">Sörf yarışı rakibinizi seçin:</message>
+    <message key="publicPlacesTitle">Yerler</message>
+    <message key="publish2ButtonTitle">Harika!</message>
+    <message key="publishButtonTitle">yayınlayın</message>
+    <message key="publishConfirm">Yeni başarınızı paylaşın!</message>
+    <message key="publishCraftConfirm">Arkadaşlarınızdan yardım ister misiniz?</message>
+    <message key="publishSuccess">Teşekkürler! Fotoğraf yayınlandı.</message>
+    <message key="publishWeddingConfirm">Neşenizi arkadaşlarınızla paylaşır mısınız?</message>
+    <message key="questLegendLabel0">gerekli görev</message>
+    <message key="questLegendLabel1">bonus görev</message>
+    <message key="questLegendLabel2">Noel görevi</message>
+    <message key="questsTitle">Görevler</message>
+    <message key="questYouAwardTitle">Ödülünüz:</message>
+    <message key="RabbitDancePermissionsRequestMessage">Birlikte dans etmek istiyorsanız önce barışmanız gerekli!</message>
+    <message key="RabbitDanceRequestApprovedMessage">:name: sizinle dans etmek istiyor! :)</message>
+    <message key="RabbitDanceRequestDeclinedMessage">:name: sizinle dans etmek istemiyor :(</message>
+    <message key="RabbitDanceRequestReceivedMessage">:name: sizinle dans etmek istiyor. Evet diyecek misiniz?</message>
+    <message key="RabbitDanceRequestSendedMessage">:name: yakında dans etmek istediğinizi öğrenecek.</message>
+    <message key="randomAppearance">Rastgele görünüm</message>
+    <message key="randomCraftTitle">Rastgele Görünüş</message>
+    <message key="rap">Rap</message>
+    <message key="ratingBattleTitle">Sıralama Savaşı</message>
+    <message key="ratingBattleWin">Şimdiki Derecelendirmem: derecelendirme: sizinkinden yüksek. Komşular listesinde sizin üstünüze yükseldim.</message>
+    <message key="readyButtonTitle">hazır!</message>
+    <message key="receiveButtonTitle">al</message>
+    <message key="receiveResourceMessage">Kaynaklar aldınız</message>
+    <message key="refreshAfterUnban">Hesabınızdaki engeli kaldırdıktan sonra, sayfayı yenileyin ve uygulamaya yeniden giriş yapın.</message>
+    <message key="regionCommunication">Bölge Seçin</message>
+    <message key="regionCommunicationAlertError">Bölge değiştirilemedi, lütfen uygulamaya tekrar giriş yapıp yeniden deneyin.</message>
+    <message key="regionCommunicationAlertMessage">Bölge başarılı bir şekilde değiştirildi.</message>
+    <message key="regionCommunicationAlertTitle">Bölge Değiştirin</message>
+    <message key="regionTitle">Bölge</message>
+    <message key="relationAllGroup">Tümü biliniyor</message>
+    <message key="relationAssociateGroup">Dostlar</message>
+    <message key="relationAssociates">dostlar</message>
+    <message key="relationBadAssociates">kötü dostlar</message>
+    <message key="relationBadEnemys">düşmanlar</message>
+    <message key="relationBadFriends">kötü arkadaşlar</message>
+    <message key="relationBeloveds">çift</message>
+    <message key="relationBestFriends">en iyi arkadaşlar</message>
+    <message key="relationEnemyGroup">düşmanlar</message>
+    <message key="relationEnemys">düşmanlar</message>
+    <message key="relationEngageds">nişanlı çift</message>
+    <message key="relationExBeloveds">eski çift</message>
+    <message key="relationExEnemys">eski düşmanlar</message>
+    <message key="relationExEngageds">eskiden evli çift</message>
+    <message key="relationExFriends">eski arkadaşlar</message>
+    <message key="relationExMarrieds">boşanmış çift</message>
+    <message key="relationFriends">arkadaşlar</message>
+    <message key="relationFriendsGroup">arkadaşlar</message>
+    <message key="relationGoodAssociates">iyi dostlar</message>
+    <message key="relationGoodFriends">iyi arkadaşlar</message>
+    <message key="relationLoveGroup">aile</message>
+    <message key="relationMarrieds">evli çift</message>
+    <message key="relationPermissionsRequestMessage">Kullanıcı ile ilişkiniz bunu mümkün kılmıyor</message>
+    <message key="relationPermissionsRequestTitle">İlişki durumunu değiştir</message>
+    <message key="relationPermissionsShortRequestMessage">Kullanıcı ile farklı bir ilişki durumunuz var</message>
+    <message key="relations">ilişki</message>
+    <message key="relationsHeader">Ilişki</message>
+    <message key="relationStrangerGroup">yabancılar</message>
+    <message key="relationStrangers">yabancılar</message>
+    <message key="relationWorstEnemys">ölümcül düşmanlar</message>
+    <message key="removeAllClothes">hepsini kaldırın</message>
+    <message key="removeBuddyButtonTitle">dost listesinden çıkart</message>
+    <message key="removeBuddyConfirmMessage">:userName: kullanıcısından gelen arkadaşlık talebi reddedilsin mi?</message>
+    <message key="removeButtonTitle">kaldırın</message>
+    <message key="removeFriendButtonTitle">münakaşa edin</message>
+    <message key="removeFromBelovedButtonTitle">ayrılın</message>
+    <message key="removeFromEngagedButtonTitle">ayrılın</message>
+    <message key="removeFromMarriedButtonTitle">boşanın</message>
+    <message key="removeObjectConfirm">Bu nesneyi gerçekten haritadan kaldırmak istiyor musunuz?</message>
+    <message key="removeObjectTitle">Nesneleri Kaldırın</message>
+    <message key="removeRelationAlert">Siz ve :name: artık başka kişilerle görüşeceksiniz.</message>
+    <message key="removeRelationConfirm">Gerçekten :name: ile ayrılmak istiyor musunuz ??</message>
+    <message key="removeRelationTitle">Ayrılmak</message>
+    <message key="removingAquariumObjectMessage">Balıklar balık tankında yüzüyor ve envantuarınıza koyarsanız kaybolacaklar. Devam edilsin mi?</message>
+    <message key="removingNyFirObjectMessage">Noel ağacında oyuncaklar var, ama envantuara koyulması oyuncakların kaybolmasına neden olacak. Devam edilsin mi?</message>
+    <message key="renameButtonTitle">yeniden adlandırın</message>
+    <message key="renameForGolds">Yeniden adlandır :golds:</message>
+    <message key="repairButtonTitle">Onarım</message>
+    <message key="require">gerekli</message>
+    <message key="resetAchievements">Sıfırla :gold:</message>
+    <message key="resetAchievementsConfirmMessage">Gerçekten tüm başarıları sıfırlamak istiyor musunuz?</message>
+    <message key="resetAchievementsConfirmTitle">Başarıları sıfırla</message>
+    <message key="resetAchievementsMessage">Tüm kupaları :gold: karşılığında sıfırlayabilirsiniz. Tüm başarılar silinecektir, ama kazanmış olduğunuz kupalar kalıcı olarak sizde kalacaktır.</message>
+    <message key="resourcesDownloadProcess">Yükleniyor...</message>
+    <message key="resourcesUnzipText">Kaynaklar açılıyor...</message>
+    <message key="retro">Retro</message>
+    <message key="ringNotDefinedMessage">Teklif etmek için bir yüzük seçin.</message>
+    <message key="ringNotDefinedTitle">Yüzük seçilmedi</message>
+    <message key="ringsButtonTitle">hediyeler</message>
+    <message key="rock">Rock</message>
+    <message key="roomCloseButton0">ücretsiz</message>
+    <message key="roomCloseButton1">Karşılık :resource:</message>
+    <message key="roomCloseButton2">Karşılık :resource:</message>
+    <message key="roomCloseDialogTitle">Daireyi kilitleyin</message>
+    <message key="roomCloseTimeLabel0">20 dakika</message>
+    <message key="roomCloseTimeLabel1">1 saat</message>
+    <message key="roomCloseTimeLabel2">12 saat</message>
+    <message key="roomNameDialogDescription">Odaya ad vermeniz gerekli.</message>
+    <message key="roomNameDialogTitle">Oda adı</message>
+    <message key="roomRenameDialogDescription">Bu odayı yeniden adlandırabilirsiniz.</message>
+    <message key="roomRenameDialogTitle">Oda adı</message>
+    <message key="roomScreenshotPublishDialogMessage">Arkadaşlarınızı kıskandırmak için odanızın fotoğrafını yayınlayın!</message>
+    <message key="roomScreenshotPublishDialogTitle">Fotoğraf yayınla</message>
+    <message key="rotateAction">Döndürün</message>
+    <message key="rotateButtonTitle">döndürün</message>
+    <message key="sale">satın</message>
+    <message key="saleCoins">Verdiğiniz</message>
+    <message key="saleEventCategories">İNDİRİM</message>
+    <message key="saleNoItemsText">Henüz bir eşyanız yok, ama mağazadan her zaman bir şeyler alabilirsiniz.</message>
+    <message key="salesDialogMessage">Oldukça karlı bir teklif!</message>
+    <message key="salesDialogTitle">İndirim</message>
+    <message key="salonStylistName">Stilist</message>
+    <message key="saveButtonTitle">kaydedin</message>
+    <message key="sayButtonTitle">söyleyin</message>
+    <message key="schoolAvatariaTitle">Okul</message>
+    <message key="schoolGreeting_label">okul selamlaması</message>
+    <message key="schoolGreetingPermissionsRequestMessage">Merhaba demek için önce barışmanız gerekli!</message>
+    <message key="schoolGreetingRequestApprovedMessage">:name: size merhaba demek istiyor :)</message>
+    <message key="schoolGreetingRequestDeclinedMessage">:name: size merhaba demek istemiyor :(</message>
+    <message key="schoolGreetingRequestReceivedMessage">:name: size merhaba demek istiyor. Kabul ediyor musunuz?</message>
+    <message key="schoolGreetingRequestSendedMessage">:name: yakında merhaba demek istediğinizi öğrenecek.</message>
+    <message key="schoolPoetry_label">şiirler okuyun</message>
+    <message key="schoolWorkTitle">Okul</message>
+    <message key="screenShotInAlbum">Ekran görüntüsü</message>
+    <message key="screenshotShareCaption">Bak!</message>
+    <message key="screenshotShareMessage">Oyun ekran görüntüme bak</message>
+    <message key="screenshotShareRequestMessage">Ekran görüntüsünü paylaşmak ister misiniz</message>
+    <message key="screenshotShareRequestTitle">Ekran görüntüsünü paylaşın</message>
+    <message key="selectAll">tümünü seçin</message>
+    <message key="selectAllBtnTitle">TÜMÜNÜ SEÇİN</message>
+    <message key="selectBestman">Düğününüz için bir şahit seçin</message>
+    <message key="selectBridesmaid">Düğününüz için bir şahit seçin</message>
+    <message key="selectButtonTitle">seç</message>
+    <message key="selectColor">Renk seçin</message>
+    <message key="selectEventCategory">KATEGORİ</message>
+    <message key="selectFriendToHelp">Bir arkadaştan yardım isteyin</message>
+    <message key="selectPlayerDialogTitle">Oyuncu seçin</message>
+    <message key="selectPlayersDialogTitle">Oyuncuları seçin</message>
+    <message key="selectWeddingRing">Değiştirmek için bir yüzük seçin</message>
+    <message key="sendBackCakeButtonTitle">yanıt verin</message>
+    <message key="sendBackFireworkButtonTitle">atın</message>
+    <message key="sendButtonTitle">gönderin</message>
+    <message key="sendCafeDishButtonTitle">ikram</message>
+    <message key="sendCocktailButtonTitle">ikram</message>
+    <message key="sendMailMessageButtonTitle">Mesaj bırakın</message>
+    <message key="sendRelationLabel">Siz ve :name: artık</message>
+    <message key="sendRequestButtonTitle">talep gönderin</message>
+    <message key="serverBusy">Uygulama geçici olarak kullanım dışı.</message>
+    <message key="serverUpdating">Şu anda Avataria için bir güncelleme yüklüyoruz. Lütfen sabırlı olun.</message>
+    <message key="setAvatarName">Avatarınıza isim verin:</message>
+    <message key="settingsTitle">Ayarlar</message>
+    <message key="shareDialogPhotoConfirmMessage">fotoğraf fotoğraftaki üyelerle paylaşılsın mı?</message>
+    <message key="shareDialogPhotoConfirmTitle">Paylaşın?</message>
+    <message key="shopsButtonLabel">Mağazalar</message>
+    <message key="shopsTitle">Mağazalar</message>
+    <message key="SILVER_title">Gümüş</message>
+    <message key="silverEventRating">gümüş yıldız (:silver: S)</message>
+    <message key="silverLabel">gümüş</message>
+    <message key="silverPacksDialogLabel">Daha fazla gümüş mü lazım?</message>
+    <message key="silverTypeButtonTitle">gümüş</message>
+    <message key="sitButtonTitle">Oturun</message>
+    <message key="sitOnHorseButtonTitle">Oturun</message>
+    <message key="slapButtonTitle">tokat atın</message>
+    <message key="sleepingroomDoorTitle">Yatak Odası</message>
+    <message key="smearCakeButtonTitle">pasta fırlatın</message>
+    <message key="smiles">Tebessümler</message>
+    <message key="smsAllowed">SMS ödemesi mümkün</message>
+    <message key="snowBallKick_label">itin</message>
+    <message key="socialOffers">Altın para almanın başka yolları da mevcut!</message>
+    <message key="socialOfferTime">Ödülünüz :time: içerisinde verilecek</message>
+    <message key="socialOfferTitle">Oldukça karlı bir teklif!</message>
+    <message key="socialPageButtonTitle">profil</message>
+    <message key="socialRequestMaxCountError">Günde 10 hediyeden fazlasını gönderemezsiniz.</message>
+    <message key="socialRequestMaxUserCountError">Arkadaş başına günde sadece 1 hediye gönderebilirsiniz.</message>
+    <message key="sound">Ses</message>
+    <message key="sp14RoomName">Makine Dairesi</message>
+    <message key="specialOfferAvatarMessage">Kazancınızı artırmak için daha fazla beklemek istemiyor musunuz? Size bir sürprizimiz var, en iyi teklif! Sakın kaçırmayın!</message>
+    <message key="spin">Çevir!</message>
+    <message key="Spr19CafeTitle">Bahar Taraçası</message>
+    <message key="springDayFlowerCollectTime">:time: saniye içinde seçebilirsiniz</message>
+    <message key="stadium18TicketLabel">stadyum bileti</message>
+    <message key="stadiumTitle">Stadyum</message>
+    <message key="startBattle">savaşa!</message>
+    <message key="starterPackTitle">Daha havalı olun!</message>
+    <message key="startFightGameTitle">Kavgaya başla</message>
+    <message key="steampunkCanFillTime">:time: içinde yeniden ikmal yapabilirsiniz</message>
+    <message key="step">Adım</message>
+    <message key="storeSupport">Destekleyin!</message>
+    <message key="storeUrlApple">itms-apps://apps.apple.com/ru/app/id982229455?mt=8</message>
+    <message key="storeUrlGoogle">market://details?id=com.xp101.ava_rus</message>
+    <message key="streetLocationTitle">Sokak</message>
+    <message key="strikes">Vuruş:</message>
+    <message key="strTossCoin">bozuk para fırlatın</message>
+    <message key="stylistHairActionMessage1">Annem beni uyarmıştı, ama erkeklerden gözlerimi alamadım...</message>
+    <message key="stylistHairActionMessage2">Yıldızlar bile sönük kaldı!</message>
+    <message key="stylistHairActionMessage3">Sanırım ocağı açık unuttum...</message>
+    <message key="stylistHairActionMessage4">Hayır, moda olanlar bende güzel durmadı. Ayrıca Johnson'a gitmeyi hiç düşünme bile!</message>
+    <message key="stylistHairActionMessage5">Çok şık görünüyorum!</message>
+    <message key="stylistHairActionMessage6">Jean'la 6'da ve Rafael'le 7:30'da buluşacağım.</message>
+    <message key="stylistHairActionMessage7">Artık erkeklerle çıkmak yok!</message>
+    <message key="stylistHairActionMessage8">Maskarayı taşırmadığınızdan emin olun.</message>
+    <message key="stylistInvitingActionMessage1">Oturun ve şaşırmaya hazırlanın!</message>
+    <message key="stylistInvitingActionMessage2">Dalgalı bir saç mı? İstediğiniz her şey, şu anda ve burada!</message>
+    <message key="stylistInvitingActionMessage3">Sizi daha güzel hale getirmek için hazırım!</message>
+    <message key="stylistInvitingActionMessage4">Utangaç olmayın, içeri gelin ve oturun!</message>
+    <message key="stylistInvitingActionMessage5">Sırada kim var? Uzmana ilham geldi!</message>
+    <message key="stylistInvitingActionMessage6">Güzellik fedakarlık ister ve ben her şeye hazırım!</message>
+    <message key="supportEventCategories">ETKİNLİK</message>
+    <message key="SV19Title">Aşıklar Taraçası</message>
+    <message key="sv2020ask">Aşk Tanrısına Sorun</message>
+    <message key="sv2020breakheart">Bir Kalp Kırın</message>
+    <message key="sv2020cong">Tebrik edin</message>
+    <message key="sv2020currency">Aşk Tanrısı Jetonları</message>
+    <message key="sv2020dream">Aşk Hayali</message>
+    <message key="sv2020flower">Çiçek Yetiştir</message>
+    <message key="sv2020flower2">Bir Çiçek Kopart</message>
+    <message key="sv2020future">Geleceğe Bakış</message>
+    <message key="sv2020kiss">Aşk Öpücüğü</message>
+    <message key="sv2020wish">Bir Dilek Tutun</message>
+    <message key="swimsuitDresscodeDescription">Plaj kıyafet kodu: mayo veya yüzme mayosu gerekli</message>
+    <message key="systemMessage">Önemli mesaj</message>
+    <message key="TabBest">En İyisi</message>
+    <message key="TabChips">Çip Paralar</message>
+    <message key="TabEnergy">Enerji</message>
+    <message key="TabEvent">Etkinlik</message>
+    <message key="TabFree">Ücretsiz</message>
+    <message key="TabGold">Altın</message>
+    <message key="TabSilver">Gümüş</message>
+    <message key="TabVip">VIP</message>
+    <message key="takeGiftMessage">Size bir hediye gönderildi. Garson hemen getirecek.</message>
+    <message key="takeGiftTitle">Burada sizin için bir hediye var</message>
+    <message key="takeGiftWithSenderMessage">:name: size bir hediye gönderdi. Garson hemen getirecek.</message>
+    <message key="takeWin">Kazançları al</message>
+    <message key="targetMaxAssociateMessage">Yeni bir dost ekleyemezsiniz, çünkü dost listeleri dolu.</message>
+    <message key="targetMaxEnemyMessage">Yeni bir düşman ekleyemezsiniz, çünkü dost listeleri dolu.</message>
+    <message key="targetOfferDialogConfigMessage">Pencereyi kapatmak istediğinize emin misiniz? İkinci bir şansınız olmayabilir.</message>
+    <message key="teachertable_label">ders vermek</message>
+    <message key="thankyou">Teşekkürler!</message>
+    <message key="theme1Label">Plaj</message>
+    <message key="theme2Label">Uzay</message>
+    <message key="theme3Label">Jurassic Park</message>
+    <message key="theme4Label">Rock Sahnesi</message>
+    <message key="theme5Label">Podyum</message>
+    <message key="theme6Label">Paten parkı</message>
+    <message key="theme7Label">Yat</message>
+    <message key="theme8Label">Spor salonu</message>
+    <message key="things">eşyalar</message>
+    <message key="throwBack">Geri atılsın mı?</message>
+    <message key="throwCakeTitle">Bir pasta fırlatın!</message>
+    <message key="throwSnowball_label">kartopu atın</message>
+    <message key="timeD">:days: gün</message>
+    <message key="timeH">:hours: st</message>
+    <message key="timeM">:minutes: dk.</message>
+    <message key="timeS">:seconds: sn.</message>
+    <message key="toAlbumButtonTitle">yayınlayın</message>
+    <message key="toBasket">sepete</message>
+    <message key="toCanyonButtonLabel">Kanyona doğru</message>
+    <message key="today">bugün</message>
+    <message key="todayGiftTitle">Bugün</message>
+    <message key="tooEarlyNYGiftOpenErrorMessage">Bunu açmak için çok erken! 1 Ocak 2014 geldiğinde hediyenizi açabilirsiniz.</message>
+    <message key="tooLongAvatarNameWarning">Avatar adı çok uzun</message>
+    <message key="tooLoudMessage">Bu odada zaten bir müzik merkezi var.</message>
+    <message key="tooLoudTitle">Çok gürültülü</message>
+    <message key="tooMuchPhotoUsersMessage">Daha fazla ekleyemezsiniz</message>
+    <message key="tooShortAvatarNameWarning">Avatar adı çok kısa</message>
+    <message key="toSneeze">Hapşırmak</message>
+    <message key="total">Toplam:</message>
+    <message key="tradeButtonTitle">takas edin</message>
+    <message key="tradeDialogTitle">Takas</message>
+    <message key="tradeFailMessage">:userName: sizinle takas yapmak istemiyor.</message>
+    <message key="tradeFailTitle">Takas reddedildi</message>
+    <message key="tradeLevelMessage">Eşya takası için %i. seviyeye ulaşmanız gerekmektedir.</message>
+    <message key="tradeNoItemsText">Maalesef, takas edilecek eşyalar listesi boş.</message>
+    <message key="tradePermissionsRequestMessage">Diğer oyuncularla ticaret yaparken iyi arkadaş olmanız gerekmektedir. Dost olmak istiyor musunuz?</message>
+    <message key="tradePermissionsRequestMessage2">Birisiyle ticaret yaparken iyi dost olmanız gerekmektedir.</message>
+    <message key="tradeRequestDialogTitle">Takas talebi</message>
+    <message key="tradeSuccessMessage">:userName: ile takas başarılı.</message>
+    <message key="tradeSuccessTitle">Takas başarılı</message>
+    <message key="traditionalReg">Rusya ve BDT</message>
+    <message key="transfer">transfer</message>
+    <message key="transferButtonTitle">aktar</message>
+    <message key="transferConfirmMessage">Para aktarılsın mı?</message>
+    <message key="transferDialogLabel">Seçin:</message>
+    <message key="transferDialogTitle">Kaynak değişimi</message>
+    <message key="transferErrorMessage">Ne kadar altın ve gümüş aktarmak istediğinizi belirtin</message>
+    <message key="transferGameItemsDescription">Kaynaklar başarıyla envantuara aktarıldı.</message>
+    <message key="transferGameItemsTitle">Kaynaklar aktarılıyor.</message>
+    <message key="transferGameResourcesDescription">Paket başarıyla alındı.</message>
+    <message key="transferGameResourcesTitle">Paket.</message>
+    <message key="transferInventoryButtonTitle">aktar</message>
+    <message key="transferInventoryItemDailogTitle">Eşyaların Aktarılması</message>
+    <message key="transferInventoryItemLabel">Aktarmak istediğiniz eşyayı seçin:</message>
+    <message key="transferIslandResourcesDialogTitile">Bir paket aldınız</message>
+    <message key="transferItemButtonTitle">eşyaları aktar</message>
+    <message key="transferRemaindText">Oyunda kalan:</message>
+    <message key="transferResourceButtonTitle">kaynakları aktar</message>
+    <message key="transferResourcesConfirmDialogTitile">Aktarımı onaylayın</message>
+    <message key="transferResourcesConfirmTitle">Değişim yaptınız:</message>
+    <message key="transferResourcesDialogTitile">Para aktarın</message>
+    <message key="transferSuccessMessage">Kaynaklar gönderildi</message>
+    <message key="trashInviteMessage">En fazla :maxCount: komşu daireyi temizleyebilirsiniz. Arkadaşlarınız oyuna davet etmek istiyor musunuz?</message>
+    <message key="trashInviteTitle">Çöpün temizlenmesi</message>
+    <message key="treadButtonTitle">İkram edin</message>
+    <message key="triksCategory">Şakalar</message>
+    <message key="trowPaperPlane_label">kâğıt uçak fırlatın</message>
+    <message key="turnOffButtonTitle">Kapalı</message>
+    <message key="turnOnButtonTitle">Açık</message>
+    <message key="tvach1">Seyahat</message>
+    <message key="tvach2">Zindelik</message>
+    <message key="tvach3">Su altı</message>
+    <message key="tvmch1">Seyahat</message>
+    <message key="tvmch2">Zindelik</message>
+    <message key="tvmch3">Su altı</message>
+    <message key="tvbch1">Müzikal</message>
+    <message key="tvbch2">Haberler</message>
+    <message key="tvbch3">Bilim kurgu</message>
+    <message key="tvbch4">Dans</message>
+    <message key="tvbigch1">Müzikal</message>
+    <message key="tvbigch2">Bilim kurgu</message>
+    <message key="tvbigch3">Dans</message>
+    <message key="tvbigch4">Zindelik</message>
+    <message key="tvlch1">Haberler</message>
+    <message key="tvlch2">Doğa</message>
+    <message key="tvpch1">Seyahat</message>
+    <message key="tvpch2">Tatil</message>
+    <message key="tvpch3">Fantezi</message>
+    <message key="twiceMoreGold">İki kat fazla altın!</message>
+    <message key="type_label">metin yaz</message>
+    <message key="unbanButtonTitle">Engel kaldırma</message>
+    <message key="unbanLabel">Hesabınızdaki engeli kaldırmak için :coins: ödeyebilirsiniz</message>
+    <message key="unblockUserButtonTitle">engellemeyi kaldırın</message>
+    <message key="unknownError">Hata. Tekrar deneyebilirsiniz, ama hata devam ederse, lütfen uygulamayı yeniden başlatın.</message>
+    <message key="unlockHouseButtonTitle">Dairenin kilidini açın</message>
+    <message key="unlockHouseConfirm">Misafir ağırlamak ve partiler düzenlemek için dairenizin kilidini açmak istiyor musunuz?</message>
+    <message key="updateBonusQuestHint">Geç</message>
+    <message key="updateButtonTitle">güncelleyin</message>
+    <message key="useAntiseptic">Antiseptik kullanın</message>
+    <message key="useApplianceBatDescription">Şimdi bozmak istediğiniz eşyayı seçin</message>
+    <message key="useButtonTitle">kullanın</message>
+    <message key="useChairBombDescription">Şimdi üzerine oturmak için nesneyi seçin</message>
+    <message key="useFireworkDescription">Şimdi havai fişeklerin yerleştirileceği yeri seç</message>
+    <message key="useFireworkOnStreetDescription">Havai fişekler yalnızca açık mekanda kullanılabilir!</message>
+    <message key="useFishDescription">Şimdi akvaryumu seçin</message>
+    <message key="useJacuzziWormdsDescription">Şimdi odadaki Jakuziyi seçin</message>
+    <message key="useJokeHintMessage">Artık bu eşyayı kendi envantuarınızdan kullanabilirsiniz</message>
+    <message key="user_wakeup_return">Sunucu bağlantısı güvenlik nedeniyle askıya alındı. Gelecekte bunun olmasını engellemek için lütfen uygulamayı kapatmayın.</message>
+    <message key="userBanned">Kullanıcı yasaklı</message>
+    <message key="userNotFound">Kullanıcı bulunamadı.</message>
+    <message key="userNotFoundError">Bilinmeyen kullanıcı. Sosyal ağ ile bağlantı hatası.</message>
+    <message key="userOffline">Kullanıcı çevrimdışı. Bu işlemi kullanıcı çevrimiçi olduğunda tamamlayabilirsiniz.</message>
+    <message key="userRatingButtonHint">Sıralamalar</message>
+    <message key="userRatingDialogTitle">En İyi Oyuncular</message>
+    <message key="useScrewdriverDescription">Şimdi bozmak istediğiniz eşyayı seçin</message>
+    <message key="victroyBandInfo">Atölyede St George kurdelesi yapabilir ve örneğin kapınızı süslemek için dairenize koyabilirsiniz.</message>
+    <message key="victroyDayInfo">Zafer Gününü kutlamak için, mağazada özel tatil grafitisi sunulmaktadır ve atölyenizde dairenizi süslemek için St George kurdelesi yapabilirsiniz.</message>
+    <message key="victroyGraffityInfo">Arkadaşınıza iyi tatiller dilemek mi istiyorsunuz? Duvarına yeni bir Zafer Günü grafitisi çizin!</message>
+    <message key="viewMailMessage">izleyin</message>
+    <message key="viewNewOpportunitiesButton">yeni fırsatları öğrenin</message>
+    <message key="VIP_title">VIP</message>
+    <message key="vip14Days">14 gün</message>
+    <message key="Vip14daysPrice">14 günlük</message>
+    <message key="Vip21daysPrice">21 günlük</message>
+    <message key="vip30Days">30 gün</message>
+    <message key="vip5Days">5 gün</message>
+    <message key="Vip7daysPrice">7 günlük</message>
+    <message key="VipBonusDescription1">VIP oyuncuların eşyaları bozulamaz. Boya bombalarına izin verilmektedir.</message>
+    <message key="vipBonusDescription1">VIP oyuncuların eşyaları bozulamaz. Boya bombalarına izin verilmektedir.</message>
+    <message key="VipBonusDescription2">Atölyede eşyalar yapmak için gerekli kaynakları alma şansınız ikiye katlandı!</message>
+    <message key="vipBonusDescription2">Atölyede eşyalar yapmak için gerekli kaynakları alma şansınız ikiye katlandı!</message>
+    <message key="VipBonusDescription3">Bir yastık savaşını kazandığında iki kat daha fazla gümüş!</message>
+    <message key="vipBonusDescription3">Bir yastık savaşını kazandığında iki kat daha fazla gümüş!</message>
+    <message key="VipBonusDescription4">Aktif VIP statüsüne sahip oyuncular, eşsiz ve canlı bilgi penceresi özelleştirmesine sahip olur.</message>
+    <message key="vipBonusDescription4">Aktif VIP statüsüne sahip oyuncular, eşsiz ve canlı bilgi penceresi özelleştirmesine sahip olur.</message>
+    <message key="VipBonusDescription5">Kulüpte, enerjinizi ücretsiz olarak geri kazanabileceğiniz VIP odasına erişim sağlayın</message>
+    <message key="vipBonusDescription5">Kulüpte, enerjinizi ücretsiz olarak geri kazanabileceğiniz VIP odasına erişim sağlayın</message>
+    <message key="VipBonusDescription6">Bir VIP, mağazalarda özel kıyafet ve mobilyalara erişim sağlayabilir.</message>
+    <message key="vipBonusDescription6">Bir VIP, mağazalarda özel kıyafet ve mobilyalara erişim sağlayabilir.</message>
+    <message key="vipBonusDescription7">Sadece VIP'ler diğer oyuncuların enerjisini ücretsiz olarak geri yükleyebilir.</message>
+    <message key="vipBonusTitle7">Enerji yüklemesi verin!</message>
+    <message key="vipButtonTitle">VIP statüsü ver</message>
+    <message key="vipExpired">:date: içinde doluyor</message>
+    <message key="vipExpiredToday">bugün doluyor</message>
+    <message key="VipFeature1">Sabotajdan korunma!</message>
+    <message key="VipFeature2">Çok daha fazla kaynak!</message>
+    <message key="VipFeature3">Kupaları ikiye katlayın</message>
+    <message key="VipFeature4">Daha fazla fark edilin</message>
+    <message key="VipFeature5">Bir VIP odasına erişim sağlayın</message>
+    <message key="VipFeature6">Eşsiz eşyalar</message>
+    <message key="vipLocationTitle">VIP Bölge</message>
+    <message key="vipProlongButton">Tabii ki!</message>
+    <message key="vipProlongCaption">Olamaz! VIP statünüzün süresi geçmiş</message>
+    <message key="vipProlongText">Uzatın:</message>
+    <message key="vipRefillTimeNotExpiredMessage">:time: içerisinde geri yükleyebilirsiniz</message>
+    <message key="vipRefillTimeNotExpiredTitle">Süre sona ermedi</message>
+    <message key="vipRoomForbiddenMessage">Sadece VIP statüsüne sahip bir kişi VIP odaya girebilir. Statüyü istiyor musunuz?</message>
+    <message key="vipRoomTitle">VIP Oda</message>
+    <message key="vipSaleInfo">Dikkat! Sadece kısa bir süre için VIP statüsünde inanılmaz bir indirim var. Acele edin ve VIP olun!</message>
+    <message key="vipSoonExpireDescription">VIP statünüz :expired:</message>
+    <message key="vipSoonExpireDialogTitle">Hatırlatma</message>
+    <message key="vipSpotDeafultHintText">VIP statüsü yeni oyun fırsatları kapısını açacaktır.</message>
+    <message key="vipStatusLabel">VIP statüsü</message>
+    <message key="vipTypeButtonTitle">VIP</message>
+    <message key="vipWaitressName">Garson</message>
+    <message key="visitEventButton">ziyaret edin</message>
+    <message key="visitHouseButtonTitle">ziyaret edin</message>
+    <message key="vkGroupLabel">VK Grubu</message>
+    <message key="vkontakte">VK.com</message>
+    <message key="waitDownloadText">Yüklemek için kaynakları beklemelisin.</message>
+    <message key="walkToButtonTitle">taşıyın</message>
+    <message key="wallPresentedVipDescription">Bana VIP statüsü verildi ve artık VIP bölgesine sınırsız olarak girebiliyorum, enerjimi ücretsiz geri kazanıyorum ve çok daha fazlası!</message>
+    <message key="warning">Dikkat!</message>
+    <message key="warningCakeMessage">:userName: :genderDrop: size bir pasta attı</message>
+    <message key="warningCakeTitle">Pastaya dikkat edin!</message>
+    <message key="washButtonTitle">yıkayın</message>
+    <message key="WaterFlower2_label">Sulama</message>
+    <message key="wble1">Müzikal</message>
+    <message key="wble2">Bilim kurgu</message>
+    <message key="wble3">Dans</message>
+    <message key="wble4">Su altı</message>
+    <message key="wearAllClothesItemsLabel">giyin</message>
+    <message key="weddingCancelled">Evlilik töreni yarıda kesildi</message>
+    <message key="weddingClothesCheck">:weddingClothes: edinin.</message>
+    <message key="weddingDressCodeTitle">Uygunsuz kıyafet</message>
+    <message key="weddingEventCategories">DÜĞÜN</message>
+    <message key="weddingEventCheck">Bir düğün etkinliği oluşturun ve misafirleri davet edin.</message>
+    <message key="weddingEventCheckDetails">Düğününüz için biri erkek ve biri kadın olmak üzere iki şahide ihtiyacınız olacak, bunları misafirleriniz arasından seçebilirsiniz.</message>
+    <message key="weddingEventNotification">Tebrikler, etkinlik oluşturuldu! Artık herkesi bu neşeli gününüze çağırabilirsiniz.</message>
+    <message key="weddingEventWallDescription">Avataria'da düğünüm yaklaşıyor! Herkesi bu etkinliğe katılmaya ve neşemizi paylaşmaya davet ediyorum!</message>
+    <message key="weddingRingsCheck">:weddingRings: edinin.</message>
+    <message key="weddingRingsCheckDetails">Düğün mağazasında yüzükleri seçebilir, deneyebilir ve satın alabilirsiniz.</message>
+    <message key="weddingRingsErrorTitle">Nişan yüzükleri yok</message>
+    <message key="weddingShopDialogTitle">Düğün Salonu</message>
+    <message key="weddingShopTitle">Düğün Mağazası</message>
+    <message key="weddingStepsMessage">İyi bir düğün yeterli hazırlığın yapılmasını gerektirir</message>
+    <message key="weddingStepsTitle">Düğün hazırlıkları</message>
+    <message key="weddingWitness_nocensRequestDeclinedMessage">:name: nikah şahidiniz olmak istemiyor.</message>
+    <message key="weddingWitnessCongratulationMessage">Tebrikler! :name1: ve :name2: nikahında şahit olmak için seçildiniz.</message>
+    <message key="weddingWitnessReceivedMessage">:name: sizi düğününde nikah şahidi olmaya davet etti. Kabul ediyor musunuz?</message>
+    <message key="weddingWitnessRequestApprovedMessage">:name: nikah şahidiniz olacak.</message>
+    <message key="weddingWitnessRequestApprovedTitle">Şahit kabul ediyor</message>
+    <message key="weddingWitnessRequestDeclinedMessage">:name: nikah şahidiniz olmak istemiyor.</message>
+    <message key="weddingWitnessRequestDeclinedTitle">Reddedin</message>
+    <message key="weddingWitnessRequestSendedMessage">:name: birazdan sizin şahit olma davetinizi öğrenecek.</message>
+    <message key="weddingWitnessRequestSendedTitle">Şahit olma daveti</message>
+    <message key="weddingWitnessWallDescription">Arkadaşlarım :name1: ve :name2: evleniyor! Benim de düğünlerinde nikah şahidi olmamı istediler!</message>
+    <message key="windowButtonLabel">Ekran Boyutu</message>
+    <message key="winJackpotWallTitle">Büyük Ödülü kazandım!</message>
+    <message key="workCooldownOver">Süre aşımı</message>
+    <message key="workCooldownTime">Bu vardiya sonuna kadar :time: kaldı</message>
+    <message key="workLocationsTitle">İşler</message>
+    <message key="workshopdefault">Standart</message>
+    <message key="workshopenergetic">Enerjiler</message>
+    <message key="workshopevent">Okul</message>
+    <message key="wrongApiVersion">Avataria güncellendi. tüm yeni özellikleri denemek için uygulama mağaza ziyaret ve yeni sürümü yükleyin.</message>
+    <message key="wrongApiVersionDown">Avataria uygulaması güncellendi. Yeni özelliklerin tümünü kullanmak için lütfen App Store'dan uygulamanızın yeni sürümünü kurunuz.</message>
+    <message key="wrongApiVersionUp">Oyun sunucusu güncelleniyor. Sabrınız ve anlayışınız için teşekkürler.</message>
+    <message key="wrongIp">Bu işlem aynı IP adresinden tamamlanamaz.</message>
+    <message key="wrongNameLength">Hatalı ad uzunluğu.</message>
+    <message key="wtvop1">Müzikal</message>
+    <message key="wtvop2">Dans</message>
+    <message key="wtvop3">Bilim kurgu</message>
+    <message key="wtvop4">Su altı</message>
+    <message key="XLoveKiss_label">Öpücük Atmak</message>
+    <message key="yesButtonTitle">evet</message>
+    <message key="yesterday">dün</message>
+    <message key="youAreBanned">Erişim geçici olarak kısıtlandı</message>
+    <message key="yourComputer">bu bilgisayarı</message>
+    <message key="youReceived">Şu konuma yükseldiniz:</message>
+    <message key="yourEvent">ETKİNLİĞİNİZ</message>
+    <message key="yourHorseAmusiment">bu tahterevalliyi</message>
+    <message key="yourJacuzzi">bu jakuziyi</message>
+    <message key="yourMusicCenter">bu müzik merkezini</message>
+    <message key="yourOrder">Siparişiniz</message>
+    <message key="yourOrderFrom">:name: oyuncusundan bir siparişiniz var</message>
+    <message key="yourRefrigerator">bu buzdolabını</message>
+    <message key="yoursApartments">Daireniz</message>
+    <message key="yoursWin">Kazancınız</message>
+    <message key="yourTv">bu televizyonu</message>
+    <message key="youtubeLink">https://www.youtube.com/channel/UCG_VNSJ48SqPq0gOwIJJoKQ</message>
+    <message key="youWin">:gender:</message>
+    <message key="zeroTransferWarning">Seçilen bir şey yok. Aktarılacak miktarı ayarlamak için toplamın solundaki okları kullanın.</message>
+    <plural key="buddy">
+      <form>dost</form>
+      <form>dostlar</form>
+      <form>dostlar</form>
+    </plural>
+    <plural key="counters">
+      <form>:value: çip para</form>
+      <form>:value: çip paralar</form>
+      <form>:value: çip paralar</form>
+    </plural>
+    <plural key="credits">
+      <form>:value: kredi</form>
+      <form>:value: krediler</form>
+      <form>:value: krediler</form>
+    </plural>
+    <plural key="days">
+      <form>günler</form>
+      <form>günler</form>
+      <form>gün</form>
+    </plural>
+    <plural key="dnPoints">
+      <form>:value: puan</form>
+      <form>:value: puanlar</form>
+      <form>:value: puanlar</form>
+    </plural>
+    <plural key="enrgPoints">
+      <form>:value: Enerji</form>
+      <form>:value: Enerji</form>
+      <form>:value: Enerji</form>
+    </plural>
+    <plural key="eurs">
+      <form>:value: EUR</form>
+      <form>:value: EUR</form>
+      <form>:value: EUR</form>
+    </plural>
+    <plural key="eventCoins">
+      <form>:value: para</form>
+      <form>:value: para</form>
+      <form>:value: para</form>
+    </plural>
+    <plural key="fotomoneys">
+      <form>:value: PhM</form>
+      <form>:value: PhM</form>
+      <form>:value: PhM</form>
+    </plural>
+    <plural key="gameChips">
+      <form>:value: çip para</form>
+      <form>:value: çip paralar</form>
+      <form>:value: çip paralar</form>
+    </plural>
+    <plural key="gift">
+      <form>hediye</form>
+      <form>hediyeler</form>
+      <form>hediyeler</form>
+    </plural>
+    <plural key="gldPoints">
+      <form>:value: Altın</form>
+      <form>:value: Altın</form>
+      <form>:value: Altın</form>
+    </plural>
+    <plural key="golds">
+      <form>:value: altın para</form>
+      <form>:value: altın paralar</form>
+      <form>:value: altın paralar</form>
+    </plural>
+    <plural key="lvls">
+      <form>:value: LVL</form>
+      <form>:value: LVL</form>
+      <form>:value: LVL</form>
+    </plural>
+    <plural key="oks">
+      <form>:value: TAMAM</form>
+      <form>:value: TAMAM</form>
+      <form>:value: TAMAM</form>
+    </plural>
+    <plural key="points">
+      <form>:value: puan</form>
+      <form>:value: puanlar</form>
+      <form>:value: puanlar</form>
+    </plural>
+    <plural key="rooms">
+      <form>:value: oda</form>
+      <form>:value: odalar</form>
+      <form>:value: odalar</form>
+    </plural>
+    <plural key="rurs">
+      <form>:value: e-posta</form>
+      <form>:value: e-postalar</form>
+      <form>:value: e-postalar</form>
+    </plural>
+    <plural key="schoolPoints">
+      <form>:value: puan</form>
+      <form>:value: puanlar</form>
+      <form>:value: puanlar</form>
+    </plural>
+    <plural key="seconds">
+      <form>:value: saniye</form>
+      <form>:value: saniyeler</form>
+      <form>:value: saniyeler</form>
+    </plural>
+    <plural key="slvrPoints">
+      <form>:value: Gümüş</form>
+      <form>:value: Gümüş</form>
+      <form>:value: Gümüş</form>
+    </plural>
+    <plural key="silvers">
+      <form>:value: gümüş para</form>
+      <form>:value: gümüş paralar</form>
+      <form>:value: gümüş paralar</form>
+    </plural>
+    <plural key="votes">
+      <form>:value: oy</form>
+      <form>:value: oylar</form>
+      <form>:value: oylar</form>
+    </plural>
+    <message key="dailyGiftDaynoLabel">Bugün, Avataria’daki :dayno:. günün!</message>
+    <message key="dailyGiftMoveToReward">Bugünün ödülüne</message>
+    <message key="tomorrowGiftTitle">Yarın</message>
+    <message key="dailyGiftInTwoDays">2 gün oynayarak bu ödülü kap</message>
+    <message key="dailyGiftTakeButton">Ödülü kap</message>
+    <message key="dailyGiftNextRewardIn">Sonraki ödüle:</message>
+    <message key="message2items">2 konu</message>
+    <message key="message3items">3 konu</message>
+    <message key="message4items">4 konu</message>
+    <message key="useBombCountDescription">Oops! Biri senden önce buraya bir bomba koydu</message>
+    <message key="useItemOnFlatDescription">Bu öğe yalnızca başka bir oyuncuyu ziyaret ederken kullanılabilir</message>
+    <message key="levelupCraftButton">Atölye</message>
+    <message key="levelupShopButton">Depo</message>
+    <message key="levelupNew">NEW</message>
+    <message key="sendMessageToBlockedTitle">Engellendi!</message>
+    <message key="sendMessageToBlockedAlert">Mesaj gönderemezsin çünkü bu oyuncu engellendi</message>
+    <message key="searchBlockedTitle">Engellendi!</message>
+    <message key="searchBlockedAlert">Bu oyuncu seni engelledi, bu yüzden onu ziyaret edemezsin</message>
+    <message key="socialActionBlockedTitle">Engellendi!!</message>
+    <message key="socialActionBlockedAlert">Bu oyuncu seni engelledi, bu eylem imkânsız</message>
+    <message key="followBlockedTitle">Engellendi!</message>
+    <message key="followBlockedAlert">Bu oyuncu seni engelledi, bu yüzden misafir olamazsın</message>
+    <message key="BlockedTitle">Engellendi!</message>
+    <message key="BlockedAlert">Bu oyuncu seni engelledi</message>
+    <message key="addEngagedBlockedTitle">Engellendi!</message>
+    <message key="addEngagedBlockedAlert">Nişanlanamazsın çünkü bu oyuncu seni engelledi</message>
+    <message key="relationBlockedGroup">Engellenen kullanıcılar</message>
+    <message key="addBlackListTitle">Engelle</message>
+    <message key="addBlackListConfirm">Bu oyuncuyu engellemek istiyor musun?</message>
+    <message key="addBlackListAlert">Oyuncu engellendi</message>
+    <message key="removeBlackListTitle">Engeli kaldır</message>
+    <message key="removeBlackListConfirm">Gerçekten bu oyuncunun engelini kaldırmak istiyor musun?</message>
+    <message key="removeBlackListAlert">Oyuncunun engeli başarıyla kaldırıldı</message>
+    <message key="blockedBuddyListEmpty">Liste boş. Engellediğin oyuncular burada görünecek.</message>
+    <message key="oversizeBlackListTitle">Liste dolu.</message>
+    <message key="oversizeBlackListLabel">Yer açmak için önce diğer oyuncuların engelini kaldırmalısın.</message>
+    <message key="shopItemsNotFound">Şu anda bu bölümde ürün bulunmamaktadır. Daha sonra görünecekler, bizi izlemeye devam edin!</message>
+    <message key="exchangeDealResult">Değişim sonucu:</message>
+    <message key="addedBlackListTitle">engellendi:</message>
+    <message key="somethingWentWrong">Hoop! Birşeyler yanlış gitti...</message>
+    <message key="tryAgainLater">Lütfen daha sonra tekrar deneyiniz</message>
+    <message key="promo_waterpistol_title">Su tabancası savaşı!</message>
+    <message key="promo_waterpistol_text">Plaj sezonu sona eriyor ancak Avataria'da yaz asla bitmez! Rafa kaldırılmış sadık su tabancanı al, plaja çık ve liderlik unvanı için diğer oyuncularla savaş! En isabetli oyuncu kazansın!</message>
+    <message key="promo_waterpistol_button">Plaja!</message>
+    <message key="YourFirstGun_ribbon">Ücretsiz!</message>
+    <message key="YourFirstGun_comment">İlk Tabanca</message>
+    <message key="YourFirstGunTitle">İlk tabancan!</message>
+    <message key="YourFirstGun_button">Ücretsiz Al</message>
+    <message key="labelMoveDone">Hamle yaptın!</message>
+    <message key="waterPistolSmallTime">Çok vakit yok! Acele et!</message>
+    <message key="waterPictolTutor1">Oyuncuyu seçin ve başka bir oyuncuyla savaşmak için Su Savaşı butonuna tıkla.</message>
+    <message key="waterPictolTutor2">Savaştaki hamlelerini iyi seç, zayıf noktalara odaklan ve puan kazan. Eğer rakibinin bu tur saldıracağını düşünüyorsan kendini savun!</message>
+    <message key="waterPictolTutor3">Savaş 5 tur sürer. En fazla puan alan oyuncu savaşı kazanır.</message>
+    <message key="waterPictolTutor4">Güçlenmek için daha iyi ekipmana ihtiyacın var! Bonus veren Mayolar, Yüzme Şortları ve hatta su tabancaları her zaman mağazadan edinilebilir!</message>
+    <message key="block_pop">Engellendi!</message>
+    <message key="waterpistolButtonTitle">Su Savaşı</message>
+    <message key="shellCoin">Kabuklar</message>
+    <message key="BeachFightclothes">Plaj Mağazası</message>
+    <message key="Pistols_label">Tabancalar</message>
+    <message key="roundCounter">:value:/:endvalue:. Raunt</message>
+    <message key="waterPistolRequestReceivedMessage">:name: sana bir su tabancası savaşında meydan okudu! Kabul ediyor musun?</message>
+    <message key="waterPistolRequestSendedMessage">:name: savaşma arzunuzu birazdan öğrenecek</message>
+    <message key="waterPistolRequestDeclinedMessage">:name: seninle kavga etmek istemiyor</message>
+    <message key="nopistolCancelRequest">Su savaşı başlatmak için bir su tabancası satın almalısın.</message>
+    <message key="waterPistolsTopPanelLabel">Su Savaşı</message>
+    <message key="understood">Anladım</message>
+    <message key="WPShellLootDescrioption">Su tabancası savaşlarına katılarak elde edilir.</message>
+    <message key="waitForTimeoutText">Daha sonra tekrar deneyin.</message>
+    <message key="shopTabChangeNotification">Seçilen kıyafeti güncellemek için önce dolap kullanarak uygulamalı ve alışverişe dönmelisiniz. Aksi takdirde, bu kıyafetin verilerinin üzerine yazılabilir. Bir dolap açmak ister misin?</message>
+    <message key="buddyLimitExcededDialog">Bu oyuncu eklenemez. Dostlarınızın listesi dolu. Dostlarınızın bir listesini açmak ister misiniz?</message>
+    <message key="buddyLimitExcededDialogAnother">Bu oyuncu eklenemez. Bu oyuncunun dost listesi dolu.</message>
+    <message key="assotiateLimitExceeded">Bu oyuncu eklenemez. Dostlarınızın listesi dolu.</message>
+    <message key="enemyLimitExcededDialog">Bu oyuncu eklenemez. Düşmanlarınızın listesi dolu. Düşmanlarınızın listesini açmak ister misiniz?</message>
+    <message key="enemyLimitExcededDialogAnother">Bu oyuncu eklenemez. Bu oyuncunun düşman listesi dolu.</message>
+    <message key="addBuddyButtonTitle2">Ekle</message>
+    <message key="passportWriteMessage">Yaz</message>
+	  <message key="passportNameChangeDescription">Ad 4 ila 12 karakter uzunluğunda olmalıdır. İsim özel karakterler, emojiler, satır beslemeleri ve küfürler içermemelidir.</message>
+	  <message key="passportNameChange">Değiştir :gold:</message>
+	  <message key="createAvatarTitleNameDescription">Ad 4 ila 12 karakter uzunluğunda olmalıdır. İsim özel karakterler, emojiler, satır beslemeleri ve küfürler içermemelidir.</message>
+    <message key="dsvCastleLocationTitle">Gizli oda</message>
+    <message key="bankToArtefact">101 Artifact'e katılın!</message>
+    <message key="newsArtefactButton">ARTIFACT</message>
+    <message key="artefactTranslation">Yeni!</message>
+    <message key="artefactPromoLabel">101 ARTIFACT</message>
+  </locale>
+</dictionary>

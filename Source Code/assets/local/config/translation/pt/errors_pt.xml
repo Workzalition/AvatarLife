@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dictionary>
+  <locale name="pt">
+    <message key="retry">Tentar novamente</message>
+    <message key="NETWORK_ERROR_DEFAULT">Check Internet connection</message>
+    <message key="NETWORK_ERROR_1">URL usou um protocolo não suportado</message>
+    <message key="NETWORK_ERROR_2">Erro ao inicializar URL</message>
+    <message key="NETWORK_ERROR_3">A URL não estava formatada corretamente</message>
+    <message key="NETWORK_ERROR_6">Couldn't resolve host</message>
+    <message key="NETWORK_ERROR_7">Não foi possível conectar ao host ou proxy</message>
+    <message key="NETWORK_ERROR_8">Servidor FTP enviou resposta estranha ou incorreta</message>
+    <message key="NETWORK_ERROR_9">Acesso remoto a FTP negado</message>
+    <message key="NETWORK_ERROR_12">Tempo da sessão de FTP expirou</message>
+    <message key="NETWORK_ERROR_15">Não é possível resolver o host da conexão</message>
+    <message key="NETWORK_ERROR_23">Não foi possível gravar dados em arquivo local</message>
+    <message key="NETWORK_ERROR_27">Um pedido de utilização de memória foi negado</message>
+    <message key="NETWORK_ERROR_28">Operation timeout</message>
+    <message key="NETWORK_ERROR_30">O comando FTP PORT retornou com erro</message>
+    <message key="NETWORK_ERROR_36">Não foi possível continuar o download. Problema de dados inválidos.</message>
+    <message key="NETWORK_ERROR_213">Erro ao baixar o arquivo. Repita mais tarde.</message>
+    <message key="NETWORK_ERROR_331">Nome de usuário válido. Requer senha</message>
+    <message key="NETWORK_ERROR_332">Requer autorização</message>
+    <message key="NETWORK_ERROR_404">Servidor remoto não encontrado</message>
+    <message key="NETWORK_ERROR_421">Operação impossível. O canal está fechando</message>
+    <message key="NETWORK_ERROR_425">Impossível abrir o canal de informações</message>
+    <message key="NETWORK_ERROR_426">O canal está fechado. Transferência interrompida.</message>
+    <message key="NETWORK_ERROR_434">Host solicitado indiposnível</message>
+    <message key="relogin_request">Necessário entrar novamente</message>
+    <message key="NETWORK_ERROR_TITLE">Falhou ao conectar</message>
+  </locale>
+</dictionary>

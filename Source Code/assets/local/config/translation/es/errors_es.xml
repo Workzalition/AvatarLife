@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dictionary>
+  <locale name="es">
+    <message key="retry">Reintentar</message>
+    <message key="NETWORK_ERROR_DEFAULT">Comprobar conexión a internet</message>
+    <message key="NETWORK_ERROR_1">El URL tiene un protocolo no confirmado</message>
+    <message key="NETWORK_ERROR_2">Error al intentar abrir el URL</message>
+    <message key="NETWORK_ERROR_3">El URL no ha sido confirmado correctamente</message>
+    <message key="NETWORK_ERROR_6">No se ha podido determinar el anfitrión</message>
+    <message key="NETWORK_ERROR_7">Ha ocurrido un error al determinar el anfitrión o el proxy</message>
+    <message key="NETWORK_ERROR_8">El servidor FTP ha emitido una respuesta errónea o extraña</message>
+    <message key="NETWORK_ERROR_9">Acceso denegado al FTP remoto</message>
+    <message key="NETWORK_ERROR_12">Se ha agotado el tiempo de acceso disponible a la sesión FTP</message>
+    <message key="NETWORK_ERROR_15">No se ha podido determinar el anfitrión para la conexión</message>
+    <message key="NETWORK_ERROR_23">No se han podido grabar los datos en el archivo local</message>
+    <message key="NETWORK_ERROR_27">Ha fallado la solicitud de distribución de memoria</message>
+    <message key="NETWORK_ERROR_28">Se ha agotado el tiempo disponible para la operación</message>
+    <message key="NETWORK_ERROR_30">El comando «FTP PORT» ha sufrido un error</message>
+    <message key="NETWORK_ERROR_36">No se ha podido retomar la descarga, los datos emitidos no son válidos</message>
+    <message key="NETWORK_ERROR_213">Error al descargar el archivo, vuelve a intentarlo más tarde</message>
+    <message key="NETWORK_ERROR_331">El nombre de usuario no es válido, es necesaria una contraseña</message>
+    <message key="NETWORK_ERROR_332">Autenticación necesaria</message>
+    <message key="NETWORK_ERROR_404">No se ha encontrado el servidor remoto</message>
+    <message key="NETWORK_ERROR_421">Operación imposible de completar, se cerrará el canal</message>
+    <message key="NETWORK_ERROR_425">Imposible abrir la información del canal</message>
+    <message key="NETWORK_ERROR_426">El canal se ha cerrado y la transferencia se ha interrumpido</message>
+    <message key="NETWORK_ERROR_434">El anfitrión necesario no está disponible</message>
+    <message key="relogin_request">Es necesario volver a iniciar sesión</message>
+    <message key="NETWORK_ERROR_TITLE">No se pudo conectar</message>
+  </locale>
+</dictionary>

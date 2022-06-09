@@ -1,0 +1,227 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dictionary>
+  <locale name="ru">
+    <gender key="chooseAppearanceMessage">
+      <form>Привет, я :name:! Давай начнем — сперва выбери, как ты будешь выглядеть.</form>
+      <form>Привет, я :name:! Давай начнем — сперва выбери, как ты будешь выглядеть.</form>
+    </gender>
+    <gender key="npcName1">
+      <form>Андрей</form>
+      <form>Юля</form>
+    </gender>
+    <gender key="npcName2">
+      <form>Роман</form>
+      <form>Настя</form>
+    </gender>
+    <gender key="npcName3">
+      <form>Илья</form>
+      <form>Марьяна</form>
+    </gender>
+    <gender key="npcName4">
+      <form>Сергей</form>
+      <form>Ольга</form>
+    </gender>
+    <gender key="npcName5">
+      <form>Сергей</form>
+      <form>Таня</form>
+    </gender>
+    <gender key="npcName6">
+      <form>Алекс</form>
+      <form>Оля</form>
+    </gender>
+    <gender key="ttSt10Chat1">
+      <form>Давай. Поможешь мне?</form>
+      <form>Давай. Поможешь мне?</form>
+    </gender>
+    <gender key="ttSt10Chat2">
+      <form>Спасибо за помощь, Саша!</form>
+      <form>Спасибо за помощь, Маша!</form>
+    </gender>
+    <gender key="ttSt10Npc1">
+      <form>Поздравляю с покупкой квартиры! Давай позовем всех твоих друзей на новоселье?</form>
+      <form>Поздравляю с покупкой квартиры! Давай позовем всех твоих друзей на новоселье?</form>
+    </gender>
+    <gender key="ttSt10Npc2">
+      <form>Ты делаешь успехи! Впереди тебя ждут увлекательные задания, которые помогут узнать много нового о мире Аватарии.</form>
+      <form>Ты делаешь успехи! Впереди тебя ждут увлекательные задания, которые помогут узнать много нового о мире Аватарии.</form>
+    </gender>
+    <gender key="ttSt2Npc1">
+      <form>Готов оторваться сегодня в клубе?</form>
+      <form>Готова оторваться сегодня в клубе?</form>
+    </gender>
+    <gender key="ttSt3Chat1">
+      <form>Конечно, давай помогу.</form>
+      <form>Конечно, давай помогу.</form>
+    </gender>
+    <gender key="ttSt3Npc1">
+      <form>Но прежде чем пойти, я должен закончить установку фонтана. Ты ведь мне поможешь?</form>
+      <form>Но прежде чем пойти, я должна закончить установку фонтана. Ты ведь мне поможешь?</form>
+    </gender>
+    <gender key="ttSt4Chat1">
+      <form>Хорошо, давай посмотрим.</form>
+      <form>Хорошо, давай посмотрим.</form>
+    </gender>
+    <gender key="ttSt4Npc1">
+      <form>Неужели ты собираешься идти в клуб в таком виде? Уверен, ты найдешь что-нибудь более подходящее в моем шкафу.</form>
+      <form>Неужели ты собираешься идти в клуб в таком виде? Уверена, ты найдешь что-нибудь более подходящее в моем шкафу.</form>
+    </gender>
+    <gender key="ttSt5Chat1">
+      <form>Отличная идея, идем!</form>
+      <form>Отличная идея, идем!</form>
+    </gender>
+    <gender key="ttSt5Chat2">
+      <form>Как это сделать?</form>
+      <form>Как это сделать?</form>
+    </gender>
+    <gender key="ttSt5Npc1">
+      <form>Отлично выглядишь! Давай заглянем в кафе и выпьем по чашечке кофе.</form>
+      <form>Отлично выглядишь! Давай заглянем в кафе и выпьем по чашечке кофе.</form>
+    </gender>
+    <gender key="ttSt5Npc2">
+      <form>Давай закажем по чашечке кофе.</form>
+      <form>Давай закажем по чашечке кофе.</form>
+    </gender>
+    <gender key="ttSt6Chat1">
+      <form>Да, самое время.</form>
+      <form>Да, самое время.</form>
+    </gender>
+    <gender key="ttSt6Npc1">
+      <form>Хорошо посидели. Кстати, самое время выдвигаться в клуб.</form>
+      <form>Хорошо посидели. Кстати, самое время выдвигаться в клуб.</form>
+    </gender>
+    <gender key="ttSt6Npc2">
+      <form>Вот мы и в клубе! Ну что, давай зажигать?</form>
+      <form>Вот мы и в клубе! Ну что, давай зажигать?</form>
+    </gender>
+    <gender key="ttSt7Chat1">
+      <form>Думаю, пора выдвигаться домой.</form>
+      <form>Думаю, пора выдвигаться домой.</form>
+    </gender>
+    <gender key="ttSt7Msg2">
+      <form>Ну что, натанцевался? Мы можем еще немного потусоваться или пойти ко мне домой.</form>
+      <form>Ну что, натанцевалась? Мы можем еще немного потусоваться или пойти ко мне домой.</form>
+    </gender>
+    <gender key="ttSt8Chat1">
+      <form>Посмотрим, что есть на продажу.</form>
+      <form>Посмотрим, что есть на продажу.</form>
+    </gender>
+    <gender key="ttSt8Npc1">
+      <form>Вот это была тусовка, да... Кстати, а ты не думал о своей собственной квартире?</form>
+      <form>Вот это была тусовка, да... Кстати, а ты не думала о своей собственной квартире?</form>
+    </gender>
+    <gender key="tutorialNpcName">
+      <form>Саша</form>
+      <form>Маша</form>
+    </gender>
+    <message key="fastSearchLabel">Поиск</message>
+    <message key="finishTutorialConfirm">Ты действительно хочешь закончить обучение?</message>
+    <message key="finishTutorialTitle">Закончить обучение</message>
+    <message key="goldForFriendsLabelText">Приглашай своих друзей в Аватарию, вместе всегда веселее!</message>
+    <message key="lockedInTutorial">Недоступно во время обучения</message>
+    <message key="npcName1boy">Андрей</message>
+    <message key="npcName1girl">Юля</message>
+    <message key="npcName2boy">Роман</message>
+    <message key="npcName2girl">Настя</message>
+    <message key="npcName3boy">Илья</message>
+    <message key="npcName3girl">Марьяна</message>
+    <message key="npcName4boy">Сергей</message>
+    <message key="npcName4girl">Ольга</message>
+    <message key="npcName5boy">Сергей</message>
+    <message key="npcName5girl">Таня</message>
+    <message key="npcName6boy">Алекс</message>
+    <message key="npcName6girl">Оля</message>
+    <message key="questsFirstMessageText">Посмотри, какие еще интересные задания тебе предстоит выполнить</message>
+    <message key="ttFriendMsg0">Привет, отлично выглядишь!</message>
+    <message key="ttFriendMsg1">Как твои дела? Давно не виделись!</message>
+    <message key="ttFriendMsg2">О-о-о, какие люди!</message>
+    <message key="ttFriendMsg3">Сегодня необычайно весело!</message>
+    <message key="ttFriendMsg4">У меня всё хорошо.</message>
+    <message key="ttSt1Hlp">Нажми, чтобы ответить другу</message>
+    <message key="ttSt3Hlp1">Открой “Редактор комнаты”</message>
+    <message key="ttSt3Hlp2">Размести фонтан в комнате, перетаскивая его мышью. Затем нажми “Сохранить”.</message>
+    <message key="ttSt3Hlp3">Нажми фонтан, чтобы выбрать его</message>
+    <message key="ttSt4Hlp1">Нажми, чтобы открыть гардероб</message>
+    <message key="ttSt4Msg2">Выбери себе одежду, затем нажми “Сохранить”.</message>
+    <message key="ttSt5Hlp1">Нажми, чтобы заказать кофе</message>
+    <message key="ttSt5Hlp2">Нажми, чтобы отправиться в кафе</message>
+    <message key="ttSt6Hlp1">Чтобы аватар начал танцевать, щелкни по нему, затем выбери действие “Танцевать”.</message>
+    <message key="tutDlgBACK_AT_MARYSIAS">Вот это была тусовка, да... Кстати, не думаешь о своем собственном жилище?</message>
+    <message key="tutDlgCLICK_COFFEE_SHOP">Нажми "Места", чтобы пойти в кафе.</message>
+    <message key="tutDlgCLUB_GO_HOME">Ну что, веселишься? Можно остаться еще немного или вернуться ко мне.</message>
+    <message key="tutDlgGO_TO_THE_COFFEE_SHOP">Прекрасно выглядишь! Давай сходим в кафе и выпьем по чашечке кофе.</message>
+    <message key="tutDlgINFO_DANCE">Чтобы начать танцевать, щелкни по своему аватару 2 раза и выбери "Танцевать".</message>
+    <message key="tutDlgINFO_GO_TO_THE_CLUB">Было весело. Но пора отправляться в клуб.</message>
+    <message key="tutDlgINFO_INVITE_FRIENDS">Поздравляю с покупкой собственной квартиры! Давай пригласим всех твоих друзей на новоселье!</message>
+    <message key="tutDlgINFO_ORDER_COFFEE">Давай закажем по чашечке кофе.</message>
+    <message key="tutDlgINFO_ROOM_EDITOR">Вечеринка ждет! Но прежде чем мы туда пойдем, мне нужно установить новый фонтан. Поможешь мне?</message>
+    <message key="tutDlgINFO_WARDROBE">Ты же не пойдешь в клуб вот так. Загляни в шкаф и подбери себе что-нибудь получше.</message>
+    <message key="tutDlgINFO_WARDROBE2">Ты же не пойдешь в клуб вот так. Загляни в гардероб и подбери себе что-нибудь получше.</message>
+    <message key="tutorialClothesCategoryLabel">Вечеринка</message>
+    <message key="tutorialContinueLabel">продолжить</message>
+    <message key="tutorialFinishLabel">закончить</message>
+    <message key="tutorialHelpTitle">Обучение</message>
+    <message key="tutTipBUY_COFFEE">Нажми, чтобы заказать чашечку кофе.</message>
+    <message key="tutTipBUY_NEW_ROOM">Выбери комнату и нажми здесь, чтобы купить ее.</message>
+    <message key="tutTipCLICK_ADD_FRIEND">Чтобы пригласить друзей, нажми значок "Добавить друга".</message>
+    <message key="tutTipCLICK_TAB_FRIENDS">Чтобы пригласить друзей, нажми вкладку "Друзья".</message>
+    <message key="tutTipINFO_CLICK_WARDROBE">Нажми, чтобы открыть гардероб.</message>
+    <message key="tutTipINFO_ROOM_EDITOR">Нажми, чтобы ответить другу.</message>
+    <message key="tutTipOPEN_ROOM_EDITOR">Открой "Редактор комнаты".</message>
+    <message key="tutTipORDER_COFFEE">Нажми, чтобы открыть меню.</message>
+    <message key="tutTipPLACE_FOUNTAIN">Перетащи его в комнату и нажми "Сохранить".</message>
+    <message key="tutTipSAVE_WARDROBE">Подбери себе одежду, а потом нажми "Применить".</message>
+    <message key="tutTipSELECT_FOUNTAIN">Нажми, чтобы выбрать фонтан.</message>
+    <message key="tutTipTellFriend">Нажми, чтобы ответить другу.</message>
+    <message key="tutTxtBACK_AT_MARYSIAS">Давай посмотрим, что есть в продаже.</message>
+    <message key="tutTxtCLUB_GO_HOME">Пора возвращаться домой.</message>
+    <message key="tutTxtGO_TO_THE_COFFEE_SHOP">Отлично! Идем!</message>
+    <message key="tutTxtINFO_GO_TO_THE_CLUB">Да! Пошли!</message>
+    <message key="tutTxtINFO_INVITE_FRIENDS">Давай! Ты мне поможешь?</message>
+    <message key="tutTxtINFO_ORDER_COFFEE">Как это сделать?</message>
+    <message key="tutTxtINFO_ROOM_EDITOR">Конечно, помогу.</message>
+    <message key="tutTxtINFO_WARDROBE">Хорошо, давай посмотрим.</message>
+    <message key="typeNameLabel">Введи имя</message>
+    <message key="userHouse1Description">Выразительный дизайн для яркой личности. Любишь выделяться из толпы? Тогда эта квартира для тебя!</message>
+    <message key="userHouse1Label">Сказка</message>
+    <message key="userHouse2Description">Лаконичный дизайн и стиль. Просто и со вкусом!</message>
+    <message key="userHouse2Label">Хай-тек</message>
+    <message key="userHouse3Description">Если хочется нежности и тепла, эта квартира подходит лучше всего! Мягкие тона и стильный дизайн интерьера не оставят никого равнодушным.</message>
+    <message key="userHouse3Label">Нежность</message>
+    <message key="userHouse4Description">Уют и комфорт — вот что отличает эту квартиру от остальных.</message>
+    <message key="userHouse4Label">Уют</message>
+    <message key="userHouse5Description">Отличный вид из окон и минимум мебели. Идеальный вариант для тех, кто предпочитает делать ремонт сам.</message>
+    <message key="userHouse5Label">Минимализм</message>
+    <message key="userHouse6Description">Выразительный дизайн для яркой личности. Любишь выделяться из толпы? Тогда эта квартира для тебя!</message>
+    <message key="userHouse6Label">Сказка</message>
+    <message key="NPC_male1_name">Матвей</message>
+    <message key="NPC_male2_name">Кирилл</message>
+    <message key="NPC_male3_name">Игнат</message>
+    <message key="NPC_male4_name">Борис</message>
+    <message key="NPC_male5_name">Олег</message>
+    <message key="NPC_male6_name">Тимофей</message>
+    <message key="NPC_male7_name">Никита</message>
+    <message key="NPC_male8_name">Касьян</message>
+    <message key="NPC_male9_name">Андрей</message>
+    <message key="NPC_male10_name">Руслан</message>
+    <message key="NPC_male11_name">Роман</message>
+    <message key="NPC_male12_name">Максим</message>
+    <message key="NPC_male13_name">Стас</message>
+    <message key="NPC_male14_name">Илья</message>
+    <message key="NPC_male15_name">Данила</message>
+    <message key="NPC_female1_name">Арина</message>
+    <message key="NPC_female2_name">Олеся</message>
+    <message key="NPC_female3_name">Бэлла</message>
+    <message key="NPC_female4_name">Филиппа</message>
+    <message key="NPC_female5_name">Кира</message>
+    <message key="NPC_female6_name">Дарья</message>
+    <message key="NPC_female7_name">Марго</message>
+    <message key="NPC_female8_name">Нэлли</message>
+    <message key="NPC_female9_name">Тина</message>
+    <message key="NPC_female10_name">Ева</message>
+    <message key="NPC_female11_name">Вера</message>
+    <message key="NPC_female12_name">Марина</message>
+    <message key="NPC_female13_name">Ульяна</message>
+    <message key="NPC_female14_name">Ядвига</message>
+    <message key="NPC_female15_name">Василиса</message>
+  </locale>
+</dictionary>

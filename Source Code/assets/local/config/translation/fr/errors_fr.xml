@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dictionary>
+  <locale name="fr">
+    <message key="retry">Réessayer</message>
+    <message key="NETWORK_ERROR_DEFAULT">Vérifiez votre connexion</message>
+    <message key="NETWORK_ERROR_1">L'URL utilisait un protocole non supporté</message>
+    <message key="NETWORK_ERROR_2">Erreur d'initialisation d'URL</message>
+    <message key="NETWORK_ERROR_3">Le format de l'URL était incorrect</message>
+    <message key="NETWORK_ERROR_6">Impossible de résoudre l'hôte</message>
+    <message key="NETWORK_ERROR_7">Connexion à l'hôte ou au proxy impossible</message>
+    <message key="NETWORK_ERROR_8">Réponse erronée/inadaptée reçue du serveur FTP</message>
+    <message key="NETWORK_ERROR_9">Accès FTP à distance refusé</message>
+    <message key="NETWORK_ERROR_12">Temps de session FTP expiré</message>
+    <message key="NETWORK_ERROR_15">Résolution de l'hôte pour la connexion impossible</message>
+    <message key="NETWORK_ERROR_23">Écriture des données dans le fichier local impossible</message>
+    <message key="NETWORK_ERROR_27">Requête d'allocation de mémoire échouée</message>
+    <message key="NETWORK_ERROR_28">Temps d'opération expiré</message>
+    <message key="NETWORK_ERROR_30">Erreur reçue de la commande FTP PORT</message>
+    <message key="NETWORK_ERROR_36">Reprise du téléchargement impossible. Compensation des données invalide</message>
+    <message key="NETWORK_ERROR_213">Erreur de téléchargement. Réessayez plus tard</message>
+    <message key="NETWORK_ERROR_331">Nom d'utilisateur valide. Mot de passe requis</message>
+    <message key="NETWORK_ERROR_332">Identification requise</message>
+    <message key="NETWORK_ERROR_404">Serveur à distance introuvable</message>
+    <message key="NETWORK_ERROR_421">Opération impossible. Fermeture du canal</message>
+    <message key="NETWORK_ERROR_425">Ouverture du canal d'information impossible</message>
+    <message key="NETWORK_ERROR_426">Canal fermé. Le transfert a été interrompu</message>
+    <message key="NETWORK_ERROR_434">L'hôte demandé n'est pas disponible</message>
+    <message key="relogin_request">Reconnexion requise</message>
+    <message key="NETWORK_ERROR_TITLE">Échec de la connexion</message>
+  </locale>
+</dictionary>

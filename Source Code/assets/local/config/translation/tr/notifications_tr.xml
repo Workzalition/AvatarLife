@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dictionary>
+  <locale name="tr">
+    <message key="incompleteTutorialTitle">Avataria</message>
+    <message key="incompleteTutorialText">Eğitimi henüz bitirmediniz. Sizi bir çok heyecan verici şey bekliyor.</message>
+    <message key="visitReminder1Title">Avataria</message>
+    <message key="visitReminder1Text">Uzun zaman oldu - arkadaşlarınız sizi bekliyor</message>
+    <message key="visitReminder2Title">Avataria</message>
+    <message key="visitReminder2Text">Bir süredir sizi görmemiştik - hepimiz sizi özledik</message>
+    <message key="visitReminder3Title">Avataria</message>
+    <message key="visitReminder3Text">Bir süredir sizi görmemiştik - sizin için bir çok yeni ve heyecan verici şeyimiz var.</message>
+    <message key="notificationGardenTitle">Avataria</message>
+    <message key="notificationGardenText">İş vardiyası bitti - yeniden bahçede çalışabilirsiniz</message>
+    <message key="notificationGarbageTitle">Avataria</message>
+    <message key="notificationGarbageText">İş vardiyası bitti - yeniden sokakları temizlemeye yardım edebilirsiniz</message>
+    <message key="notificationNPCHouseTitle">Avataria</message>
+    <message key="notificationNPCHouseText">Komşunuzun temizlik için yardımınıza ihtiyacı var</message>
+    <message key="notificationEventJobTitle">Avataria</message>
+    <message key="notificationEventJobText">Çabuk - plaja gidip kabul toplamaya başlayın!</message>
+    <message key="notificationWaitressJobTitle">Avataria</message>
+    <message key="notificationWaitressJobText">İş vardiyası bitti - yeniden kafede çalışabilirsiniz</message>
+    <message key="notificationChestTimeoutTitle">Avataria</message>
+    <message key="notificationChestTimeoutText">Bedava pinata! Şimdi açın ve bir hediye alın!</message>
+  </locale>
+</dictionary>

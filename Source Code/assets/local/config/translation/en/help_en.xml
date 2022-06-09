@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dictionary>
+  <locale name="en">
+    <message key="supportButtonTitle">Contact Support</message>
+    <message key="eventCreateFailedTitle">Could not create an event</message>
+    <message key="eventCreateFailedDesc">Please try again. Only text symbols can be used.</message>
+    <message key="continueButton">Continue</message>
+    <message key="errorTitle">Error</message>
+    <message key="101xpAuthError">An error occurred during authorization, please try again later</message>
+    <message key="okButton">Ok</message>
+    <message key="contactSupportButton">Support</message>
+    <message key="attentionTitle">Attention</message>
+    <message key="backStartScreen">You will be returned to the starting screen</message>
+    <message key="cancelButton">Cancel</message>
+    <message key="waitingText">Connecting to the authorization server...</message>
+    <message key="profileButton">Profile</message>
+    <message key="authProblemTitle">Cannot log in?</message>
+    <message key="authProblemText">We have noticed that something went wrong during several past launches. If we are right, please contact our support team</message>
+    <message key="skipButton">Skip</message>
+    <message key="confirmActionTitle">Confirm action</message>
+    <message key="wantBuyText">Are you sure you want to buy items for</message>
+    <message key="yesButton">Yes</message>
+    <message key="noButton">No</message>
+    <message key="resourcesDownloadTitle">Download</message>
+    <message key="resourcesDownloadText">Resources have not been downloaded</message>
+    <message key="resourcesLoaderText">Downloading resources</message>
+    <message key="resourcesLoaderText2">Downloading additional resources</message>
+    <message key="leaveFeedbackText">Your feedback is highly appreciated. Do you want to rate the app?</message>
+    <message key="supportPageRedirect">You will be directed to the support page</message>
+    <message key="submitAction">Submit</message>
+    <message key="inappError">An error occurred. Please try again later.</message>
+    <message key="inappSuccess">The product has been purchased.</message>
+    <message key="inappRestored">The previously purchased product has been restored.</message>
+    <message key="somethingWentWrong">Something went wrong, please try again later.</message>
+    <message key="Unlock">Unlock</message>
+    <message key="unlockConfirmTitle">Unlock</message>
+    <message key="unlockDescription">Do you want to unlock?</message>
+    <message key="nyFriend">Forest Fairy</message>
+    <message key="101xpInitError">An error occurred while attempting to start the application. Please try again. If the error persists, please contact technical support.</message>
+    <message key="socialNetworkUrl">https://www.facebook.com/AvatarLife101XP</message>
+    <message key="resourcesDownloadFinishedText">Content uploaded!</message>
+    <message key="billingNotAvailableTitle">Payments temporarily disabled</message>
+  </locale>
+</dictionary>

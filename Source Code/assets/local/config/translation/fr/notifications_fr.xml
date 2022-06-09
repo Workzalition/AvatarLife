@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dictionary>
+  <locale name="fr">
+    <message key="incompleteTutorialTitle">Avatar Life</message>
+    <message key="incompleteTutorialText">Vous n'avez pas encore terminé le didacticiel. Il vous reste plein de choses à découvrir !</message>
+    <message key="visitReminder1Title">Avatar Life</message>
+    <message key="visitReminder1Text">Ça fait longtemps ! Vos amis n'attendent que vous.</message>
+    <message key="visitReminder2Title">Avatar Life</message>
+    <message key="visitReminder2Text">Ça fait longtemps ! Tout le monde veut savoir où vous êtes.</message>
+    <message key="visitReminder3Title">Avatar Life</message>
+    <message key="visitReminder3Text">Ça fait longtemps ! Venez découvrir toutes les nouveautés qui vous attendent.</message>
+    <message key="notificationGardenTitle">Avatar Life</message>
+    <message key="notificationGardenText">Le service est terminé ! Vous pouvez à nouveau travailler dans le jardin.</message>
+    <message key="notificationGarbageTitle">Avatar Life</message>
+    <message key="notificationGarbageText">Le service est terminé ! Vous pouvez à nouveau aider à nettoyer la rue.</message>
+    <message key="notificationNPCHouseTitle">Avatar Life</message>
+    <message key="notificationNPCHouseText">Votre voisin a besoin de vous pour le ménage.</message>
+    <message key="notificationEventJobTitle">Avatar Life</message>
+    <message key="notificationEventJobText">Vite, rendez-vous à la plage pour commencer la collecte de coquillages !</message>
+    <message key="notificationWaitressJobTitle">Avatar Life</message>
+    <message key="notificationWaitressJobText">Le service est terminé ! Vous pouvez à nouveau travailler au café.</message>
+    <message key="notificationChestTimeoutTitle">Avatar Life</message>
+    <message key="notificationChestTimeoutText">Pinata gratuit! Ouvrez-le maintenant et recevez un cadeau!</message>
+  </locale>
+</dictionary>

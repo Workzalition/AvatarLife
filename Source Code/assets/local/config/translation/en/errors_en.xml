@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dictionary>
+  <locale name="en">
+    <message key="retry">Retry</message>
+    <message key="NETWORK_ERROR_DEFAULT">Check Internet connection</message>
+    <message key="NETWORK_ERROR_1">The URL used an unsupported protocol</message>
+    <message key="NETWORK_ERROR_2">Error initializing URL</message>
+    <message key="NETWORK_ERROR_3">The URL was not properly formatted</message>
+    <message key="NETWORK_ERROR_6">Couldn't resolve host</message>
+    <message key="NETWORK_ERROR_7">Failed to connect to host or proxy</message>
+    <message key="NETWORK_ERROR_8">FTP server sent strange or bad reply</message>
+    <message key="NETWORK_ERROR_9">FTP remote access denied</message>
+    <message key="NETWORK_ERROR_12">FTP session timeout expired</message>
+    <message key="NETWORK_ERROR_15">Can't resolve host for the connection</message>
+    <message key="NETWORK_ERROR_23">Unable to write data to local file</message>
+    <message key="NETWORK_ERROR_27">Memory allocation request failed</message>
+    <message key="NETWORK_ERROR_28">Operation timeout</message>
+    <message key="NETWORK_ERROR_30">The FTP PORT command returned error</message>
+    <message key="NETWORK_ERROR_36">Download could not be resumed. Invalid data offset</message>
+    <message key="NETWORK_ERROR_213">Error downloading file. Retry later</message>
+    <message key="NETWORK_ERROR_331">User name is valid. Need password</message>
+    <message key="NETWORK_ERROR_332">Authentication required</message>
+    <message key="NETWORK_ERROR_404">Remote server not found</message>
+    <message key="NETWORK_ERROR_421">Impossible operation. Channel is closing</message>
+    <message key="NETWORK_ERROR_425">Impossible to open information channel</message>
+    <message key="NETWORK_ERROR_426">Channel is closed. Transfer has been interrupted</message>
+    <message key="NETWORK_ERROR_434">Requested host is unavailable</message>
+    <message key="relogin_request">Relogin required</message>
+    <message key="NETWORK_ERROR_TITLE">Failed to connect</message>
+  </locale>
+</dictionary>

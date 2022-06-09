@@ -1,0 +1,228 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dictionary>
+  <locale name="en">
+    <gender key="chooseAppearanceMessage">
+      <form>Hi! I'm :name:! Let's start - choose your appearance first.</form>
+      <form>Hi! I'm :name:! Let's start - choose your appearance first.</form>
+    </gender>
+    <gender key="npcName1">
+      <form>Ethan</form>
+      <form>Olivia</form>
+    </gender>
+    <gender key="npcName2">
+      <form>William</form>
+      <form>Emma</form>
+    </gender>
+    <gender key="npcName3">
+      <form>Rick</form>
+      <form>Jenny</form>
+    </gender>
+    <gender key="npcName4">
+      <form>Bob</form>
+      <form>Diana</form>
+    </gender>
+    <gender key="npcName5">
+      <form>Bob</form>
+      <form>Isabella</form>
+    </gender>
+    <gender key="npcName6">
+      <form>Jacob</form>
+      <form>Sofia</form>
+    </gender>
+    <gender key="ttSt10Chat1">
+      <form>How do I do that?</form>
+      <form>How do I do that?</form>
+    </gender>
+    <gender key="ttSt10Chat2">
+      <form>Thanks for your help!</form>
+      <form>Thanks for your help!</form>
+    </gender>
+    <gender key="ttSt10Npc1">
+      <form>Congratulations on purchasing your own apartment. Now it's time to invite your friends to the housewarming party!</form>
+      <form>Congratulations on purchasing your own apartment. Now it's time to invite your friends to the housewarming party!</form>
+    </gender>
+    <gender key="ttSt10Npc2">
+      <form>You're making progress! There are many exciting tasks ahead, which will help you learn about the world of Avataria.</form>
+      <form>You're making progress! There are many exciting tasks ahead, which will help you learn about the world of Avataria.</form>
+    </gender>
+    <gender key="ttSt2Npc1">
+      <form>Hey, buddy, it's great to see you! Ready to have some fun?</form>
+      <form>Hey, girlfriend, it's great to see you! Ready to have some fun?</form>
+    </gender>
+    <gender key="ttSt3Chat1">
+      <form>Of course, I'll help.</form>
+      <form>Of course, I'll help.</form>
+    </gender>
+    <gender key="ttSt3Npc1">
+      <form>But before we can go out, I need to finish installing a fountain. Can you help me?</form>
+      <form>But before we can go out, I need to finish installing a fountain. Can you help me?</form>
+    </gender>
+    <gender key="ttSt4Chat1">
+      <form>Why not?</form>
+      <form>Why not?</form>
+    </gender>
+    <gender key="ttSt4Npc1">
+      <form>Are you going to the club dressed like that? I'm sure you'll find something you'll like in my wardrobe!</form>
+      <form>Are you going to the club dressed like that? I'm sure you'll find something you'll like in my wardrobe!</form>
+    </gender>
+    <gender key="ttSt5Chat1">
+      <form>All right, let's go!</form>
+      <form>All right, let's go!</form>
+    </gender>
+    <gender key="ttSt5Chat2">
+      <form>How do I do that?</form>
+      <form>How do I do that?</form>
+    </gender>
+    <gender key="ttSt5Npc1">
+      <form>You look great! Let's pop by the cafe for a cup of coffee first.</form>
+      <form>You look great! Let's pop by the cafe for a cup of coffee first.</form>
+    </gender>
+    <gender key="ttSt5Npc2">
+      <form>Let's get some coffee.</form>
+      <form>Let's get some coffee.</form>
+    </gender>
+    <gender key="ttSt6Chat1">
+      <form>Yeah, let's go.</form>
+      <form>Yeah, let's go.</form>
+    </gender>
+    <gender key="ttSt6Npc1">
+      <form>This was nice. But now it's time we head to the club.</form>
+      <form>This was nice. But now it's time we head to the club.</form>
+    </gender>
+    <gender key="ttSt6Npc2">
+      <form>And here we are at the club! Ready to have a blast?</form>
+      <form>And here we are at the club! Ready to have a blast?</form>
+    </gender>
+    <gender key="ttSt7Chat1">
+      <form>We should start heading home.</form>
+      <form>We should start heading home.</form>
+    </gender>
+    <gender key="ttSt7Msg2">
+      <form>Well, did you dance your shoes off? We can hang out some more, or we can go back to my place.</form>
+      <form>Well, did you dance your shoes off? We can hang out some more, or we can go back to my place.</form>
+    </gender>
+    <gender key="ttSt8Chat1">
+      <form>Let's see what's for sale.</form>
+      <form>Let's see what's for sale.</form>
+    </gender>
+    <gender key="ttSt8Npc1">
+      <form>Now that was a heck of a time... Have you thought about an apartment of your own?</form>
+      <form>Now that was a heck of a time... Have you thought about an apartment of your own?</form>
+    </gender>
+    <gender key="tutorialNpcName">
+      <form>Alex</form>
+      <form>Mary</form>
+    </gender>
+    <message key="fastSearchLabel">Fast search</message>
+    <message key="finishTutorialConfirm">Do you really want to finish the tutorial?</message>
+    <message key="finishTutorialTitle">Finish the tutorial</message>
+    <message key="goldForFriendsLabelText">You will receive 10 gold coins for every friend, who join the game!</message>
+    <message key="lockedInTutorial">Unavailable during the tutorial</message>
+    <message key="npcName1boy">Ethan</message>
+    <message key="npcName1girl">Olivia</message>
+    <message key="npcName2boy">William</message>
+    <message key="npcName2girl">Emma</message>
+    <message key="npcName3boy">Rick</message>
+    <message key="npcName3girl">Jenny</message>
+    <message key="npcName4boy">Bob</message>
+    <message key="npcName4girl">Diana</message>
+    <message key="npcName5boy">Bob</message>
+    <message key="npcName5girl">Isabella</message>
+    <message key="npcName6boy">Jacob</message>
+    <message key="npcName6girl">Sofia</message>
+    <message key="questsFirstMessageText">See what other interesting tasks you have to perform</message>
+    <message key="ttFriendMsg0">Heya, you look great!</message>
+    <message key="ttFriendMsg1">How are you doing? Long time no see!</message>
+    <message key="ttFriendMsg2">It's so great to see you!</message>
+    <message key="ttFriendMsg3">What a fun day!</message>
+    <message key="ttFriendMsg4">I'm doing fine.</message>
+    <message key="ttSt1Hlp">Tap to answer your friend</message>
+    <message key="ttSt3Hlp1">Open Room Editor</message>
+    <message key="ttSt3Hlp2">Place the fountain in the room by dragging it with your mouse. Then tap Save.</message>
+    <message key="ttSt3Hlp3">Now tap on the fountain to select it</message>
+    <message key="ttSt4Hlp1">Tap to open the closet</message>
+    <message key="ttSt4Msg2">Pick out an outfit, then tap Save to change your clothes.</message>
+    <message key="ttSt5Hlp1">Tap to order coffee</message>
+    <message key="ttSt5Hlp2">Tap to go to the cafe</message>
+    <message key="ttSt6Hlp1">To make your avatar dance, tap on it and select Dance.</message>
+    <message key="tutDlgBACK_AT_MARYSIAS">That was fun. Have you thought about getting your own place?</message>
+    <message key="tutDlgCLICK_COFFEE_SHOP">Tap "Places" to go to the cafeteria.</message>
+    <message key="tutDlgCLUB_GO_HOME">So, are you having fun? We can stay a little longer or go back to my place.</message>
+    <message key="tutDlgGO_TO_THE_COFFEE_SHOP">You look great! Let's go to the cafeteria for a cup of coffee.</message>
+    <message key="tutDlgINFO_DANCE">To start dancing, tap on your avatar and select "Dance".</message>
+    <message key="tutDlgINFO_GO_TO_THE_CLUB">It was fun. But it's time to go to the club.</message>
+    <message key="tutDlgINFO_INVITE_FRIENDS">Congratulations for buying your own apartment! Let's invite all of your friends here for party</message>
+    <message key="tutDlgINFO_ORDER_COFFEE">Let's get some coffee.</message>
+    <message key="tutDlgINFO_ROOM_EDITOR">Are you ready for the party? But before we go, I have to install a new fountain. Can you help me?</message>
+    <message key="tutDlgINFO_WARDROBE">I bet you don't want to go to the club looking like this. Look inside my wardrobe and pick something better for yourself.</message>
+    <message key="tutDlgINFO_WARDROBE2">I bet you don't want to go to the club looking like this. Check the wardrobe, you've got to have something better.</message>
+    <message key="tutorialClothesCategoryLabel">Party</message>
+    <message key="tutorialContinueLabel">continue</message>
+    <message key="tutorialFinishLabel">finish</message>
+    <message key="tutorialHelpTitle">Tutorial</message>
+    <message key="tutTipBUY_COFFEE">Tap to order a cup of coffee.</message>
+    <message key="tutTipBUY_NEW_ROOM">Choose your room and tap here to buy it.</message>
+    <message key="tutTipCLICK_ADD_FRIEND">To invite your friends tap on add friend icon.</message>
+    <message key="tutTipCLICK_TAB_FRIENDS">Congratulations for buying your own apartment! To invite your friends tap on Friends tab.</message>
+    <message key="tutTipINFO_CLICK_WARDROBE">Tap to open the wardrobe.</message>
+    <message key="tutTipINFO_ROOM_EDITOR">Tap to tell your friend.</message>
+    <message key="tutTipOPEN_ROOM_EDITOR">Open the "Room editor".</message>
+    <message key="tutTipORDER_COFFEE">Tap to open the menu.</message>
+    <message key="tutTipPLACE_FOUNTAIN">Drag it to the room 
+        and then tap "Save".</message>
+    <message key="tutTipSAVE_WARDROBE">Choose clothes, and then tap "Apply".</message>
+    <message key="tutTipSELECT_FOUNTAIN">Tap to select the fountain.</message>
+    <message key="tutTipTellFriend">Tap to tell your friend.</message>
+    <message key="tutTxtBACK_AT_MARYSIAS">Let me check what's on the market.</message>
+    <message key="tutTxtCLUB_GO_HOME">We should go home.</message>
+    <message key="tutTxtGO_TO_THE_COFFEE_SHOP">Ok! Let's go!</message>
+    <message key="tutTxtINFO_GO_TO_THE_CLUB">Yes! Let's go!</message>
+    <message key="tutTxtINFO_INVITE_FRIENDS">Ok! Will you help me?</message>
+    <message key="tutTxtINFO_ORDER_COFFEE">How do I do that?</message>
+    <message key="tutTxtINFO_ROOM_EDITOR">Of course I'll help.</message>
+    <message key="tutTxtINFO_WARDROBE">Why not?</message>
+    <message key="typeNameLabel">Type name</message>
+    <message key="userHouse1Description">An original design for a bright personality. Like to stand out in the crowd? Then this apartment is for you!</message>
+    <message key="userHouse1Label">Fairytale</message>
+    <message key="userHouse2Description">Laconic style and design. Simple and tasteful.</message>
+    <message key="userHouse2Label">Hi-tech</message>
+    <message key="userHouse3Description">If you seek warmth and tenderness, this apartment is your best bet. Everyone will love its soft tones and stylish interior design.</message>
+    <message key="userHouse3Label">Tenderness</message>
+    <message key="userHouse4Description">Comfort and coziness is what separates this apartment from the rest.</message>
+    <message key="userHouse4Label">Comfort</message>
+    <message key="userHouse5Description">A wonderful view and minimum furniture. An ideal option for those who prefer to make renovations themselves.</message>
+    <message key="userHouse5Label">Minimalism</message>
+    <message key="userHouse6Description">An original design for a bright personality. Like to stand out in the crowd? Then this apartment is for you!</message>
+    <message key="userHouse6Label">Fairytale</message>
+    <message key="NPC_male1_name">Austin</message>
+    <message key="NPC_male2_name">Charles</message>
+    <message key="NPC_male3_name">Louis</message>
+    <message key="NPC_male4_name">Elliott</message>
+    <message key="NPC_male5_name">Frederick</message>
+    <message key="NPC_male6_name">Nathan</message>
+    <message key="NPC_male7_name">Lewis</message>
+    <message key="NPC_male8_name">Blake</message>
+    <message key="NPC_male9_name">Rory</message>
+    <message key="NPC_male10_name">Ollie</message>
+    <message key="NPC_male11_name">Ryan</message>
+    <message key="NPC_male12_name">Tyler</message>
+    <message key="NPC_male13_name">Jackson</message>
+    <message key="NPC_male14_name">Dexter</message>
+    <message key="NPC_male15_name">Harvey</message>
+    <message key="NPC_female1_name">Mia</message>
+    <message key="NPC_female2_name">Charlotte</message>
+    <message key="NPC_female3_name">Amelia</message>
+    <message key="NPC_female4_name">Evelyn</message>
+    <message key="NPC_female5_name">Madison</message>
+    <message key="NPC_female6_name">Scarlett</message>
+    <message key="NPC_female7_name">Victoria</message>
+    <message key="NPC_female8_name">Aria</message>
+    <message key="NPC_female9_name">Grace</message>
+    <message key="NPC_female10_name">Chloe</message>
+    <message key="NPC_female11_name">Camila</message>
+    <message key="NPC_female12_name">Penelope</message>
+    <message key="NPC_female13_name">Riley</message>
+    <message key="NPC_female14_name">Lily</message>
+    <message key="NPC_female15_name">Zoe</message>
+  </locale>
+</dictionary>

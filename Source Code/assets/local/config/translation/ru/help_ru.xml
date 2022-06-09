@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dictionary>
+  <locale name="ru">
+    <message key="supportButtonTitle">Написать в поддержку</message>
+    <message key="eventCreateFailedTitle">Не удалось создать событие</message>
+    <message key="eventCreateFailedDesc">Использование смайлов и символов запрещено. Пожалуйста, попробуйте еще раз.</message>
+    <message key="continueButton">Продолжить</message>
+    <message key="errorTitle">Ошибка</message>
+    <message key="101xpAuthError">При авторизации произошла ошибка, пожалуйста, через некоторое время повторите попытку снова</message>
+    <message key="okButton">Ок</message>
+    <message key="contactSupportButton">Поддержка</message>
+    <message key="attentionTitle">Перейти в профиль?</message>
+    <message key="backStartScreen">При переходе в профиль вы покинете локацию. Вернувшись сюда позже, вы можете застать тут других игроков.</message>
+    <message key="cancelButton">Отмена</message>
+    <message key="waitingText">Идет подключение к серверу авторизации...</message>
+    <message key="profileButton">Профиль</message>
+    <message key="authProblemTitle">Проблемы со входом в игру?</message>
+    <message key="authProblemText">У нас есть подозрения, что во время нескольких прошлых запусков что-то пошло не так. Если мы не ошиблись, пожалуйста, обратитесь в техническую поддержку</message>
+    <message key="skipButton">Пропустить</message>
+    <message key="confirmActionTitle">Подтвердите действие</message>
+    <message key="wantBuyText">Вы уверены, что хотите купить предметы за</message>
+    <message key="yesButton">Да</message>
+    <message key="noButton">Нет</message>
+    <message key="resourcesDownloadTitle">Загрузка</message>
+    <message key="resourcesDownloadText">Контент ещё не загружен</message>
+    <message key="resourcesLoaderText">Загрузка ресурсов...</message>
+    <message key="resourcesLoaderText2">Загрузка дополнительных ресурсов...</message>
+    <message key="leaveFeedbackText">Нам очень важен ваш отзыв, спасибо! Открыть магазин приложений?</message>
+    <message key="supportPageRedirect">Вы будете перенаправлены на страницу поддержки</message>
+    <message key="submitAction">Подтверждение</message>
+    <message key="inappError">Произошла ошибка. Пожалуйста, повторите попытку позднее.</message>
+    <message key="inappSuccess">Покупка совершена.</message>
+    <message key="inappRestored">Покупка была восстановлена.</message>
+    <message key="somethingWentWrong">Что-то пошло не так. Пожалуйста, повторите попытку позднее.</message>
+    <message key="Unlock">Открыть</message>
+    <message key="unlockConfirmTitle">Разблокировка</message>
+    <message key="unlockDescription">Разблокировать вещь?</message>
+    <message key="nyFriend">Лесная фея</message>
+    <message key="101xpInitError">При запуске приложения произошла ошибка, пожалуйста, попробуйте еще раз. Если ошибка повторится, пожалуйста, обратитесь в техническую поддержку.</message>
+    <message key="socialNetworkUrl">https://vk.com/avatariamobile</message>
+    <message key="resourcesDownloadFinishedText">Контент загружен!</message>
+    <message key="billingNotAvailableTitle">Платежи временно отключены</message>
+  </locale>
+</dictionary>

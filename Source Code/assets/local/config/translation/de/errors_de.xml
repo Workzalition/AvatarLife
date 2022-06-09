@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dictionary>
+  <locale name="de">
+    <message key="retry">Erneut versuchen</message>
+    <message key="NETWORK_ERROR_DEFAULT">Internetverbindung überprüfen</message>
+    <message key="NETWORK_ERROR_1">Die URL hat ein Protokoll verwendet, das nicht unterstützt wird</message>
+    <message key="NETWORK_ERROR_2">Curl init-Fehler</message>
+    <message key="NETWORK_ERROR_3">Die URL ist nicht richtig formatiert</message>
+    <message key="NETWORK_ERROR_6">Host konnte nicht aufgelöst werden</message>
+    <message key="NETWORK_ERROR_7">Verbindung mit Host oder Proxy fehlgeschlagen</message>
+    <message key="NETWORK_ERROR_8">FTP-Server hat seltsame oder fehlerhafte Antwort geschickt</message>
+    <message key="NETWORK_ERROR_9">FTP-Remote-Access verweigert</message>
+    <message key="NETWORK_ERROR_12">FTP-Sitzungstimeout ist abgelaufen</message>
+    <message key="NETWORK_ERROR_15">Host für die Verbindung kann nicht aufgelöst werden</message>
+    <message key="NETWORK_ERROR_23">Daten konnten nicht in lokale Datei geschrieben werden</message>
+    <message key="NETWORK_ERROR_27">Anfrage zur Speicherzuweisung fehlgeschlagen</message>
+    <message key="NETWORK_ERROR_28">Timeout für Vorgang</message>
+    <message key="NETWORK_ERROR_30">Der FTP PORT-Befehl hat einen Fehler ergeben</message>
+    <message key="NETWORK_ERROR_36">Der Download konnte nicht fortgesetzt werden. Ungültiges Daten-Offset</message>
+    <message key="NETWORK_ERROR_213">Fehler bei Downloaddatei. Versuche es später erneut.</message>
+    <message key="NETWORK_ERROR_331">Benutzername ist gültig. Passwort erforderlich.</message>
+    <message key="NETWORK_ERROR_332">Authentifizierung erforderlich</message>
+    <message key="NETWORK_ERROR_404">Remote-Server wurde nicht gefunden</message>
+    <message key="NETWORK_ERROR_421">Unmöglicher Vorgang. Kanal wird geschlossen.</message>
+    <message key="NETWORK_ERROR_425">Informationskanal kann nicht geöffnet werden</message>
+    <message key="NETWORK_ERROR_426">Kanal ist geschlossen. Transfer wird unterbrochen</message>
+    <message key="NETWORK_ERROR_434">Angeforderter Host ist nicht verfügbar</message>
+    <message key="relogin_request">Erneutes Einloggen erforderlich</message>
+    <message key="NETWORK_ERROR_TITLE">Verbindung nicht möglich</message>
+  </locale>
+</dictionary>

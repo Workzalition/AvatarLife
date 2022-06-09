@@ -1,0 +1,2138 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dictionary>
+  <locale name="pl">
+    <gender key="achievementNotification">
+      <form>:name: otrzymał nagrodę za osiągnięcie „:achievement:”. Prześlij mu gratulacje!</form>
+      <form>:name: otrzymała nagrodę za osiągnięcie „:achievement:”. Prześlij jej gratulacje!</form>
+    </gender>
+    <gender key="alreadyEngagedMessage">
+      <form>Jesteś już zaręczona. Najpierw zerwij ze swoim narzeczonym.</form>
+      <form>Jesteś już zaręczony. Najpierw zerwij ze swoją narzeczoną.</form>
+    </gender>
+    <gender key="alreadyEngagedTitle">
+      <form>Jesteś już zaręczona</form>
+      <form>Jesteś już zaręczony</form>
+    </gender>
+    <gender key="alreadyMarriedMessage">
+      <form>Jesteś już zamężna. Najpierw rozwiedź się ze swoim mężem.</form>
+      <form>Jesteś już żonaty. Najpierw rozwiedź się ze swoją żoną.</form>
+    </gender>
+    <gender key="alreadyMarriedTitle">
+      <form>Jesteś już zamężna</form>
+      <form>Jesteś już żonaty</form>
+    </gender>
+    <gender key="brokeObject">
+      <form>Gracz :name: zepsuł przedmiot :object:</form>
+      <form>Gracz :name: zepsuł przedmiot :object:</form>
+    </gender>
+    <gender key="buyBeforeWedding">
+      <form>Przed zaproszeniem gości kup</form>
+      <form>Przed zaproszeniem gości kup</form>
+    </gender>
+    <gender key="buyVipNotification">
+      <form>:name: kupił status VIP</form>
+      <form>:name: kupiła status VIP</form>
+    </gender>
+    <gender key="buyVipTitle">
+      <form>Kupiłaś status VIP</form>
+      <form>Kupiłeś status VIP</form>
+    </gender>
+    <gender key="cityEventNotification">
+      <form>:name: zorganizował nowe wydarzenie „:event:” i czeka na ciebie.</form>
+      <form>:name: zorganizowała nowe wydarzenie „:event:” i czeka na ciebie.</form>
+    </gender>
+    <gender key="completedQuest">
+      <form>Ukończyłam zadanie :questLabel: w grze Avataria.</form>
+      <form>Ukończyłem zadanie :questLabel: w grze Avataria.</form>
+    </gender>
+    <gender key="craftProducedDialogMessage">
+      <form>Gratulacje, udało ci się wytworzyć przedmiot :craftItemLabel:!</form>
+      <form>Gratulacje, udało ci się wytworzyć przedmiot :craftItemLabel:!</form>
+    </gender>
+    <gender key="craftResponseNotificationDescription">
+      <form>:name: przysłał ci :component:</form>
+      <form>:name: przysłała ci :component:</form>
+    </gender>
+    <gender key="createAvatarDialogMessage">
+      <form>Gratulacje! Twój awatar jest gotowy! Z przyjaciółmi jest weselej, więc zaproś ich do zabawy!</form>
+      <form>Gratulacje! Twój awatar jest gotowy! Z przyjaciółmi jest weselej, więc zaproś ich do zabawy!</form>
+    </gender>
+    <gender key="createAvatarWallMessage">
+      <form>Utworzyłam postać w grze Avataria!</form>
+      <form>Utworzyłem postać w grze Avataria!</form>
+    </gender>
+    <gender key="createEventDialogMessage">
+      <form>Gratulacje! Udało ci się utworzyć nowe wydarzenie. Poinformuj o tym przyjaciół!</form>
+      <form>Gratulacje! Udało ci się utworzyć nowe wydarzenie. Poinformuj o tym przyjaciół!</form>
+    </gender>
+    <gender key="createEventWallMessage">
+      <form>Utworzyłam wydarzenie w grze Avataria! Wpadnij do mnie!</form>
+      <form>Utworzyłem wydarzenie w grze Avataria! Wpadnij do mnie!</form>
+    </gender>
+    <gender key="dailyGiftWallMessage">
+      <form>Odebrałam prezent dnia w grze Avataria.</form>
+      <form>Odebrałem prezent dnia w grze Avataria.</form>
+    </gender>
+    <gender key="eatenObject">
+      <form>Gracz :name: zjadł jedzenie z: :object:</form>
+      <form>Gracz :name: zjadł jedzenie z: :object:</form>
+    </gender>
+    <gender key="fightLooseResult">
+      <form>przegrałaś</form>
+      <form>przegrałeś</form>
+    </gender>
+    <gender key="fightWinResult">
+      <form>wygrałaś</form>
+      <form>wygrałeś</form>
+    </gender>
+    <gender key="fireworkExplodeMessage">
+      <form>:name: odpalił fajerwerki. Chcesz odpalić swoje?</form>
+      <form>:name: odpaliła fajerwerki. Chcesz odpalić swoje?</form>
+    </gender>
+    <gender key="genderAsked">
+      <form>prosił</form>
+      <form>prosiła</form>
+    </gender>
+    <gender key="genderDrop">
+      <form>rzucił</form>
+      <form>rzuciła</form>
+    </gender>
+    <gender key="getReadyForGuests">
+      <form>Powinieneś przygotować się do powitanie gości!</form>
+      <form>Powinnaś przygotować się do powitanie gości!</form>
+    </gender>
+    <gender key="himhis">
+      <form>ją</form>
+      <form>jego</form>
+    </gender>
+    <gender key="itemCraftedWallMessage">
+      <form>Utworzyłam przedmiot (:itemLabel:) w warsztacie w grze Avataria!</form>
+      <form>Utworzyłem przedmiot (:itemLabel:) w warsztacie w grze Avataria!</form>
+    </gender>
+    <gender key="looseMessageSex">
+      <form>przegrałaś</form>
+      <form>przegrałeś</form>
+    </gender>
+    <gender key="makeGiftNotificationCancelMessage">
+      <form>:name: odmówił przyjęcia prezentu.</form>
+      <form>:name: odmówiła przyjęcia prezentu.</form>
+    </gender>
+    <gender key="makeGiftNotificationConfirmMessage">
+      <form>:name: przyjął twój prezent.</form>
+      <form>:name: przyjęła twój prezent.</form>
+    </gender>
+    <gender key="makeGiftRequestNotificationPanelMessage">
+      <form>:name: przysłał ci prezent: :gift:</form>
+      <form>:name: przysłała ci prezent: :gift:</form>
+    </gender>
+    <message key="newLevelAchived">NOWY POZIOM</message>
+    <gender key="newLevelAchivedByMe">
+      <form>Osiągnąłem %i poziom w grze Avataria. Jeśli chcesz, mogę pomóc Ci osiągnąć ten poziom.</form>
+      <form>Osiągnęłam %i poziom w grze Avataria. Jeśli chcesz, mogę pomóc Ci osiągnąć ten poziom.</form>
+    </gender>
+    <gender key="newRoomBoudWallMessage">
+      <form>Kupiłam nowy pokój w moim domu w grze Avataria!</form>
+      <form>Kupiłem nowy pokój w moim domu w grze Avataria!</form>
+    </gender>
+    <gender key="newWeddingWitness">
+      <form>Byłam świadkiem na ślubie przyjaciół</form>
+      <form>Byłem świadkiem na ślubie przyjaciół</form>
+    </gender>
+    <gender key="owner">
+      <form>Gospodarz</form>
+      <form>Gospodyni</form>
+    </gender>
+    <gender key="paintBombMessage">
+      <form>Trafiłaś na bombę gracza :name:</form>
+      <form>Trafiłeś na bombę gracza :name:</form>
+    </gender>
+    <gender key="paintBombResultMessage">
+      <form>:name: trafił na twoją bombę</form>
+      <form>:name: trafiła na twoją bombę</form>
+    </gender>
+    <gender key="passportRelationEngaged">
+      <form>Zaręczona</form>
+      <form>Zaręczony</form>
+    </gender>
+    <gender key="passportRelationMarried">
+      <form>Zamężna</form>
+      <form>Żonaty</form>
+    </gender>
+    <gender key="passportRelationSingle">
+      <form>Singiel</form>
+      <form>Singiel</form>
+    </gender>
+    <gender key="passportRelationBeloved">
+      <form>Zakochany</form>
+      <form>Zakochana</form>
+    </gender>
+    <gender key="presentedVipNotification">
+      <form>:name: uzyskał status VIP</form>
+      <form>:name: uzyskała status VIP</form>
+    </gender>
+    <gender key="presentedVipTitle">
+      <form>:name: podarował ci status VIP</form>
+      <form>:name: podarowała ci status VIP</form>
+    </gender>
+    <gender key="presentVipSuccesfullMessage">
+      <form>:name: otrzymał od ciebie status VIP</form>
+      <form>:name: otrzymała od ciebie status VIP</form>
+    </gender>
+    <gender key="questCompleteByMe">
+      <form>Wykonałam zadanie „:questTitle:” w grze Avataria</form>
+      <form>Wykonałem zadanie „:questTitle:” w grze Avataria</form>
+    </gender>
+    <gender key="questCompleted">
+      <form>Wykonałaś zadanie „:questTitle:”</form>
+      <form>Wykonałeś zadanie „:questTitle:”</form>
+    </gender>
+    <gender key="relationAssociate">
+      <form>znajomy</form>
+      <form>znajomy</form>
+    </gender>
+    <gender key="relationBadAssociate">
+      <form>niedobra znajoma</form>
+      <form>niedobry znajomy</form>
+    </gender>
+    <gender key="relationBadEnemy">
+      <form>wróg</form>
+      <form>wróg</form>
+    </gender>
+    <gender key="relationBadFriend">
+      <form>niedobra przyjaciółka</form>
+      <form>niedobry przyjaciel</form>
+    </gender>
+    <gender key="relationBeloved">
+      <form>chłopak</form>
+      <form>dziewczyna</form>
+    </gender>
+    <gender key="relationBestFriend">
+      <form>najlepsza przyjaciółka</form>
+      <form>najlepszy przyjaciel</form>
+    </gender>
+    <gender key="relationEnemy">
+      <form>nieprzyjaciółka</form>
+      <form>nieprzyjaciel</form>
+    </gender>
+    <gender key="relationEngaged">
+      <form>narzeczona</form>
+      <form>narzeczony</form>
+    </gender>
+    <gender key="relationExBeloved">
+      <form>była dziewczyna</form>
+      <form>były chłopak</form>
+    </gender>
+    <gender key="relationExEnemy">
+      <form>były wróg</form>
+      <form>były wróg</form>
+    </gender>
+    <gender key="relationExEngaged">
+      <form>była narzeczona</form>
+      <form>były narzeczony</form>
+    </gender>
+    <gender key="relationExFriend">
+      <form>była przyjaciółka</form>
+      <form>były przyjaciel</form>
+    </gender>
+    <gender key="relationExMarried">
+      <form>była żona</form>
+      <form>były mąż</form>
+    </gender>
+    <gender key="relationFriend">
+      <form>przyjaciel</form>
+      <form>przyjaciółka</form>
+    </gender>
+    <gender key="relationGoodAssociate">
+      <form>dobra znajoma</form>
+      <form>dobry znajomy</form>
+    </gender>
+    <gender key="relationGoodFriend">
+      <form>dobra przyjaciółka</form>
+      <form>dobry przyjaciel</form>
+    </gender>
+    <gender key="relationMarried">
+      <form>mąż</form>
+      <form>żona</form>
+    </gender>
+    <gender key="relationStranger">
+      <form>nieznajoma</form>
+      <form>nieznajomy</form>
+    </gender>
+    <gender key="relationWorstEnemy">
+      <form>zaprzysięgły wróg</form>
+      <form>zaprzysięgły wróg</form>
+    </gender>
+    <gender key="resourcesPresentedFromMessage">
+      <form>:name: podarował ci przedmiot :item:</form>
+      <form>:name: podarowała ci przedmiot :item:</form>
+    </gender>
+    <gender key="transferItemFromMessage">
+      <form>:name: przekazał ci przedmiot :item:</form>
+      <form>:name: przekazała ci przedmiot :item:</form>
+    </gender>
+    <gender key="transferItemToMessage">
+      <form>:name: otrzymał przedmiot :item:</form>
+      <form>:name: otrzymała przedmiot :item:</form>
+    </gender>
+    <gender key="userAlreadyEngagedMessage">
+      <form>:userName: jest już zaręczona. Najpierw musi się rozstać z narzeczonym.</form>
+      <form>:userName: jest już zaręczony. Najpierw musi się rozstać z narzeczoną.</form>
+    </gender>
+    <gender key="userAlreadyEngagedTitle">
+      <form>:userName: jest już zaręczona</form>
+      <form>:userName: jest już zaręczony</form>
+    </gender>
+    <gender key="userAlreadyMarriedMessage">
+      <form>:userName: jest już zamężna. Najpierw musi się rozwieść.</form>
+      <form>:userName: jest już żonaty. Najpierw musi się rozwieść.</form>
+    </gender>
+    <gender key="userAlreadyMarriedTitle">
+      <form>:userName: jest już zamężna</form>
+      <form>:userName: jest już żonaty</form>
+    </gender>
+    <gender key="wallBuyVipDescription">
+      <form>Kupiłam sobie status VIP – teraz mogę wchodzić do zamkniętej strefy VIP, za darmo regenerować energię i robić wiele innych rzeczy!</form>
+      <form>Kupiłem sobie status VIP – teraz mogę wchodzić do zamkniętej strefy VIP, za darmo regenerować energię i robić wiele innych rzeczy!</form>
+    </gender>
+    <gender key="wallVipTitle">
+      <form>Uzyskałaś status VIP</form>
+      <form>Uzyskałeś status VIP</form>
+    </gender>
+    <gender key="weddingCancelledMessage">
+      <form>:name: przerwał waszą ślubną ceremonię.</form>
+      <form>:name: przerwała waszą ślubną ceremonię.</form>
+    </gender>
+    <gender key="weddingClothes">
+      <form>garnitur ślubny</form>
+      <form>garnitur ślubny</form>
+    </gender>
+    <gender key="weddingClothesCheckDetails">
+      <form>Garnitur składa się z marynarki, koszuli i spodni. W sklepie z akcesoriami ślubnymi są doskonałe garnitury, akurat w twoim rozmiarze.</form>
+      <form>W sklepie z akcesoriami ślubnymi są wspaniałe sukienki, akurat w twoim rozmiarze.</form>
+    </gender>
+    <gender key="weddingConfirm">
+      <form>:name:, czy zgadzasz się, żeby :opponent: został twoim mężem?</form>
+      <form>:name:, czy zgadzasz się, żeby :opponent: została twoją żoną?</form>
+    </gender>
+    <gender key="weddingDressCodeMessage">
+      <form>Z okazji tego uroczystego wydarzenia twój narzeczony powinien przywdziać odświętny strój. Poproś go, aby się przebrał.</form>
+      <form>Z okazji tego uroczystego wydarzenia twoja narzeczona powinna przywdziać odświętny strój. Poproś ją, aby się przebrała.</form>
+    </gender>
+    <gender key="weddingDressCodeSelfMessage">
+      <form>Z okazji tego uroczystego wydarzenia powinieneś przywdziać odświętny strój. Chcesz się przebrać?</form>
+      <form>Z okazji tego uroczystego wydarzenia powinnaś przywdziać odświętny strój. Chcesz się przebrać?</form>
+    </gender>
+    <gender key="weddingRings">
+      <form>obrączki</form>
+      <form>obrączki</form>
+    </gender>
+    <gender key="winJackpotWallMessage">
+      <form>Hurra! Zgarnąłem całą pulę w grze Avataria i wygrałem monety (:value:)!</form>
+      <form>Hurra! Zgarnęłam całą pulę w grze Avataria i wygrałam monety (:value:)!</form>
+    </gender>
+    <gender key="winMessageSex">
+      <form>wygrałaś</form>
+      <form>wygrałeś</form>
+    </gender>
+    <message key="3timesMoreGold">Trzy razy więcej złota!</message>
+    <message key="acceptFightButtonLabel">Przyjmij</message>
+    <message key="accessDeny">Niestety, ta aplikacja jest dla ciebie niedostępna.</message>
+    <message key="accessLocationWarning">Nie możesz udać się w to miejsce. Poczekaj kilka minut i spróbuj ponownie.</message>
+    <message key="achievementAwardDescription">Znajdziesz ją w ekwipunku.</message>
+    <message key="achievementAwardNextDescription">Aby otrzymać nagrodę następnego poziomu, wykonaj następujące działanie: :nextAwardAction:.</message>
+    <message key="achievementAwardText">Otrzymujesz nagrodę „:award:”</message>
+    <message key="achievementAwardWallDescription">Udało mi się zdobyć nagrodę „:award:” w grze Avataria! Dołącz do mnie, a otrzymasz taką samą!</message>
+    <message key="achievementGaveTitle">odebrano</message>
+    <message key="achievementProgressText">Pozostało :count: z :maxCount:</message>
+    <message key="achievementTabTitle">Nagrody</message>
+    <message key="achievementTitleLabel">Gratulacje!</message>
+    <message key="action_action_pool_rubberring">Pływaj w kółko</message>
+    <message key="action_bedjumping">Wskocz na łóżko</message>
+    <message key="action_bench_read">Czytaj na ławce</message>
+    <message key="action_blowcandles">Zdmuchnij świeczki</message>
+    <message key="action_cooksausages">Upiecz kiełbaski</message>
+    <message key="action_cozysitwindow">Usiądź na parapecie</message>
+    <message key="action_deck_liedown">Połóż się na leżaku</message>
+    <message key="action_drinktea">Napij się herbaty</message>
+    <message key="action_drums_afro_play">Zagraj na bębnach</message>
+    <message key="action_fedthbird">Nakarm ptaka</message>
+    <message key="action_feedfish_label">Nakarm rybki</message>
+    <message key="action_fircandles">Zapal świeczki</message>
+    <message key="action_fitballjump_label">Ćwiczenia z piłką</message>
+    <message key="action_floweroff">Wyłącz kwiatek</message>
+    <message key="action_floweron">Włącz kwiatek</message>
+    <message key="action_fullsit">Usiądź w fotelu</message>
+    <message key="action_gossip">Plotkuj</message>
+    <message key="action_gotobed">Połóż się</message>
+    <message key="action_gr20_ballroom">Taniec pary</message>
+    <message key="action_hand_wind">Zdobądź wentylator</message>
+    <message key="action_liedown">Połóż się</message>
+    <message key="action_lieoncoach">Połóż się na tapczanie</message>
+    <message key="action_look_atbook">Obejrzyj książkę</message>
+    <message key="action_look_forbook">Poszukaj książki</message>
+    <message key="action_looktelescope">Popatrz w teleskop</message>
+    <message key="action_makeup">Ubierz się</message>
+    <message key="action_opengrill">Otwórz grill</message>
+    <message key="action_playdj_label">Zagraj set DJ-ski</message>
+    <message key="action_readsit">Usiądź i poczytaj</message>
+    <message key="action_speedrun_label">Jogging</message>
+    <message key="action_takeshower_label">Weź prysznic</message>
+    <message key="action_tothebalcony">Wyjdź na balkon</message>
+    <message key="action_upandsit">Wespnij się</message>
+    <message key="action_uptobed">Połóż się na górze</message>
+    <message key="action_wndwhi">Pomachaj przez okno</message>
+    <message key="action_yogastand_label">Wykonaj pozycję jogi</message>
+    <message key="actionButtonTitle">działanie</message>
+    <message key="actionForbiddenInFullscreen">Działanie nie może być wykonane w trybie pełnoekranowym. Wrócić do trybu okienkowego?</message>
+    <message key="addBelovedButtonTitle">spotkaj się</message>
+    <message key="addBuddyButtonTitle">dodaj do listy znajomych</message>
+    <message key="addButtonTitle">dodaj</message>
+    <message key="addEngagedButtonTitle">zaręcz się</message>
+    <message key="addFriendButtonTitle">dodaj do przyjaciół</message>
+    <message key="additionalInfoCreateEvent">Dodatkowo:</message>
+    <message key="addMarriedButtonTitle">weź ślub</message>
+    <message key="addRoomButtonTitle">Dodaj pokój</message>
+    <message key="addRoomInfoMessage">Pokoje mogą być połączone przejściami. Przed zakupem pokoju wskaż miejsce, w którym chcesz umieścić przejście. Kontynuować?</message>
+    <message key="addToEngagedGirlMessage">Oświadczyć się mogą tylko chłopcy</message>
+    <message key="adsFailToShowDescription">W tym momencie nie ma dostępnych filmów do obejrzenia. Spróbuj ponownie później.</message>
+    <message key="adsFailToShowTitle">Nie znaleziono filmu</message>
+    <message key="allEventCategories">WSZYSTKIE</message>
+    <message key="allowButtonTitle">Zezwól</message>
+    <message key="allowedQuests">Dostępne zadania</message>
+    <message key="allTypeButtonTitle">wszystkie</message>
+    <message key="alreadyBrokenObjectText">Nie można zepsuć. Przedmiot jest już zepsuty.</message>
+    <message key="alreadyHasGraffitiMessage">Na tej ścianie jest już graffiti.</message>
+    <message key="angryButtonTitle">złość się</message>
+    <message key="apartment">Mieszkanie</message>
+    <message key="apartmentsText">Mieszkania</message>
+    <message key="apologizeButtonTitle">przeproś</message>
+    <message key="approveButtonTitle">zgódź się</message>
+    <message key="april1stGoldBonus">Gratulacje! Zdobywasz w prezencie 10 złotych monet za odwiedziny w Avatarii!</message>
+    <message key="askButtonTitle">poproś</message>
+    <message key="askCraftComponentDescription">Przyjaciele! Pomóżcie, potrzebuję zasobu :component:! Przyślijcie mi go, proszę. Odwdzięczę się!</message>
+    <message key="askCraftComponentTitle">prosi o pomoc</message>
+    <message key="askToComeButtonTitle">zaproś</message>
+    <message key="associateBuddyListEmpty">Nie masz jeszcze znajomych. Aby dodać znajomego, musisz kogoś poznać.</message>
+    <message key="associateButtonTitle">dodaj do znajomych</message>
+    <message key="associateRequestDeclinedMessage">:name: chce zostać twoim znajomym.</message>
+    <message key="associateRequestDeclinedTitle">Odmowa</message>
+    <message key="associateRequestReceivedMessage">:name: chce cię poznać. Zgodzić się?</message>
+    <message key="associateRequestSendedMessage">:name: dowie się za chwilę, że chcesz nawiązać znajomość.</message>
+    <message key="associateRequestSendedTitle">Zaproszenie do zawarcia znajomości</message>
+    <message key="authorization">Autoryzacja</message>
+    <message key="avatarApearance">Wygląd</message>
+    <message key="avatarApearanceCategory0">Cera</message>
+    <message key="avatarApearanceCategory1">Oczy</message>
+    <message key="avatarApearanceCategory2">Brwi</message>
+    <message key="avatarApearanceCategory3">Usta</message>
+    <message key="avatarApearanceCategory4">Fryzury</message>
+    <message key="avatarApearanceCategory5">Broda i wąsy</message>
+    <message key="avatarApearanceCategory6">Cienie</message>
+    <message key="avatarApearanceCategory7">Róż</message>
+    <message key="avatarApearanceCategory8">Ozdoby</message>
+    <message key="avatariaGameTitle">Avataria</message>
+    <message key="AvatariaNews">Wiadomości z Avatarii!</message>
+    <message key="avatarSexFemale">żeńska</message>
+    <message key="avatarSexMale">męska</message>
+    <message key="backButtonTitle">powrót</message>
+    <message key="badBehaviourBanReason">Nieodpowiednie zachowanie</message>
+    <message key="badInternetConnection">Spróbuj przenieść się do lokalizacji o lepszym połączeniu. Jeśli nadal masz problemy z połączeniem, spróbuj ponownie później.</message>
+    <message key="badRulesBanReason">Naruszenie zasad umowy z użytkownikiem</message>
+    <message key="badWordsBanReason">Użyto niecenzuralnego słownictwa</message>
+    <message key="badWordsError">Powtórz bez używania niedozwolonych słów</message>
+    <message key="badWordsErrorTitle">Tekst nieprawidłowy</message>
+    <message key="badWordsWarning">Nie można używać niecenzuralnego słownictwa. Zachowuj się odpowiednio. W przeciwnym razie zablokujemy dostęp do aplikacji.</message>
+    <message key="bagBump_label">uderz tornistrem</message>
+    <message key="BallroomDancePermissionsRequestMessage">Jeśli chcecie zatańczyć, musicie się najpierw pogodzić!</message>
+    <message key="BallroomDanceRequestApprovedMessage">:name: chętnie z tobą zatańczy! :)</message>
+    <message key="BallroomDanceRequestDeclinedMessage">:name: nie chce z tobą zatańczyć :(</message>
+    <message key="BallroomDanceRequestReceivedMessage">:name: chce z tobą zatańczyć. Zgadzasz się?</message>
+    <message key="BallroomDanceRequestSendedMessage">:name: wkrótce się dowie, że chcesz zatańczyć.</message>
+    <message key="banButtonTitle">zablokuj</message>
+    <message key="banChatInfoMessage">:reason:. Możesz rozmawiać jeszcze przez :leftTime:.</message>
+    <message key="banChatReason">Ograniczyliśmy ci możliwość korzystania z czatu z powodu używania wulgarnego języka.</message>
+    <message key="banChatTitle">Blokada na czacie</message>
+    <message key="banInfoMessage">:reason:. Wejście do aplikacji będzie możliwe za :leftTime:</message>
+    <message key="bank_sale_text">PREMIA!</message>
+    <message key="bankAdAvailableIn">Dostępność za:</message>
+    <message key="bankAdButton">Odbierz</message>
+    <message key="bankAdDayGifts">Dzisiejsze nagrody</message>
+    <message key="bankBonusLabel">PREMIA</message>
+    <message key="bankEventText">JESZCZE
+2 RAZY!</message>
+    <message key="bankEventTextGold">Wydarzenie!</message>
+    <message key="bankLabel">BANK</message>
+    <message key="bankrupt">BANKRUT</message>
+    <message key="BankVipDescription">Szczegóły</message>
+    <message key="banMessage">Wyrzucono cię z pokoju.</message>
+    <message key="banMessageConfirm">Wyrzucono cię z pokoju. Chcesz wyjść?</message>
+    <message key="banReasonParagraph10">rozpowszechnianie plotek</message>
+    <message key="banReasonParagraph10Full">(p. 7) Rozpowszechnianie pogłosek, plotek, wprowadzających w błąd informacji o firmie Tortuga LLC, innych użytkownikach, usługach w grze, promocjach, działaniach w grze, partnerach firmy i ogółem o grze.</message>
+    <message key="banReasonParagraph11">spam i flood</message>
+    <message key="banReasonParagraph11Full">(p. 8) Spamowanie/floodowanie w którymkolwiek z kanałów informacyjnych w grze.</message>
+    <message key="banReasonParagraph12">reklama i odnośniki</message>
+    <message key="banReasonParagraph12Full">(p. 9) Rozpowszechnianie reklam, w tym prezentowanie w grze dowolnych odnośników do innych stron internetowych.</message>
+    <message key="banReasonParagraph13">niecenzuralne opisy i nazwy</message>
+    <message key="banReasonParagraph13Full">(p. 10) Używanie niecenzuralnych, obraźliwych, prowokacyjnych, reklamowych lub nieprzewidzianych w grze wyrazów i znaków w postaci nazwy lub opisu postaci, innych obiektów w grze, gildii lub innych społeczności lub organizacji graczy.</message>
+    <message key="banReasonParagraph14">niecenzuralne słownictwo i/lub obelgi</message>
+    <message key="banReasonParagraph14Full">(p. 11) Używanie niecenzuralnego słownictwa lub obelg podczas gry, na ogólnych kanałach i w serwisach komunikacyjnych, docierających z informacjami do wielu graczy naraz, groźby przemocy (fizycznej i nie tylko), reklamowanie narkotyków, materiałów pornograficznych lub innych zasobów stron trzecich zawierających te materiały w postaci ogólnodostępnej, szerzenie nietolerancji rasowej, narodowościowej, religijnej, kulturowej, ideologicznej, płciowej, językowej lub politycznej, a także poparcie dla takich działań realizowanych przez innych użytkowników.</message>
+    <message key="banReasonParagraph15">świadome prowokowanie utrudnień</message>
+    <message key="banReasonParagraph15Full">(p. 12) Celowa realizacja dowolnych działań, utrudniających albo uniemożliwiających dostęp do gry innym użytkownikom lub wywiązywanie się przez firmę z jej zobowiązań. Rozmyślne przeszkadzanie innym graczom, nieprzewidziane w zasadach gry.</message>
+    <message key="banReasonParagraph16">szkodliwe pliki</message>
+    <message key="banReasonParagraph16Full">(p. 13) Publikowanie informacji lub przesyłanie plików, które zawierają szkodliwe oprogramowanie, uszkodzone albo zmodyfikowane pliki lub dane, inne tego typu oprogramowanie, które może zaszkodzić grze, zakłócić działanie innych komputerów i środków łączności lub naruszyć integralność kont użytkowników gry.</message>
+    <message key="banReasonParagraph17">podawanie się za współpracownika</message>
+    <message key="banReasonParagraph17Full">(p. 14) Tworzenie nazw postaci, przedmiotów, obiektów w grze, społeczności i organizacji graczy, a także innych znaków rozpoznawczych, wskazujących na związek ze firmą Tortuga LLC lub jej partnerami oraz podawanie się za obecnego lub byłego pracownika firmy lub jej partnera.</message>
+    <message key="banReasonParagraph18">próba uzyskania dostępu do konta innej osoby</message>
+    <message key="banReasonParagraph18Full">(p. 15) Rozpowszechnianie, posługiwanie się lub wyłudzanie informacji pozwalających na uzyskanie dostępu do kont użytkowników gry, na stronie internetowej gry, na forach, w towarzyszących grze usługach, a także rozpowszechnianie odnośników do innych zasobów, zawierających takie informacje.</message>
+    <message key="banReasonParagraph19">wprowadzanie administracji w błąd</message>
+    <message key="banReasonParagraph19Full">(p. 16) Podawanie fałszywych informacji przy kontakcie z administracją, a także fałszowanie przekazywanych danych.</message>
+    <message key="banReasonParagraph20">oszustwo</message>
+    <message key="banReasonParagraph20Full">(p. 19) Oszustwo (oszukanie innych graczy dla własnej korzyści, aby uzyskać dostęp do danych z kont innych graczy).</message>
+    <message key="banReasonParagraph21">nadmierne formatowanie</message>
+    <message key="banReasonParagraph21Full">(p. 20) Nadmierne formatowanie, w tym pisanie z WŁĄCZONĄ funkcją Caps Lock, pisanie wyrazów literami o RóŻnEj wielkości, a także częste używanie nadmiernego formatowania, które obejmuje ponad 30% całego tekstu.</message>
+    <message key="banReasonParagraph6">manipulowanie kontem w grze</message>
+    <message key="banReasonParagraph6Full">(p. 3) Sprzedaż/kupno/wymiana/przekazanie/podarowanie konta w grze. Rozpowszechnianie informacji o zamiarze podjęcia wymienionych działań zarówno przez użytkownika, jak i osoby trzecie.</message>
+    <message key="banReasonParagraph7">manipulowanie walutą w grze</message>
+    <message key="banReasonParagraph7Full">(p. 4) Wykonywanie lub informowanie o następujących działaniach w stosunku do dowolnego obiektu, czynności, przedmiotu, dodatkowej funkcji lub waluty w grze: kupno/sprzedaż/wymiana za korzyści spoza gry.</message>
+    <message key="banReasonParagraph8">używanie botów</message>
+    <message key="banReasonParagraph8Full">(p. 5) Tworzenie i używanie botów.</message>
+    <message key="banReasonParagraph9">wykorzystanie luk w grze</message>
+    <message key="banReasonParagraph9Full">(p. 6) Wykorzystywanie/rozpowszechnianie informacji o wszelkich błędach, zarówno w grze, jak i w dowolnym oprogramowaniu towarzyszącym.</message>
+    <message key="banTitle">Blokada</message>
+    <message key="basket">Koszyk</message>
+    <message key="bathClothesConfirm">Żeby dostać się do wanny, trzeba się przebrać w strój kąpielowy. Chcesz się przebrać?</message>
+    <message key="bathClothesTitle">Trzeba się przebrać</message>
+    <message key="bathroomDoorTitle">Łazienka</message>
+    <message key="beachMenuTitle">Menu</message>
+    <message key="beachNeedEnergyTitle">konieczne do uczestnictwa:</message>
+    <message key="beachRaceBarrierLabel">przeszkoda</message>
+    <message key="beachRaceBonusLabel">premia</message>
+    <message key="beachRaceButtonTitle">wyścig surfingowy</message>
+    <message key="beachRaceBypassLabel">omiń</message>
+    <message key="beachRaceDialogTitle">Wyścig surfingowy</message>
+    <message key="beachRaceFinishLabel">META</message>
+    <message key="beachRaceGameRequest">:name: proponuje ci wyścig surfingowy. Zgadasz się?</message>
+    <message key="beachRacePickupLabel">zbierz</message>
+    <message key="beachRacePortalLabel">portal</message>
+    <message key="beachRaceStartLabel">START</message>
+    <message key="beachRaceUsePortalLabel">portal</message>
+    <message key="beautyLocationTitle">Salon piękności</message>
+    <message key="beautySalonTitle">Salon piękności</message>
+    <message key="beHealthy">Powiedz „Na zdrowie!”</message>
+    <message key="beloved_nocensRequestDeclinedMessage">:name: nie chce stworzyć z tobą pary</message>
+    <message key="beloved_nocensRequestDeclinedTitle">odmów</message>
+    <message key="beloved_nocensRequestReceivedMessage">:name: proponuje, żebyście zostali parą.
+Zgodzić się?</message>
+    <message key="beloved_nocensRequestSendedMessage">:name: dowie się za chwilę, że chcesz, byście zostali parą.</message>
+    <message key="beloved_nocensRequestSendedTitle">Propozycja związku</message>
+    <message key="belovedConfirmTitle">Zaprosić na randkę?</message>
+    <message key="belovedRequestDeclinedMessage">:name: nie chce stworzyć z tobą pary</message>
+    <message key="belovedRequestDeclinedTitle">Odmowa</message>
+    <message key="belovedRequestReceivedMessage">:name: proponuje, żebyście zostali parą.
+Zgodzić się?</message>
+    <message key="belovedRequestSendedMessage">:name: dowie się za chwilę, że chcesz, byście zostali parą.</message>
+    <message key="belovedRequestSendedTitle">Propozycja związku</message>
+    <message key="bestAssociateBeforeMessage">Najpierw zostańcie dobrymi znajomymi.</message>
+    <message key="bestFriendsBeforeMessage">Zanim ogłosicie, że jesteście parą, zostańcie najlepszymi przyjaciółmi.</message>
+    <message key="betaTestMessage">Aplikacja jest w fazie testów. Dostęp do aplikacji mają tylko członkowie grupy Avataria.</message>
+    <message key="betaTestTitle">Trwa test</message>
+    <message key="billingSpecialOfferMessage">Skorzystaj z oferty specjalnej i zdobądź złote monety z dużym rabatem – tylko teraz!</message>
+    <message key="billingSpecialOfferTitle">Korzystna oferta!</message>
+    <message key="billingSpecialOfferTitle1">Korzystna oferta!</message>
+    <message key="billingStarterOfferMessage">Skorzystaj z naszej oferty specjalnej, aby zdobyć mnóstwo zasobów z dużym rabatem! Spiesz się, póki są dostępne!</message>
+    <message key="billingStarterOfferTitle">Korzystna oferta!</message>
+    <message key="block">blok</message>
+    <message key="blockedChatUsersLengthEmpty">Lista zablokowanych osób jest pusta.</message>
+    <message key="blockedChatUsersLengthWarning">Lista zablokowanych osób jest zbyt duża.</message>
+    <message key="blockedOnLabel">zablokowany na</message>
+    <message key="blockedUsersButtonTitle">zablokowani użytkownicy</message>
+    <message key="blocks">Bloki:</message>
+    <message key="blockUserButtonTitle">blok</message>
+    <message key="bonusPointsButton">Weź :coins:</message>
+    <message key="bonusPointsMessage">Zyskujesz :coins:. Możesz wymienić je na :gold:.</message>
+    <message key="bonusPointsTitle">Przelew pieniężny</message>
+    <message key="temporaryQuestSection">ZADANIA NA CZAS</message>
+    <message key="baseQuestSection">GŁÓWNE ZADANIA</message>
+    <message key="bonusQuestSection">ZADANIA DODATKOWE</message>
+    <message key="bookshelf_act_label">szukaj</message>
+    <message key="brokeActionTitle">Zepsuj</message>
+    <message key="brokeButtonTitle">Zepsuj</message>
+    <message key="brokenHintText">Zepsute</message>
+    <message key="buddyAddedMessage">Ty i :userName: jesteście teraz znajomymi.</message>
+    <message key="buddyAddedTitle">Masz nowego znajomego</message>
+    <message key="buddyDuplicate">Użytkownik już nie znajduje się na twojej liście znajomych.</message>
+    <message key="buddyErrorMessage">Błąd listy znajomych</message>
+    <message key="buddyErrorTitle">Błąd znajomych</message>
+    <message key="buddyList">Lista znajomych</message>
+    <message key="buddyListButtonLabel">Znajomi</message>
+    <message key="buddyListHomeBtn">odwiedź</message>
+    <message key="buddyListIsFull">Lista znajomych jest pełna. Spróbuj kogoś usunąć, a potem dodać nowych znajomych.</message>
+    <message key="buddyListLookupBtn">znajdź</message>
+    <message key="buddyListLookupTitle">Poszukiwanie znajomego:</message>
+    <message key="buddyListOnlineText">tylko online</message>
+    <message key="buddyListRemoveBtn">usuń</message>
+    <message key="buddyListSortOnComfort">Komfort</message>
+    <message key="buddyListSortOnImage">Image</message>
+    <message key="buddyListSortOnLevel">Poziom</message>
+    <message key="buddyListSortTitle">Wyświetlaj według:</message>
+    <message key="buddyOnlineMessage">:userName: jest teraz w grze.</message>
+    <message key="buddyOnlineTitle">Znajomy online</message>
+    <message key="buddyRemovedMessage">Ty i :userName: nie jesteście już znajomymi.</message>
+    <message key="buddyRemovedTitle">Znajomy usunięty</message>
+    <message key="buddyRequestDeclineMessage">Użytkownik :userName: odrzucił twoje zaproszenie do grona znajomych.</message>
+    <message key="buddyRequestDeclineTitle">Odrzuć zaproszenie do grona znajomych</message>
+    <message key="buddyRequestMessage">:userName: proponuje ci, żebyście zostali znajomymi. Zgadzasz się?</message>
+    <message key="buddyRequestTitle">Zaproszenie do grona znajomych</message>
+    <message key="buddyStatInfo">Masz :count:. :buddy: z :max: możliwych</message>
+    <message key="buddyTopPanelLabel">Najlepsi znajomi</message>
+    <message key="buyAllClothesItemsLabel">kup</message>
+    <message key="buyButtonTitle">kup</message>
+    <message key="buyCarButtonTitle">kup</message>
+    <message key="buyChips">Otrzymujesz</message>
+    <message key="buyCoins">Otrzymujesz</message>
+    <message key="buyCompleteMessage">Gratulujemy udanych zakupów!</message>
+    <message key="buyCompleteTitle">Towar kupiony</message>
+    <message key="buyConfirmTitle">Potwierdzenie zakupu</message>
+    <message key="buyed">Kupione</message>
+    <message key="buyEventCurrencyTitle">Kupowanie monet</message>
+    <message key="buyFirToyButtonTitle">kup zabawkę</message>
+    <message key="buyGameChipsTitle">Zakup żetonów</message>
+    <message key="buyGoldCoinsTab">Zakup monet</message>
+    <message key="buyGoldResult">Gratulacje! Masz teraz :gold:.</message>
+    <message key="buyGoldTitle">Zakup złotych monet</message>
+    <message key="buyItemDescription">Twój zakup: :itemName:</message>
+    <message key="buyMobileCoinsTab">Płatność mobilna</message>
+    <message key="buyNewRoomDialogMessage">Gratulujemy zakupu nowego pokoju! Zaproś znajomych!</message>
+    <message key="buyNewRoomDialogTitle">Kupiono pokój</message>
+    <message key="buyRingMessage">Wybierz pierścionek i podaruj go narzeczonej</message>
+    <message key="buyRoomConfirmMessage">Chcesz kupić jeszcze jeden pokój?</message>
+    <message key="buyRoomLevelMessage">Aby kupić kolejny pokój, musisz osiągnąć %i poziom.</message>
+    <message key="buyRoomTitle">Zakup pokoju</message>
+    <message key="buySilverCase1">Możesz zarobić srebro, pielęgnując ogród lub sprzątając ulicę.</message>
+    <message key="buySilverCase2">Możesz zarobić srebro, odwiedzając mieszkania przyjaciół i zbierając śmieci.</message>
+    <message key="buySilverTitle">Zakup srebrnych monet</message>
+    <message key="buyTaskFor">Przejdź za :gold:</message>
+    <message key="buyVipAttention">Nie masz autoryzacji w żadnej sieci. Brak autoryzacji uniemożliwia odnowienie subskrypcji na innym urządzeniu. Kontynuować?</message>
+    <message key="buyVipButtonTitle">kup za :value:</message>
+    <message key="buyVipDialogDescription">Status VIP – świat nowych możliwości. Podaruj sobie odrobinę luksusu, żyj pełnią życia i czerp maksymalną przyjemność, ciesząc się swoją wyjątkowością i wspaniałością!</message>
+    <message key="buyVipDialogTitle">Kup status VIP</message>
+    <message key="buyVipOnlyItemTitle">Zakup</message>
+    <message key="buyVipOnlyItemWarning">Ten przedmiot może kupić tylko posiadacz statusu VIP. Chcesz go uzyskać?</message>
+    <message key="buyWardrobeMessage">Rzeczy powinny być przechowywane w szafie, a ty jej na razie nie masz. Kup szafę i postaw ją w mieszkaniu, aby mieć gdzie przechowywać ubrania.</message>
+    <message key="buyWardrobeTitle">Nie ma miejsca</message>
+    <message key="buyWeddingClothesButtonTitle">Sklep</message>
+    <message key="buyWeddingRingButtonTitle">Sklep</message>
+    <message key="cabinetDoorTitle">Gabinet</message>
+    <message key="cafeCookName">Kucharz</message>
+    <message key="cafeLocationTitle">Bar</message>
+    <message key="cafeMenuTitle">Menu</message>
+    <message key="cafeWaitressName">Kelner</message>
+    <message key="cancelButtonTitle">anuluj</message>
+    <message key="cantBrokeNotVipMessage">Nie można psuć rzeczy użytkownika ze statusem VIP, nie mając statusu VIP. Chcesz kupić status VIP?</message>
+    <message key="cantBrokeRepairedMessage">Można będzie zepsuć za :time:</message>
+    <message key="cantBrokeRepairedTitle">Nie można zepsuć</message>
+    <message key="cantBrokeSelfItemsMessage">Nie możesz psuć swoich rzeczy</message>
+    <message key="cantEditRoomObjectMessage">Tego przedmiotu nie można edytować ani usunąć z pokoju.</message>
+    <message key="cantMoveWithLinkedObjectsMessage">Dopóki na lub w przedmiocie są inne przedmioty, nie można usunąć go z pokoju.</message>
+    <message key="cantMoveWithLinkedObjectsTitle">Nie można usunąć przedmiotu</message>
+    <message key="cantPaintPaintedMessage">Można będzie malować za :time:</message>
+    <message key="cantPaintPaintedTitle">Nie można malować</message>
+    <message key="cantPaintSelfItemsMessage">Nie możesz malować po swoich ścianach</message>
+    <message key="cantRemoveBrokenObjectsMessage">Dopóki obiekt jest zepsuty, nie można usunąć go z pokoju.</message>
+    <message key="cantRemoveBrokenObjectsTitle">Przedmiot jest zepsuty</message>
+    <message key="cantRemoveEmptyFoodObjectsMessage">Nie można usunąć przedmiotu z pokoju przed ukończeniem przygotowywania jedzenia.</message>
+    <message key="cantRemoveEmptyFoodObjectsTitle">Jedzenie nie jest gotowe</message>
+    <message key="cantRemoveUseObjectsMessage">Dopóki przedmiot jest w użyciu, nie można usunąć go z pokoju.</message>
+    <message key="cantRemoveUseObjectsTitle">Przedmiot jest w użyciu</message>
+    <message key="cantReplaceWallsWithGraffitiMessage">Przed wymianą tapety trzeba zetrzeć graffiti.</message>
+    <message key="canUseNYGiftHintLabel">Ciekawe, co jest w środku? Dowiesz się po 1 stycznia!</message>
+    <message key="canyonLocationTitle">Kanion</message>
+    <message key="canyonRaceActionCommandLabel">Wyścigi</message>
+    <message key="canyonRaceBarrierLabel">przeszkoda</message>
+    <message key="canyonRaceBonusLabel">przyspieszenie</message>
+    <message key="canyonRaceBypassLabel">manewr</message>
+    <message key="canyonRaceDialogLabel">Wyścigi samochodowe</message>
+    <message key="canyonRaceGameRequest">:name: proponuje zorganizowanie wyścigu. Zgadzasz się?</message>
+    <message key="canyonRaceGirlName">Organizator wyścigów</message>
+    <message key="canyonRacePickupLabel">zbierz</message>
+    <message key="canyonRacePortalLabel">UFO</message>
+    <message key="canyonRaceUsePortalLabel">UFO</message>
+    <message key="changeButtonTitle">zmień</message>
+    <message key="changeCountConfirmButtonTitle">Potwierdź</message>
+    <message key="changeCountInfo">Wybierz liczbę przedmiotów</message>
+    <message key="changeGenderButtonTitle">Zmień płeć</message>
+    <message key="changeNameDialogTitle">Zmień imię awatara</message>
+    <message key="changeStatusInfo">Nowy poziom relacji daje więcej możliwości współdziałania</message>
+    <message key="chatDialogTitle">Czat</message>
+    <message key="checkMailMessagesButtonTitle">Sprawdź pocztę</message>
+    <message key="CHIPS_title">Żetony</message>
+    <message key="chooseAvatarSex">Wybierz płeć:</message>
+    <message key="chooseCarDialogDescriptionText">Aby przejechać się samochodem, musisz mieć w swoim mieszkaniu przynajmniej jedno auto.</message>
+    <message key="chooseCarForCanyonDialogTitle">Wybierz pojazd</message>
+    <message key="chooseCarForCanyonLocationWarningMessage">Aby wziąć udział w wyścigach, musisz mieć w swoim mieszkaniu przynajmniej jedno auto.</message>
+    <message key="chooseCarForCanyonLocationWarningTitle">Na start!</message>
+    <message key="chooseFightActionLabel">Wybierz z listy działanie dla bieżącego etapu</message>
+    <message key="chooseTreadPlayerMessage">Wybierz znajomego, którego chcesz poczęstować tym, co masz w lodówce.</message>
+    <message key="cleanButtonTitle">usuń</message>
+    <message key="clear_wight_label">zetrzyj</message>
+    <message key="ClearMeButtonTitle">Umyj się</message>
+    <message key="closeButtonTitle">zamknij</message>
+    <message key="closeCityEvent">ZAKOŃCZ
+WYDARZENIE</message>
+    <message key="closeEventConfirm">Po zakończeniu wydarzenia zniknie ono ze wszystkich list. Kontynuować?</message>
+    <message key="closeEventTitle">Zakończenie wydarzenia</message>
+    <message key="clothesCollectionCasual">Codzienna</message>
+    <message key="clothesCollectionClub">Klub</message>
+    <message key="clothesCollectionOfficial">Oficjalna</message>
+    <message key="clothesCollectionSwimwear">Kąpielowa</message>
+    <message key="clothesCollectionUnderdress">Bielizna</message>
+    <message key="clothesRating">Image</message>
+    <message key="clothesShopTitle">Ubrania</message>
+    <message key="club">Electro</message>
+    <message key="clubBarmaidName">Barman</message>
+    <message key="clubDjName">DJ</message>
+    <message key="clubLocationTitle">Klub</message>
+    <message key="clubMenuTitle">Menu</message>
+    <message key="clubWaitressName">Kelner</message>
+    <message key="commonChatTitle">Ogólny</message>
+    <message key="completedQuestWallTitle">Udało mi się ukończyć zadanie</message>
+    <message key="computerInUseHintText">Komputer jest używany</message>
+    <message key="conditionsErrorTitle">Nie wszystkie warunki zostały spełnione</message>
+    <message key="confirmTitle">Ostrzeżenie</message>
+    <message key="congratulateButton">Pogratuluj</message>
+    <message key="congratulateTitle">Gratulacje</message>
+    <message key="congratulation">Gratulacje!</message>
+    <message key="congratulationsTitle">Gratulacje!</message>
+    <message key="connection_closed_333">Serwer nie odpowiedział na żądanie klienta. Kod błędu: 333</message>
+    <message key="connection_closed_555">Czas oczekiwania na odpowiedź od serwera upłynął. Kod błędu: 555</message>
+    <message key="connection_closed_999">Serwer zakończył połączenie z klientem. Kod błędu: 999</message>
+    <message key="continueButtonTitle">kontynuuj</message>
+    <message key="CookMeButtonTitle">Gotuj</message>
+    <message key="countLabel">Liczba</message>
+    <message key="craftAskComponentMessage">Poproś przyjaciół, publikując na swojej stronie</message>
+    <message key="craftAskFriendButtonTitle">poproś</message>
+    <message key="craftButtonBuyLabel">kup wszystko za</message>
+    <message key="craftButtonCompleteLabel">Zbierz</message>
+    <message key="craftButtonLabel">Warsztat</message>
+    <message key="craftFriendRequestApprove">podaruj</message>
+    <message key="craftFriendRequestDefaultText">Lista zapytań jest pusta. Zaproś więcej przyjaciół i pomóż im w tworzeniu kolekcji.</message>
+    <message key="craftFriendRequestDeny">Odmowa</message>
+    <message key="craftFriendRequestDescription">Potrzebuję przedmiotu :item:. Przyślij mi go, proszę!</message>
+    <message key="craftFriendRequestDialogTitile">Zapytania i odpowiedzi przyjaciół</message>
+    <message key="craftFriendRequestPanelTitle">Możesz dzisiaj wysłać :count: :gift:.</message>
+    <message key="craftFriendRequestTabTitle">Zapytania (:count:)</message>
+    <message key="craftFriendResponseDefaultText">Nic ci dziś nie podarowano. Zapraszaj przyjaciół i otrzymuj od nich prezenty.</message>
+    <message key="craftFriendResponseDescription">Oto :item: dla ciebie za :action:</message>
+    <message key="craftFriendResponseOk">OK</message>
+    <message key="craftFriendResponsePanelEmptyTitle">Nic ci nie podarowano</message>
+    <message key="craftFriendResponsePanelTitle">Przyjaciele przysłali ci:</message>
+    <message key="craftFriendResponseTabTitle">Odpowiedzi (:count:)</message>
+    <message key="craftNotificationCollect">zbierz</message>
+    <message key="craftNotificationDone">Gotowe!</message>
+    <message key="craftProducedDialogTitle">Produkcja ukończona</message>
+    <message key="craftResponseNotificationButton">Warsztat</message>
+    <message key="craftResponseNotificationPanelTitle">Warsztat</message>
+    <message key="craftTabTitle">Warsztat</message>
+    <message key="craftUseButtonTitle">użyj</message>
+    <message key="createAvatarChooseAppearance">Wybierz wygląd</message>
+    <message key="createAvatarDialogTitle">Utworzono awatara</message>
+    <message key="createAvatarHelpFull">wybierz imię i płeć</message>
+    <message key="createAvatarHelpName">wybierz imię</message>
+    <message key="createAvatarHelpSex">wybierz płeć</message>
+    <message key="createAvatarTitle">Tworzenie awatara</message>
+    <message key="createdAvatarWallTitle">Mam nowego awatara</message>
+    <message key="createdEventWallTitle">Mam nowe wydarzenie</message>
+    <message key="createEventButtonTitle">UTWÓRZ
+WYDARZENIE</message>
+    <message key="createEventCancelButton">ANULUJ</message>
+    <message key="createEventDialogTitle">Utworzono wydarzenie</message>
+    <message key="createEventFillFields">Nie udało się utworzyć wydarzenia, spróbuj ponownie. Można używać wyłącznie symboli tekstowych.</message>
+    <message key="createEventLevelMessage">Aby zorganizować nowe wydarzenie, musisz osiągnąć %i poziom.</message>
+    <message key="createEventTitle">Organizacja nowego wydarzenia</message>
+    <message key="createForButtonTitle">UTWÓRZ ZA</message>
+    <message key="createWeddingEventButtonTitle">wydarzenia</message>
+    <message key="cryingButtonTitle">płacz</message>
+    <message key="currentWin">Bieżąca wygrana</message>
+    <message key="dailyDresscodeDescription">Wymogi dotyczące stroju na co dzień: wymagana jest odzież i obuwie</message>
+    <message key="dailyGiftComment">Codziennie loguj się do gry i odbieraj prezenty</message>
+    <message key="dailyGiftDayTitle">:num: dzień</message>
+    <message key="dailyGiftTitle">CODZIENNE PREZENTY</message>
+    <message key="dailyGiftWallTitle">Mam codzienny prezent</message>
+    <message key="danceButtonTitle">tańcz</message>
+    <message key="dayliGiftGetButtonTitle">zbierz</message>
+    <message key="declineButtonTitle">odmów</message>
+    <message key="defaultAvatarName">Wprowadź imię awatara</message>
+    <message key="defaultLookupInputText">wprowadź imię</message>
+    <message key="defaultQuestSection">Zadania</message>
+    <message key="defaultReg">Europa</message>
+    <message key="defaultRelationConfirmButton">dodaj</message>
+    <message key="defaultRelationConfirmTitle">Dodać do :status:?</message>
+    <message key="denyFightButtonLabel">Odmowa</message>
+    <message key="descexperiment_label">przeprowadź eksperyment</message>
+    <message key="descstudy_label">ucz się</message>
+    <message key="deselectAction">Usuń zaznaczenie</message>
+    <message key="doneButtonTitle">gotowe</message>
+    <message key="dontShowAnymore">Nie pokazuj więcej</message>
+    <message key="draw_wight_label">rysuj</message>
+    <message key="draw_yellow_label">rysuj</message>
+    <message key="dressCode">Wymogi dotyczące stroju</message>
+    <message key="dressCode_event_Warning">Zgodnie z wymogami dotyczącymi stroju na tę imprezę nie można przyjść bez żadnych elementów kostiumu.</message>
+    <message key="dressCode_jacuzzi_Warning">Przebierz się w strój kąpielowy lub kąpielówki, aby posiedzieć w basenie lub jacuzzi.</message>
+    <message key="dressCode_outside_Warning">Zgodnie z wymogami dotyczącymi stroju nie można pokazywać się w miejscach publicznych bez butów albo w samej bieliźnie.</message>
+    <message key="dressCode_swim_Warning">Wymogi dotyczące stroju obowiązujące w tym miejscu dopuszczają wyłącznie stroje kąpielowe lub kąpielówki.</message>
+    <message key="dressCodeConfirm">Czy chcesz się przebrać?</message>
+    <message key="dressCodeEventWarning">Zgodnie z obowiązującymi w tym wydarzeniu wymogami dotyczącymi stroju nie można pokazywać się publicznie bez garnituru.</message>
+    <message key="dressCodeOutsideWarning">Zgodnie z wymogami dotyczącymi stroju nie można pokazywać się w miejscach publicznych bez butów albo w samej bieliźnie.</message>
+    <message key="driveOutButtonTitle">wyrzuć</message>
+    <message key="duplicateUserSessionError">W twoim imieniu uruchomiono inne wystąpienie aplikacji.</message>
+    <message key="easelDrawButtonTitle">Rysuj</message>
+    <message key="eatButtonTitle">Zjedz</message>
+    <message key="editAction">Edytuj</message>
+    <message key="editAvatarAppearanceTitle">Wygląd</message>
+    <message key="editAvatarButtonLabel">Wygląd</message>
+    <message key="editAvatarClothesTitle">Garderoba</message>
+    <message key="editAvatarNameDialogTitle">Jak masz na imię?</message>
+    <message key="editClothesButtonLabel">Przebierz się</message>
+    <message key="editDoorNoItemsMessge">Nie ma żadnych drzwi, które można by edytować. Można to jednak naprawić!</message>
+    <message key="editDoorTitle">Edytor drzwi</message>
+    <message key="editFirToysButtonTitle">edytuj</message>
+    <message key="editHouseButtonLabel">Edytor pokoju</message>
+    <message key="editorExitConfirmMessage">Zapisać zmiany przed wyjściem z edytora?</message>
+    <message key="editorExitConfirmTitle">Wyjście z edytora</message>
+    <message key="emailQuestAwardComment">Fantastycznie! Teraz nie przegapisz już żadnej wyprzedaży i zawsze będziesz na bieżąco w świecie Avatarii!</message>
+    <message key="emailQuestButtonTitle">List do ciebie!</message>
+    <message key="emailQuestCompleteButtonTitle">Chcę być na bieżąco!</message>
+    <message key="emailQuestDescription">Nie przegap okazji! Będziesz wśród pierwszych osób informowanych o najnowszych ofertach specjalnych i zniżkach! Ponadto otrzymasz wyjątkowe premie w grze!
+Kliknij poniżej, aby zezwolić na przesyłanie na twój adres e-mail napakowanego informacjami biuletynu.</message>
+    <message key="emailQuestTaskTitle">Zezwól aplikacji na wysyłanie aktualności na mój adres e-mail.</message>
+    <message key="emailQuestTitle">List do ciebie!</message>
+    <message key="empltyPlayerList">Nie ma nikogo, kogo można by wybrać</message>
+    <message key="emptySocialOffers">W tej chwili nie ma dla ciebie ofert specjalnych. Zajrzyj tu trochę później.</message>
+    <message key="enemyBuddyListEmpty">Lista jest pusta. Tutaj wyświetlą się twoi wrogowie w grze, jeśli się pojawią.</message>
+    <message key="enemyButtonTitle">spór</message>
+    <message key="energy">energia</message>
+    <message key="ENERGY_title">Energia</message>
+    <message key="energyLabel">energia</message>
+    <message key="energyProgressLabel">Energia. Regeneruje się co minutę.</message>
+    <message key="energyRestoredButtonTitle">Kup 100 jedn. energii za :golds:</message>
+    <message key="energyRestoredResult">Energia w pełni zregenerowana.</message>
+    <message key="energyRestoredTitle">Regeneracja energii</message>
+    <message key="energyRestoreMessage">Możesz otrzymać 100 jednostek energii już teraz, jeśli kupisz ją za złoto. Bezpłatnie energia regeneruje się po 1 jednostce na minutę.</message>
+    <message key="engaged_nocensRequestDeclinedMessage">:name: odrzuciła twoje oświadczyny</message>
+    <message key="engaged_nocensRequestDeclinedTitle">odmów</message>
+    <message key="engaged_nocensRequestReceivedMessage">:name: prosi cię o rękę</message>
+    <message key="engaged_nocensRequestSendedMessage">:name: dowie się za chwilę, że chcesz poprosić ją o rękę.</message>
+    <message key="engaged_nocensRequestSendedTitle">Propozycja związku</message>
+    <message key="engagedConfirmTitle">Poprosić o rękę?</message>
+    <message key="engagedRequestDeclinedMessage">:name: odrzuciła twoje oświadczyny</message>
+    <message key="engagedRequestDeclinedTitle">Odmowa</message>
+    <message key="engagedRequestReceivedMessage">:name: prosi cię o rękę</message>
+    <message key="engagedRequestSendedMessage">:name: dowie się za chwilę, że chcesz poprosić ją o rękę.</message>
+    <message key="engagedRequestSendedTitle">Propozycja związku</message>
+    <message key="engegedButtonTitle">oświadcz się</message>
+    <message key="enterEventDescriptionLabel">wprowadź opis wydarzenia</message>
+    <message key="enterEventNameLabel">wprowadź nazwę wydarzenia</message>
+    <message key="enterMessage">Wpisz wiadomość</message>
+    <message key="eraseButtonTitle">Zetrzyj</message>
+    <message key="error">Błąd</message>
+    <message key="escapeBattle">ucieczka</message>
+    <message key="estr20bush">Poszukaj jajek w krzakach</message>
+    <message key="estr20dance">Taniec królika</message>
+    <message key="estr20dancewith">Zatańcz z królikiem</message>
+    <message key="estr20eggs">Jajo wielkanocne</message>
+    <message key="estr20hole">Poszukaj jajek w norze</message>
+    <message key="estr20openegg">Otwórz jajko z niespodzianką</message>
+    <message key="estr20printegg">Pomaluj jajka</message>
+    <message key="estr20showoff">Chwal się koszykiem</message>
+    <message key="estr20steal">Kradnij z koszyka</message>
+    <message key="estr20toyrab">Pogłaszcz zabawkowego królika</message>
+    <message key="estr20tree">Potrząśnij drzewem</message>
+    <message key="estr20tulip">Tulipan</message>
+    <message key="EVENT_title">Monety</message>
+    <message key="event2_tab">Ferie</message>
+    <message key="eventCategoryLabel">Kategoria</message>
+    <message key="eventCreatedMessage">Organizacja wydarzenia się powiodła. Wkrótce pojawią się goście!</message>
+    <message key="eventDescriptionLabel">Opis</message>
+    <message key="eventJobWorkTitle">Bar Cloud Nine</message>
+    <message key="eventLength120">2 godz.</message>
+    <message key="eventLength30">pół godziny</message>
+    <message key="eventLength60">1 godz.</message>
+    <message key="eventLengthLabel">Czas trwania</message>
+    <message key="eventLevelNoRestrictLabel">bez ograniczeń</message>
+    <message key="eventLevelRestrictLabel">Poziom minimalny</message>
+    <message key="EventLocationLabel">Korytarz szkolny</message>
+    <message key="eventMinLevelRestrictInfo">od %i poziomu</message>
+    <message key="eventMinLevelRestrictMessage">Żeby dostać się na to wydarzenie, musisz być co najmniej na %i poziomie.</message>
+    <message key="eventNameLabel">Nazwa</message>
+    <message key="eventRatingLabel">Złota gwiazdka</message>
+    <message key="EventSaleLabel">Zniżki okolicznościowe</message>
+    <message key="EventShopLabel">Świąteczny Bazar</message>
+    <message key="eventsTitle">Wydarzenia</message>
+    <message key="eventTitle">Wydarzenie</message>
+    <message key="EventWindowLabel">Wycieczki po Avatarii</message>
+    <message key="EventWindowSaleLabel">Wielka wyprzedaż</message>
+    <message key="exBelovedConfirmButton">rzuć</message>
+    <message key="exBelovedConfirmTitle">Naprawdę chcesz się rozstać?</message>
+    <message key="exchange_error_cant_find_item">Nie znaleziono przedmiotu</message>
+    <message key="exchange_error_cant_trade">Nie można wymieć tych przedmiotów</message>
+    <message key="exchange_error_in_progress">Ten gracz wymienia się przedmiotami z innym graczem. Spróbuj ponownie później.</message>
+    <message key="exchange_error_not_init">Wystąpił błąd podczas wymiany</message>
+    <message key="exchange_error2_in_progress">Musisz zakończyć bieżącą wymianę</message>
+    <message key="exchange_item_select">Brak przedmiotów na wymianę</message>
+    <message key="exchangeButtonTitle">wymień się</message>
+    <message key="exchangeCancelText">Czy na pewno chcesz anulować wymianę?</message>
+    <message key="exchangeGoldToChipsMessage">Możesz wymienić złote monety na żetony.</message>
+    <message key="exchangeGoldToSilverMessage">Możesz wymienić złote monety na srebrne.</message>
+    <message key="exchangeInfo">Wybierz przedmioty do wymiany.</message>
+    <message key="exchangeItemsGiven">Przekazane przedmioty:</message>
+    <message key="exchangeItemsReceived">Otrzymane przedmioty:</message>
+    <message key="exchangeItemsResult">Wynik wymiany</message>
+    <message key="exchangeNeedItem">Zaoferuj przedmiot na wymianę</message>
+    <message key="exchangeNoItems">Brak przedmiotów na wymianę</message>
+    <message key="exchangePointsButtonTitle">Wymień</message>
+    <message key="exchangePointsMessage">Masz :coins:. Możesz wymienić je na :gold:.</message>
+    <message key="exchangeRequestApprovedMessage">:userName: zgadza się na wymianę przedmiotami</message>
+    <message key="exchangeRequestDeclinedMessage">:name: nie chce wymienić się z tobą przedmiotami</message>
+    <message key="exchangeRequestReceivedMessage">:name: chce wymienić się z tobą przedmiotami</message>
+    <message key="exchangeRequestSendedMessage">Wysłano zaproszenie do wymiany</message>
+    <message key="exchangeWaitPlayer">Zaczekaj, aż drugi gracz wykona czynność</message>
+    <message key="exEngagedConfirmButton">zerwij</message>
+    <message key="exEngagedConfirmTitle">Chcesz zerwać stosunki?</message>
+    <message key="exit">Wyjdź</message>
+    <message key="exitAppText">Czy na pewno chcesz opuścić grę?</message>
+    <message key="exitAppTitle">UWAGA!</message>
+    <message key="exitButtonTitle">wyjdź</message>
+    <message key="exitWithoutSaveWarningMessage">Po przejściu do edycji akwarium wcześniejsze zmiany nie zostaną zapisane. Kontynuować?</message>
+    <message key="exMarriedConfirmButton">rozwiedź się</message>
+    <message key="exMarriedConfirmTitle">Chcesz się rozwieść?</message>
+    <message key="facebook">Facebook</message>
+    <message key="feedbackLabel">Opinia</message>
+    <message key="fightButtonTitle">pojedynek</message>
+    <message key="fightDefenceDownMove">Blok nóg</message>
+    <message key="fightDefenceUpMove">Blok głowy</message>
+    <message key="fightDrawResult">Remis!</message>
+    <message key="fightGameReadyTimeLeft">Gra zakończy się za :time:.</message>
+    <message key="fightGameRequest">:name: wyzywa cię na pojedynek. Zgadzasz się?</message>
+    <message key="fightPillowDownMove">Uderzenie poduszką w nogi</message>
+    <message key="fightPillowUpMove">Uderzenie poduszką w głowę</message>
+    <message key="fightRequestDialogTitle">Wyzwanie do walki</message>
+    <message key="fightRequestLabel">:name: :genderDrop: rzuca ci wyzwanie</message>
+    <message key="fileredBuddyListEmpty">Lista jest pusta. Spróbuj zmienić kryteria wyszukiwania w kolumnie po lewej.</message>
+    <message key="fillEnergyButtonTitle">zregeneruj energię</message>
+    <message key="fireworkExplodeTitle">Hurrraaa!</message>
+    <message key="floodBanReason">Zgodnie z zasadami częste wysyłanie jednakowych komunikatów (flood) jest zabronione</message>
+    <message key="floodWarning">Częste wysyłanie jednakowych komunikatów (flood) jest zabronione. Zachowuj się odpowiednio. W przeciwnym razie zablokujemy dostęp do aplikacji.</message>
+    <message key="flowerLootNotReadyMessage">Dojrzeje za :timeLeft:</message>
+    <message key="flowerLootNotReadyTitle">Kwiat nie jest dojrzały</message>
+    <message key="followFriendCanyonMessage">Twój przyjaciel bierze teraz udział w wyścigach. Chcesz do niego jechać?</message>
+    <message key="followFriendCanyonTitle">Do kanionu</message>
+    <message key="followFriendCityMessage">Twój przyjaciel jest teraz w domu. Chcesz go odwiedzić?</message>
+    <message key="followFriendCityTitle">Poszukiwanie przyjaciela</message>
+    <message key="followFriendIslandMessage">Twój przyjaciel bawi się teraz ze swoim zwierzakiem na wyspie w Tropikanii. Chcesz zrobić to samo?</message>
+    <message key="followFriendIslandTitle">Poszukiwanie przyjaciela</message>
+    <message key="followFriendWorkMessage">Twój przyjaciel zarabia teraz pieniądze. Chcesz się zająć tym samym?</message>
+    <message key="followFriendWorkTitle">Poszukiwanie przyjaciela</message>
+    <message key="foodNotReadyMessage">Do nowej porcji jedzenia zostało :timeLeft:</message>
+    <message key="foodNotReadyTitle">Jedzenie nie jest gotowe</message>
+    <message key="forCoins">Kup za :coins:</message>
+    <message key="forGolds">Kup za :golds:</message>
+    <message key="fortuneTellButtonTitle">powróż</message>
+    <message key="fortuneWheelExitMessage">Jeśli odbierzesz wygraną teraz, następnym razem zaczniesz od nowa.</message>
+    <message key="fortuneWheelExitTitle">Zamknąć minigrę?</message>
+    <message key="fortuneWorkBankruptConsolationPrizeDialogDescription">Bankrut? Nie, tylko żartowaliśmy :)
+Złote monety z Koła Fortuny już zostały dodane do twojego konta. Ogólna wygrana wyniosła:</message>
+    <message key="fortuneWorkBankruptConsolationPrizeDialogTitle">Od 1 kwietnia!</message>
+    <message key="fortuneWorkFirstAprilInviteDialogChipsLabel">Masz</message>
+    <message key="fortuneWorkFirstAprilInviteDialogDescription">Dziś szczęście na pewno się do ciebie uśmiechnie – ruszaj do Koła Fortuny!</message>
+    <message key="fortuneWorkFirstAprilInviteDialogTitle">Niech szczęście ci sprzyja!</message>
+    <message key="fortuneWorkPrizeConfirmDescription">Nie odpuszczaj, kiedy szczęście jest tak blisko! Chcesz jeszcze raz zakręcić kołem?</message>
+    <message key="fortuneWorkPrizeConfirmTitle">Na pewno ci się poszczęści!</message>
+    <message key="fortuneWorkTitle">Koło Fortuny</message>
+    <message key="FREE_title">Za darmo</message>
+    <message key="freeButtonTitle">bezpłatnie</message>
+    <message key="freeloveESReg">Hiszpania i Łac.Ameryka</message>
+    <message key="freelovePLReg">Polska</message>
+    <message key="freeloveTRReg">Turcja</message>
+    <message key="friendBuddyListEmpty">Nie masz jeszcze przyjaciół. Tutaj wyświetlą się osoby, które zgodziły się z tobą przyjaźnić.</message>
+    <message key="friendsRequestDeclinedMessage">:name: nie chce się z tobą przyjaźnić</message>
+    <message key="friendsRequestDeclinedTitle">Odmowa</message>
+    <message key="friendsRequestReceivedMessage">:name: proponuje przejście na nowy poziom relacji – przyjaźń. Zgodzić się?</message>
+    <message key="friendsRequestSendedMessage">:name: dowie się za chwilę, że chcesz się zaprzyjaźnić.</message>
+    <message key="friendsRequestSendedTitle">Zaproszenie do grona znajomych</message>
+    <message key="friendsTopPanelLabel">Najlepsi sąsiedzi</message>
+    <message key="FullloveKissPermissionsRequestMessage">Aby pocałować postać, musisz się z nią najpierw pogodzić!</message>
+    <message key="FullloveKissRequestApprovedMessage">:name: z radością pozwoli ci się pocałować :)</message>
+    <message key="FullloveKissRequestDeclinedMessage">:name: nie zgadza się na twój pocałunek :(</message>
+    <message key="FullloveKissRequestReceivedMessage">:name: chce cię pocałować. Zgadzasz się?</message>
+    <message key="FullloveKissRequestSendedMessage">:name: wkrótce się dowie, że chcesz go/ją pocałować.</message>
+    <message key="fullscreen">Tryb pełnoekranowy</message>
+    <message key="furnitureShopTitle">Meble</message>
+    <message key="furSitButtonTitle">usiądź</message>
+    <message key="ga">Ekwipunek</message>
+    <message key="gameChipsButtonLabel">Żetony</message>
+    <message key="gameChipsLabel">żetony do gry</message>
+    <message key="gameRequestApprovedMessage">:name: przystaje na twoją propozycję.</message>
+    <message key="gameRequestApprovedTitle">Wyzwanie przyjęte</message>
+    <message key="gameRequestDeclinedMessage">:name: odrzuca twoją propozycję.</message>
+    <message key="gameRequestDeclinedTitle">Wyzwanie odrzucone</message>
+    <message key="gameRequestSendedMessage">:name: za chwilę otrzyma twoje wyzwanie.</message>
+    <message key="gameRequestSendedTitle">Wyzwanie zostało wysłane</message>
+    <message key="gameResourceFilmItemUserLabel">Na pewno chcesz przejść do Studia fotograficznego?</message>
+    <message key="gameResourceGameChipsItemUserLabel">Na pewno chcesz przejść do Koła Fortuny?</message>
+    <message key="gameRulesDialogTitle">Zasady gry</message>
+    <message key="gamesComingMessage">Już wkrótce będziesz mieć możliwość grania z przyjaciółmi w ciekawe gry i zarabiania srebrnych monet.</message>
+    <message key="gamesTitle">Gry</message>
+    <message key="garbageWorkTitle">Sprzątanie śmieci</message>
+    <message key="gardenWorkTitle">Ogród</message>
+    <message key="getButtonTitle">odbierz</message>
+    <message key="giftButtonTitle">zrób prezent</message>
+    <message key="giftFirToyButtonTitle">podaruj zabawkę</message>
+    <message key="giftLevelMessage">Aby wymieniać się rzeczami, musisz osiągnąć %i poziom.</message>
+    <message key="GiftLovecardPermissionsRequestMessage">Aby pogratulować postaci, musisz się z nią najpierw pogodzić!</message>
+    <message key="GiftLovecardRequestApprovedMessage">:name: z radością przyjmie twoje gratulacje :)</message>
+    <message key="GiftLovecardRequestDeclinedMessage">:name: nie zamierza przyjmować twoich gratulacji :(</message>
+    <message key="GiftLovecardRequestReceivedMessage">:name: chce ci pogratulować. Zgadzasz się?</message>
+    <message key="GiftLovecardRequestSendedMessage">:name: wkrótce się dowie, że chcesz mu/jej pogratulować.</message>
+    <message key="giftNoItemsText">Wielka szkoda, nie masz czego podarować.</message>
+    <message key="giftNoItemsWithBuyText">Wielka szkoda, nie masz czego podarować. Chcesz kupić prezent?</message>
+    <message key="giftsButtonTitle">prezenty</message>
+    <message key="giftsShopTitle">Prezenty</message>
+    <message key="giftVipButtonTitle">podaruj za :value:</message>
+    <message key="giftVipDialogTitle">Podaruj status VIP</message>
+    <message key="goButtonTitle">naprzód!</message>
+    <message key="GOLD_title">Złoto</message>
+    <message key="goldEventRating">złota gwiazda (:gold: G)</message>
+    <message key="goldLabel">złoto</message>
+    <message key="goldPacksDialogLabel">Potrzebujesz więcej złota?</message>
+    <message key="goldPurchase">:gold:</message>
+    <message key="goldPurchaseDescription">Złote monety to najcenniejszy zasób, dlatego najlepsze towary w Avatarii sprzedawane są tylko za złoto.</message>
+    <message key="goldSaleButton">Zakup</message>
+    <message key="goldSaleMessage">Masz tylko trzy dni, aby kupić 2 razy więcej złota w tej samej cenie, dzięki niesamowitej, 50-procentowej obniżce! Nie zwlekaj. Kup już dziś.</message>
+    <message key="goldSaleTitle">Rabat na złoto</message>
+    <message key="goldTypeButtonTitle">za złoto</message>
+    <message key="goodButtonTitle">ОK</message>
+    <message key="gotoFurnitureShop">Sklep</message>
+    <message key="gotoIn">W</message>
+    <message key="gr20ActionCelebrateLabel">Świętuj</message>
+    <message key="gr20ActionCheersLabelLabel">Pogratuluj</message>
+    <message key="gr20ActionGroupPoseLabel">Pozuj wspólnie</message>
+    <message key="gr20ActionMakeShootLabel">Zrób zdjęcie</message>
+    <message key="gr20ActionPlayMusLabel">Graj na instrumencie</message>
+    <message key="gr20LootBaloonLabel">Balony</message>
+    <message key="gr20LootGoodMemoryLabel">Piękne wspomnienia</message>
+    <message key="gr20LootGraduationHatLabel">Czapka na bal maturalny</message>
+    <message key="gr20LootMusciNoteLabel">Nuty</message>
+    <message key="gr20LootPlasticCupLabel">Plastikowe kubki</message>
+    <message key="gr20LootPositiveLabel">Dobry nastrój</message>
+    <message key="gr20LootRhythmLabel">Poczucie rytmu</message>
+    <message key="greenhouseRoom">Szklarnia</message>
+    <message key="halloweenLocationTitle">Dom „Thompson”</message>
+    <message key="hallTipHigh_label">Hojny napiwek
+</message>
+    <message key="hallTipLow_label">Skromna wskazówka
+</message>
+    <message key="hallTipMedium_label">Dać wskazówkę</message>
+    <message key="happyNewYearLabel">Najlepsze życzenia noworoczne!</message>
+    <message key="hasItemMessage">Masz już ten przedmiot.</message>
+    <message key="hasItemTitle">Już kupione</message>
+    <message key="helpButtonLabel">Wsparcie</message>
+    <message key="helpMessage1">Naciśnij przycisk „Zakręć!”, aby koło zaczęło się obracać. Możesz kręcić kołem dowolną liczbę razy.</message>
+    <message key="helpMessage2">Uważaj, jeśli trafisz pole „Bankrut”, stracisz wygraną i gra się zakończy.</message>
+    <message key="helpMessage3">Kiedy wielkość wygranej będzie cię już satysfakcjonować, naciśnij przycisk „Odbierz wygraną”.</message>
+    <message key="hideAction">Do ekwipunku</message>
+    <message key="hideRelationsPermission">Musisz być VIP-em, aby ukryć związek</message>
+    <message key="homeButtonLabel">Dom</message>
+    <message key="houseKickedMessage">Gospodarz mieszkania przez jakiś czas nie chce cię widzieć.</message>
+    <message key="houseKickedTitle">Wyrzucono cię.</message>
+    <message key="houseLockedForTutorialMessage">Właściciel mieszkania jeszcze nie ukończył nauki. Poczekaj, aż właściciel ją ukończy.</message>
+    <message key="houseLockedForTutorialTitle">Właściciel mieszkania uczy się</message>
+    <message key="houseLockedMessage">Gospodarz mieszkania postanowił zamknąć je przed osobami postronnymi.</message>
+    <message key="houseLockedTitle">Mieszkanie zamknięte</message>
+    <message key="houseRating">Komfort</message>
+    <message key="howToPlay">Zasady gry</message>
+    <message key="hugButtonTitle">obejmij</message>
+    <message key="hugLevelMessage">Aby kogoś uścisnąć, musisz osiągnąć %i poziom.</message>
+    <message key="hugPermissionsRequestMessage">Aby uściskać innego gracza, musisz się z nim pogodzić. Chcesz wyciągnąć rękę na zgodę?</message>
+    <message key="hugRequestApprovedMessage">:name: nie ma nic przeciwko uściskom</message>
+    <message key="hugRequestApprovedTitle">Jasne!</message>
+    <message key="hugRequestDeclinedMessage">:name: nie zgadza się na twoje uściski</message>
+    <message key="hugRequestDeclinedTitle">Odmowa</message>
+    <message key="hugRequestReceivedMessage">:name: chce cię uścisnąć. Zezwolić?</message>
+    <message key="hugRequestReceivedTitle">Ktoś chce cię uścisnąć</message>
+    <message key="hugRequestSendedMessage">:name: dowie się za chwilę, że chcesz się uścisnąć.</message>
+    <message key="hugRequestSendedTitle">Zezwolenie na uściski</message>
+    <message key="hugTitle">Uściski</message>
+    <message key="hurra">Hura!</message>
+    <message key="innerRoomTitle">Pokój</message>
+    <message key="instagramLink">https://www.instagram.com/avatarlife_official/</message>
+    <message key="installButtonTitle">wystaw</message>
+    <message key="inTime">o :time:</message>
+    <message key="inventoryButtonLabel">Ekwipunek</message>
+    <message key="inventoryBuyDialogTitle">Zakup ekwipunku</message>
+    <message key="inventoryDialogTitle">Ekwipunek</message>
+    <message key="inventoryTabTitle">Ekwipunek</message>
+    <message key="invitationMessage">Odwiedź moje mieszkanie!</message>
+    <message key="inviteBtnTitle">ZAPROŚ</message>
+    <message key="inviteButtonTitle">zaproś</message>
+    <message key="inviteFriends">Zaproś znajomych</message>
+    <message key="inviteFriendsDlgTitle">Zaproś znajomych</message>
+    <message key="iod_timer_label">dostępne ze zniżką:</message>
+    <message key="itemCraftedWallTitle">Mam nowy przedmiot</message>
+    <message key="itemNeededMessage">Powinieneś mieć: :item:</message>
+    <message key="itemNeededTitle">Wymagany przedmiot</message>
+    <message key="itemOfDay">Oferta specjalna</message>
+    <message key="itemOfDayNewPrice">Nowa cena: :price:</message>
+    <message key="itemOfDayOldPrice">Stara cena: :price:</message>
+    <message key="itemOfDayToEnd">Do zakończenia akcji:</message>
+    <message key="itemsNotFound">Brak</message>
+    <message key="jackpot">Cała pula</message>
+    <message key="jacuzziBrokePermissionsDenyedMessage">Aby zepsuć jacuzzi, musicie zostać wrogami.</message>
+    <message key="jacuzziRepairPermissionsDenyedMessage">Aby naprawić jacuzzi, musicie zostać dobrymi przyjaciółmi.</message>
+    <message key="jokeAndPresentShopTitle">Prezenty i psikusy</message>
+    <message key="justNowBillingMessage">Tylko teraz</message>
+    <message key="karaokesing">śpiewać</message>
+    <message key="kickButtonTitle">kopnij</message>
+    <message key="kickFailedText">Tylko gospodarz mieszkania może wyrzucić z niego innego gracza</message>
+    <message key="kickFailedTitle">Nie możesz wyrzucić gracza</message>
+    <message key="kickMeLabel">Kopnij mnie!</message>
+    <message key="kiss_nocensPermissionsRequestMessage">Aby móc całować innych graczy, trzeba się z nimi przyjaźnić. Chcesz się zaprzyjaźnić?</message>
+    <message key="kiss_nocensPermissionsRequestMessage2">Aby móc całować innych graczy, trzeba się z nimi przyjaźnić.</message>
+    <message key="kiss_nocensRequestApprovedMessage">:name: nie ma nic przeciwko pocałunkowi</message>
+    <message key="kiss_nocensRequestApprovedTitle">Jasne, całuj!</message>
+    <message key="kiss_nocensRequestDeclinedMessage">:name: nie zgadza się na twój pocałunek</message>
+    <message key="kiss_nocensRequestDeclinedTitle">odmów</message>
+    <message key="kiss_nocensRequestReceivedMessage">:name: chce cię pocałować. Zezwolić?</message>
+    <message key="kiss_nocensRequestReceivedTitle">Ktoś chce cię pocałować</message>
+    <message key="kiss_nocensRequestSendedMessage">:name: dowie się za chwilę, że chcesz się pocałować.</message>
+    <message key="kiss_nocensRequestSendedTitle">Zezwolenie na pocałunek</message>
+    <message key="kissButtonTitle">pocałuj</message>
+    <message key="kissLevelMessage">Aby kogoś pocałować, musisz osiągnąć %i poziom.</message>
+    <message key="kissPermissionsRequestMessage">Aby móc całować innych graczy, trzeba się z nimi przyjaźnić. Chcesz się zaprzyjaźnić?</message>
+    <message key="kissPermissionsRequestMessage2">Aby móc całować innych graczy, trzeba się z nimi przyjaźnić.</message>
+    <message key="kissRequestApprovedMessage">:name: nie ma nic przeciwko pocałunkowi</message>
+    <message key="kissRequestApprovedTitle">Jasne, całuj!</message>
+    <message key="kissRequestDeclinedMessage">:name: nie zgadza się na twój pocałunek</message>
+    <message key="kissRequestDeclinedTitle">Odmowa</message>
+    <message key="kissRequestReceivedMessage">:name: chce cię pocałować. Zezwolić?</message>
+    <message key="kissRequestReceivedTitle">Ktoś chce cię pocałować</message>
+    <message key="kissRequestSendedMessage">:name: dowie się za chwilę, że chcesz się pocałować.</message>
+    <message key="kissRequestSendedTitle">Zezwolenie na pocałunek</message>
+    <message key="kissTitle">Pocałunek</message>
+    <message key="kitchenDoorTitle">Kuchnia</message>
+    <message key="labelBenefit">Zysk</message>
+    <message key="labelNeededLevel">poziom :level:</message>
+    <message key="labelNeededTitle">Wymagane</message>
+    <message key="labelNeededVip">status VIP</message>
+    <message key="lagDisconnected">Połączenie utracone...</message>
+    <message key="lagReconnectMessage">Gra została wstrzymana. Kontynuować?</message>
+    <message key="lagReconnectTitle">Pauza</message>
+    <message key="langAttention">Zamknij grę i otwórz ją ponownie, aby aktywować ustawienia</message>
+    <message key="langRestart">Czy na pewno chcesz zmienić ustawienia języka?</message>
+    <message key="language">Język</message>
+    <message key="languageSelection">Wybór języka</message>
+    <message key="leaveGameLabel">ucieczka</message>
+    <message key="levelProgressLabel">Poziom. Wykonuj zadania, aby uzyskać kolejny poziom.</message>
+    <message key="livingRoom">Salon</message>
+    <message key="loading">ładowanie...</message>
+    <message key="loadingLocation">Ładowanie...</message>
+    <message key="locationLevelTitle">Za niski poziom</message>
+    <message key="locationLevelWarning">Aby dostać się w to miejsce, trzeba osiągnąć %i poziom.</message>
+    <message key="locationNeedVipTitle">Wymagany jest status VIP</message>
+    <message key="locationNeedVipWarning">Aby dostać się w to miejsce, trzeba mieć status VIP. Chcesz go uzyskać?</message>
+    <message key="locationQuestSection">Zadania lokacji</message>
+    <message key="locationSelectTitle">Witamy</message>
+    <message key="lockHouseButtonTitle">Zamknij mieszkanie</message>
+    <message key="lockHouseConfirm">Jeśli twoje mieszkanie będzie zamknięte, przyjaciele nie będą mogli przychodzić w gości. Czy rzeczywiście chcesz zamknąć mieszkanie?</message>
+    <message key="lockHouseTitle">Zamknij mieszkanie</message>
+    <message key="lockTime">Mieszkanie zamknięte do:</message>
+    <message key="longKissButtonTitle">długi pocałunek</message>
+    <message key="lookingGreat">Wyglądasz bosko!</message>
+    <message key="looseMessage">Niestety, :gender:.</message>
+    <message key="lootAntiseptic">Środek antyseptyczny</message>
+    <message key="lootFAK">Apteczka</message>
+    <message key="lootHandy">Chusteczki higieniczne</message>
+    <message key="lootVitamins">Witaminy</message>
+    <message key="LoveAroma_label">Zapach miłości</message>
+    <message key="LoveBrHeart_label">Złamane serce</message>
+    <message key="loveBuddyListEmpty">Lista jest pusta. Tutaj trafią twoi bliscy przyjaciele.</message>
+    <message key="LoveFlower_label">Kwiat</message>
+    <message key="LoveHeart_label">Uskrzydlone serce</message>
+    <message key="LoveKey_label">Zamek i klucz</message>
+    <message key="LoveLetter_label">List miłosny</message>
+    <message key="lvMtrPublishDialogFalseDescription">Los zdecydowanie nie chce, żebyśmy byli razem, ale kto wie, może to po prostu próba trwałości naszego związku?</message>
+    <message key="lvMtrPublishDialogFalseWallPost">Los zdecydowanie nie chce, abyśmy byli razem. Chcesz sprawdzić, do kogo pasujesz? Wejdź do gry!</message>
+    <message key="lvMtrPublishDialogTitle">Pasujemy do siebie?</message>
+    <message key="lvMtrPublishDialogTrueDescription">Świetnie do siebie pasujemy! Niech wszyscy się o tym dowiedzą, choćby mieli nam zazdrościć!</message>
+    <message key="lvMtrPublishDialogTrueWallPost">:userName: i ja świetnie do siebie pasujemy! Chcesz sprawdzić, do kogo pasujesz? Wejdź do gry!</message>
+    <message key="mailAnswerButtonLabel">zareaguj</message>
+    <message key="mailLeaveMessageDialogTitle">Zostaw wiadomość</message>
+    <message key="mailLeaveMessageEmptyText">Wprowadź tekst wiadomości.</message>
+    <message key="mailLeaveMessageLabel">Tekst wiadomości:</message>
+    <message key="mailLeaveMessageSuccess">Wiadomość została dodana.</message>
+    <message key="mailListDefaultIncomeText">Nikt jeszcze do ciebie nie napisał.</message>
+    <message key="mailListDefaultOutcomeText">Twoi przyjaciele nie dostali jeszcze od ciebie żadnych listów.</message>
+    <message key="mailMessageListDailogTitle">Lista wiadomości</message>
+    <message key="mailNewMessageText">Zostawiono ci nową wiadomość.</message>
+    <message key="mailNewMessageTitle">Nowa wiadomość.</message>
+    <message key="mainIncommingTabTitle">Przychodzące</message>
+    <message key="mainOutcommingTabTitle">Wychodzące</message>
+    <message key="maintenanceError">Na serwerze trwają prace konserwacyjne. Zajrzyj tu później.</message>
+    <message key="mainTopPanelLabel">Galeria sław</message>
+    <message key="makeGiftApproveButtonTitle">Przyjmij</message>
+    <message key="makeGiftButtonTitle">wyślij prezent</message>
+    <message key="makeGiftDialogTitle">Zrób prezent</message>
+    <message key="makeGiftInfo">Wybierz przedmiot na prezent.</message>
+    <message key="makeGiftNotificationCancelTitle">Prezent</message>
+    <message key="makeGiftNotificationConfirmTitle">Prezent</message>
+    <message key="makeGiftNotificationMessage">:name: dowie się za chwilę o twoim prezencie.</message>
+    <message key="makeGiftNotificationTitle">Zrób prezent</message>
+    <message key="makeGiftRequestNotificationPanelTitle">Prezent</message>
+    <message key="makeOfflineGiftNotificationMessage">Gracz dowie się o twoim prezencie, kiedy zaloguje się do gry.</message>
+    <message key="makeWaitressOrder">złóż zamówienie</message>
+    <message key="married_nocensRequestDeclinedMessage">:name: nie chce zawierać z tobą związku małżeńskiego</message>
+    <message key="married_nocensRequestDeclinedTitle">odmów</message>
+    <message key="married_nocensRequestReceivedMessage">:name: proponuje, żebyście zostali mężem i żoną. Zgodzić się?</message>
+    <message key="married_nocensRequestSendedMessage">:name: dowie się za chwilę, że chcesz, byście się pobrali.</message>
+    <message key="married_nocensRequestSendedTitle">Propozycja związku</message>
+    <message key="marriedButtonTitle">oświadcz się</message>
+    <message key="marriedConfirmTitle">Wziąć ślub?</message>
+    <message key="marriedRequestDeclinedMessage">:name: nie chce zawierać z tobą związku małżeńskiego</message>
+    <message key="marriedRequestDeclinedTitle">Odmowa</message>
+    <message key="marriedRequestReceivedMessage">:name: proponuje, żebyście zostali mężem i żoną. Zgodzić się?</message>
+    <message key="marriedRequestSendedMessage">:name: dowie się za chwilę, że chcesz, byście się pobrali.</message>
+    <message key="marriedRequestSendedTitle">Propozycja związku</message>
+    <message key="maxAssociateMessage">Masz zbyt wielu znajomych. Rozwijaj swoje relacje z nimi albo usuń tych, z którymi nie masz kontaktu.</message>
+    <message key="maxDoorsCountReachedMessage">W pokoju nie może być więcej niż %i drzwi. Aby móc kupić kolejne drzwi, przejdź do innego pokoju.</message>
+    <message key="maxEnemyMessage">Masz zbyt wielu wrogów. Pogódź się z niektórymi z nich albo zerwij stosunki.</message>
+    <message key="maxEnergyReachedMessage">Poziom energii jest pełny</message>
+    <message key="maxRelationsTitle">Lista jest pełna</message>
+    <message key="messageButtonTitle">powiedz</message>
+    <message key="miscCategory">Inne</message>
+    <message key="modelPoseButtonTitle">Pozuj</message>
+    <message key="moderateButtonTitle">moderuj</message>
+    <message key="moderatorMessage">Wiadomość od moderatora</message>
+    <message key="moderatorMessageButtonTitle">wiadomość</message>
+    <message key="moderatorRenameLabel">Osoba naruszająca zasady</message>
+    <message key="month1">stycznia</message>
+    <message key="month10">października</message>
+    <message key="month11">listopada</message>
+    <message key="month12">grudnia</message>
+    <message key="month2">lutego</message>
+    <message key="month3">marca</message>
+    <message key="month4">kwietnia</message>
+    <message key="month5">maja</message>
+    <message key="month6">czerwca</message>
+    <message key="month7">lipca</message>
+    <message key="month8">sierpnia</message>
+    <message key="month9">września</message>
+    <message key="moreButtonTitle">Szczegóły</message>
+    <message key="multipler">MNOŻNIK</message>
+    <message key="music">Muzyka</message>
+    <message key="musicChannelNotAvailableMessage">W chwili obecnej ta radiostacja nie jest dostępna. Proszę spróbować włączyć inną.</message>
+    <message key="musicChannelNotAvailableTitle">Radiostacja niedostępna</message>
+    <message key="mustBeVipUserMessage">Aby wykonać to działanie, trzeba być mieć status VIP.</message>
+    <message key="myRequestButtonTitle">własny wariant</message>
+    <message key="native">Polski</message>
+    <message key="neededForPurchase">Niezbędne do zakupu</message>
+    <message key="neededItemsNotFound">Brak przedmiotów potrzebnych do działania</message>
+    <message key="needEngagedStatusMessage">Trzeba być po zaręczynach.</message>
+    <message key="needLevel">Wymagany poziom</message>
+    <message key="needVipStatusMessage">Wymagany jest status VIP</message>
+    <message key="needVipText">Opcja dostępna tylko dla VIP-ów.</message>
+    <message key="networkLagtMessage">Do gry potrzebne jest bardziej stabilne połączenie z Internetem. Upewnij się, że nie są włączone żadne inne aplikacje ani programy aktywnie korzystające z sieci (na przykład torrent tracker).</message>
+    <message key="newAchievement">Mam nową nagrodę</message>
+    <message key="newHairsDialogMessage">Wyglądasz bosko!</message>
+    <message key="newHairsDialogTitle">Salon piękności</message>
+    <message key="newItemsDialogMessage">Nowe stylowe przedmioty do kupienia!</message>
+    <message key="newItemsDialogTitle">Nowe elementy</message>
+    <message key="newLevel">Mam nowy poziom</message>
+    <message key="newNameLabel">Nowe imię:</message>
+    <message key="newRelation">Mam nową relację</message>
+    <message key="newRelationLabel">Relacja między tobą a graczem :name::</message>
+    <message key="newRoomWallTitle">Mam nowy pokój!</message>
+    <message key="newsButton">Wiadomości</message>
+    <message key="newsButtonLabel">Komunikator</message>
+    <message key="newSelfRelationLabel">Relacja między mną a graczem :name:: :relation:.</message>
+    <message key="newWedding">Wkrótce będę mieć wesele</message>
+    <message key="newYearGiftLabel">Świąteczne prezenty</message>
+    <message key="newYearOpenedGiftDescriptionLabel">W pudełku z prezentem znajdziesz:</message>
+    <message key="newYearOpenGiftDescriptionLabel">W tym pudełku możesz znaleźć wiele cennych przedmiotów. Chcesz teraz otworzyć prezent?</message>
+    <message key="noAchievementAwardsText">Brak nagród</message>
+    <message key="noAvatarNameWarning">Nie wprowadzono imienia awatara</message>
+    <message key="noAwardFriendTitle">Jeszcze nie odebrano nagród</message>
+    <message key="noAwardTitle">Nie masz jeszcze żadnych nagród. Zagraj w grę Avataria i zbierz je wszystkie!</message>
+    <message key="nobodyToThrow">Nie ma tu nikogo, w kogo można by rzucić śnieżką. Poszukajmy gdzie indziej!</message>
+    <message key="nobodyToThrowTitle">Nikogo tu nie ma</message>
+    <message key="noButtonTitle">nie</message>
+    <message key="noCarsForCanyonRaceWarningText">Jeszcze nie masz samochodu? Najwyższy czas go kupić!</message>
+    <message key="noEnemyButtonTitle">pogódź się</message>
+    <message key="noGiftFirToysItemsText">Brak ozdób do wymiany.</message>
+    <message key="noMailMessageSendText">Tylko znajomi mogą wymieniać się wiadomościami. Chcesz znaleźć :gender: właśnie teraz?</message>
+    <message key="noneEventRating">bez PR</message>
+    <message key="noNews">Coś jest nie tak? Skontaktuj się z nami na naszych stronach w mediach społecznościowych.
+
+Znajdziesz tam najnowsze informacje o grze Avataria i konkursach, w których można zdobyć złoto! Nie zwlekaj!</message>
+    <message key="notAllObjectsInPlacesMessage">Nie wszystkie przedmioty są na swoich miejscach. Ustaw je w pokoju tak, aby mieć do nich swobodny dostęp, a zbędne usuń.</message>
+    <message key="notAllObjectsInPlacesTitle">Ustaw wszystkie przedmioty</message>
+    <message key="notenemyRequestDeclinedMessage">:name: chce, żebyście pozostali wrogami</message>
+    <message key="notenemyRequestDeclinedTitle">Odmowa</message>
+    <message key="notenemyRequestReceivedMessage">:name: chce się pogodzić. Nie będziecie już wrogami. Zgodzić się?</message>
+    <message key="notenemyRequestSendedMessage">:name: dowie się za chwilę, że chcesz się pogodzić.</message>
+    <message key="notenemyRequestSendedTitle">Zgoda</message>
+    <message key="notEngagedTitle">Nie można zorganizować wydarzenia</message>
+    <message key="notEngagedTitleMessage">Aby zorganizować wydarzenie „Ślub”, trzeba być zaręczonym. Najpierw zaręcz się ze swoją drugą połówką.</message>
+    <message key="notEnoughEnergyMessage">Chcesz w pełni zregenerować energię za :gold:?</message>
+    <message key="notEnoughEnergyTitle">Brakuje energii</message>
+    <message key="notEnoughGameChipsConfirm">Masz za mało żetonów do gry. Chcesz dokupić trochę żetonów?</message>
+    <message key="notEnoughGameChipsTitle">Za mało żetonów</message>
+    <message key="notEnoughGoldMessage">Masz za mało :coins:? Oto kilka korzystnych ofert.</message>
+    <message key="notEnoughGoldTitle">Za mało złota</message>
+    <message key="notEnoughLevel">Masz za niski poziom.</message>
+    <message key="notEnoughRelationStatuss">Niewystarczający poziom relacji.</message>
+    <message key="notEnoughResourcesError">Brakuje ci zasobów.</message>
+    <message key="notEnoughSilverMessage">Brakuje ci srebra. Chcesz wymienić złote monety na srebrne?</message>
+    <message key="notEnoughSilverTitle">Za mało srebra.</message>
+    <message key="notEnougthGoldLabel">Bank</message>
+    <message key="notifications">Powiadomienia</message>
+    <message key="notLevelForSalonHairs">Za niski poziom</message>
+    <message key="noTransferInventoryItems">Niestety, lista przedmiotów do przekazania jest pusta.</message>
+    <message key="notVip">Działanie dostępne jest tylko dla gracza ze statusem VIP.</message>
+    <message key="npcHouseWorkTitle">Pomóż sąsiadowi</message>
+    <message key="ny2020LocationTitle">Bal gwiazdkowy</message>
+    <message key="nyFriend">Awatar</message>
+    <message key="nyJobWorkTitle">Nadmorska plaża</message>
+    <message key="NYLocationTitle">Choinka</message>
+    <message key="odnoklassniki">OK.ru</message>
+    <message key="OFFER_TEXT_EMPTY">Twoja niepowtarzalna oferta wkrótce straci ważność</message>
+    <message key="OFFER_TITLE_EMPTY">Pospiesz się!</message>
+    <message key="offer101Title">Bądź na topie!</message>
+    <message key="offer102Title">Stylowy salon</message>
+    <message key="offer103Title">Dla koneserów stylu</message>
+    <message key="offer104Title">Najlepsza sypialnia</message>
+    <message key="offer105Title">Szalony zysk!</message>
+    <message key="offer106Title">Stylowy salon</message>
+    <message key="offer107Title">Dla koneserów stylu</message>
+    <message key="offer108Title">Najlepsza sypialnia</message>
+    <message key="offer109Title">Wyróżnij się!</message>
+    <message key="offer110Title">Dla koneserów stylu</message>
+    <message key="offer111Title">Najlepsza sypialnia</message>
+    <message key="offer112Title">Wyróżnij się!</message>
+    <message key="offer113Title">Pełen relaks!</message>
+    <message key="offer114Title">Najlepsza sypialnia</message>
+    <message key="offer115Title">Wyróżnij się!</message>
+    <message key="offer116Title">Pełen relaks!</message>
+    <message key="offer117Title">Dla imprezowiczów</message>
+    <message key="offer118Title">Wyróżnij się!</message>
+    <message key="offer119Title">Pełen relaks!</message>
+    <message key="offer120Title">Dla imprezowiczów</message>
+    <message key="offer121Title">Przejdź metamorfozę!</message>
+    <message key="offer122Title">Zniżka!</message>
+    <message key="offer123Title">Wyprzedaż!</message>
+    <message key="offer124Title">Zniżka!</message>
+    <message key="offer125Title">Wyprzedaż!</message>
+    <message key="offer12Title">Atrakcyjna oferta!</message>
+    <message key="offer16Title">Początkujący żeglarz</message>
+    <message key="offer17Title">Zestaw wypoczynkowy</message>
+    <message key="offer1Title">Mary poleca</message>
+    <message key="offer4Title">Trend tygodnia</message>
+    <message key="offer5Title">Oferta specjalna</message>
+    <message key="offerExpired">Pozostało:</message>
+    <message key="okButtonTitle">ОK</message>
+    <message key="on">na</message>
+    <message key="openButtonTitle">otwórz</message>
+    <message key="outsideDoorTitle">Na zewnątrz</message>
+    <message key="ownerNotAtHouse">Gospodarza nie ma w domu</message>
+    <message key="ownerNotAtHouseWarning">Pod nieobecność gospodarza nie można używać tego przedmiotu. Zaczekaj, aż gospodarz wróci.</message>
+    <message key="pageFromPages">:page: z :maxPages:</message>
+    <message key="paintBombResultTitle">Bomba z farbą!</message>
+    <message key="paintBombTitle">Bomba zadziałała!</message>
+    <message key="pairDancePermissionsRequestMessage">Jeśli chcecie zatańczyć, musicie się najpierw pogodzić!</message>
+    <message key="pairDanceRequestApprovedMessage">:name: chętnie z tobą zatańczy! :)</message>
+    <message key="pairDanceRequestDeclinedMessage">:name: nie chce z tobą zatańczyć :(</message>
+    <message key="pairDanceRequestReceivedMessage">:name: chce z tobą zatańczyć. Zgadzasz się?</message>
+    <message key="pairDanceRequestSendedMessage">:name: wkrótce się dowie, że chcesz zatańczyć.</message>
+    <message key="parkLocationTitle">Park</message>
+    <message key="partyEventCategories">IMPREZA</message>
+    <message key="passportAwardTitle">Nagrody:</message>
+    <message key="passportButtonTitle">paszport</message>
+    <message key="passportDialogTitle">Paszport</message>
+    <message key="passportEditNameText">Zmień imię</message>
+    <message key="passportHideInfoLabel">ukryj informację</message>
+    <message key="passportRelationInvisible">Ukryte</message>
+    <message key="passportRelationLabel">Relacje:</message>
+    <message key="petShopTitle">Sklep zoologiczny</message>
+    <message key="photoAlbumDescription">Gram w grę Avataria. Ten album jest poświęcony ładnym miejscom i ciekawym elementom gry. Zapraszam!
+
+:appLink:</message>
+    <message key="photoAlbumName">Avataria</message>
+    <message key="photoParticipantReceivedMessage">:name: proponuje ci wspólne zdjęcie. Zgadzasz się?</message>
+    <message key="photoParticipantRequestApprovedMessage">:name: chce zrobić sobie z tobą zdjęcie.</message>
+    <message key="photoParticipantRequestApprovedTitle">Zgoda</message>
+    <message key="photoParticipantRequestDeclinedMessage">:name: nie chce zrobić sobie z tobą zdjęcia.</message>
+    <message key="photoParticipantRequestDeclinedTitle">Odmowa</message>
+    <message key="photoParticipantRequestSendedMessage">:name: otrzyma za chwilę zaproszenie do wspólnego zdjęcia.</message>
+    <message key="photoParticipantRequestSendedTitle">Zróbmy sobie wspólne zdjęcie!</message>
+    <message key="photoReadyMessage">Twoje zdjęcie jest gotowe!</message>
+    <message key="photoSalonAddFriendButtonTitle">dodaj przyjaciela</message>
+    <message key="photoSalonBottomDescription">Dodawaj i przesuwaj przedmioty i wybierz pozę dla awatara. Zdjęcie będzie miało wielkość 800х600 pikseli. Awatar zastąpi cień.</message>
+    <message key="photoSalonChooseThemeLabel">Wybierz kategorię:</message>
+    <message key="photoSalonDialogTitle">Studio fotograficzne</message>
+    <message key="photoSalonInviteFrindsDialogLabel">Z kim chcesz się sfotografować?</message>
+    <message key="photoSalonItemsPanelTitle">Przedmioty</message>
+    <message key="photoSalonLabel">Studio fotograficzne</message>
+    <message key="photoSalonLocationTitle">Studio fotograficzne</message>
+    <message key="photoSalonPeoplesFriendButtonTitle">Postać</message>
+    <message key="photoSalonPublishDescription">Podoba ci się? W studiu fotograficznym Avatarii można zrobić wiele wspaniałych zdjęć, takich jak to. Użyj różnych motywów oraz dekoracji i nie zapomnij o dodaniu do zdjęcia swoich przyjaciół!
+
+:appLink:</message>
+    <message key="photoSalonSnapshotBottomDescription">Zapisane i opublikowane zdjęcie będzie miało rozdzielczość 800х600 pikseli.</message>
+    <message key="photoSalonTakePhotoButtonTitle">zrób zdjęcie za</message>
+    <message key="photoSalonTemporaryDisabledMessage">Studio fotograficzne jest chwilowo niedostępne</message>
+    <message key="photoSuccessfullySavedMessage">Twoje zdjęcie zostało zapisane na twardym dysku.</message>
+    <message key="pianoPlay_label">graj</message>
+    <message key="placesButtonLabel">Miejsca</message>
+    <message key="plantJokeButtonTitle">kawał</message>
+    <message key="play">Graj</message>
+    <message key="playAgain">Jeszcze raz</message>
+    <message key="playAvatariaText">Fascynujący świat, w którym każdy znajdzie dla siebie rozrywkę. Umebluj mieszkanie, chodź do pracy, zdobywaj nowych przyjaciół i znajomych, graj w gry. Ruszaj na podbój świata w Avatarii!</message>
+    <message key="playTitle">Graj</message>
+    <message key="playUpper">GRAJ!</message>
+    <message key="pop">Pop</message>
+    <message key="prepareResourcesText">Rozmieszczanie zasobów. Może to trochę potrwać.</message>
+    <message key="prepareResourcesTitle">Ładowanie</message>
+    <message key="privateChatMessageTitle">Wiadomość prywatna</message>
+    <message key="privateMessageFor">:name:, wiadomość prywatna:</message>
+    <message key="prkClosePicnic">zamknij kosz</message>
+    <message key="prkDuckFeed">karm</message>
+    <message key="prkNPCName">Sprzedawca</message>
+    <message key="prkOpenPicnic">otwórz kosz</message>
+    <message key="prkSswCare">trąć</message>
+    <message key="prkSswRock">huśtaj się</message>
+    <message key="profile">Profil</message>
+    <message key="PROMO_CODE_ERROR_100">Coś poszło nie tak (kod błędu: 100)</message>
+    <message key="PROMO_CODE_ERROR_101">Coś poszło nie tak (kod błędu: 101)</message>
+    <message key="PROMO_CODE_ERROR_105">Coś poszło nie tak (kod błędu: 105)</message>
+    <message key="PROMO_CODE_ERROR_106">Coś poszło nie tak (kod błędu: 106)</message>
+    <message key="PROMO_CODE_ERROR_107">Coś poszło nie tak (kod błędu: 107)</message>
+    <message key="PROMO_CODE_ERROR_108">Coś poszło nie tak (kod błędu: 108)</message>
+    <message key="PROMO_CODE_ERROR_109">Coś poszło nie tak (kod błędu: 109)</message>
+    <message key="PROMO_CODE_ERROR_110">Coś poszło nie tak (kod błędu: 110)</message>
+    <message key="PROMO_CODE_ERROR_111">Coś poszło nie tak (kod błędu: 111)</message>
+    <message key="PROMO_CODE_ERROR_112">Coś poszło nie tak (kod błędu: 112)</message>
+    <message key="PROMO_CODE_ERROR_150">Coś poszło nie tak (kod błędu: 150)</message>
+    <message key="PROMO_CODE_ERROR_151">Coś poszło nie tak (kod błędu: 151)</message>
+    <message key="PROMO_CODE_ERROR_152">Coś poszło nie tak (kod błędu: 152)</message>
+    <message key="PROMO_CODE_ERROR_153">Coś poszło nie tak (kod błędu: 153)</message>
+    <message key="PROMO_CODE_ERROR_154">Coś poszło nie tak (kod błędu: 154)</message>
+    <message key="PROMO_CODE_ERROR_155">Coś poszło nie tak (kod błędu: 155)</message>
+    <message key="PROMO_CODE_ERROR_156">Coś poszło nie tak (kod błędu: 156)</message>
+    <message key="PROMO_CODE_ERROR_200">Utrata połączenia z serwerem. Zaloguj się ponownie (kod błędu: 200)</message>
+    <message key="PROMO_CODE_ERROR_250">Kupon został już wykorzystany (kod błędu: 250)</message>
+    <message key="PROMO_CODE_ERROR_251">Kupon utracił ważność (kod błędu: 251)</message>
+    <message key="PROMO_CODE_ERROR_252">Kod kuponu nie istnieje (kod błędu: 252)</message>
+    <message key="PROMO_CODE_ERROR_253">Kod kuponu nie istnieje (kod błędu: 253)</message>
+    <message key="PROMO_CODE_ERROR_300">Wprowadź kod kuponu (kod błędu: 300)</message>
+    <message key="promoCodeBankButton">Wprowadź kod</message>
+    <message key="promoCodeFacebookLink">https://www.facebook.com/AvatarLife101XP/</message>
+    <message key="promoCodeInfo">Za kod możesz otrzymać prezent: pieniądze, status VIP, odzież i meble. Obserwuj nasz oficjalny serwis społecznościowy, bierz udział w wydarzeniach i zyskaj szansę na wygranie kodu!</message>
+    <message key="promoCodeInstagramLink">https://www.instagram.com/avatarlife_official/</message>
+    <message key="promoCodeRewardTake">Odbierz</message>
+    <message key="promoCodeRewardTitle">Otrzymujesz</message>
+    <message key="promoCodeTiktokLink">https://www.tiktok.com/share/user/6671145681372299269</message>
+    <message key="promoCodeDiscordLink">https://discord.gg/bRbs994mhH</message>
+    <message key="promoCodeTitle">Kod</message>
+    <message key="promoCodeVkLink">https://vk.com/avatariamobile</message>
+    <message key="promoCodeYoutubeLink">https://www.youtube.com/channel/UCug0BkcvHzvwSQrA-kNb4Gg</message>
+    <message key="promoEnterCode">Zdobądź nagrodę</message>
+    <message key="promoTextFieldPlaceHolder">Wprowadź kod</message>
+    <message key="promoWaitText">Zaczekaj. Trwa przyznawanie nagrody.</message>
+    <message key="publicBeachLocationTitle">Plaża</message>
+    <message key="publicBeachRaceActionsPanelDescription">Wybierz swoje działania:</message>
+    <message key="publicBeachRaceActionsPanelTitle">Dla siebie:</message>
+    <message key="publicBeachRaceBarriersPanelDescription">Umieść przeszkody na trasie przeciwnika:</message>
+    <message key="publicBeachRaceBarriersPanelTitle">Dla przeciwnika:</message>
+    <message key="publicBeachRaceDialogLabel">Wybierz przeciwnika w wyścigu surfingowym:</message>
+    <message key="publicPlacesTitle">Miejsca</message>
+    <message key="publish2ButtonTitle">Świetny!</message>
+    <message key="publishButtonTitle">opublikuj</message>
+    <message key="publishConfirm">Podziel się nowym osiągnięciem!</message>
+    <message key="publishCraftConfirm">Poprosić o pomoc przyjaciół?</message>
+    <message key="publishSuccess">Dziękujemy! Zdjęcie zostało opublikowane.</message>
+    <message key="publishWeddingConfirm">Podzielić się radością z przyjaciółmi?</message>
+    <message key="questLegendLabel0">zadanie obowiązkowe</message>
+    <message key="questLegendLabel1">zadanie dodatkowe</message>
+    <message key="questLegendLabel2">zadanie świąteczne</message>
+    <message key="questsTitle">Zadania</message>
+    <message key="questYouAwardTitle">Nagroda:</message>
+    <message key="RabbitDancePermissionsRequestMessage">Jeśli chcecie zatańczyć, musicie się najpierw pogodzić!</message>
+    <message key="RabbitDanceRequestApprovedMessage">:name: chętnie z tobą zatańczy! :)</message>
+    <message key="RabbitDanceRequestDeclinedMessage">:name: nie chce z tobą zatańczyć :(</message>
+    <message key="RabbitDanceRequestReceivedMessage">:name: chce z tobą zatańczyć. Zgadzasz się?</message>
+    <message key="RabbitDanceRequestSendedMessage">:name: wkrótce się dowie, że chcesz zatańczyć.</message>
+    <message key="randomAppearance">Losowy wygląd</message>
+    <message key="randomCraftTitle">Losowy wygląd</message>
+    <message key="rap">Rap</message>
+    <message key="ratingBattleTitle">Bitwa rankingowa</message>
+    <message key="ratingBattleWin">Jestem o :rating: wyżej w rankingu. Jestem od ciebie wyżej na liście sąsiadów.</message>
+    <message key="readyButtonTitle">gotów!</message>
+    <message key="receiveButtonTitle">odbierz</message>
+    <message key="receiveResourceMessage">Dostarczono ci zasoby</message>
+    <message key="refreshAfterUnban">Po opłaceniu odblokowania konta odśwież stronę i uruchom aplikację ponownie.</message>
+    <message key="regionCommunication">Wybierz region</message>
+    <message key="regionCommunicationAlertError">Nie udało się zmienić regionu. Zaloguj się ponownie do aplikacji i spróbuj jeszcze raz.</message>
+    <message key="regionCommunicationAlertMessage">Region zmieniony pomyślnie</message>
+    <message key="regionCommunicationAlertTitle">Zmień region</message>
+    <message key="regionTitle">Region</message>
+    <message key="relationAllGroup">Wszyscy znajomi</message>
+    <message key="relationAssociateGroup">Znajomi</message>
+    <message key="relationAssociates">znajomych</message>
+    <message key="relationBadAssociates">niedobrzy znajomi</message>
+    <message key="relationBadEnemys">wrogowie</message>
+    <message key="relationBadFriends">niedobrzy przyjaciele</message>
+    <message key="relationBeloveds">para</message>
+    <message key="relationBestFriends">najlepsi przyjaciele</message>
+    <message key="relationEnemyGroup">wrogowie</message>
+    <message key="relationEnemys">wrogowie</message>
+    <message key="relationEngageds">zaręczeni</message>
+    <message key="relationExBeloveds">byli zakochani</message>
+    <message key="relationExEnemys">byli wrogowie</message>
+    <message key="relationExEngageds">byli narzeczeni</message>
+    <message key="relationExFriends">byli przyjaciele</message>
+    <message key="relationExMarrieds">rozwiedzeni</message>
+    <message key="relationFriends">przyjaciele</message>
+    <message key="relationFriendsGroup">przyjaciele</message>
+    <message key="relationGoodAssociates">dobrzy znajomi</message>
+    <message key="relationGoodFriends">dobrzy przyjaciele</message>
+    <message key="relationLoveGroup">bliscy</message>
+    <message key="relationMarrieds">małżeństwo</message>
+    <message key="relationPermissionsRequestMessage">Nie łączą cię z użytkownikiem relacje, które to umożliwiają</message>
+    <message key="relationPermissionsRequestTitle">Zmiana relacji</message>
+    <message key="relationPermissionsShortRequestMessage">Nie łączą cię z użytkownikiem odpowiednie relacje</message>
+    <message key="relations">relacje</message>
+    <message key="relationsHeader">Relacje</message>
+    <message key="relationStrangerGroup">nieznajomi</message>
+    <message key="relationStrangers">nieznajomi</message>
+    <message key="relationWorstEnemys">zaprzysięgli wrogowie</message>
+    <message key="removeAllClothes">zdejmij wszystko</message>
+    <message key="removeBuddyButtonTitle">usuń z listy znajomych</message>
+    <message key="removeBuddyConfirmMessage">Odrzucić zaproszenie do grona znajomych od gracza :userName:?</message>
+    <message key="removeButtonTitle">usuń</message>
+    <message key="removeFriendButtonTitle">kłótnia</message>
+    <message key="removeFromBelovedButtonTitle">rozstań się</message>
+    <message key="removeFromEngagedButtonTitle">rozstań się</message>
+    <message key="removeFromMarriedButtonTitle">rozwiedź się</message>
+    <message key="removeObjectConfirm">Czy rzeczywiście chcesz usunąć ten przedmiot z mapy?</message>
+    <message key="removeObjectTitle">Usuwanie przedmiotów</message>
+    <message key="removeRelationAlert">Ty i :name: możecie odtąd spotykać się z innymi osobami.</message>
+    <message key="removeRelationConfirm">Czy rzeczywiście chcesz zerwać z graczem :name:?</message>
+    <message key="removeRelationTitle">Zerwanie</message>
+    <message key="removingAquariumObjectMessage">W akwarium pływają rybki. Stracisz je, jeśli przeniesiesz akwarium do zasobnika. Kontynuować?</message>
+    <message key="removingNyFirObjectMessage">Na choince są ozdoby. Jeśli schowasz ją do ekwipunku, ozdoby przepadną. Kontynuować?</message>
+    <message key="renameButtonTitle">zmień nazwę</message>
+    <message key="renameForGolds">Zmień za :golds:</message>
+    <message key="repairButtonTitle">Napraw</message>
+    <message key="require">wymagane</message>
+    <message key="resetAchievements">Wyzerować za :gold:</message>
+    <message key="resetAchievementsConfirmMessage">Czy rzeczywiście chcesz wyzerować wszystkie osiągnięcia?</message>
+    <message key="resetAchievementsConfirmTitle">Wyzerowanie osiągnięć</message>
+    <message key="resetAchievementsMessage">Możesz wyzerować wszystkie nagrody za :gold: szt. złota. Wszystkie osiągnięcia zostaną wyzerowane, ale zdobyte wcześniej statuetki pozostaną u ciebie na zawsze.</message>
+    <message key="resourcesDownloadProcess">Ładowanie...</message>
+    <message key="resourcesUnzipText">Wypakowywanie zasobów...</message>
+    <message key="retro">Retro</message>
+    <message key="ringNotDefinedMessage">Wybierz pierścionek, aby się oświadczyć.</message>
+    <message key="ringNotDefinedTitle">Nie wybrano pierścionka</message>
+    <message key="ringsButtonTitle">prezenty</message>
+    <message key="rock">Rock</message>
+    <message key="roomCloseButton0">bezpłatnie</message>
+    <message key="roomCloseButton1">za :resource:</message>
+    <message key="roomCloseButton2">za :resource:</message>
+    <message key="roomCloseDialogTitle">Zamknij mieszkanie</message>
+    <message key="roomCloseTimeLabel0">20 minut</message>
+    <message key="roomCloseTimeLabel1">1 godz.</message>
+    <message key="roomCloseTimeLabel2">12 godz.</message>
+    <message key="roomNameDialogDescription">Musisz nazwać pokój.</message>
+    <message key="roomNameDialogTitle">Nazwa pokoju</message>
+    <message key="roomRenameDialogDescription">Możesz zmienić nazwę tego pokoju.</message>
+    <message key="roomRenameDialogTitle">Nazwa pokoju</message>
+    <message key="roomScreenshotPublishDialogMessage">Opublikuj zdjęcie swojego pokoju, żeby przyjaciele pękli z zazdrości!</message>
+    <message key="roomScreenshotPublishDialogTitle">Publikacja zdjęcia</message>
+    <message key="rotateAction">Obróć</message>
+    <message key="rotateButtonTitle">obróć</message>
+    <message key="sale">sprzedaj</message>
+    <message key="saleCoins">Oddajesz</message>
+    <message key="saleEventCategories">WYPRZEDAŻ</message>
+    <message key="saleNoItemsText">Na razie nie masz żadnych przedmiotów, ale zawsze możesz sobie coś kupić w sklepie.</message>
+    <message key="salesDialogMessage">Korzystna oferta!</message>
+    <message key="salesDialogTitle">Wyprzedaż</message>
+    <message key="salonStylistName">Stylista</message>
+    <message key="saveButtonTitle">zapisz</message>
+    <message key="sayButtonTitle">powiedz</message>
+    <message key="schoolAvatariaTitle">Szkoła</message>
+    <message key="schoolGreeting_label">szkolne przywitanie</message>
+    <message key="schoolGreetingPermissionsRequestMessage">Jeśli chcecie się przywitać, musicie się najpierw pogodzić!</message>
+    <message key="schoolGreetingRequestApprovedMessage">:name: chętnie się z tobą przywita :)</message>
+    <message key="schoolGreetingRequestDeclinedMessage">:name: nie chce się z tobą przywitać :(</message>
+    <message key="schoolGreetingRequestReceivedMessage">:name: chce się z tobą przywitać. Zgadzasz się?</message>
+    <message key="schoolGreetingRequestSendedMessage">:name: wkrótce się dowie, że chcesz się przywitać.</message>
+    <message key="schoolPoetry_label">czytaj wiersze</message>
+    <message key="schoolWorkTitle">Szkoła</message>
+    <message key="screenShotInAlbum">Zrzut ekranu</message>
+    <message key="screenshotShareCaption">Zobacz!</message>
+    <message key="screenshotShareMessage">Rzuć okiem na rzut ekranu z mojej rozgrywki</message>
+    <message key="screenshotShareRequestMessage">Chcesz udostępnić zrzut ekranu?</message>
+    <message key="screenshotShareRequestTitle">Udostępnij zrzut ekranu</message>
+    <message key="selectAll">zaznacz wszystko</message>
+    <message key="selectAllBtnTitle">ZAZNACZ WSZYSTKO</message>
+    <message key="selectBestman">Wybierz świadka na swój ślub</message>
+    <message key="selectBridesmaid">Wybierz świadkową na swój ślub</message>
+    <message key="selectButtonTitle">wybierz</message>
+    <message key="selectColor">Wybór koloru</message>
+    <message key="selectEventCategory">KATEGORIA</message>
+    <message key="selectFriendToHelp">Poproś znajomego o pomoc</message>
+    <message key="selectPlayerDialogTitle">Wybierz gracza</message>
+    <message key="selectPlayersDialogTitle">Wybierz graczy</message>
+    <message key="selectWeddingRing">Wybierz obrączkę do przekazania</message>
+    <message key="sendBackCakeButtonTitle">zareaguj</message>
+    <message key="sendBackFireworkButtonTitle">odpal</message>
+    <message key="sendButtonTitle">wyślij</message>
+    <message key="sendCafeDishButtonTitle">poczęstuj</message>
+    <message key="sendCocktailButtonTitle">poczęstuj</message>
+    <message key="sendMailMessageButtonTitle">Zostaw wiadomość</message>
+    <message key="sendRelationLabel">Nowa relacja między tobą a graczem :name::</message>
+    <message key="sendRequestButtonTitle">wyślij zapytanie</message>
+    <message key="serverBusy">Aplikacja czasowo niedostępna.</message>
+    <message key="serverUpdating">Ładujemy właśnie aktualizację aplikacji Avataria. Prosimy o chwilę cierpliwości.</message>
+    <message key="setAvatarName">Wybierz imię dla swojego awatara:</message>
+    <message key="settingsTitle">Ustawienia</message>
+    <message key="shareDialogPhotoConfirmMessage">Udostępnić zdjęcie osobom, które na nim są?</message>
+    <message key="shareDialogPhotoConfirmTitle">Udostępnić?</message>
+    <message key="shopsButtonLabel">Sklepy</message>
+    <message key="shopsTitle">Sklepy</message>
+    <message key="SILVER_title">Srebro</message>
+    <message key="silverEventRating">srebrna gwiazda (:silver: S)</message>
+    <message key="silverLabel">srebro</message>
+    <message key="silverPacksDialogLabel">Potrzebujesz więcej srebra?</message>
+    <message key="silverTypeButtonTitle">za srebro</message>
+    <message key="sitButtonTitle">Usiądź</message>
+    <message key="sitOnHorseButtonTitle">Usiądź</message>
+    <message key="slapButtonTitle">spoliczkuj</message>
+    <message key="sleepingroomDoorTitle">Sypialnia</message>
+    <message key="smearCakeButtonTitle">rzuć tortem</message>
+    <message key="smiles">Uśmieszki</message>
+    <message key="smsAllowed">Dostępna jest płatność przez SMS</message>
+    <message key="snowBallKick_label">wrzuć</message>
+    <message key="socialOffers">Są także inne sposoby na zdobycie złotych monet!</message>
+    <message key="socialOfferTime">Wynagrodzenie naliczone zostanie za :time:</message>
+    <message key="socialOfferTitle">Korzystna oferta!</message>
+    <message key="socialPageButtonTitle">profil</message>
+    <message key="socialRequestMaxCountError">Możesz wysłać najwyżej 10 prezentów w ciągu dnia.</message>
+    <message key="socialRequestMaxUserCountError">Możesz wysłać najwyżej 1 prezent w ciągu dnia.</message>
+    <message key="sound">Dźwięk</message>
+    <message key="sp14RoomName">Pomieszczenie techniczne</message>
+    <message key="specialOfferAvatarMessage">Nie chcesz czekać na kolejną możliwość zarobku? Mamy dla ciebie niespodziankę – wspaniałe zniżki, tylko teraz! Nie przegap!</message>
+    <message key="spin">Zakręć!</message>
+    <message key="Spr19CafeTitle">Altanka wiosenna</message>
+    <message key="springDayFlowerCollectTime">Można zebrać za :time:</message>
+    <message key="stadium18TicketLabel">bilet na stadion</message>
+    <message key="stadiumTitle">Stadion</message>
+    <message key="startBattle">do boju!</message>
+    <message key="starterPackTitle">Wrzuć na luz!</message>
+    <message key="startFightGameTitle">Rozpocznij walkę</message>
+    <message key="steampunkCanFillTime">Można zatankować za :time:</message>
+    <message key="step">Krok</message>
+    <message key="storeSupport">Wsparcie!</message>
+    <message key="storeUrlApple">itms-apps://apps.apple.com/ru/app/id982229455?mt=8</message>
+    <message key="storeUrlGoogle">market://details?id=com.xp101.ava_rus</message>
+    <message key="streetLocationTitle">Ulica</message>
+    <message key="strikes">Uderzenia:</message>
+    <message key="strTossCoin">rzuć monetą</message>
+    <message key="stylistHairActionMessage1">Mama ostrzegała, ale nie mogę oderwać oczu od chłopców...</message>
+    <message key="stylistHairActionMessage2">Gwiazda w szoku!</message>
+    <message key="stylistHairActionMessage3">W domu chyba został włączony piekarnik...</message>
+    <message key="stylistHairActionMessage4">Nie, nie do twarzy mi z pasemkami. Nawet nie myśl dziś o wyjściu!</message>
+    <message key="stylistHairActionMessage5">Wyglądam elegancko!</message>
+    <message key="stylistHairActionMessage6">Dzisiaj na szóstą zapisał się Adam, a na 7:30 Rafał.</message>
+    <message key="stylistHairActionMessage7">Żadnych wyjść z chłopakami!</message>
+    <message key="stylistHairActionMessage8">Najważniejsze, żeby tusz się nie rozmazał.</message>
+    <message key="stylistInvitingActionMessage1">Siadaj, zaraz zrobimy cię na bóstwo!</message>
+    <message key="stylistInvitingActionMessage2">Fryzura, loki? Do usług, tu i teraz!</message>
+    <message key="stylistInvitingActionMessage3">Zaraz sprawię, że olśnisz wszystkich pięknym wyglądem!</message>
+    <message key="stylistInvitingActionMessage4">Śmiało, proszę wejść, proszę siadać!</message>
+    <message key="stylistInvitingActionMessage5">Kto następny? Mistrz jest gotowy do pracy!</message>
+    <message key="stylistInvitingActionMessage6">Piękno wymaga poświęceń? Zrobię wszystko, co trzeba!</message>
+    <message key="supportEventCategories">WYDARZENIE</message>
+    <message key="SV19Title">Altanka zakochanych</message>
+    <message key="sv2020ask">Zapytaj Kupidyna</message>
+    <message key="sv2020breakheart">Złam serce</message>
+    <message key="sv2020cong">Pogratuluj</message>
+    <message key="sv2020currency">Monety Kupidyna</message>
+    <message key="sv2020dream">Marzenie o miłości</message>
+    <message key="sv2020flower">Uprawiaj kwiaty</message>
+    <message key="sv2020flower2">Zetnij kwiat</message>
+    <message key="sv2020future">Zajrzyj w przyszłość</message>
+    <message key="sv2020kiss">Pocałunek miłosny</message>
+    <message key="sv2020wish">Wypowiedz życzenie</message>
+    <message key="swimsuitDresscodeDescription">Wymogi dotyczące stroju plażowego: kostium kąpielowy lub kąpielówki</message>
+    <message key="systemMessage">Ważny komunikat</message>
+    <message key="TabBest">Najlepsze</message>
+    <message key="TabChips">Żetony</message>
+    <message key="TabEnergy">Energia</message>
+    <message key="TabEvent">Wydarzenie</message>
+    <message key="TabFree">Za darmo</message>
+    <message key="TabGold">Złoto</message>
+    <message key="TabSilver">Srebro</message>
+    <message key="TabVip">VIP</message>
+    <message key="takeGiftMessage">Przysłano ci prezent. Kelner zaraz go przyniesie.</message>
+    <message key="takeGiftTitle">Prezent dla ciebie</message>
+    <message key="takeGiftWithSenderMessage">Gracz :name: wysłał ci prezent. Kelner zaraz go przyniesie.</message>
+    <message key="takeWin">Odbierz wygraną</message>
+    <message key="targetMaxAssociateMessage">Nie można dodać nowego znajomego, ponieważ jego lista znajomych jest pełna.</message>
+    <message key="targetMaxEnemyMessage">Nie można dodać nowego wroga, ponieważ jego lista znajomych jest pełna.</message>
+    <message key="targetOfferDialogConfigMessage">Na pewno chcesz zamknąć to okno? Druga szansa może się nie pojawić.</message>
+    <message key="teachertable_label">uczyć</message>
+    <message key="thankyou">Dzięki!</message>
+    <message key="theme1Label">Plaża</message>
+    <message key="theme2Label">Kosmos</message>
+    <message key="theme3Label">Park Jurajski</message>
+    <message key="theme4Label">Rockowa scena</message>
+    <message key="theme5Label">Podium</message>
+    <message key="theme6Label">Skate park</message>
+    <message key="theme7Label">Jacht</message>
+    <message key="theme8Label">Siłownia</message>
+    <message key="things">przedmioty</message>
+    <message key="throwBack">Odrzucić?</message>
+    <message key="throwCakeTitle">Rzuć tortem!</message>
+    <message key="throwSnowball_label">rzuć śnieżką</message>
+    <message key="timeD">:days: d.</message>
+    <message key="timeH">:hours: godz.</message>
+    <message key="timeM">:minutes: min</message>
+    <message key="timeS">:seconds: s</message>
+    <message key="toAlbumButtonTitle">opublikuj</message>
+    <message key="toBasket">do koszyka</message>
+    <message key="toCanyonButtonLabel">Do kanionu</message>
+    <message key="today">dzisiaj</message>
+    <message key="todayGiftTitle">Dzisiaj</message>
+    <message key="tooEarlyNYGiftOpenErrorMessage">Jeszcze za wcześnie! Możesz otworzyć prezent dopiero po 1 stycznia.</message>
+    <message key="tooLongAvatarNameWarning">Imię awatara jest za długie</message>
+    <message key="tooLoudMessage">W pokoju jest już sprzęt grający.</message>
+    <message key="tooLoudTitle">Za głośno</message>
+    <message key="tooMuchPhotoUsersMessage">Nie możesz dodać więcej</message>
+    <message key="tooShortAvatarNameWarning">Imię awatara jest za krótkie</message>
+    <message key="toSneeze">Kichnij</message>
+    <message key="total">Łącznie:</message>
+    <message key="tradeButtonTitle">wymień się</message>
+    <message key="tradeDialogTitle">Wymiana</message>
+    <message key="tradeFailMessage">:userName: nie chce wymieniać się z tobą rzeczami.</message>
+    <message key="tradeFailTitle">Wymiana wyłączona</message>
+    <message key="tradeLevelMessage">Aby wymieniać się rzeczami, musisz osiągnąć %i poziom.</message>
+    <message key="tradeNoItemsText">Niestety, lista przedmiotów do wymiany jest pusta.</message>
+    <message key="tradePermissionsRequestMessage">Aby wymieniać rzeczy z innymi graczami, musicie być dobrymi znajomymi. Chcesz zostać znajomym?</message>
+    <message key="tradePermissionsRequestMessage2">Aby wymieniać się rzeczami, musicie być dobrymi znajomymi.</message>
+    <message key="tradeRequestDialogTitle">Prośba o wymianę</message>
+    <message key="tradeSuccessMessage">Wymiana przedmiotów z użytkownikiem :userName: udała się.</message>
+    <message key="tradeSuccessTitle">Udana wymiana</message>
+    <message key="traditionalReg">Rosja i WNP</message>
+    <message key="transfer">przesyłanie</message>
+    <message key="transferButtonTitle">przesyłanie</message>
+    <message key="transferConfirmMessage">Przekazać pieniądze?</message>
+    <message key="transferDialogLabel">Wybierz:</message>
+    <message key="transferDialogTitle">Wymiana zasobów</message>
+    <message key="transferErrorMessage">Wskaż, ile złota i srebra chcesz przekazać</message>
+    <message key="transferGameItemsDescription">Surowce z powodzeniem dodane do ekwipunku.</message>
+    <message key="transferGameItemsTitle">Przesyłanie zasobów.</message>
+    <message key="transferGameResourcesDescription">Paczka odebrana z powodzeniem.</message>
+    <message key="transferGameResourcesTitle">Paczka.</message>
+    <message key="transferInventoryButtonTitle">przesyłanie</message>
+    <message key="transferInventoryItemDailogTitle">Przekazanie przedmiotów</message>
+    <message key="transferInventoryItemLabel">Wybierz przedmiot, który chcesz przekazać:</message>
+    <message key="transferIslandResourcesDialogTitile">Masz przesyłkę</message>
+    <message key="transferItemButtonTitle">przekaż przedmioty</message>
+    <message key="transferRemaindText">W grze pozostanie:</message>
+    <message key="transferResourceButtonTitle">przekaż zasoby</message>
+    <message key="transferResourcesConfirmDialogTitile">Potwierdzenie przekazu</message>
+    <message key="transferResourcesConfirmTitle">Wymieniasz:</message>
+    <message key="transferResourcesDialogTitile">Przekaż pieniądze</message>
+    <message key="transferSuccessMessage">Zasoby zostały wysłane</message>
+    <message key="trashInviteMessage">W ciągu dnia możesz posprzątać w :maxCount: mieszkaniach sąsiadów. Chcesz zaprosić do gry swoich przyjaciół?</message>
+    <message key="trashInviteTitle">Sprzątanie śmieci</message>
+    <message key="treadButtonTitle">Poczęstuj</message>
+    <message key="triksCategory">Psikusy</message>
+    <message key="trowPaperPlane_label">puść papierowy samolot</message>
+    <message key="turnOffButtonTitle">Wyłącz</message>
+    <message key="turnOnButtonTitle">Włącz</message>
+    <message key="tvach1">Podróże</message>
+    <message key="tvach2">Fitness</message>
+    <message key="tvach3">Podwodny</message>
+    <message key="tvmch1">Podróże</message>
+    <message key="tvmch2">Fitness</message>
+    <message key="tvmch3">Podwodny</message>
+    <message key="tvbch1">Muzyczny</message>
+    <message key="tvbch2">Wiadomości</message>
+    <message key="tvbch3">Fantastyka</message>
+    <message key="tvbch4">Taneczny</message>
+    <message key="tvbigch1">Muzyczny</message>
+    <message key="tvbigch2">Fantastyka</message>
+    <message key="tvbigch3">Taneczny</message>
+    <message key="tvbigch4">Fitness</message>
+    <message key="tvlch1">Wiadomości</message>
+    <message key="tvlch2">Przyroda</message>
+    <message key="tvpch1">Podróże</message>
+    <message key="tvpch2">Wypoczynek</message>
+    <message key="tvpch3">Fantasy</message>
+    <message key="twiceMoreGold">Podwójne złoto!</message>
+    <message key="type_label">wpisz tekst</message>
+    <message key="unbanButtonTitle">Odblokuj</message>
+    <message key="unbanLabel">Możesz odblokować swoje konto za :coins:</message>
+    <message key="unblockUserButtonTitle">odblokuj</message>
+    <message key="unknownError">Wystąpił błąd. Wykonaj działanie jeszcze raz, a jeśli błąd się powtórzy, uruchom aplikację ponownie.</message>
+    <message key="unlockHouseButtonTitle">Otwórz mieszkanie</message>
+    <message key="unlockHouseConfirm">Czy chcesz otworzyć mieszkanie, żeby przyjmować gości i urządzać u siebie imprezy?</message>
+    <message key="updateBonusQuestHint">Pomiń</message>
+    <message key="updateButtonTitle">zaktualizuj</message>
+    <message key="useAntiseptic">Użyj środka antyseptycznego</message>
+    <message key="useApplianceBatDescription">Teraz wybierz sprzęt, który chcesz zepsuć</message>
+    <message key="useButtonTitle">użyj</message>
+    <message key="useChairBombDescription">Teraz wybierz przedmiot, na którym można usiąść</message>
+    <message key="useFireworkDescription">Pokaż, gdzie umieścić fajerwerki</message>
+    <message key="useFireworkOnStreetDescription">Fajerwerki można odpalać tylko na zewnątrz!</message>
+    <message key="useFishDescription">Teraz wybierz akwarium.</message>
+    <message key="useJacuzziWormdsDescription">Teraz wybierz jacuzzi w pokoju</message>
+    <message key="useJokeHintMessage">Teraz możesz użyć tego przedmiotu z ekwipunku.</message>
+    <message key="user_wakeup_return">Połączenie z serwerem zostało przerwane ze względów bezpieczeństwa. Aby tego uniknąć w przyszłości, nie zamykaj aplikacji.</message>
+    <message key="userBanned">Użytkownik jest zablokowany</message>
+    <message key="userNotFound">Gracz nie został odnaleziony.</message>
+    <message key="userNotFoundError">Nieznany użytkownik. Błąd połączenia z siecią społecznościową.</message>
+    <message key="userOffline">Gracz w trybie offline. To działanie będzie można wykonać, kiedy użytkownik będzie online.</message>
+    <message key="userRatingButtonHint">Ranking</message>
+    <message key="userRatingDialogTitle">Najlepsi gracze</message>
+    <message key="useScrewdriverDescription">Teraz wybierz sprzęt, który chcesz zepsuć</message>
+    <message key="victroyBandInfo">Wstęgę św. Jerzego można stworzyć w warsztacie i umieścić w swoim mieszkaniu, na przykład na drzwiach.</message>
+    <message key="victroyDayInfo">Z okazji Dnia Zwycięstwa w sklepie pojawiło się świąteczne graffiti, a w warsztacie można stworzyć wstęgę św. Jerzego, która ozdobi twoje mieszkanie.</message>
+    <message key="victroyGraffityInfo">Chcesz złożyć przyjacielowi życzenia z okazji święta? Namaluj na jego tablicy nowe graffiti „Dzień Zwycięstwa”!</message>
+    <message key="viewMailMessage">obejrzyj</message>
+    <message key="viewNewOpportunitiesButton">poznaj nowe możliwości</message>
+    <message key="VIP_title">VIP</message>
+    <message key="vip14Days">14 dni</message>
+    <message key="Vip14daysPrice">14 dni za</message>
+    <message key="Vip21daysPrice">21 dni za</message>
+    <message key="vip30Days">30 dni</message>
+    <message key="vip5Days">5 dni</message>
+    <message key="Vip7daysPrice">7 dni za</message>
+    <message key="VipBonusDescription1">Niszczenie przedmiotów należących do graczy ze statusem VIP jest niemożliwe. Można jednak nadal używać bomb z farbą.</message>
+    <message key="vipBonusDescription1">Niszczenie przedmiotów należących do graczy ze statusem VIP jest niemożliwe. Można jednak nadal używać bomb z farbą.</message>
+    <message key="VipBonusDescription2">Szanse pozyskania zasobów niezbędnych do tworzenia przedmiotów w warsztacie wzrastają dwukrotnie!</message>
+    <message key="vipBonusDescription2">Szanse pozyskania zasobów niezbędnych do tworzenia przedmiotów w warsztacie wzrastają dwukrotnie!</message>
+    <message key="VipBonusDescription3">Dwa razy więcej srebra za zwycięstwa w bitwach na poduszki!</message>
+    <message key="vipBonusDescription3">Dwa razy więcej srebra za zwycięstwa w bitwach na poduszki!</message>
+    <message key="VipBonusDescription4">Gracze z aktywnym statusem VIP uzyskują możliwość dostosowania wyglądu okienka z informacjami.</message>
+    <message key="vipBonusDescription4">Gracze z aktywnym statusem VIP uzyskują możliwość dostosowania wyglądu okienka z informacjami.</message>
+    <message key="VipBonusDescription5">Dostęp do pokoju VIP w klubie, gdzie można bezpłatnie regenerować energię.</message>
+    <message key="vipBonusDescription5">Dostęp do pokoju VIP w klubie, gdzie można bezpłatnie regenerować energię.</message>
+    <message key="VipBonusDescription6">Posiadacz statusu VIP ma dostęp do ekskluzywnej odzieży i mebli w sklepie.</message>
+    <message key="vipBonusDescription6">Posiadacz statusu VIP ma dostęp do ekskluzywnej odzieży i mebli w sklepie.</message>
+    <message key="vipBonusDescription7">Tylko posiadacze statusu VIP mogą bezpłatnie uzupełniać energię innych graczy.</message>
+    <message key="vipBonusTitle7">Podaruj sobie zastrzyk energii!</message>
+    <message key="vipButtonTitle">nadaj status VIP</message>
+    <message key="vipExpired">upłynie :date:</message>
+    <message key="vipExpiredToday">upłynie dzisiaj</message>
+    <message key="VipFeature1">Ochrona przed sabotażem!</message>
+    <message key="VipFeature2">Jeszcze więcej zasobów!</message>
+    <message key="VipFeature3">Podwójne nagrody</message>
+    <message key="VipFeature4">Wyróżnij się</message>
+    <message key="VipFeature5">Wstęp do pokoju dla VIP-ów</message>
+    <message key="VipFeature6">Wyjątkowe przedmioty</message>
+    <message key="vipLocationTitle">Strefa VIP</message>
+    <message key="vipProlongButton">Oczywiście!</message>
+    <message key="vipProlongCaption">O, nie! Zdaje się, że nie masz już statusu VIP</message>
+    <message key="vipProlongText">Przedłuż o:</message>
+    <message key="vipRefillTimeNotExpiredMessage">Można zregenerować za :time:</message>
+    <message key="vipRefillTimeNotExpiredTitle">Czas nie minął</message>
+    <message key="vipRoomForbiddenMessage">Wstęp do pokoju dla VIP-ów jamą tylko posiadacze statusu VIP. Chcesz go uzyskać?</message>
+    <message key="vipRoomTitle">Pokój dla VIP-ów</message>
+    <message key="vipSaleInfo">Uwaga! Niesamowite rabaty na status VIP tylko przez kilka dni. Nie zwlekaj, zostań VIP-em!</message>
+    <message key="vipSoonExpireDescription">Termin ważności twojego statusu VIP :expired:</message>
+    <message key="vipSoonExpireDialogTitle">Przypomnienie</message>
+    <message key="vipSpotDeafultHintText">Status VIP otworzy przed tobą nowe możliwości</message>
+    <message key="vipStatusLabel">status VIP</message>
+    <message key="vipTypeButtonTitle">VIP</message>
+    <message key="vipWaitressName">Kelner</message>
+    <message key="visitEventButton">odwiedź</message>
+    <message key="visitHouseButtonTitle">odwiedź</message>
+    <message key="vkGroupLabel">Grupa VK</message>
+    <message key="vkontakte">VK.com</message>
+    <message key="waitDownloadText">Poczekaj na załadowanie zasobów.</message>
+    <message key="walkToButtonTitle">przejdź</message>
+    <message key="wallPresentedVipDescription">Podarowano mi status VIP i teraz mogę wchodzić do zamkniętej strefy VIP, za darmo regenerować energię i robić wiele innych rzeczy!</message>
+    <message key="warning">Uwaga!</message>
+    <message key="warningCakeMessage">:userName: :genderDrop: rzuca w ciebie tortem.</message>
+    <message key="warningCakeTitle">Uwaga, tort!</message>
+    <message key="washButtonTitle">umyj się</message>
+    <message key="WaterFlower2_label">Podlewanie</message>
+    <message key="wble1">Muzyczny</message>
+    <message key="wble2">Fantastyka</message>
+    <message key="wble3">Taneczny</message>
+    <message key="wble4">Podwodny</message>
+    <message key="wearAllClothesItemsLabel">przebierz</message>
+    <message key="weddingCancelled">Ceremonia została przerwana</message>
+    <message key="weddingClothesCheck">Kup :weddingClothes:.</message>
+    <message key="weddingDressCodeTitle">Nieodpowiedni strój</message>
+    <message key="weddingEventCategories">ŚLUB</message>
+    <message key="weddingEventCheck">Zorganizuj ślub i zaproś gości.</message>
+    <message key="weddingEventCheckDetails">Na ślubie będzie potrzebna para świadków, których można wybrać spośród zaproszonych gości.</message>
+    <message key="weddingEventNotification">Gratulacje, wydarzenie zostało zorganizowane! Teraz zaproś gości na swoją uroczystość.</message>
+    <message key="weddingEventWallDescription">Wkrótce odbędzie się mój ślub w grze Avataria! Zapraszam wszystkich gości, aby przybyli na uroczystość i cieszyli się naszym szczęściem!</message>
+    <message key="weddingRingsCheck">Kup :weddingRings:.</message>
+    <message key="weddingRingsCheckDetails">Obrączki można obejrzeć, przymierzyć i kupić w sklepie z akcesoriami ślubnymi.</message>
+    <message key="weddingRingsErrorTitle">Brakuje obrączek</message>
+    <message key="weddingShopDialogTitle">Salon ślubny</message>
+    <message key="weddingShopTitle">Sklep ślubny</message>
+    <message key="weddingStepsMessage">Aby ślub się udał, trzeba się dobrze przygotować</message>
+    <message key="weddingStepsTitle">Przygotowania do ślubu</message>
+    <message key="weddingWitness_nocensRequestDeclinedMessage">:name: nie chce świadkować na twoim ślubie.</message>
+    <message key="weddingWitnessCongratulationMessage">Gratulacje! Wybrano cię na świadka na ślubie graczy :name1: i :name2:</message>
+    <message key="weddingWitnessReceivedMessage">:name: proponuje ci świadkowanie na ślubie. Zgadzasz się?</message>
+    <message key="weddingWitnessRequestApprovedMessage">:name: będzie świadkiem na twoim ślubie.</message>
+    <message key="weddingWitnessRequestApprovedTitle">Świadek się zgadza</message>
+    <message key="weddingWitnessRequestDeclinedMessage">:name: nie chce świadkować na twoim ślubie.</message>
+    <message key="weddingWitnessRequestDeclinedTitle">Odmowa</message>
+    <message key="weddingWitnessRequestSendedMessage">:name: dowie się za chwilę, że proponujesz jej/mu świadkowanie.</message>
+    <message key="weddingWitnessRequestSendedTitle">Propozycja zostania świadkiem</message>
+    <message key="weddingWitnessWallDescription">Moi przyjaciele, :name1: i :name2:, pobierają się! Poprosili mnie o świadkowanie na ich ślubie!</message>
+    <message key="windowButtonLabel">Wielkość ekranu</message>
+    <message key="winJackpotWallTitle">Udało mi się zgarnąć całą pulę!</message>
+    <message key="workCooldownOver">Nadgodziny</message>
+    <message key="workCooldownTime">Do końca zmiany :time:</message>
+    <message key="workLocationsTitle">Praca</message>
+    <message key="workshopdefault">Standard</message>
+    <message key="workshopenergetic">Energie</message>
+    <message key="workshopevent">Szkoła</message>
+    <message key="wrongApiVersion">Dostępna jest aktualizacja aplikacji Avataria. Aby wypróbować nowe funkcje, kliknij OK i zaktualizuj aplikację.</message>
+    <message key="wrongApiVersionDown">Aplikacja Avataria została zaktualizowana. Aby korzystać ze wszystkich nowych funkcji, zainstaluj nową wersję aplikacji ze sklepu z aplikacjami.</message>
+    <message key="wrongApiVersionUp">Trwa aktualizacja serwera gry. Dziękujemy za cierpliwość i wyrozumiałość.</message>
+    <message key="wrongIp">To działanie nie może zostać przeprowadzone z tego samego adresu IP.</message>
+    <message key="wrongNameLength">Błędna długość nazwy.</message>
+    <message key="wtvop1">Muzyczny</message>
+    <message key="wtvop2">Taneczny</message>
+    <message key="wtvop3">Fantastyka</message>
+    <message key="wtvop4">Podwodny</message>
+    <message key="XLoveKiss_label">Buziak</message>
+    <message key="yesButtonTitle">tak</message>
+    <message key="yesterday">wczoraj</message>
+    <message key="youAreBanned">Dostęp tymczasowo ograniczony</message>
+    <message key="yourComputer">ten komputer</message>
+    <message key="youReceived">Otrzymujesz</message>
+    <message key="yourEvent">TWOJE WYDARZENIE</message>
+    <message key="yourHorseAmusiment">ta huśtawka</message>
+    <message key="yourJacuzzi">to jacuzzi</message>
+    <message key="yourMusicCenter">ten sprzęt grający</message>
+    <message key="yourOrder">Zamówienie gotowe</message>
+    <message key="yourOrderFrom">Zamówienie od: :name:</message>
+    <message key="yourRefrigerator">ta lodówka</message>
+    <message key="yoursApartments">Twoje mieszkanie</message>
+    <message key="yoursWin">Twoja wygrana</message>
+    <message key="yourTv">ten telewizor</message>
+    <message key="youtubeLink">https://www.youtube.com/channel/UCG_VNSJ48SqPq0gOwIJJoKQ</message>
+    <message key="youWin">Ty :gender:</message>
+    <message key="zeroTransferWarning">Nic nie wybrano. Naciskając strzałki po lewej stronie kwoty, ustal liczbę przekazywanych monet.</message>
+    <plural key="buddy">
+      <form>znajomy</form>
+      <form>znajomych</form>
+      <form>znajomych</form>
+    </plural>
+    <plural key="counters">
+      <form>Żetony: :value:</form>
+      <form>Żetony: :value:</form>
+      <form>Żetony: :value:</form>
+    </plural>
+    <plural key="credits">
+      <form>Kredyty: :value:</form>
+      <form>Kredyty: :value:</form>
+      <form>Kredyty: :value:</form>
+    </plural>
+    <plural key="days">
+      <form>dni</form>
+      <form>dni</form>
+      <form>dzień</form>
+    </plural>
+    <plural key="dnPoints">
+      <form>:value: pkt.</form>
+      <form>:value: pkt.</form>
+      <form>:value: pkt.</form>
+    </plural>
+    <plural key="enrgPoints">
+      <form>:value: jedn. energii</form>
+      <form>:value: jedn. energii</form>
+      <form>:value: jedn. energii</form>
+    </plural>
+    <plural key="eurs">
+      <form>:value: EUR</form>
+      <form>:value: EUR</form>
+      <form>:value: EUR</form>
+    </plural>
+    <plural key="eventCoins">
+      <form>Monety: :value:</form>
+      <form>Monety: :value:</form>
+      <form>Monety: :value:</form>
+    </plural>
+    <plural key="fotomoneys">
+      <form>:value: FM</form>
+      <form>:value: FM</form>
+      <form>:value: FM</form>
+    </plural>
+    <plural key="gameChips">
+      <form>Żetony: :value:</form>
+      <form>Żetony: :value:</form>
+      <form>Żetony: :value:</form>
+    </plural>
+    <plural key="gift">
+      <form>prezent</form>
+      <form>prezentów</form>
+      <form>prezenty</form>
+    </plural>
+    <plural key="gldPoints">
+      <form>:value: szt. złota</form>
+      <form>:value: szt. złota</form>
+      <form>:value: szt. złota</form>
+    </plural>
+    <plural key="golds">
+      <form>Złote monety: :value:</form>
+      <form>Złote monety: :value:</form>
+      <form>Złote monety: :value:</form>
+    </plural>
+    <plural key="lvls">
+      <form>:value: POZ.</form>
+      <form>:value: POZ.</form>
+      <form>:value: POZ.</form>
+    </plural>
+    <plural key="oks">
+      <form>:value: OK</form>
+      <form>:value: OK</form>
+      <form>:value: OK</form>
+    </plural>
+    <plural key="points">
+      <form>:value: pkt.</form>
+      <form>:value: pkt.</form>
+      <form>:value: pkt.</form>
+    </plural>
+    <plural key="rooms">
+      <form>Pokoje: :value:</form>
+      <form>Pokoje: :value:</form>
+      <form>Pokoje: :value:</form>
+    </plural>
+    <plural key="rurs">
+      <form>E-maile: :value:</form>
+      <form>E-maile: :value:</form>
+      <form>E-maile: :value:</form>
+    </plural>
+    <plural key="schoolPoints">
+      <form>:value: pkt.</form>
+      <form>:value: pkt.</form>
+      <form>:value: pkt.</form>
+    </plural>
+    <plural key="seconds">
+      <form>:value: s</form>
+      <form>:value: s</form>
+      <form>:value: s</form>
+    </plural>
+    <plural key="slvrPoints">
+      <form>:value: szt. srebra</form>
+      <form>:value: szt. srebra</form>
+      <form>:value: szt. srebra</form>
+    </plural>
+    <plural key="silvers">
+      <form>Srebrne monety: :value:</form>
+      <form>Srebrne monety: :value:</form>
+      <form>Srebrne monety: :value:</form>
+    </plural>
+    <plural key="votes">
+      <form>Głosy: :value:</form>
+      <form>Głosy: :value:</form>
+      <form>Głosy: :value:</form>
+    </plural>
+    <message key="dailyGiftDaynoLabel">To Twój :dayno: dzień w Avatarii!</message>
+    <message key="dailyGiftMoveToReward">Przejdź do dzisiejszej nagrody</message>
+    <message key="tomorrowGiftTitle">Jutro</message>
+    <message key="dailyGiftInTwoDays">Odbierz tę nagrodę po 2 dniach grania</message>
+    <message key="dailyGiftTakeButton">Odbierz nagrodę</message>
+    <message key="dailyGiftNextRewardIn">Następna nagroda za:</message>
+    <message key="message2items">2 przedmioty</message>
+    <message key="message3items">3 przedmioty</message>
+    <message key="message4items">4 przedmioty</message>
+    <message key="useBombCountDescription">O! Ktoś już podłożył tu bombę</message>
+    <message key="useItemOnFlatDescription">Tego przedmiotu można używać tylko podczas odwiedzania innego gracza</message>
+    <message key="levelupCraftButton">Warsztat</message>
+    <message key="levelupShopButton">Sklep</message>
+    <message key="levelupNew">NEW</message>
+    <message key="sendMessageToBlockedTitle">Zablokowano!</message>
+    <message key="sendMessageToBlockedAlert">Nie możesz wysłać wiadomości, ponieważ ten gracz jest zablokowany</message>
+    <message key="searchBlockedTitle">Zablokowano!</message>
+    <message key="searchBlockedAlert">Ten gracz zablokował Cię, więc nie możesz go odwiedzić</message>
+    <message key="socialActionBlockedTitle">Zablokowano!!</message>
+    <message key="socialActionBlockedAlert">Ten gracz zablokował Cię – to działanie jest niemożliwe</message>
+    <message key="followBlockedTitle">Zablokowano!</message>
+    <message key="followBlockedAlert">Ten gracz zablokował Cię, więc nie możesz zostać gościem</message>
+    <message key="BlockedTitle">Zablokowano!</message>
+    <message key="BlockedAlert">Ten gracz zablokował Cię</message>
+    <message key="addEngagedBlockedTitle">Zablokowano!</message>
+    <message key="addEngagedBlockedAlert">Nie możesz zaręczyć się, ponieważ ten gracz zablokował Cię</message>
+    <message key="relationBlockedGroup">Zablokowani użytkownicy</message>
+    <message key="addBlackListTitle">Zablokuj</message>
+    <message key="addBlackListConfirm">Chcesz zablokować tego gracza?</message>
+    <message key="addBlackListAlert">Gracz zablokowany</message>
+    <message key="removeBlackListTitle">Odblokuj</message>
+    <message key="removeBlackListConfirm">Czy na pewno chcesz odblokować tego gracza?</message>
+    <message key="removeBlackListAlert">Gracz odblokowany</message>
+    <message key="blockedBuddyListEmpty">Lista jest pusta. Będą na niej widnieć zablokowani przez Ciebie gracze.</message>
+    <message key="oversizeBlackListTitle">Lista jest pełna.</message>
+    <message key="oversizeBlackListLabel">Musisz najpierw odblokować innych graczy, aby zwolnić miejsce.</message>
+    <message key="shopItemsNotFound">Obecnie nie ma produktów w tej sekcji. Pojawią się później, bądźcie czujni!</message>
+    <message key="exchangeDealResult">Wynik wymiany:</message>
+    <message key="addedBlackListTitle">zablokowany:</message>
+    <message key="somethingWentWrong">Ups! Coś poszło nie tak...</message>
+    <message key="tryAgainLater">Spróbuj ponownie później</message>
+    <message key="promo_waterpistol_title">Walka na pistolety na wodę!</message>
+    <message key="promo_waterpistol_text">Sezon plażowy już prawie zamknięty, lecz w Awatarii lato nigdy się nie kończy! Zdmuchnij kurz ze swojego wiernego pistoletu na wodę, wyjdź na plażę i stań do walki o tytuł najlepszego strzelca! Niech wygra gracz, który strzela najcelniej!</message>
+    <message key="promo_waterpistol_button">Na plażę!</message>
+    <message key="YourFirstGun_ribbon">Za darmo!</message>
+    <message key="YourFirstGun_comment">Pierwszy pistolet</message>
+    <message key="YourFirstGunTitle">Twój pierwszy pistolet!</message>
+    <message key="YourFirstGun_button">Zdobądź za darmo</message>
+    <message key="labelMoveDone">Wykonano ruch!</message>
+    <message key="waterPistolSmallTime">Pospiesz się! Nie ma czasu do stracenia!</message>
+    <message key="waterPictolTutor1">Wybierz gracza i kliknij przycisk Wodna walka, aby rozpocząć starcie z innym graczem.</message>
+    <message key="waterPictolTutor2">Wybieraj działania, które wykonasz podczas walki, trafiaj w czułe miejsca i zdobywaj punkty. Jeśli zauważysz, że przeciwnik zamierza w tej rundzie zaatakować, broń się!</message>
+    <message key="waterPictolTutor3">Walka składa się z 5 rund. Wygrywa gracz, który zgromadzi największą liczbę punktów.</message>
+    <message key="waterPictolTutor4">Twoja siła zależy od jakości ekwipunku! W sklepie zawsze znajdziesz stroje kąpielowe i kąpielówki, które zapewniają premie, a także pistolety na wodę!</message>
+    <message key="block_pop">Zablokuj!</message>
+    <message key="waterpistolButtonTitle">Wodna walka</message>
+    <message key="shellCoin">Muszle</message>
+    <message key="BeachFightclothes">Sklep plażowy</message>
+    <message key="Pistols_label">Pistolety</message>
+    <message key="roundCounter">Runda :value: z :endvalue:</message>
+    <message key="waterPistolRequestReceivedMessage">Gracz :name: właśnie wyzwał Cię na pojedynek z użyciem pistoletów na wodę! Zgadzasz się?</message>
+    <message key="waterPistolRequestSendedMessage">:name: za chwilę dowie się o Twojej chęci do walki</message>
+    <message key="waterPistolRequestDeclinedMessage">:name: nie chce się z tobą kłócić</message>
+    <message key="nopistolCancelRequest">Aby rozpocząć walkę, musisz kupić pistolet na wodę.</message>
+    <message key="waterPistolsTopPanelLabel">Wodna walka</message>
+    <message key="understood">Rozumiem</message>
+    <message key="WPShellLootDescrioption">Można je zdobyć biorąc udział w walkach na pistolety wodne.</message>
+    <message key="waitForTimeoutText">Spróbuj ponownie później.</message>
+    <message key="shopTabChangeNotification">Aby zaktualizować wybrany strój, należy go najpierw zaaplikować korzystając z garderoba i wrócić na zakupy. W przeciwnym razie dane tego stroju mogą zostać nadpisane. Chcesz otworzyć garderoba?</message>
+    <message key="buddyLimitExcededDialog">Nie można dodać tego gracza. Lista twoich znajomych jest pełna. Czy chcesz otworzyć listę swoich znajomych?</message>
+    <message key="buddyLimitExcededDialogAnother">Nie można dodać tego gracza. Lista znajomych tego gracza jest pełna.</message>
+    <message key="assotiateLimitExceeded">Nie można dodać tego gracza. Lista twoich znajomych jest pełna.</message>
+    <message key="enemyLimitExcededDialog">Nie można dodać tego gracza. Lista twoich wrogów jest pełna. Chcesz otworzyć listę swoich wrogów?</message>
+    <message key="enemyLimitExcededDialogAnother">Nie można dodać tego gracza. Lista wrogów tego gracza jest pełna.</message>
+    <message key="getBonusCurrencyMessage">Otrzymujesz :value:.</message>   
+    <message key="addBuddyButtonTitle2">Dodać</message>
+    <message key="passportWriteMessage">Napisać</message>
+    <message key="passportNameChangeDescription">Nazwa musi mieć od 4 do 12 znaków. Nazwa nie powinna zawierać znaków specjalnych, emotikonów, nowych wierszy ani przekleństw.</message>
+    <message key="passportNameChange">Zmień :gold:</message>
+    <message key="createAvatarTitleNameDescription">Nazwa musi mieć od 4 do 12 znaków. Nazwa nie powinna zawierać znaków specjalnych, emotikonów, nowych wierszy ani przekleństw.</message>
+    <message key="dsvCastleLocationTitle">Sekretny pokój</message>
+    <message key="bankToArtefact">Dołącz do 101 ARTEFAKT!</message>
+    <message key="newsArtefactButton">ARTEFAKT</message>
+    <message key="artefactTranslation">Nowy!</message>
+    <message key="artefactPromoLabel">101 ARTEFAKT</message>
+  </locale>
+</dictionary>

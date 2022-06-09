@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dictionary>
+  <locale name="es">
+    <message key="incompleteTutorialTitle">Avatar Life</message>
+    <message key="incompleteTutorialText">Todavía no has completado el tutorial. ¡Te esperan un montón de aventuras!</message>
+    <message key="visitReminder1Title">Avatar Life</message>
+    <message key="visitReminder1Text">Hace tiempo que no vienes, ¡tus amigos te esperan!</message>
+    <message key="visitReminder2Title">Avatar Life</message>
+    <message key="visitReminder2Text">No te vemos desde hace mucho... ¡Te echamos de menos!</message>
+    <message key="visitReminder3Title">Avatar Life</message>
+    <message key="visitReminder3Text">No te vemos desde hace mucho... ¡Tenemos un montón de aventuras para ti!</message>
+    <message key="notificationGardenTitle">Avatar Life</message>
+    <message key="notificationGardenText">Se ha acabado el turno, ¡ya puedes volver a trabajar en el jardín!</message>
+    <message key="notificationGarbageTitle">Avatar Life</message>
+    <message key="notificationGarbageText">Se ha acabado el turno, ¡ya puedes volver a trabajar en la calle!</message>
+    <message key="notificationNPCHouseTitle">Avatar Life</message>
+    <message key="notificationNPCHouseText">¡Tu vecino necesita que le ayudes a limpiar!</message>
+    <message key="notificationEventJobTitle">Avatar Life</message>
+    <message key="notificationEventJobText">¡Corre, ve a la playa y empieza a recoger conchas!</message>
+    <message key="notificationWaitressJobTitle">Avatar Life</message>
+    <message key="notificationWaitressJobText">Se ha acabado el turno, ¡ya puedes volver a trabajar en el café!</message>
+    <message key="notificationChestTimeoutTitle">Avatar Life</message>
+    <message key="notificationChestTimeoutText">Piñata gratis! ¡Ábrelo ahora y recibe un regalo!</message>
+  </locale>
+</dictionary>

@@ -1,0 +1,228 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dictionary>
+  <locale name="de">
+    <gender key="chooseAppearanceMessage">
+      <form>Hi! Ich bin :name:! Lass uns loslegen – suche dir zunächst ein Erscheinungsbild aus.</form>
+      <form>Hi! Ich bin :name:! Lass uns loslegen – suche dir zunächst ein Erscheinungsbild aus.</form>
+    </gender>
+    <gender key="npcName1">
+      <form>Ethan</form>
+      <form>Olivia</form>
+    </gender>
+    <gender key="npcName2">
+      <form>William</form>
+      <form>Emma</form>
+    </gender>
+    <gender key="npcName3">
+      <form>Rick</form>
+      <form>Jenny</form>
+    </gender>
+    <gender key="npcName4">
+      <form>Bob</form>
+      <form>Diana</form>
+    </gender>
+    <gender key="npcName5">
+      <form>Bob</form>
+      <form>Isabella</form>
+    </gender>
+    <gender key="npcName6">
+      <form>Jacob</form>
+      <form>Sofia</form>
+    </gender>
+    <gender key="ttSt10Chat1">
+      <form>Wie mache ich das?</form>
+      <form>Wie mache ich das?</form>
+    </gender>
+    <gender key="ttSt10Chat2">
+      <form>Vielen Dank für deine Hilfe!</form>
+      <form>Vielen Dank für deine Hilfe!</form>
+    </gender>
+    <gender key="ttSt10Npc1">
+      <form>Herzlichen Glückwunsch zum Kauf deiner eigenen Wohnung. Es ist an der Zeit, deine Freunde zu einer Einweihungsparty einzuladen!</form>
+      <form>Herzlichen Glückwunsch zum Kauf deiner eigenen Wohnung. Es ist an der Zeit, deine Freunde zu einer Einweihungsparty einzuladen!</form>
+    </gender>
+    <gender key="ttSt10Npc2">
+      <form>Du machst Fortschritte! Es liegen noch viele aufregende Aufgaben vor dir, die dir dabei helfen werden, die Welt von Avataria besser kennenzulernen.</form>
+      <form>Du machst Fortschritte! Es liegen noch viele aufregende Aufgaben vor dir, die dir dabei helfen werden, die Welt von Avataria besser kennenzulernen.</form>
+    </gender>
+    <gender key="ttSt2Npc1">
+      <form>Hey, Kumpel, es ist schön, dich zu sehen! Bereit für ein bisschen Spaß?</form>
+      <form>Hey, Kumpel, es ist schön, dich zu sehen! Bereit für ein bisschen Spaß?</form>
+    </gender>
+    <gender key="ttSt3Chat1">
+      <form>Natürlich helfe ich dir.</form>
+      <form>Natürlich helfe ich dir.</form>
+    </gender>
+    <gender key="ttSt3Npc1">
+      <form>Doch bevor wir ausgehen können, muss ich noch die Installation eines Springbrunnens abschließen. Kannst du mir helfen?</form>
+      <form>Doch bevor wir ausgehen können, muss ich noch die Installation eines Springbrunnens abschließen. Kannst du mir helfen?</form>
+    </gender>
+    <gender key="ttSt4Chat1">
+      <form>Warum nicht?</form>
+      <form>Warum nicht?</form>
+    </gender>
+    <gender key="ttSt4Npc1">
+      <form>Komm, wir ziehen uns für den Club um. Ich bin mir sicher, dass du in meinem Schrank etwas findest, was dir gefällt!</form>
+      <form>Komm, wir ziehen uns für den Club um. Ich bin mir sicher, dass du in meinem Schrank etwas findest, was dir gefällt!</form>
+    </gender>
+    <gender key="ttSt5Chat1">
+      <form>Alles klar, los geht's!</form>
+      <form>Alles klar, los geht's!</form>
+    </gender>
+    <gender key="ttSt5Chat2">
+      <form>Wie mache ich das?</form>
+      <form>Wie mache ich das?</form>
+    </gender>
+    <gender key="ttSt5Npc1">
+      <form>Du siehst spitze aus! Lass uns zunächst ins Café und einen Kaffee trinken.</form>
+      <form>Du siehst spitze aus! Lass uns zunächst ins Café und einen Kaffee trinken.</form>
+    </gender>
+    <gender key="ttSt5Npc2">
+      <form>Holen wir uns einen Kaffee.</form>
+      <form>Holen wir uns einen Kaffee.</form>
+    </gender>
+    <gender key="ttSt6Chat1">
+      <form>Ja, lass uns los.</form>
+      <form>Ja, lass uns los.</form>
+    </gender>
+    <gender key="ttSt6Npc1">
+      <form>Das war schön. Doch nun wird es Zeit, in den Club zu gehen.</form>
+      <form>Das war schön. Doch nun wird es Zeit, in den Club zu gehen.</form>
+    </gender>
+    <gender key="ttSt6Npc2">
+      <form>Und hier ist der Club! Bereit für ein bisschen Party?</form>
+      <form>Und hier ist der Club! Bereit für ein bisschen Party?</form>
+    </gender>
+    <gender key="ttSt7Chat1">
+      <form>Wir sollten langsam nach Hause.</form>
+      <form>Wir sollten langsam nach Hause.</form>
+    </gender>
+    <gender key="ttSt7Msg2">
+      <form>Na, hast du dir die Schuhe von den Füßen getanzt? Wir können noch bleiben, oder wir können zurück zu mir.</form>
+      <form>Na, hast du dir die Schuhe von den Füßen getanzt? Wir können noch bleiben, oder wir können zurück zu mir.</form>
+    </gender>
+    <gender key="ttSt8Chat1">
+      <form>Lass uns mal schauen, was gerade so zum Verkauf steht.</form>
+      <form>Lass uns mal schauen, was gerade so zum Verkauf steht.</form>
+    </gender>
+    <gender key="ttSt8Npc1">
+      <form>Das war ein Mordsspaß ... Hast du dir mal überlegt, eine eigene Wohnung zu nehmen?</form>
+      <form>Das war ein Mordsspaß ... Hast du dir mal überlegt, eine eigene Wohnung zu nehmen?</form>
+    </gender>
+    <gender key="tutorialNpcName">
+      <form>Alex</form>
+      <form>Mary</form>
+    </gender>
+    <message key="fastSearchLabel">Schnellsuche</message>
+    <message key="finishTutorialConfirm">Möchtest du das Tutorial wirklich beenden?</message>
+    <message key="finishTutorialTitle">Tutorial beenden</message>
+    <message key="goldForFriendsLabelText">Du erhältst 10 Goldmünzen für jeden Freund, der an dem Spiel teilnimmt!</message>
+    <message key="lockedInTutorial">Während des Tutorials nicht verfügbar</message>
+    <message key="npcName1boy">Ethan</message>
+    <message key="npcName1girl">Olivia</message>
+    <message key="npcName2boy">William</message>
+    <message key="npcName2girl">Emma</message>
+    <message key="npcName3boy">Rick</message>
+    <message key="npcName3girl">Jenny</message>
+    <message key="npcName4boy">Bob</message>
+    <message key="npcName4girl">Diana</message>
+    <message key="npcName5boy">Bob</message>
+    <message key="npcName5girl">Isabella</message>
+    <message key="npcName6boy">Jacob</message>
+    <message key="npcName6girl">Sofia</message>
+    <message key="questsFirstMessageText">Sieh nach, was für interessante Aufgaben du noch zu erledigen hast</message>
+    <message key="ttFriendMsg0">Hey, du siehst spitze aus!</message>
+    <message key="ttFriendMsg1">Wie geht es dir? Wir haben uns lange nicht gesehen!</message>
+    <message key="ttFriendMsg2">Es ist so schön, dich zu sehen!</message>
+    <message key="ttFriendMsg3">Was für ein großartiger Tag!</message>
+    <message key="ttFriendMsg4">Es geht mir gut.</message>
+    <message key="ttSt1Hlp">Antippen, um deinem Freund zu antworten</message>
+    <message key="ttSt3Hlp1">Zimmer-Editor öffnen</message>
+    <message key="ttSt3Hlp2">Ziehe den Springbrunnen mit der Maus an die Stelle in deinem Zimmer, an der du ihn aufstellen möchtest. Klicke dann auf Speichern.</message>
+    <message key="ttSt3Hlp3">Tippe nun auf den Springbrunnen, um ihn auszuwählen</message>
+    <message key="ttSt4Hlp1">Antippen, um den Schrank zu öffnen</message>
+    <message key="ttSt4Msg2">Wähle ein Outfit und klicke dann auf "Speichern", um dich umzuziehen.</message>
+    <message key="ttSt5Hlp1">Antippen, um einen Kaffee zu bestellen</message>
+    <message key="ttSt5Hlp2">Antippen, um zum Café zu gehen</message>
+    <message key="ttSt6Hlp1">Du kannst deinen Avatar tanzen lassen, indem du ihn antippst und "Tanzen" auswählst.</message>
+    <message key="tutDlgBACK_AT_MARYSIAS">Das hat Spaß gemacht. Hast du schon mal überlegt, dir was eigenes zu besorgen?</message>
+    <message key="tutDlgCLICK_COFFEE_SHOP">Tippen Sie auf "Orte", um in die Cafeteria zu gehen.</message>
+    <message key="tutDlgCLUB_GO_HOME">Und, hast du Spaß? Wir können noch länger bleiben oder zurück zu mir gehen.</message>
+    <message key="tutDlgGO_TO_THE_COFFEE_SHOP">Du siehst toll aus! Gehen wir auf eine Tasse Kaffee in die Cafeteria.</message>
+    <message key="tutDlgINFO_DANCE">Um mit dem Tanzen zu beginnen, tippe auf deinen Avatar und wähle dann "Tanzen".</message>
+    <message key="tutDlgINFO_GO_TO_THE_CLUB">Das hat Spaß gemacht. Aber jetzt ist es Zeit für den Club.</message>
+    <message key="tutDlgINFO_INVITE_FRIENDS">Herzlichen Glückwunsch zu deiner eigenen Wohnung! Laden wir all deine Freunde zu einer Party hier ein.</message>
+    <message key="tutDlgINFO_ORDER_COFFEE">Holen wir uns einen Kaffee.</message>
+    <message key="tutDlgINFO_ROOM_EDITOR">Bist du bereit für die Party? Aber bevor wir aufbrechen, muss ich noch einen neuen Springbrunnen bauen. Hilfst du mir?</message>
+    <message key="tutDlgINFO_WARDROBE">Ich wette, du willst so nicht in den Club gehen. Sieh in meiner Garderobe nach, und such dir was Schickeres aus.</message>
+    <message key="tutDlgINFO_WARDROBE2">Ich wette, du willst so nicht in den Club gehen. Sieh in der Garderobe nach, und such dir was Schickeres aus.</message>
+    <message key="tutorialClothesCategoryLabel">Party</message>
+    <message key="tutorialContinueLabel">fortfahren</message>
+    <message key="tutorialFinishLabel">beenden</message>
+    <message key="tutorialHelpTitle">Tutorial</message>
+    <message key="tutTipBUY_COFFEE">Antippen, um eine Tasse Kaffee zu bestellen.</message>
+    <message key="tutTipBUY_NEW_ROOM">Wähle dein Zimmer und tippe hierhin, um es zu kaufen.</message>
+    <message key="tutTipCLICK_ADD_FRIEND">Tippe auf das Symbol “Einen Freund hinzufügen”, um deine Freunde einzuladen.</message>
+    <message key="tutTipCLICK_TAB_FRIENDS">Herzlichen Glückwunsch zu deiner eigenen Wohnung! Tippe auf “Freunde”, um deine Freunde einzuladen.</message>
+    <message key="tutTipINFO_CLICK_WARDROBE">Antippen, um die Garderobe zu öffnen.</message>
+    <message key="tutTipINFO_ROOM_EDITOR">Antippen, um deinem Freund Bescheid zu sagen</message>
+    <message key="tutTipOPEN_ROOM_EDITOR">Öffne den “Zimmer-Editor”.</message>
+    <message key="tutTipORDER_COFFEE">Antippen, um das Menü zu öffnen.</message>
+    <message key="tutTipPLACE_FOUNTAIN">Ziehe ihn zum Zimmer 
+        und tippe dann auf “Speichern”.</message>
+    <message key="tutTipSAVE_WARDROBE">Wähle Kleidung und tippe dann auf "Anwenden".</message>
+    <message key="tutTipSELECT_FOUNTAIN">Antippen, um den Springbrunnen auszuwählen.</message>
+    <message key="tutTipTellFriend">Antippen, um deinem Freund Bescheid zu sagen</message>
+    <message key="tutTxtBACK_AT_MARYSIAS">Ich sehe mal nach, wie's aussieht.</message>
+    <message key="tutTxtCLUB_GO_HOME">Wir sollten nach Hause gehen.</message>
+    <message key="tutTxtGO_TO_THE_COFFEE_SHOP">Ok, los geht's!</message>
+    <message key="tutTxtINFO_GO_TO_THE_CLUB">Ja, los geht's!</message>
+    <message key="tutTxtINFO_INVITE_FRIENDS">Ok! Hilfst du mir?</message>
+    <message key="tutTxtINFO_ORDER_COFFEE">Wie mache ich das?</message>
+    <message key="tutTxtINFO_ROOM_EDITOR">Natürlich helfe ich.</message>
+    <message key="tutTxtINFO_WARDROBE">Warum nicht?</message>
+    <message key="typeNameLabel">Gib einen Namen ein</message>
+    <message key="userHouse1Description">Ein originelles Design für ein fröhliches Naturell. Du möchtest dich von der Masse abheben? Dann ist diese Wohnung genau die richtige für dich!</message>
+    <message key="userHouse1Label">Märchen</message>
+    <message key="userHouse2Description">Lakonischer Stil und Aufbau. Einfach und geschmackvoll.</message>
+    <message key="userHouse2Label">Hightech</message>
+    <message key="userHouse3Description">Wenn du Wärme und Zärtlichkeit suchst, ist diese Wohnung die richtige für dich. Alle werden ihre warmen Farben und ihre stilvolle Innenausstattung lieben.</message>
+    <message key="userHouse3Label">Zärtlichkeit</message>
+    <message key="userHouse4Description">Komfort und Behaglichkeit unterscheiden diese Wohnung von den anderen.</message>
+    <message key="userHouse4Label">Komfort</message>
+    <message key="userHouse5Description">Eine wundervolle Aussicht und nur ganz wenig Möbel. Die ideale Option für diejenigen, die bei den Renovierungsarbeiten lieber selbst Hand anlegen.</message>
+    <message key="userHouse5Label">Minimalismus</message>
+    <message key="userHouse6Description">Ein originelles Design für ein fröhliches Naturell. Du möchtest dich von der Masse abheben? Dann ist diese Wohnung genau die richtige für dich!</message>
+    <message key="userHouse6Label">Märchen</message>
+    <message key="NPC_male1_name">Alexander</message>
+    <message key="NPC_male2_name">Philipp</message>
+    <message key="NPC_male3_name">Simon</message>
+    <message key="NPC_male4_name">Karl</message>
+    <message key="NPC_male5_name">Julius</message>
+    <message key="NPC_male6_name">Michael</message>
+    <message key="NPC_male7_name">Bruno</message>
+    <message key="NPC_male8_name">Leopold</message>
+    <message key="NPC_male9_name">Franz</message>
+    <message key="NPC_male10_name">Richard</message>
+    <message key="NPC_male11_name">Ludwig</message>
+    <message key="NPC_male12_name">Christian</message>
+    <message key="NPC_male13_name">Hugo</message>
+    <message key="NPC_male14_name">Konrad</message>
+    <message key="NPC_male15_name">Leonhard</message>
+    <message key="NPC_female1_name">Frieda</message>
+    <message key="NPC_female2_name">Klara</message>
+    <message key="NPC_female3_name">Isabella</message>
+    <message key="NPC_female4_name">Pauline</message>
+    <message key="NPC_female5_name">Luise</message>
+    <message key="NPC_female6_name">Eva</message>
+    <message key="NPC_female7_name">Katharina</message>
+    <message key="NPC_female8_name">Viktoria</message>
+    <message key="NPC_female9_name">Franziska</message>
+    <message key="NPC_female10_name">Josephine</message>
+    <message key="NPC_female11_name">Lotte</message>
+    <message key="NPC_female12_name">Helene</message>
+    <message key="NPC_female13_name">Alma</message>
+    <message key="NPC_female14_name">Emilie</message>
+    <message key="NPC_female15_name">Hanna</message>
+  </locale>
+</dictionary>

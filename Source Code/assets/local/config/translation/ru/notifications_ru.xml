@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dictionary>
+  <locale name="ru">
+    <message key="incompleteTutorialTitle">Аватария</message>
+    <message key="incompleteTutorialText">Ты не завершил обучение, впереди тебя ждет масса всего интересного</message>
+    <message key="visitReminder1Title">Аватария</message>
+    <message key="visitReminder1Text">Давно тебя не было, твои друзья ждут тебя</message>
+    <message key="visitReminder2Title">Аватария</message>
+    <message key="visitReminder2Text">Давненько к нам не заглядывал, мы все скучаем</message>
+    <message key="visitReminder3Title">Аватария</message>
+    <message key="visitReminder3Text">Тебя очень давно не было, у нас появилось много всего интересного для тебя</message>
+    <message key="notificationGardenTitle">Аватария</message>
+    <message key="notificationGardenText">Рабочая смена завершилась, ты снова можешь поработать в саду</message>
+    <message key="notificationGarbageTitle">Аватария</message>
+    <message key="notificationGarbageText">Рабочая смена завершилась, ты снова можешь помочь с уборкой на улице</message>
+    <message key="notificationNPCHouseTitle">Аватария</message>
+    <message key="notificationNPCHouseText">Твоему соседу снова нужна помощь с уборкой</message>
+    <message key="notificationEventJobTitle">Аватария</message>
+    <message key="notificationEventJobText">Поспеши на пляж собирать ракушки!</message>
+    <message key="notificationWaitressJobTitle">Аватария</message>
+    <message key="notificationWaitressJobText">Рабочая смена завершилась, ты снова можешь поработать в кафе!</message>
+    <message key="notificationChestTimeoutTitle">Аватария</message>
+    <message key="notificationChestTimeoutText">Бесплатная пиньята! Открой сейчас и получи подарок!</message>
+  </locale>
+</dictionary>

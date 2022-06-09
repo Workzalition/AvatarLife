@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dictionary>
+  <locale name="pl">
+    <message key="supportButtonTitle">Napisz do działu pomocy</message>
+    <message key="eventCreateFailedTitle">Nie udało się stworzyć wydarzenia.</message>
+    <message key="eventCreateFailedDesc">Spróbuj ponownie. Można używać tylko liter.</message>
+    <message key="continueButton">Dalej</message>
+    <message key="errorTitle">Błąd</message>
+    <message key="101xpAuthError">Podczas autoryzacji nastąpił błąd, spróbuj ponownie później.</message>
+    <message key="okButton">OK</message>
+    <message key="contactSupportButton">Wsparcie</message>
+    <message key="attentionTitle">Uwaga</message>
+    <message key="backStartScreen">Wrócisz do ekranu startowego.</message>
+    <message key="cancelButton">Anuluj</message>
+    <message key="waitingText">Łączenie z serwerem autoryzacji…</message>
+    <message key="profileButton">Profil</message>
+    <message key="authProblemTitle">Nie możesz się zalogować?</message>
+    <message key="authProblemText">Zauważyliśmy, że coś poszło nie tak w czasie kilku poprzednich sesji. Jeśli to prawda, skontaktuj się z naszym zespołem wsparcia.</message>
+    <message key="skipButton">Pomiń</message>
+    <message key="confirmActionTitle">Potwierdź działanie</message>
+    <message key="wantBuyText">Czy na pewno chcesz kupić rzeczy za</message>
+    <message key="yesButton">Tak</message>
+    <message key="noButton">Nie</message>
+    <message key="resourcesDownloadTitle">Pobierz</message>
+    <message key="resourcesDownloadText">Zasoby nie zostały pobrane.</message>
+    <message key="resourcesLoaderText">Pobieranie zasobów</message>
+    <message key="resourcesLoaderText2">Pobieranie dodatkowych zasobów</message>
+    <message key="leaveFeedbackText">Twoja opinia jest dla nas cenna. Czy chcesz ocenić aplikację?</message>
+    <message key="supportPageRedirect">Przekierujemy cię na stronę wsparcia.</message>
+    <message key="submitAction">Wyślij</message>
+    <message key="inappError">Wystąpił błąd. Spróbuj ponownie później.</message>
+    <message key="inappSuccess">Produkt został zakupiony.</message>
+    <message key="inappRestored">Przywrócono uprzednio zakupiony produkt.</message>
+    <message key="somethingWentWrong">Coś poszło nie tak, spróbuj ponownie później.</message>
+    <message key="Unlock">Odblokuj</message>
+    <message key="unlockConfirmTitle">Odblokuj</message>
+    <message key="unlockDescription">Czy chcesz odblokować?</message>
+    <message key="nyFriend">Leśna wróżka</message>
+    <message key="101xpInitError">Wystąpił błąd przy próbie uruchomienia aplikacji. Spróbuj ponownie później. Jeśli błąd będzie się powtarzał, skontaktuj się ze wsparciem technicznym.</message>
+    <message key="socialNetworkUrl">https://www.facebook.com/AvatarLife101XP</message>
+    <message key="resourcesDownloadFinishedText">Zawartość zamieszczona!</message>
+    <message key="billingNotAvailableTitle">Płatności tymczasowo wyłączone</message>
+  </locale>
+</dictionary>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dictionary>
+  <locale name="tr">
+    <message key="retry">Yeniden deneyin</message>
+    <message key="NETWORK_ERROR_DEFAULT">Internet bağlantısını kontrol edin</message>
+    <message key="NETWORK_ERROR_1">URL desteklenmeyen bir protokol kullandı</message>
+    <message key="NETWORK_ERROR_2">URL başlatmada hata</message>
+    <message key="NETWORK_ERROR_3">URL düzgün şekilde formatlandırılmamış</message>
+    <message key="NETWORK_ERROR_6">Sunucu çözümlenemedi</message>
+    <message key="NETWORK_ERROR_7">Sunucuya ya da yetkiliye bağlanılamadı</message>
+    <message key="NETWORK_ERROR_8">FTP sunucusu tuhaf ya da kötü bir yanıt gönderdi</message>
+    <message key="NETWORK_ERROR_9">FTP uzaktan erişimi reddedildi</message>
+    <message key="NETWORK_ERROR_12">FTP oturum süresi sona erdi</message>
+    <message key="NETWORK_ERROR_15">Bağlantı için sunucu çözümlenemedi</message>
+    <message key="NETWORK_ERROR_23">Yerel dosyaya veri yazılamadı</message>
+    <message key="NETWORK_ERROR_27">Bellek tahsisi talebi başarısız oldu</message>
+    <message key="NETWORK_ERROR_28">İşlem süresi bitti</message>
+    <message key="NETWORK_ERROR_30">FTP PORT komutu hatası</message>
+    <message key="NETWORK_ERROR_36">İndirme duraklatıldı. Geçersiz veri bedeli</message>
+    <message key="NETWORK_ERROR_213">Dosya indirme hatası. Sonra yeniden deneyin</message>
+    <message key="NETWORK_ERROR_331">Kullanıcı adı geçerli. Şifre gerekli</message>
+    <message key="NETWORK_ERROR_332">Kimlik doğrulaması gerekli</message>
+    <message key="NETWORK_ERROR_404">Uzaktan sunucu bulunamadı</message>
+    <message key="NETWORK_ERROR_421">İşlem mümkün değil. Kanal kapatılıyor</message>
+    <message key="NETWORK_ERROR_425">Bilgi kanalını açmak mümkün değil</message>
+    <message key="NETWORK_ERROR_426">Kanal kapatıldı. Transfer durduruldu</message>
+    <message key="NETWORK_ERROR_434">İstenen sunucu bulunamadı</message>
+    <message key="relogin_request">Yeniden giriş gerekli</message>
+    <message key="NETWORK_ERROR_TITLE">Bağlanma hatası</message>
+  </locale>
+</dictionary>

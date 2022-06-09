@@ -1,0 +1,227 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dictionary>
+  <locale name="fr">
+    <gender key="chooseAppearanceMessage">
+      <form>Salut ! Je m'appelle :name: ! Pour commencer, choisis ton apparence.</form>
+      <form>Salut ! Je m'appelle :name: ! Pour commencer, choisis ton apparence.</form>
+    </gender>
+    <gender key="npcName1">
+      <form>Éric</form>
+      <form>Olivia</form>
+    </gender>
+    <gender key="npcName2">
+      <form>Guillaume</form>
+      <form>Emma</form>
+    </gender>
+    <gender key="npcName3">
+      <form>Mathieu</form>
+      <form>Jenny</form>
+    </gender>
+    <gender key="npcName4">
+      <form>David</form>
+      <form>Diane</form>
+    </gender>
+    <gender key="npcName5">
+      <form>David</form>
+      <form>Isabelle</form>
+    </gender>
+    <gender key="npcName6">
+      <form>Jérémy</form>
+      <form>Sophie</form>
+    </gender>
+    <gender key="ttSt10Chat1">
+      <form>Comment faire ?</form>
+      <form>Comment faire ?</form>
+    </gender>
+    <gender key="ttSt10Chat2">
+      <form>Merci du coup de main !</form>
+      <form>Merci du coup de main !</form>
+    </gender>
+    <gender key="ttSt10Npc1">
+      <form>Bravo pour votre achat d'appartement. Il est temps d'organiser votre pendaison de crémaillère !</form>
+      <form>Bravo pour votre achat d'appartement. Il est temps d'organiser votre pendaison de crémaillère !</form>
+    </gender>
+    <gender key="ttSt10Npc2">
+      <form>Vous avez fait de gros progrès ! De nombreuses tâches palpitantes vous attendent pour en savoir plus sur le monde d'Avataria.</form>
+      <form>Vous avez fait de gros progrès ! De nombreuses tâches palpitantes vous attendent pour en savoir plus sur le monde d'Avataria.</form>
+    </gender>
+    <gender key="ttSt2Npc1">
+      <form>Hé, ça fait plaisir de te revoir ! On va s'éclater !</form>
+      <form>Hé, ça fait plaisir de te revoir ! On va s'éclater !</form>
+    </gender>
+    <gender key="ttSt3Chat1">
+      <form>Avec plaisir !</form>
+      <form>Avec plaisir !</form>
+    </gender>
+    <gender key="ttSt3Npc1">
+      <form>Avant de pouvoir sortir, je dois terminer d'installer une fontaine. Tu veux bien m'aider ?</form>
+      <form>Avant de pouvoir sortir, je dois terminer d'installer une fontaine. Tu veux bien m'aider ?</form>
+    </gender>
+    <gender key="ttSt4Chat1">
+      <form>Pourquoi pas…</form>
+      <form>Pourquoi pas…</form>
+    </gender>
+    <gender key="ttSt4Npc1">
+      <form>Habillons-nous pour sortir en boîte ! Tu devrais trouver chaussure à ton pied dans ma garde-robe !</form>
+      <form>Habillons-nous pour sortir en boîte ! Tu devrais trouver chaussure à ton pied dans ma garde-robe !</form>
+    </gender>
+    <gender key="ttSt5Chat1">
+      <form>Ça marche, allons-y !</form>
+      <form>Ça marche, allons-y !</form>
+    </gender>
+    <gender key="ttSt5Chat2">
+      <form>Comment faire ?</form>
+      <form>Comment faire ?</form>
+    </gender>
+    <gender key="ttSt5Npc1">
+      <form>Ça te va super bien ! On va commencer par prendre un verre au café.</form>
+      <form>Ça te va super bien ! On va commencer par prendre un verre au café.</form>
+    </gender>
+    <gender key="ttSt5Npc2">
+      <form>Allons prendre un café.</form>
+      <form>Allons prendre un café.</form>
+    </gender>
+    <gender key="ttSt6Chat1">
+      <form>C'est parti !</form>
+      <form>C'est parti !</form>
+    </gender>
+    <gender key="ttSt6Npc1">
+      <form>Sympa, ce café. Mais il est temps d'aller en boîte !</form>
+      <form>Sympa, ce café. Mais il est temps d'aller en boîte !</form>
+    </gender>
+    <gender key="ttSt6Npc2">
+      <form>Nous voilà en boîte ! On va s'éclater !</form>
+      <form>Nous voilà en boîte ! On va s'éclater !</form>
+    </gender>
+    <gender key="ttSt7Chat1">
+      <form>Je crois qu'il est temps de rentrer.</form>
+      <form>Je crois qu'il est temps de rentrer.</form>
+    </gender>
+    <gender key="ttSt7Msg2">
+      <form>Pfiou, ça fatigue ! On peut traîner encore un peu ou rentrer chez moi, au choix.</form>
+      <form>Pfiou, ça fatigue ! On peut traîner encore un peu ou rentrer chez moi, au choix.</form>
+    </gender>
+    <gender key="ttSt8Chat1">
+      <form>Allons voir ce qui est en vente.</form>
+      <form>Allons voir ce qui est en vente.</form>
+    </gender>
+    <gender key="ttSt8Npc1">
+      <form>Eh ben, quelle soirée… Dis-moi, tu as déjà pensé à avoir ton propre appart' ?</form>
+      <form>Eh ben, quelle soirée… Dis-moi, tu as déjà pensé à avoir ton propre appart' ?</form>
+    </gender>
+    <gender key="tutorialNpcName">
+      <form>Alex</form>
+      <form>Marie</form>
+    </gender>
+    <message key="fastSearchLabel">Recherche rapide</message>
+    <message key="finishTutorialConfirm">Voulez-vous vraiment terminer le didacticiel ?</message>
+    <message key="finishTutorialTitle">Terminer le didacticiel</message>
+    <message key="goldForFriendsLabelText">Vous recevez 10 pièces d'or pour chaque ami rejoignant le jeu !</message>
+    <message key="lockedInTutorial">Indisponible pendant le didacticiel</message>
+    <message key="npcName1boy">Éric</message>
+    <message key="npcName1girl">Olivia</message>
+    <message key="npcName2boy">Guillaume</message>
+    <message key="npcName2girl">Emma</message>
+    <message key="npcName3boy">Mathieu</message>
+    <message key="npcName3girl">Jenny</message>
+    <message key="npcName4boy">David</message>
+    <message key="npcName4girl">Diane</message>
+    <message key="npcName5boy">David</message>
+    <message key="npcName5girl">Isabelle</message>
+    <message key="npcName6boy">Jérémy</message>
+    <message key="npcName6girl">Sophie</message>
+    <message key="questsFirstMessageText">Découvrez quelles nouvelles tâches palpitantes vous devez accomplir</message>
+    <message key="ttFriendMsg0">Waouh, sympa le style !</message>
+    <message key="ttFriendMsg1">Comment ça va ? Ça fait un bail !</message>
+    <message key="ttFriendMsg2">Ça fait plaisir de te revoir !</message>
+    <message key="ttFriendMsg3">J'ai la pêche aujourd'hui !</message>
+    <message key="ttFriendMsg4">Tout va bien.</message>
+    <message key="ttSt1Hlp">Appuyez pour répondre à votre ami</message>
+    <message key="ttSt3Hlp1">Ouvrez l'éditeur de pièce</message>
+    <message key="ttSt3Hlp2">Placez la fontaine dans la pièce en la faisant glisser avec votre souris. Appuyez ensuite sur Enregistrer.</message>
+    <message key="ttSt3Hlp3">Appuyez sur la fontaine pour la sélectionner</message>
+    <message key="ttSt4Hlp1">Appuyez pour ouvrir l'armoire</message>
+    <message key="ttSt4Msg2">Sélectionnez une tenue, puis appuyez sur Enregistrer pour vous changer.</message>
+    <message key="ttSt5Hlp1">Appuyez pour commander un café</message>
+    <message key="ttSt5Hlp2">Appuyez pour vous rendre au café</message>
+    <message key="ttSt6Hlp1">Pour faire danser votre avatar, appuyez dessus et sélectionnez Danser.</message>
+    <message key="tutDlgBACK_AT_MARYSIAS">C'était cool. Au fait, tu n'as jamais voulu avoir ton chez-toi ?</message>
+    <message key="tutDlgCLICK_COFFEE_SHOP">Appuyez sur "Lieux" pour vous rendre au café.</message>
+    <message key="tutDlgCLUB_GO_HOME">Alors, on s'amuse bien ? On peut rester encore un peu ou rentrer chez moi.</message>
+    <message key="tutDlgGO_TO_THE_COFFEE_SHOP">Ça te va super bien ! Allons prendre un verre au café.</message>
+    <message key="tutDlgINFO_DANCE">Pour commencer à danser, appuyez sur votre avatar et sélectionnez Danser.</message>
+    <message key="tutDlgINFO_GO_TO_THE_CLUB">C'était sympa. Maintenant, place à la fête.</message>
+    <message key="tutDlgINFO_INVITE_FRIENDS">Bravo pour votre achat d'appartement ! Invitez-y tous vos amis pour l'inaugurer.</message>
+    <message key="tutDlgINFO_ORDER_COFFEE">Allons prendre un café.</message>
+    <message key="tutDlgINFO_ROOM_EDITOR">On va faire la fête ? Mais avant, je dois installer une nouvelle fontaine. Tu pourrais m'aider ?</message>
+    <message key="tutDlgINFO_WARDROBE">Tu ne vas quand même pas aller en boîte comme ça. Va choisir quelque chose dans ma garde-robe.</message>
+    <message key="tutDlgINFO_WARDROBE2">Tu ne vas quand même pas aller en boîte comme ça. Il doit forcément y avoir mieux dans la garde-robe.</message>
+    <message key="tutorialClothesCategoryLabel">Fête</message>
+    <message key="tutorialContinueLabel">continuer</message>
+    <message key="tutorialFinishLabel">terminer</message>
+    <message key="tutorialHelpTitle">Didacticiel</message>
+    <message key="tutTipBUY_COFFEE">Appuyez pour commander un café.</message>
+    <message key="tutTipBUY_NEW_ROOM">Choisissez votre pièce et appuyez ici pour l'acheter.</message>
+    <message key="tutTipCLICK_ADD_FRIEND">Appuyez sur l'icône Ajouter un ami pour inviter vos amis.</message>
+    <message key="tutTipCLICK_TAB_FRIENDS">Bravo pour votre achat d'appartement ! Appuyez sur l'onglet Amis pour inviter vos amis.</message>
+    <message key="tutTipINFO_CLICK_WARDROBE">Appuyez pour ouvrir l'armoire.</message>
+    <message key="tutTipINFO_ROOM_EDITOR">Appuyez pour le dire à votre ami.</message>
+    <message key="tutTipOPEN_ROOM_EDITOR">Ouvrez l'Éditeur de pièce.</message>
+    <message key="tutTipORDER_COFFEE">Appuyez pour ouvrir le menu.</message>
+    <message key="tutTipPLACE_FOUNTAIN">Faites-la glisser dans la pièce, puis appuyez sur Enregistrer.</message>
+    <message key="tutTipSAVE_WARDROBE">Choisissez des vêtements, puis appuyez sur Appliquer.</message>
+    <message key="tutTipSELECT_FOUNTAIN">Appuyez pour sélectionner la fontaine.</message>
+    <message key="tutTipTellFriend">Appuyez pour le dire à votre ami.</message>
+    <message key="tutTxtBACK_AT_MARYSIAS">Voyons ce qu'ils ont à vendre.</message>
+    <message key="tutTxtCLUB_GO_HOME">On devrait rentrer.</message>
+    <message key="tutTxtGO_TO_THE_COFFEE_SHOP">OK, c'est parti !</message>
+    <message key="tutTxtINFO_GO_TO_THE_CLUB">Allez, c'est parti !</message>
+    <message key="tutTxtINFO_INVITE_FRIENDS">OK ! Mais j'aurais peut-être besoin d'aide.</message>
+    <message key="tutTxtINFO_ORDER_COFFEE">Comment faire ?</message>
+    <message key="tutTxtINFO_ROOM_EDITOR">Tu peux compter sur moi.</message>
+    <message key="tutTxtINFO_WARDROBE">Pourquoi pas…</message>
+    <message key="typeNameLabel">Saisir le nom</message>
+    <message key="userHouse1Description">Une architecture unique pour une personne unique. Vous aimez sortir du lot ? Alors cet appartement est fait pour vous !</message>
+    <message key="userHouse1Label">Conte de fées</message>
+    <message key="userHouse2Description">Un style et un design épurés. Simple, élégant.</message>
+    <message key="userHouse2Label">Hautes technologies</message>
+    <message key="userHouse3Description">Vous recherchez chaleur et tendresse ? Alors cet appartement est fait pour vous ! Tout le monde adore ses couleurs douces et son design intérieur élégant.</message>
+    <message key="userHouse3Label">Tendresse</message>
+    <message key="userHouse4Description">Cet appartement est tout en confort et douceur.</message>
+    <message key="userHouse4Label">Confort</message>
+    <message key="userHouse5Description">Une vue magnifique avec un minimum de meubles. Le choix idéal pour les amateurs de bricolage.</message>
+    <message key="userHouse5Label">Minimalisme</message>
+    <message key="userHouse6Description">Une architecture unique pour une personne unique. Vous aimez sortir du lot ? Alors cet appartement est fait pour vous !</message>
+    <message key="userHouse6Label">Conte de fées</message>
+    <message key="NPC_male1_name">Léon</message>
+    <message key="NPC_male2_name">Antoine</message>
+    <message key="NPC_male3_name">Marius</message>
+    <message key="NPC_male4_name">Valentin</message>
+    <message key="NPC_male5_name">Clément</message>
+    <message key="NPC_male6_name">Jean</message>
+    <message key="NPC_male7_name">David</message>
+    <message key="NPC_male8_name">Antonin</message>
+    <message key="NPC_male9_name">Joseph</message>
+    <message key="NPC_male10_name">Benjamin</message>
+    <message key="NPC_male11_name">Marceau</message>
+    <message key="NPC_male12_name">Thomas</message>
+    <message key="NPC_male13_name">Camille</message>
+    <message key="NPC_male14_name">Oscar</message>
+    <message key="NPC_male15_name">Côme</message>
+    <message key="NPC_female1_name">Manon</message>
+    <message key="NPC_female2_name">Juliette</message>
+    <message key="NPC_female3_name">Lou</message>
+    <message key="NPC_female4_name">Zoé</message>
+    <message key="NPC_female5_name">Camille</message>
+    <message key="NPC_female6_name">Eva</message>
+    <message key="NPC_female7_name">Agathe</message>
+    <message key="NPC_female8_name">Clara</message>
+    <message key="NPC_female9_name">Victoire</message>
+    <message key="NPC_female10_name">Margot</message>
+    <message key="NPC_female11_name">Anaïs</message>
+    <message key="NPC_female12_name">Adèle</message>
+    <message key="NPC_female13_name">Iris</message>
+    <message key="NPC_female14_name">Margaux</message>
+    <message key="NPC_female15_name">Clémence</message>
+  </locale>
+</dictionary>

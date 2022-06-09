@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dictionary>
+  <locale name="pl">
+    <message key="retry">Spróbuj ponownie</message>
+    <message key="NETWORK_ERROR_DEFAULT">Sprawdź połączenie internetowe</message>
+    <message key="NETWORK_ERROR_1">Adres URL użył nieobsługiwanego protokołu</message>
+    <message key="NETWORK_ERROR_2">Błąd inicjacji adresu URL</message>
+    <message key="NETWORK_ERROR_3">Adres URL nie był prawidłowo sformatowany</message>
+    <message key="NETWORK_ERROR_6">Nie można rozpoznać hosta</message>
+    <message key="NETWORK_ERROR_7">Nie udało się połączyć z hostem lub serwerem proxy</message>
+    <message key="NETWORK_ERROR_8">Dziwna lub zła odpowiedź wysłana przez serwer FTP</message>
+    <message key="NETWORK_ERROR_9">Odmowa dostępu zdalnego do FTP</message>
+    <message key="NETWORK_ERROR_12">Limit czasu sesji FTP upłynął</message>
+    <message key="NETWORK_ERROR_15">Nie można rozpoznać hosta dla tego połączenia</message>
+    <message key="NETWORK_ERROR_23">Nie można zapisać danych w pliku lokalnym</message>
+    <message key="NETWORK_ERROR_27">Błąd żądania przydziału pamięci</message>
+    <message key="NETWORK_ERROR_28">Upłynął limit czasu operacji</message>
+    <message key="NETWORK_ERROR_30">Polecenie FTP PORT zwróciło błąd</message>
+    <message key="NETWORK_ERROR_36">Nie udało się wznowić pobierania. Nieprawidłowe przesunięcie danych.</message>
+    <message key="NETWORK_ERROR_213">Błąd podczas pobierania pliku. Spróbuj ponownie później.</message>
+    <message key="NETWORK_ERROR_331">Nazwa użytkownika jest prawidłowa. Potrzebne jest hasło.</message>
+    <message key="NETWORK_ERROR_332">Potrzebne jest uwierzytelnienie</message>
+    <message key="NETWORK_ERROR_404">Nie znaleziono serwera zdalnego</message>
+    <message key="NETWORK_ERROR_421">Nie można wykonać operacji. Trwa zamykanie kanału.</message>
+    <message key="NETWORK_ERROR_425">Nie można otworzyć kanału informacyjnego</message>
+    <message key="NETWORK_ERROR_426">Kanał jest zamknięty. Przesyłanie zostało przerwane.</message>
+    <message key="NETWORK_ERROR_434">Żądany host jest niedostępny</message>
+    <message key="relogin_request">Konieczne jest ponowne zalogowanie</message>
+    <message key="NETWORK_ERROR_TITLE">Nie udało się połączyć</message>
+  </locale>
+</dictionary>

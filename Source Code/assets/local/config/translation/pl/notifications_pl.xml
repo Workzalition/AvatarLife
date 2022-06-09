@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dictionary>
+  <locale name="pl">
+    <message key="incompleteTutorialTitle">Awataria</message>
+    <message key="incompleteTutorialText">Samouczek nie został jeszcze ukończony. Czeka na ciebie wiele wspaniałości.</message>
+    <message key="visitReminder1Title">Awataria</message>
+    <message key="visitReminder1Text">Nie było cię trochę czasu, przyjaciele czekają.</message>
+    <message key="visitReminder2Title">Awataria</message>
+    <message key="visitReminder2Text">Długo cię nie było i tęskniliśmy.</message>
+    <message key="visitReminder3Title">Awataria</message>
+    <message key="visitReminder3Text">Nie było cię trochę czasu. Czekają na ciebie nowe, wspaniałe rzeczy.</message>
+    <message key="notificationGardenTitle">Awataria</message>
+    <message key="notificationGardenText">Zmiana zakończona i możesz znów popracować w ogrodzie.</message>
+    <message key="notificationGarbageTitle">Awataria</message>
+    <message key="notificationGarbageText">Zmiana zakończona i możesz znów pomóc w sprzątaniu ulicy.</message>
+    <message key="notificationNPCHouseTitle">Awataria</message>
+    <message key="notificationNPCHouseText">Sąsiad potrzebuje twojej pomocy przy sprzątaniu.</message>
+    <message key="notificationEventJobTitle">Awataria</message>
+    <message key="notificationEventJobText">Szybko na plażę, zbierać muszelki!</message>
+    <message key="notificationWaitressJobTitle">Awataria</message>
+    <message key="notificationWaitressJobText">Zmiana zakończona i możesz znów popracować w kawiarni.</message>
+    <message key="notificationChestTimeoutTitle">Awataria</message>
+    <message key="notificationChestTimeoutText">Bezpłatna pinata! Otwórz go teraz i odbierz prezent!</message>
+  </locale>
+</dictionary>

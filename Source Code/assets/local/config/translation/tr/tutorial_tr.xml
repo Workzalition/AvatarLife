@@ -1,0 +1,227 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dictionary>
+  <locale name="tr">
+    <gender key="chooseAppearanceMessage">
+      <form>Merhaba! Ben :name:!Haydi başlayalım - önce nasıl görüneceğinizi seçin.</form>
+      <form>Merhaba! Ben :name:!Haydi başlayalım - önce nasıl görüneceğinizi seçin.</form>
+    </gender>
+    <gender key="npcName1">
+      <form>Ethan</form>
+      <form>Olivia</form>
+    </gender>
+    <gender key="npcName2">
+      <form>William</form>
+      <form>Emma</form>
+    </gender>
+    <gender key="npcName3">
+      <form>Rick</form>
+      <form>Jenny</form>
+    </gender>
+    <gender key="npcName4">
+      <form>Bob</form>
+      <form>Diana</form>
+    </gender>
+    <gender key="npcName5">
+      <form>Bob</form>
+      <form>Isabella</form>
+    </gender>
+    <gender key="npcName6">
+      <form>Jacob</form>
+      <form>Sofia</form>
+    </gender>
+    <gender key="ttSt10Chat1">
+      <form>Bunu nasıl yapabilirim?</form>
+      <form>Bunu nasıl yapabilirim?</form>
+    </gender>
+    <gender key="ttSt10Chat2">
+      <form>Yardımınız için teşekkürler!</form>
+      <form>Yardımınız için teşekkürler!</form>
+    </gender>
+    <gender key="ttSt10Npc1">
+      <form>Kendi dairenizi aldığınız için tebrikler. Şimdi eve ısınma partisi düzenleyerek arkadaşlarınızı çağırmanın vakti!</form>
+      <form>Kendi dairenizi aldığınız için tebrikler. Şimdi eve ısınma partisi düzenleyerek arkadaşlarınızı çağırmanın vakti!</form>
+    </gender>
+    <gender key="ttSt10Npc2">
+      <form>İlerleme kaydediyorsunuz! Avataria dünyasını öğrenmenize yardımcı olacak daha pek çok heyecanlı görev var.</form>
+      <form>İlerleme kaydediyorsunuz! Avataria dünyasını öğrenmenize yardımcı olacak daha pek çok heyecanlı görev var.</form>
+    </gender>
+    <gender key="ttSt2Npc1">
+      <form>Merhaba dostum, seni görmek çok güzel! Biraz eğlenmeye hazır mısın?</form>
+      <form>Merhaba sevgilim, seni görmek çok güzel! Biraz eğlenmeye hazır mısın?</form>
+    </gender>
+    <gender key="ttSt3Chat1">
+      <form>Tabii ki yardım ederim.</form>
+      <form>Tabii ki yardım ederim.</form>
+    </gender>
+    <gender key="ttSt3Npc1">
+      <form>Ama dışarı çıkmadan önce, süs havuzu kurulumunu tamamlamam lazım. Bana yardım eder misiniz?</form>
+      <form>Ama dışarı çıkmadan önce, süs havuzu kurulumunu tamamlamam lazım. Bana yardım eder misiniz?</form>
+    </gender>
+    <gender key="ttSt4Chat1">
+      <form>Neden olmasın?</form>
+      <form>Neden olmasın?</form>
+    </gender>
+    <gender key="ttSt4Npc1">
+      <form>Kulübe bu kıyafetlerle mi gideceksin? Dolabımda hoşuna gidecek bir şeyler bulacağına eminim!</form>
+      <form>Kulübe bu kıyafetlerle mi gideceksin? Dolabımda hoşuna gidecek bir şeyler bulacağına eminim!</form>
+    </gender>
+    <gender key="ttSt5Chat1">
+      <form>Tamam, haydi gidelim!</form>
+      <form>Tamam, haydi gidelim!</form>
+    </gender>
+    <gender key="ttSt5Chat2">
+      <form>Bunu nasıl yapabilirim?</form>
+      <form>Bunu nasıl yapabilirim?</form>
+    </gender>
+    <gender key="ttSt5Npc1">
+      <form>Harika görünüyorsunuz! Haydi, önce kafeye uğrayıp bir fincan kahve içelim.</form>
+      <form>Harika görünüyorsunuz! Haydi, önce kafeye uğrayıp bir fincan kahve içelim.</form>
+    </gender>
+    <gender key="ttSt5Npc2">
+      <form>Haydi birer kahve içelim.</form>
+      <form>Haydi birer kahve içelim.</form>
+    </gender>
+    <gender key="ttSt6Chat1">
+      <form>Evet, haydi gidelim.</form>
+      <form>Evet, haydi gidelim.</form>
+    </gender>
+    <gender key="ttSt6Npc1">
+      <form>Bu güzel oldu. Ama şimdi kulübe gitme zamanı.</form>
+      <form>Bu güzel oldu. Ama şimdi kulübe gitme zamanı.</form>
+    </gender>
+    <gender key="ttSt6Npc2">
+      <form>Sonunda kulübe geldik! Eğlenmeye hazır mısın?</form>
+      <form>Sonunda kulübe geldik! Eğlenmeye hazır mısın?</form>
+    </gender>
+    <gender key="ttSt7Chat1">
+      <form>Yavaş yavaş eve gitmeliyiz.</form>
+      <form>Yavaş yavaş eve gitmeliyiz.</form>
+    </gender>
+    <gender key="ttSt7Msg2">
+      <form>Ayakkabılarını çıkartıp mı dans ettin? Biraz daha takılabiliriz veya benim evime gidebiliriz.</form>
+      <form>Ayakkabılarını çıkartıp mı dans ettin? Biraz daha takılabiliriz veya benim evime gidebiliriz.</form>
+    </gender>
+    <gender key="ttSt8Chat1">
+      <form>Satışta neler var bir bakalım.</form>
+      <form>Satışta neler var bir bakalım.</form>
+    </gender>
+    <gender key="ttSt8Npc1">
+      <form>Çok zevkli bir zaman geçirdik... Kendi daireni almayı düşündün mü?</form>
+      <form>Çok zevkli bir zaman geçirdik... Kendi daireni almayı düşündün mü?</form>
+    </gender>
+    <gender key="tutorialNpcName">
+      <form>Alex</form>
+      <form>Mary</form>
+    </gender>
+    <message key="fastSearchLabel">Hızlı arama</message>
+    <message key="finishTutorialConfirm">Gerçekten öğretici dersi bitirmek istiyor musunuz?</message>
+    <message key="finishTutorialTitle">Öğretici dersi bitirin</message>
+    <message key="goldForFriendsLabelText">Oyuna katılan her arkadaş için 10 altın para alacaksınız!</message>
+    <message key="lockedInTutorial">Eğitim sırasında kullanılamaz</message>
+    <message key="npcName1boy">Ethan</message>
+    <message key="npcName1girl">Olivia</message>
+    <message key="npcName2boy">William</message>
+    <message key="npcName2girl">Emma</message>
+    <message key="npcName3boy">Rick</message>
+    <message key="npcName3girl">Jenny</message>
+    <message key="npcName4boy">Bob</message>
+    <message key="npcName4girl">Diana</message>
+    <message key="npcName5boy">Bob</message>
+    <message key="npcName5girl">Isabella</message>
+    <message key="npcName6boy">Jacob</message>
+    <message key="npcName6girl">Sofia</message>
+    <message key="questsFirstMessageText">Gerçekleştireceğiniz başka hangi ilginç görevler  olduğuna bakın</message>
+    <message key="ttFriendMsg0">Hey, harika görünüyorsun!</message>
+    <message key="ttFriendMsg1">Nasıl gidiyor? Uzun zamandır görünmüyorsun!</message>
+    <message key="ttFriendMsg2">Seni görmek çok güzel!</message>
+    <message key="ttFriendMsg3">Ne güzel bir gün!</message>
+    <message key="ttFriendMsg4">İyiyim.</message>
+    <message key="ttSt1Hlp">Arkadaşınıza cevap vermek için tıklayın</message>
+    <message key="ttSt3Hlp1">Oda Düzenleyiciyi Açın</message>
+    <message key="ttSt3Hlp2">Farenizle sürükleyerek süs havuzunu odaya yerleştirin. Daha sonra Kaydet öğesine tıklayın.</message>
+    <message key="ttSt3Hlp3">Şimdi seçmek için fıskiye üzerine tıklayın</message>
+    <message key="ttSt4Hlp1">Dolabı açmak için tıklayın</message>
+    <message key="ttSt4Msg2">Bir kıyafet seçin ve kıyafetinizi değiştirmek için Kaydet öğesine tıklayın.</message>
+    <message key="ttSt5Hlp1">Kahve sipariş etmek için tıklayın</message>
+    <message key="ttSt5Hlp2">Kafeye gitmek için tıklayın</message>
+    <message key="ttSt6Hlp1">Avatarınızı dans ettirmek için, üzerine tıklayın ve dans edin öğesini seçin.</message>
+    <message key="tutDlgBACK_AT_MARYSIAS">Bu eğlenceliydi. Kendi evinize gitmek hakkında düşündünüz mü?</message>
+    <message key="tutDlgCLICK_COFFEE_SHOP">Kafeteryaya gitmek için "Yerler" e dokunun.</message>
+    <message key="tutDlgCLUB_GO_HOME">Peki eğleniyor musunuz? Biraz daha durabiliriz veya benim evime de dönebiliriz.</message>
+    <message key="tutDlgGO_TO_THE_COFFEE_SHOP">Harika görünüyorsunuz! Haydi, önce kafeye uğrayıp bir fincan kahve içelim.</message>
+    <message key="tutDlgINFO_DANCE">Dansa başlamak için, avatarınıza dokunun ve “Dans Et”i seçin.</message>
+    <message key="tutDlgINFO_GO_TO_THE_CLUB">Eğlenceliydi. Ama artık kulübe gitme zamanı.</message>
+    <message key="tutDlgINFO_INVITE_FRIENDS">Kendi dairenizi aldığınız için tebrikler! Hadi bütün arkadaşlarınızı parti için buraya davet edin</message>
+    <message key="tutDlgINFO_ORDER_COFFEE">Haydi birer kahve içelim.</message>
+    <message key="tutDlgINFO_ROOM_EDITOR">Partiye hazır mısınız? Ama gitmeden önce yeni bir çeşme kurmalıyım. Bana yardım eder misiniz?</message>
+    <message key="tutDlgINFO_WARDROBE">Bahse girerim kulübe bu görünümde gitmek istemezsiniz. Dolabımın içine bakın ve kendiniz için daha iyi bir şeyler seçin.</message>
+    <message key="tutDlgINFO_WARDROBE2">Bahse girerim kulübe bu görünümde gitmek istemezsiniz. Dolabı gözden geçirin, daha iyi bir şeye sahip olmalısınız.</message>
+    <message key="tutorialClothesCategoryLabel">Parti</message>
+    <message key="tutorialContinueLabel">devam edin</message>
+    <message key="tutorialFinishLabel">bitirin</message>
+    <message key="tutorialHelpTitle">Tanıtım Dersi</message>
+    <message key="tutTipBUY_COFFEE">Kahve sipariş vermek için dokunun.</message>
+    <message key="tutTipBUY_NEW_ROOM">Odanızı seçin ve almak için buraya tıklayın.</message>
+    <message key="tutTipCLICK_ADD_FRIEND">Davet etmek için arkadaş ekle simgesine tıklayın.</message>
+    <message key="tutTipCLICK_TAB_FRIENDS">Kendi dairenizi aldığınız için tebrikler! Arkadaşlarınızı davet etmek için Arkadaşlar sekmesine tıklayın.</message>
+    <message key="tutTipINFO_CLICK_WARDROBE">Dolabı açmak için dokunun.</message>
+    <message key="tutTipINFO_ROOM_EDITOR">Arkadaşınıza söylemek için dokunun.</message>
+    <message key="tutTipOPEN_ROOM_EDITOR">“Oda Düzenleyici”sini açın.</message>
+    <message key="tutTipORDER_COFFEE">Menüyü açmak için tıklayın.</message>
+    <message key="tutTipPLACE_FOUNTAIN">Odaya sürükleyin ve sonra “Kaydet”e dokunun.</message>
+    <message key="tutTipSAVE_WARDROBE">Kıyafetleri seçin, ve ardından “Uygula”ya tıklayın.</message>
+    <message key="tutTipSELECT_FOUNTAIN">Çeşmeyi seçmek için dokunun.</message>
+    <message key="tutTipTellFriend">Arkadaşınıza söylemek için dokunun.</message>
+    <message key="tutTxtBACK_AT_MARYSIAS">İzin verin markette ne olduğuna bakayım.</message>
+    <message key="tutTxtCLUB_GO_HOME">Eve gitmeliyiz.</message>
+    <message key="tutTxtGO_TO_THE_COFFEE_SHOP">Tamamdır! Haydi!</message>
+    <message key="tutTxtINFO_GO_TO_THE_CLUB">Evet! Haydi!</message>
+    <message key="tutTxtINFO_INVITE_FRIENDS">Tamamdır! Bana yardım edecek misiniz?</message>
+    <message key="tutTxtINFO_ORDER_COFFEE">Bunu nasıl yapabilirim?</message>
+    <message key="tutTxtINFO_ROOM_EDITOR">Tabii ki yardım edeceğim.</message>
+    <message key="tutTxtINFO_WARDROBE">Neden olmasın?</message>
+    <message key="typeNameLabel">Ad girin</message>
+    <message key="userHouse1Description">Parlak bir kişilik için orijinal bir tasarım. Kalabalıktan sıyrılmak mı istiyorsunuz? O zaman bu daire tam size göre!</message>
+    <message key="userHouse1Label">Peri masalı</message>
+    <message key="userHouse2Description">Öz bir stil ve tasarım. Basit ve zevkli.</message>
+    <message key="userHouse2Label">Yüksek tek.</message>
+    <message key="userHouse3Description">Eğer sıcaklık ve hassasiyet arıyorsanız, bu daire en uygunudur. Yumuşak tonlarını ve stil sahibi iç tasarımını herkes çok sevecektir.</message>
+    <message key="userHouse3Label">Hassasiyet</message>
+    <message key="userHouse4Description">Konfor ve rahatlık, bu daireyi diğerlerinden ayırıyor.</message>
+    <message key="userHouse4Label">Konfor</message>
+    <message key="userHouse5Description">Harika bir manzara ve çok az mobilya. Kendisi yenilik yapmak isteyenler için ideal bir seçim.</message>
+    <message key="userHouse5Label">Minimalizm</message>
+    <message key="userHouse6Description">Parlak bir kişilik için orijinal bir tasarım. Kalabalıktan sıyrılmak mı istiyorsunuz? O zaman bu daire tam size göre!</message>
+    <message key="userHouse6Label">Peri masalı</message>
+    <message key="NPC_male1_name">Fati̇h</message>
+    <message key="NPC_male2_name">Kadi̇r</message>
+    <message key="NPC_male3_name">Emre</message>
+    <message key="NPC_male4_name">Mehmet</message>
+    <message key="NPC_male5_name">Ali̇</message>
+    <message key="NPC_male6_name">Hakan</message>
+    <message key="NPC_male7_name">Adi̇l</message>
+    <message key="NPC_male8_name">Kemal</message>
+    <message key="NPC_male9_name">Yaşar</message>
+    <message key="NPC_male10_name">Beki̇r</message>
+    <message key="NPC_male11_name">Meti̇n</message>
+    <message key="NPC_male12_name">Musa</message>
+    <message key="NPC_male13_name">Bayram</message>
+    <message key="NPC_male14_name">Serkan</message>
+    <message key="NPC_male15_name">Yunus</message>
+    <message key="NPC_female1_name">Esra</message>
+    <message key="NPC_female2_name">Yasemi̇n</message>
+    <message key="NPC_female3_name">Leyla</message>
+    <message key="NPC_female4_name">Aysel</message>
+    <message key="NPC_female5_name">Si̇bel</message>
+    <message key="NPC_female6_name">Derya</message>
+    <message key="NPC_female7_name">Selma</message>
+    <message key="NPC_female8_name">Şengül</message>
+    <message key="NPC_female9_name">Zeli̇ha</message>
+    <message key="NPC_female10_name">Songül</message>
+    <message key="NPC_female11_name">Hayri̇ye</message>
+    <message key="NPC_female12_name">Fi̇li̇z</message>
+    <message key="NPC_female13_name">Kezban</message>
+    <message key="NPC_female14_name">Aynur</message>
+    <message key="NPC_female15_name">Özlem</message>
+  </locale>
+</dictionary>

@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dictionary>
+  <locale name="tr">
+    <message key="supportButtonTitle">Destekle İrtibat Kurun</message>
+    <message key="eventCreateFailedTitle">Bir etkinlik oluşturulamadı</message>
+    <message key="eventCreateFailedDesc">Lütfen tekrar deneyin. Yalnızca metin sembolleri kullanılabilir.</message>
+    <message key="continueButton">Devam edin</message>
+    <message key="errorTitle">Hata</message>
+    <message key="101xpAuthError">Yetkilendirme sırasında bir hata meydana geldi, lütfen daha sonra tekrar deneyin</message>
+    <message key="okButton">Tamam</message>
+    <message key="contactSupportButton">Destek</message>
+    <message key="attentionTitle">Dikkat</message>
+    <message key="backStartScreen">Başlangıç ekranına gönderileceksiniz</message>
+    <message key="cancelButton">İptal</message>
+    <message key="waitingText">Yetkilendirme sunucusuna bağlanılıyor</message>
+    <message key="profileButton">Profil</message>
+    <message key="authProblemTitle">Giriş yapamıyor musunuz?</message>
+    <message key="authProblemText">Son bir kaç giriş denemesinde bir şeylerin ters gittiğini fark ettik. Eğer haklıysak lütfen destek ekibimizle iletişime geçin</message>
+    <message key="skipButton">Geç</message>
+    <message key="confirmActionTitle">Eylemi onaylayın</message>
+    <message key="wantBuyText">karşılığında eşyaları almak istediğinizden emin misiniz?</message>
+    <message key="yesButton">Evet</message>
+    <message key="noButton">Hayır</message>
+    <message key="resourcesDownloadTitle">İndir</message>
+    <message key="resourcesDownloadText">Kaynaklar indirilmedi</message>
+    <message key="resourcesLoaderText">Kaynaklar indiriliyor</message>
+    <message key="resourcesLoaderText2">Ek kaynaklar indiriliyor</message>
+    <message key="leaveFeedbackText">Geri bildiriminiz bizim için çok değerli. Uygulamayı puanlamak ister misiniz?</message>
+    <message key="supportPageRedirect">Destek sayfasına yönlendirileceksiniz</message>
+    <message key="submitAction">Sunun</message>
+    <message key="inappError">Bir hata meydana geldi. Lütfen daha sonra tekrar deneyin.</message>
+    <message key="inappSuccess">Ürün satın alındı.</message>
+    <message key="inappRestored">Önceden satın alınmış olan ürün kurtarıldı.</message>
+    <message key="somethingWentWrong">Bir hata meydana geldi. Lütfen daha sonra tekrar deneyin.</message>
+    <message key="Unlock">Kilidi açın</message>
+    <message key="unlockConfirmTitle">Kilidi açın</message>
+    <message key="unlockDescription">Kilidi açmak istiyor musunuz?</message>
+    <message key="nyFriend">Orman Perisi</message>
+    <message key="101xpInitError">Uygulamayı başlatmaya çalışırken bir hata meydana geldi. Lütfen daha sonra tekrar deneyin. Eğer hata devam ederse lütfen teknik destekle iletişime geçin.</message>
+    <message key="socialNetworkUrl">https://www.facebook.com/AvatarLife101XP</message>
+    <message key="resourcesDownloadFinishedText">İçerik yüklendi!</message>
+    <message key="billingNotAvailableTitle">Ödemeler geçici olarak durduruldu</message>
+  </locale>
+</dictionary>
