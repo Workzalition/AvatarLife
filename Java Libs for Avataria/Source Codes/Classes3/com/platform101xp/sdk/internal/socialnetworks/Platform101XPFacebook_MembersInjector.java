@@ -1,0 +1,26 @@
+package com.platform101xp.sdk.internal.socialnetworks;
+
+import com.platform101xp.sdk.internal.dialogs.Platform101XPDialogFactory;
+import dagger.MembersInjector;
+import javax.inject.Provider;
+
+/* loaded from: C:\Users\BuzzerFelix\Downloads\Avataria Source Code\classes3.dex */
+public final class Platform101XPFacebook_MembersInjector implements MembersInjector<Platform101XPFacebook> {
+    private final Provider<Platform101XPDialogFactory> dialogsFactoryProvider;
+
+    public Platform101XPFacebook_MembersInjector(Provider<Platform101XPDialogFactory> provider) {
+        this.dialogsFactoryProvider = provider;
+    }
+
+    public static MembersInjector<Platform101XPFacebook> create(Provider<Platform101XPDialogFactory> provider) {
+        return new Platform101XPFacebook_MembersInjector(provider);
+    }
+
+    public void injectMembers(Platform101XPFacebook platform101XPFacebook) {
+        injectDialogsFactory(platform101XPFacebook, (Platform101XPDialogFactory) this.dialogsFactoryProvider.get());
+    }
+
+    public static void injectDialogsFactory(Platform101XPFacebook platform101XPFacebook, Platform101XPDialogFactory platform101XPDialogFactory) {
+        platform101XPFacebook.dialogsFactory = platform101XPDialogFactory;
+    }
+}
